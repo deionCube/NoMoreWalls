@@ -1,34 +1,6 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 9|baipaovpn加拿大
-  network: ws
-  port: '80'
-  server: 142.93.162.87
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 592d16a7-a8da-482c-9fe4-e807de37130a
-  ws-opts:
-    headers:
-      Host: ''
-    path: /
-- alterId: 0
-  cipher: auto
-  name: '9|baipaovpn加拿大 #1'
-  network: ws
-  port: '80'
-  server: 142.93.162.87
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 592d16a7-a8da-482c-9fe4-e807de37130a
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
-- alterId: 0
-  cipher: auto
   name: 10|🇨🇦_CA_加拿大_由快嘴科技提供：kkzui.com_41
   network: ws
   port: 443

@@ -66,3 +66,17 @@ proxies:
     headers:
       Host: ''
     path: ''
+- alterId: 0
+  cipher: auto
+  name: '9|baipaovpn日本 #1'
+  network: ws
+  port: '80'
+  server: 43.203.209.64
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 592d16a7-a8da-482c-9fe4-e807de37130a
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
