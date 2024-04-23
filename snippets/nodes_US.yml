@@ -71,18 +71,32 @@ proxies:
   uuid: ac1f3b35-1d03-3a85-beab-258d8f23edc6
 - alterId: 0
   cipher: auto
-  name: 9|baipaovpn北美地区
+  name: 9|baipaovpn美国
   network: ws
-  port: '443'
-  server: 23.158.56.229
-  servername: 23.158.56.229
-  tls: true
+  port: '2082'
+  server: 162.159.136.220
+  servername: ''
+  tls: false
   type: vmess
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  uuid: 43c7a5b0-210f-4b88-85a6-035f907f097d
   ws-opts:
     headers:
-      Host: 23.158.56.229
-    path: /linkvws
+      Host: sgv8.gas51qwrhmzz8.top
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '9|baipaovpn美国 #1'
+  network: ws
+  port: '80'
+  server: 16.162.22.203
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 592d16a7-a8da-482c-9fe4-e807de37130a
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
 - alterId: 0
   cipher: auto
   name: 10|🇺🇸_US_美国_5_49
