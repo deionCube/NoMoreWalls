@@ -23,11 +23,3 @@ proxies:
   server: 112.16.228.103
   skip-cert-verify: false
   type: trojan
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 5|🇸🇬 狮城特殊|@ripaojiedian
-  password: amazonskr05
-  port: 443
-  server: 54.169.189.194
-  tfo: false
-  type: ss
