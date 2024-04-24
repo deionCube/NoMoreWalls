@@ -30,8 +30,8 @@ proxies:
 - client-fingerprint: chrome
   name: 5|🇺🇸 美国5|@ripaojiedian
   password: BZjkHMao
-  port: 51001
-  server: 36.156.102.6
+  port: 51000
+  server: 112.29.94.24
   skip-cert-verify: true
   type: trojan
 - client-fingerprint: chrome
@@ -44,23 +44,6 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  client-fingerprint: chrome
-  name: 5,6,10|🇺🇸_US_美国_2_3由快嘴科技提供：kkzui.com
-  network: ws
-  port: 2052
-  server: cfcdn1.sanfencdn9.com
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 07a902d1-7c2d-47de-f2c5-c2236fc7cd46
-  ws-opts:
-    headers:
-      Host: usxm.inekokkk.top
-    path: /
-- alterId: 0
-  cipher: auto
   name: 6|美国2|@ripaojiedian
   network: tcp
   port: '11029'
@@ -69,6 +52,33 @@ proxies:
   tls: false
   type: vmess
   uuid: ac1f3b35-1d03-3a85-beab-258d8f23edc6
+- alterId: 0
+  cipher: auto
+  name: 9|baipaovpn北美地区
+  network: ws
+  port: '443'
+  server: 23.158.56.229
+  servername: 23.158.56.229
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: 23.158.56.229
+    path: /linkvws
+- alterId: 0
+  cipher: auto
+  name: 10|🇺🇸_US_美国_2_3由快嘴科技提供：kkzui.com
+  network: ws
+  port: 2052
+  server: cfcdn1.sanfencdn9.com
+  tls: false
+  type: vmess
+  uuid: 07a902d1-7c2d-47de-f2c5-c2236fc7cd46
+  ws-opts:
+    headers:
+      Host: usxm.inekokkk.top
+    path: /
 - alterId: 0
   cipher: auto
   name: 10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_29
