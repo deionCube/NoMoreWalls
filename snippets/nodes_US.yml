@@ -54,6 +54,34 @@ proxies:
   uuid: ac1f3b35-1d03-3a85-beab-258d8f23edc6
 - alterId: 0
   cipher: auto
+  name: 9|baipaovpn美国
+  network: ws
+  port: '58186'
+  server: 64.110.82.226
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 3fdf9d48-578a-42dc-9fdd-0dfcefa3d0c5
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
+- alterId: 0
+  cipher: auto
+  name: '9|baipaovpn美国 #1'
+  network: ws
+  port: '2053'
+  server: 104.19.32.0
+  servername: qin12.rong1104.uk
+  tls: true
+  type: vmess
+  uuid: e317a3a9-4e15-4792-d11d-b4b08df85803
+  ws-opts:
+    headers:
+      Host: qin12.rong1104.uk
+    path: /qin12
+- alterId: 0
+  cipher: auto
   name: 10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_11
   network: ws
   port: 2052
