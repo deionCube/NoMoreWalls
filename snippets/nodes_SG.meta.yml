@@ -40,55 +40,7 @@ proxies:
   tfo: false
   type: ss
 - client-fingerprint: random
-  name: 8|SG_speednode_0086
-  network: ws
-  port: 2087
-  server: 47.236.123.218
-  servername: tg.hellitroy.xyz
-  skip-cert-verify: true
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: c1483db0-35ea-4a21-b71b-43beb7285735
-  ws-opts:
-    headers:
-      Host: tg.hellitroy.xyz
-    path: /proxyIP=oracle.gitgoogle.com
-- client-fingerprint: random
-  name: 8|SG_speednode_0087
-  network: ws
-  port: 2096
-  server: 47.236.112.193
-  servername: tg.hellitroy.xyz
-  skip-cert-verify: true
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: c1483db0-35ea-4a21-b71b-43beb7285735
-  ws-opts:
-    headers:
-      Host: tg.hellitroy.xyz
-    path: /proxyIP=oracle.gitgoogle.com
-- client-fingerprint: random
-  name: 8|SG_speednode_0088
-  network: ws
-  port: 2087
-  server: 47.236.23.102
-  servername: tg.hellitroy.xyz
-  skip-cert-verify: true
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: c1483db0-35ea-4a21-b71b-43beb7285735
-  ws-opts:
-    headers:
-      Host: tg.hellitroy.xyz
-    path: /proxyIP=oracle.gitgoogle.com
-- client-fingerprint: random
-  name: 8|SG_speednode_0089
+  name: 8|SG_speednode_0081
   network: ws
   port: 2083
   server: 47.236.5.223

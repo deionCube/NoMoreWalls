@@ -31,11 +31,3 @@ proxies:
   skip-cert-verify: false
   sni: '%252A.hongxing.pro'
   type: trojan
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 5|🇯🇵 日本特殊|@ripaojiedian
-  password: amazonskr05
-  port: 443
-  server: 43.201.34.246
-  tfo: false
-  type: ss

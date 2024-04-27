@@ -31,32 +31,8 @@ proxies:
   skip-cert-verify: false
   sni: '%252A.hongxing.pro'
   type: trojan
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 5|🇯🇵 日本特殊|@ripaojiedian
-  password: amazonskr05
-  port: 443
-  server: 43.201.34.246
-  tfo: false
-  type: ss
-- client-fingerprint: random
-  name: 8|JP_speednode_0035
-  network: ws
-  port: 23633
-  server: 103.201.130.137
-  servername: cfed.tgzdyz2.top
-  skip-cert-verify: false
-  sni: cfed.tgzdyz2.top
-  tfo: false
-  tls: true
-  type: vless
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
-  ws-opts:
-    headers:
-      host: cfed.tgzdyz2.top
-    path: tg%40zdyz2
 - client-fingerprint: chrome
-  name: 8|JP_speednode_0036
+  name: 8|JP_speednode_0031
   network: ws
   port: 34237
   server: 45.251.241.13
@@ -71,7 +47,7 @@ proxies:
       Host: a.ssll.gay
     path: Telegram🇨🇳 @WangCai_8 /?ed=2048
 - client-fingerprint: random
-  name: 8|JP_speednode_0037
+  name: 8|JP_speednode_0032
   network: ws
   port: 35463
   server: 195.245.241.39
@@ -87,7 +63,7 @@ proxies:
       Host: tg.hellitroy.xyz
     path: /proxyIP=oracle.gitgoogle.com
 - client-fingerprint: random
-  name: 8|JP_speednode_0038
+  name: 8|JP_speednode_0033
   network: ws
   port: 16119
   server: 85.113.70.27
@@ -103,7 +79,7 @@ proxies:
       Host: tg.hellitroy.xyz
     path: /proxyIP=oracle.gitgoogle.com
 - client-fingerprint: random
-  name: 8|JP_speednode_0039
+  name: 8|JP_speednode_0034
   network: ws
   port: 16098
   server: 45.142.166.211
@@ -119,7 +95,7 @@ proxies:
       Host: tg.hellitroy.xyz
     path: /proxyIP=oracle.gitgoogle.com
 - client-fingerprint: random
-  name: 8|JP_speednode_0040
+  name: 8|JP_speednode_0035
   network: ws
   port: 46573
   server: 45.14.64.188
@@ -135,7 +111,7 @@ proxies:
       Host: tg.hellitroy.xyz
     path: /proxyIP=oracle.gitgoogle.com
 - client-fingerprint: random
-  name: 8|JP_speednode_0041
+  name: 8|JP_speednode_0036
   network: ws
   port: 33211
   server: 193.32.151.217
@@ -151,7 +127,7 @@ proxies:
       Host: tg.hellitroy.xyz
     path: /proxyIP=oracle.gitgoogle.com
 - client-fingerprint: random
-  name: 8|JP_speednode_0042
+  name: 8|JP_speednode_0037
   network: ws
   port: 56061
   server: 45.66.130.112
@@ -167,7 +143,7 @@ proxies:
       Host: tg.hellitroy.xyz
     path: /proxyIP=oracle.gitgoogle.com
 - client-fingerprint: random
-  name: 8|JP_speednode_0043
+  name: 8|JP_speednode_0038
   network: ws
   port: 59775
   server: 185.184.223.19

@@ -49,7 +49,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   delay: 1236
-  name: 8|US_speednode_0110
+  name: 8|US_speednode_0101
   network: ws
   port: 80
   server: 34.95.126.8
@@ -63,7 +63,7 @@ proxies:
       Host: a.ssll.gay
     path: Telegram🇨🇳 @WangCai2 /?ed=2048
 - client-fingerprint: random
-  name: 8|US_speednode_0113
+  name: 8|US_speednode_0102
   network: ws
   port: 443
   server: 154.9.207.173
@@ -79,7 +79,7 @@ proxies:
       Host: tg.hellitroy.xyz
     path: /proxyIP=oracle.gitgoogle.com
 - client-fingerprint: random
-  name: 8|US_speednode_0114
+  name: 8|US_speednode_0103
   network: ws
   port: 443
   server: 43.153.80.208
@@ -95,7 +95,7 @@ proxies:
       Host: tg.hellitroy.xyz
     path: /proxyIP=oracle.gitgoogle.com
 - client-fingerprint: random
-  name: 8|US_speednode_0115
+  name: 8|US_speednode_0104
   network: ws
   port: 39725
   server: 154.17.0.31
@@ -111,7 +111,7 @@ proxies:
       Host: tg.hellitroy.xyz
     path: /proxyIP=oracle.gitgoogle.com
 - client-fingerprint: random
-  name: 8|US_speednode_0116
+  name: 8|US_speednode_0105
   network: ws
   port: 41697
   server: 38.59.245.159
@@ -126,20 +126,6 @@ proxies:
     headers:
       Host: tg.hellitroy.xyz
     path: /proxyIP=oracle.gitgoogle.com
-- alterId: 0
-  cipher: auto
-  name: 9|baipaovpn美国
-  network: ws
-  port: '80'
-  server: 172.64.229.214
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 1cfaad16-d2ba-4c49-af07-d7b9f11f43d0
-  ws-opts:
-    headers:
-      Host: hk01.xfxnet.shop
-    path: /xn--mes53ddysu0o3gl
 - alterId: 0
   cipher: auto
   name: 10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_8
