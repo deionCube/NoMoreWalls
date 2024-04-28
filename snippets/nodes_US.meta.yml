@@ -119,7 +119,7 @@ proxies:
     path: /proxyIP=oracle.gitgoogle.com
 - alterId: 0
   cipher: auto
-  name: '9|baipaovpn美国 #1'
+  name: 9|baipaovpn美国
   network: ws
   port: '80'
   server: 172.64.104.182
