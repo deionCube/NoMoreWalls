@@ -1,4 +1,12 @@
 proxies:
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 5|🇺🇸 美国|@ripaojiedian
+  password: e4FCWrgpkji3QY
+  port: 9101
+  server: 23.154.136.149
+  tfo: false
+  type: ss
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
