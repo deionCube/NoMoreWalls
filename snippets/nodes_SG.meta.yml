@@ -1,17 +1,10 @@
 proxies:
-- client-fingerprint: chrome
-  name: 5|🇸🇬 新加坡|@ripaojiedian
-  password: MyYoZhfX
-  port: 51002
-  server: 120.226.50.90
-  skip-cert-verify: true
-  type: trojan
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 5|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 52.78.184.192
+  server: 54.254.225.115
   tfo: false
   type: ss
 - client-fingerprint: random
