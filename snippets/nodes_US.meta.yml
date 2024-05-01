@@ -260,34 +260,6 @@ proxies:
     path: /proxyIP=proxyip.us.fxxk.dedyn.io
 - alterId: 0
   cipher: auto
-  name: 9|baipaovpn美国
-  network: ws
-  port: '2082'
-  server: 104.16.43.187
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 753443e5-052c-4476-9cfa-3f434ff2f986
-  ws-opts:
-    headers:
-      Host: ying.iepl1.me
-    path: /ws?ed=2048
-- alterId: 0
-  cipher: auto
-  name: '9|baipaovpn美国 #1'
-  network: ws
-  port: '2082'
-  server: 104.19.48.190
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 753443e5-052c-4476-9cfa-3f434ff2f986
-  ws-opts:
-    headers:
-      Host: ying.iepl1.me
-    path: /ws?ed=2048
-- alterId: 0
-  cipher: auto
   name: 10|🇺🇸_US_美国_3_由快嘴科技提供;kkzui.com3
   network: ws
   port: 8080
