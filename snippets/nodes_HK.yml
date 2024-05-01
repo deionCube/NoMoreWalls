@@ -119,6 +119,20 @@ proxies:
   server: jp.lydurlclub.top
   skip-cert-verify: true
   type: trojan
+- name: 8|HK_speednode_0042
+  password: 1640b579-cff8-46bc-a657-3860b5455712
+  port: 443
+  server: hk03.trojanyyds.xyz
+  sni: hk03.trojanyyds.xyz
+  type: trojan
+  udp: true
+- name: 8|HK_speednode_0043
+  password: 1640b579-cff8-46bc-a657-3860b5455712
+  port: 443
+  server: hk01.trojanyyds.xyz
+  sni: hk01.trojanyyds.xyz
+  type: trojan
+  udp: true
 - name: 8|HK_speednode_0044
   password: 1640b579-cff8-46bc-a657-3860b5455712
   port: 443
