@@ -168,11 +168,11 @@ proxies:
   sni: my01.trojanyyds.xyz
   type: trojan
   udp: true
-- name: 8|HK_speednode_0057
+- name: 8|HK_speednode_0056
   password: 1640b579-cff8-46bc-a657-3860b5455712
   port: 443
-  server: us01.trojanyyds.xyz
-  sni: us01.trojanyyds.xyz
+  server: de01.trojanyyds.xyz
+  sni: de01.trojanyyds.xyz
   type: trojan
   udp: true
 - name: 8|HK_speednode_0058
