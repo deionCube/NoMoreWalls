@@ -36,21 +36,7 @@ proxies:
   name: 9|baipaovpn日本东京
   network: ws
   port: '2087'
-  server: 35.221.107.178
-  servername: ggjp.duduskying.tk
-  tls: true
-  type: vmess
-  uuid: 6559fbc7-4b72-4985-8a80-f3736b9e2eff
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
-- alterId: 0
-  cipher: auto
-  name: '9|baipaovpn日本东京 #1'
-  network: ws
-  port: '2087'
-  server: 35.221.107.178
+  server: 34.85.14.139
   servername: ggjp.duduskying.tk
   tls: true
   type: vmess
@@ -61,15 +47,29 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '9|baipaovpn日本东京 #2'
+  name: '9|baipaovpn日本东京 #1'
   network: ws
-  port: '57557'
-  server: 138.2.26.243
+  port: '2087'
+  server: 34.85.14.139
+  servername: ggjp.duduskying.tk
+  tls: true
+  type: vmess
+  uuid: 6559fbc7-4b72-4985-8a80-f3736b9e2eff
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
+- alterId: 0
+  cipher: auto
+  name: 9|baipaovpn日本
+  network: ws
+  port: '80'
+  server: 43.203.220.55
   servername: ''
   tls: false
   type: vmess
-  uuid: f0f067fe-8e6d-4d95-816b-601038fd5876
+  uuid: e5e2206d-8650-4dfb-9731-fe2ee99b944e
   ws-opts:
     headers:
-      Host: jp-tokyo-oracle-5a26da.ip1.shop
-    path: /rongseven?ed=2048
+      Host: kr01.travisdependable.online
+    path: /
