@@ -35,7 +35,8 @@ proxies:
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
-  name: 5|🇭🇰 香港2|@ripaojiedian
+  name: 5,10|美国(由快嘴科技提供：kkzui.com) 4_16
+  network: ''
   port: 40259
   server: 120.238.122.243
   skip-cert-verify: false
@@ -43,6 +44,14 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- client-fingerprint: chrome
+  name: 5|🇭🇰 香港3|@ripaojiedian
+  password: 1640b579-cff8-46bc-a657-3860b5455712
+  port: 443
+  server: sk01.trojanyyds.xyz
+  skip-cert-verify: false
+  sni: sk01.trojanyyds.xyz
+  type: trojan
 - client-fingerprint: chrome
   name: 5|🇭🇰 香港4|@ripaojiedian
   password: MyYoZhfX
@@ -94,83 +103,3 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- name: 8|HK_speednode_0037
-  password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f
-  port: 443
-  server: sg.lydurlclub.top
-  skip-cert-verify: true
-  type: trojan
-- name: 8|HK_speednode_0038
-  password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f
-  port: 443
-  server: hkjs.lydurlclub.top
-  skip-cert-verify: true
-  type: trojan
-- name: 8|HK_speednode_0040
-  password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f
-  port: 443
-  server: jp.lydurlclub.top
-  skip-cert-verify: true
-  type: trojan
-- name: 8|HK_speednode_0045
-  password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f
-  port: 443
-  server: usa.lydurlclub.top
-  skip-cert-verify: true
-  type: trojan
-- name: 8|HK_speednode_0046
-  password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f
-  port: 443
-  server: aujs.lydurlclub.top
-  skip-cert-verify: true
-  type: trojan
-- name: 8|HK_speednode_0047
-  password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f
-  port: 443
-  server: uk.lydurlclub.top
-  skip-cert-verify: true
-  type: trojan
-- name: 8|HK_speednode_0048
-  password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f
-  port: 443
-  server: usajs.lydurlclub.top
-  skip-cert-verify: true
-  type: trojan
-- name: 8|HK_speednode_0050
-  password: 1640b579-cff8-46bc-a657-3860b5455712
-  port: 443
-  server: my02.trojanyyds.xyz
-  sni: my02.trojanyyds.xyz
-  type: trojan
-  udp: true
-- name: 8|HK_speednode_0052
-  password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f
-  port: 443
-  server: cajs.lydurlclub.top
-  skip-cert-verify: true
-  type: trojan
-- name: 8|HK_speednode_0053
-  password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f
-  port: 443
-  server: chjs.lydurlclub.top
-  skip-cert-verify: true
-  type: trojan
-- name: 8|HK_speednode_0054
-  password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f
-  port: 443
-  server: lu.lydurlclub.top
-  skip-cert-verify: true
-  type: trojan
-- name: 8|HK_speednode_0055
-  password: 1640b579-cff8-46bc-a657-3860b5455712
-  port: 443
-  server: my01.trojanyyds.xyz
-  sni: my01.trojanyyds.xyz
-  type: trojan
-  udp: true
-- name: 8|HK_speednode_0058
-  password: 507ca9a0-2d8e-4b65-8763-82dfbdbd599f
-  port: 443
-  server: brjs.lydurlclub.top
-  skip-cert-verify: true
-  type: trojan
