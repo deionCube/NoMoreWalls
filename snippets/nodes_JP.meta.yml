@@ -18,17 +18,17 @@ proxies:
   tfo: false
   tls: false
   type: vmess
-  uuid: 8c7b39d2-eb80-48d4-9471-76bddc5273c8
+  uuid: 7c42a3f8-cb73-4338-91e6-eef9e7346b12
   ws-opts:
     headers:
-      Host: GWYp69Yujp2.yofnhkfc.xyz
-    path: /video/VDXcaM7r
+      Host: 6Sn8mFtTjp3.yofnhkfc.xyz
+    path: /video/X37qXHip
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 5|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 18.143.159.105
+  server: 43.207.72.91
   tfo: false
   type: ss
 - client-fingerprint: random
@@ -47,13 +47,17 @@ proxies:
     headers:
       Host: TG.CMLiussss.elementfx.com
     path: /proxyIP=proxyip.jp.fxxk.dedyn.io
-- alterId: 1
+- alterId: 0
   cipher: auto
   name: 9|baipaovpn日本
-  network: tcp
-  port: '28786'
-  server: 54.178.237.252
-  servername: 7oi23-g04.jp06-7c5a-vm0.entry.fr0307a.art
-  tls: true
+  network: ws
+  port: '57557'
+  server: 140.238.41.153
+  servername: ''
+  tls: false
   type: vmess
-  uuid: e147ce52-2598-31b0-950d-6b12c306b360
+  uuid: f0f067fe-8e6d-4d95-816b-601038fd5876
+  ws-opts:
+    headers:
+      Host: jp-tokyo-oracle-5a26da.ip1.shop
+    path: /rongseven?ed=2048
