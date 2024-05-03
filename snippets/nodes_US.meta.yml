@@ -325,6 +325,16 @@ proxies:
     headers:
       Host: ''
     path: ''
+- alterId: 1
+  cipher: auto
+  name: '9|baipaovpn美国 #1'
+  network: tcp
+  port: '21586'
+  server: 52.194.236.142
+  servername: ubmzd-g06.jp01-0986-vm0.entry.fr0307a.art
+  tls: true
+  type: vmess
+  uuid: 72673ae2-46ed-378e-9a59-810ea245f70d
 - alterId: 64
   cipher: auto
   name: 10|美国(由快嘴科技提供：kkzui.com)_12
