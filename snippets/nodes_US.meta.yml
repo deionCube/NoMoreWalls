@@ -2,45 +2,20 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 5,6|美国|@ripaojiedian
+  name: 5,6|美国3|@ripaojiedian
   network: ws
-  port: '2052'
-  server: hk.wish.ml
+  port: '13486'
+  server: 218.204.178.2
   servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
   type: vmess
-  uuid: 543f15f1-96a8-4205-b4a2-1a1ae6766c12
+  uuid: 61b81abc-320b-49c1-893c-f3ddd45880de
   ws-opts:
     headers:
-      Host: us7.wish.ml
+      Host: waphk.xlb8.eu.org
     path: /
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 5|🇺🇸 美国2|@ripaojiedian
-  password: c440808b-a8ad-484a-90c2-4399d5a26dbe
-  port: 43605
-  server: zy.aand.site
-  tfo: false
-  type: ss
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 5,6,10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_8
-  network: ws
-  port: 2082
-  server: cfcdn1.sanfencdn9.com
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 7f40abd1-6397-4706-8510-bc5d08df8ad5
-  ws-opts:
-    headers:
-      Host: us4Bb5oSgJA.fzbqfrse.xyz
-    path: /video/CuTy87zAzV/
 - client-fingerprint: chrome
   name: 5|🇺🇸 美国4|@ripaojiedian
   password: MyYoZhfX
@@ -57,7 +32,7 @@ proxies:
   type: trojan
 - client-fingerprint: random
   delay: 2568
-  name: 8|US_speednode_0143
+  name: 8|US_speednode_0174
   network: ws
   port: 443
   security: tls
@@ -74,7 +49,7 @@ proxies:
       host: cfed.tgzdyz2.top
     path: tg%40zdyz2
 - client-fingerprint: random
-  name: 8|US_speednode_0145
+  name: 8|US_speednode_0173
   network: ws
   port: 443
   security: tls
@@ -90,64 +65,32 @@ proxies:
     headers:
       host: cfed.tgzdyz2.top
     path: tg%40zdyz2
-- client-fingerprint: random
-  name: 8|US_speednode_0146
+- alterId: 0
+  cipher: auto
+  name: 10|🇺🇸_US_美国_2_9
   network: ws
-  port: 8443
-  security: tls
-  server: 192.9.246.112
-  servername: TG.CMLiussss.ooguy.com
-  skip-cert-verify: false
-  sni: TG.CMLiussss.ooguy.com
-  tfo: false
-  tls: true
-  type: vless
-  uuid: b7a392e2-4ef0-4496-90bc-1c37bb234904
+  port: 2052
+  server: cfcdn1.sanfencdn9.com
+  tls: false
+  type: vmess
+  uuid: 7f40abd1-6397-4706-8510-bc5d08df8ad5
   ws-opts:
     headers:
-      host: TG.CMLiussss.ooguy.com
-    path: '%2f%3fed%3d2560'
-- name: 8|US_speednode_0147
+      Host: tw1bQiWSE4x.fzbqfrse.xyz
+    path: /video/GQ2qE5Us9g
+- alterId: 0
+  cipher: auto
+  name: 10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_8
   network: ws
-  port: 443
-  server: 150.230.47.17
-  servername: jd.wxgqlfx.top
-  tls: true
-  type: vless
-  uuid: 38a2070d-a256-48f3-891b-c9b68b01c8f7
+  port: 2082
+  server: cfcdn1.sanfencdn9.com
+  tls: false
+  type: vmess
+  uuid: 7f40abd1-6397-4706-8510-bc5d08df8ad5
   ws-opts:
     headers:
-      host: jd.wxgqlfx.top
-    path: /
-- Inc. - ...: None
-  client-fingerprint: random
-  delay: 1159
-  name: 8|US_speednode_0148
-  network: ws
-  port: 4333
-  server: 43.153.16.136
-  servername: TG.CMLiussss.elementfx.com
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: b7a392e2-4ef0-4496-90bc-1c37bb234904
-  ws-opts:
-    headers:
-      Host: TG.CMLiussss.elementfx.com
-    path: /proxyIP=proxyip.us.fxxk.dedyn.io
-- name: 8|US_speednode_0149
-  network: ws
-  port: 8443
-  server: 159.65.165.75
-  servername: cfed.tgzdyz2.top
-  tls: true
-  type: vless
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
-  ws-opts:
-    headers:
-      host: cfed.tgzdyz2.top
-    path: tg@zdyz2
+      Host: us4Bb5oSgJA.fzbqfrse.xyz
+    path: /video/CuTy87zAzV/
 - alterId: 0
   cipher: auto
   name: 10|🇺🇸_US_美国->🇨🇦_CA_加拿大_23
