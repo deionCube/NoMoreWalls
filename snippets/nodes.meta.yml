@@ -3,103 +3,36 @@ proxies:
   name: 0|-https://t.me/MrXbin-1
   password: amazonskr05
   port: 443
-  server: 18.139.225.183
-  type: ss
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-2
-  password: qwerREWQ@@
-  port: 49032
-  server: 125.141.26.7
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-3
-  password: amazonskr05
-  port: 443
-  server: 13.231.229.48
+  server: 52.195.189.211
   type: ss
 - cipher: aes-128-cfb
-  name: 0|-https://t.me/MrXbin-4
+  name: 0|-https://t.me/MrXbin-2
   password: shadowsocks
   port: 443
   server: 156.146.62.160
   type: ss
-- cipher: aes-128-cfb
-  name: 0|-https://t.me/MrXbin-5
-  password: shadowsocks
-  port: 443
-  server: 156.146.38.163
-  type: ss
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-6
-  password: amazonskr05
-  port: 443
-  server: 43.202.41.139
-  type: ss
-- cipher: aes-128-gcm
-  name: 0|-https://t.me/MrXbin-7
-  password: a-wym4ovY4Yw
-  plugin: v2ray-plugin
+- cipher: chacha20-ietf-poly1305
+  name: 0|-https://t.me/MrXbin-3
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  plugin: obfs
   plugin-opts:
-    host: ''
-    mode: websocket
-    mux: true
-    path: ''
-    skip-cert-verify: true
-    tls: false
-  port: 443
-  server: 8.218.82.85
+    host: (TG @WangCai2)c68b799:50307
+    mode: tls
+  port: 2377
+  server: 118.163.179.137
   type: ss
-  udp: true
-- cipher: aes-128-gcm
-  name: 0|-https://t.me/MrXbin-8
-  password: a-wym4ovY4Yw
-  plugin: v2ray-plugin
+- cipher: chacha20-ietf-poly1305
+  name: 0|-https://t.me/MrXbin-4
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  plugin: obfs
   plugin-opts:
-    host: ''
-    mode: websocket
-    mux: true
-    path: ''
-    skip-cert-verify: true
-    tls: false
-  port: 443
-  server: 47.76.185.99
+    host: (TG @WangCai2)c68b799:50307
+    mode: tls
+  port: 2377
+  server: 118.163.179.138
   type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-9
-  password: amazonskr05
-  port: 443
-  server: 43.201.47.36
-  type: ss
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-10
-  password: amazonskr05
-  port: 443
-  server: 47.128.230.112
-  type: ss
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-11
-  password: amazonskr05
-  port: 443
-  server: 13.124.178.1
-  type: ss
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-12
-  password: amazonskr05
-  port: 443
-  server: 52.195.189.211
-  type: ss
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-15
-  obfs: tls1.2_ticket_auth
-  password: fou8MBGij
-  port: 8081
-  protocol: origin
-  server: us-am3.eqnode.net
-  type: ssr
 - cipher: aes-256-ctr
-  name: 0|-https://t.me/MrXbin-34
+  name: 0|-https://t.me/MrXbin-7
   obfs: tls1.2_ticket_auth
   obfs-param: cdn.appsflyer.com
   password: NewBypasser2023
@@ -107,6 +40,33 @@ proxies:
   protocol: origin
   server: 163.172.218.164
   type: ssr
+- cipher: aes-256-cfb
+  name: 0|-https://t.me/MrXbin-32
+  obfs: tls1.2_ticket_auth
+  password: fou8MBGij
+  port: 8081
+  protocol: origin
+  server: us-am3.eqnode.net
+  type: ssr
+- cipher: chacha20-ietf
+  name: 0|-https://t.me/MrXbin-35
+  obfs: plain
+  obfs-param: 2f51e42274.wns.microsoft.com
+  password: fnf.xyz
+  port: 20503
+  protocol: auth_aes128_sha1
+  protocol-param: 42274:oSRZAa
+  server: ceu-a01.stream.fnode.top
+  type: ssr
+- country: CA
+  name: 0|-https://t.me/MrXbin-52
+  password: l3473o)8hox9
+  port: 12828
+  server: 3.96.218.116
+  skip-cert-verify: true
+  sni: appsvs.shop
+  type: trojan
+  udp: true
 - alterId: 0
   cipher: auto
   country: DE
@@ -115,78 +75,97 @@ proxies:
     method: GET
     path:
     - /
-  name: 0|-https://t.me/MrXbin-104
+  name: 0|-https://t.me/MrXbin-88
   network: http
   port: 443
   server: 89.213.164.154
   skip-cert-verify: true
   type: vmess
   uuid: e57d6217-18be-49f4-b40c-3ace76fd1a5a
-- alterId: 0
-  cipher: auto
-  country: DE
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-105
-  network: ws
-  port: 443
-  server: 23.158.56.50
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-  ws-opts:
-    path: /linkvws
-- country: DE
-  name: 0|-https://t.me/MrXbin-106
-  password: R4BN)3ya1JHf
-  port: 12634
-  server: 3.75.222.21
+- country: GB
+  name: 0|-https://t.me/MrXbin-89
+  password: 68(oeouhiKUw
+  port: 12808
+  server: 18.170.224.16
   skip-cert-verify: true
   sni: appsvs.shop
   type: trojan
   udp: true
 - country: JP
-  name: 0|-https://t.me/MrXbin-107
-  password: DsmLpgOyFhrK
-  port: 12639
-  server: 52.195.177.138
+  name: 0|-https://t.me/MrXbin-90
+  password: 2e660d96-f2d2-43c0-aa62-bf92edbac0cf
+  port: 20230
+  server: jp08.421421.xyz
+  skip-cert-verify: true
+  sni: 421421.xyz
+  type: trojan
+  udp: true
+- country: JP
+  name: 0|-https://t.me/MrXbin-91
+  password: d5cvIi)qccqa
+  port: 12817
+  server: 13.114.230.8
   skip-cert-verify: true
   sni: appsvs.shop
   type: trojan
   udp: true
-- alterId: 0
-  cipher: auto
-  country: RU
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-108
-  network: ws
-  port: 34510
-  server: 46.17.40.74
+- country: JP
+  name: 0|-https://t.me/MrXbin-92
+  password: 8tbFq0PuvN8Y
+  port: 12807
+  server: 3.112.234.65
   skip-cert-verify: true
-  type: vmess
-  uuid: 88d10ad5-9ac1-4fd3-bf5e-e3ea73791d37
-  ws-opts:
-    path: /
+  sni: appsvs.shop
+  type: trojan
+  udp: true
+- country: JP
+  name: 0|-https://t.me/MrXbin-93
+  password: psPiMWGovSH6
+  port: 12823
+  server: 43.206.213.197
+  skip-cert-verify: true
+  sni: appsvs.shop
+  type: trojan
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  country: ' RU'
+  name: 0|-https://t.me/MrXbin-94
+  password: KTwIQM1cQJwtkrjfld6Usn
+  port: 32913
+  server: 46.226.162.112
+  type: ss
 - country: SG
-  name: 0|-https://t.me/MrXbin-109
-  password: 13Bubwc8xMjB
-  port: 12652
-  server: 47.128.149.248
+  name: 0|-https://t.me/MrXbin-95
+  password: 5SMTPePt)U6J
+  port: 12817
+  server: 13.212.249.44
   skip-cert-verify: true
   sni: appsvs.shop
   type: trojan
   udp: true
 - country: SG
-  name: 0|-https://t.me/MrXbin-110
-  password: 0f408453-2589-4fc2-bf9d-22e0cef8b8d2
+  name: 0|-https://t.me/MrXbin-96
+  password: 578547e6-f06f-4a04-8283-4a13a56c9a82
   port: 20230
   server: sg08.421421.xyz
   skip-cert-verify: true
   sni: 421421.xyz
   type: trojan
   udp: true
+- cipher: aes-128-cfb
+  country: US
+  name: 0|-https://t.me/MrXbin-97
+  password: shadowsocks
+  port: 443
+  server: 212.102.47.198
+  type: ss
+- cipher: aes-256-gcm
+  country: US
+  name: 0|-https://t.me/MrXbin-98
+  password: KixLvKzwjekG00rm
+  port: 8000
+  server: 38.110.1.111
+  type: ss
 - alterId: 0
   cipher: auto
   country: US
@@ -195,18 +174,53 @@ proxies:
     method: GET
     path:
     - /
-  name: 0|-https://t.me/MrXbin-111
+  name: 0|-https://t.me/MrXbin-99
   network: http
   port: 80
   server: 46.3.82.198
   skip-cert-verify: true
   type: vmess
   uuid: e57d6217-18be-49f4-b40c-3ace76fd1a5a
+- alterId: 0
+  cipher: auto
+  country: US
+  h2-opts: {}
+  http-opts: {}
+  name: 0|-https://t.me/MrXbin-100
+  network: ws
+  port: 443
+  server: jpcft01.xqc.best
+  servername: dd7xps5fj6dfo.cloudfront.net
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 9b57caed-da32-45cd-9b61-34b22a663ef5
+  ws-opts:
+    headers:
+      HOST: dd7xps5fj6dfo.cloudfront.net
+    path: /stream
+- alterId: 0
+  cipher: auto
+  country: US
+  h2-opts: {}
+  http-opts: {}
+  name: 0|-https://t.me/MrXbin-101
+  network: ws
+  port: 8080
+  server: 172.67.169.90
+  servername: oiictw.yydsii.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
+  ws-opts:
+    headers:
+      HOST: oiictw.yydsii.com
+    path: /
 - country: US
-  name: 0|-https://t.me/MrXbin-112
-  password: oNeOejVSffY(
-  port: 12635
-  server: 18.220.127.240
+  name: 0|-https://t.me/MrXbin-102
+  password: oBkH12FjTDrj
+  port: 12830
+  server: 18.225.255.174
   skip-cert-verify: true
   sni: appsvs.shop
   type: trojan
@@ -471,10 +485,9 @@ proxies:
   tls: false
   type: vmess
   uuid: aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaad
-- Inc. -...: None
-  client-fingerprint: random
-  delay: 1452
-  name: 8|CA_speednode_0002
+- client-fingerprint: random
+  delay: 1732
+  name: 8|CA_speednode_0001
   network: ws
   port: 2053
   security: tls
@@ -490,55 +503,7 @@ proxies:
     headers:
       host: cfed.tgzdyz2.top
     path: tg%40zdyz2
-- client-fingerprint: random
-  delay: 501
-  fp: random
-  name: 8|CN_speednode_0005
-  network: ws
-  port: 443
-  security: tls
-  server: 103.44.255.27
-  servername: juzibaipiao.5112233.xyz
-  skip-cert-verify: false
-  sni: cfed.tgzdyz2.top
-  tfo: false
-  tls: true
-  type: vless
-  uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
-  ws-opts:
-    headers:
-      host: juzibaipiao.5112233.xyz
-    path: /?ed=2048
-- alterId: -1
-  cipher: auto
-  customName: 🇨🇳_CN_中国->🇩🇪_DE_德国
-  name: 8|CN_speednode_0012
-  network: tcp
-  password: MyYoZhfX
-  port: 40316
-  server: 36.138.99.56
-  skip-cert-verify: true
-  tls: true
-  type: trojan
-  udp: true
-- client-fingerprint: random
-  name: 8|DE_speednode_0014
-  network: ws
-  port: 8443
-  security: tls
-  server: 64.227.113.49
-  servername: cfed.tgzdyz2.top
-  skip-cert-verify: false
-  sni: cfed.tgzdyz2.top
-  tfo: false
-  tls: true
-  type: vless
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
-  ws-opts:
-    headers:
-      host: cfed.tgzdyz2.top
-    path: tg%40zdyz2
-- name: 8|FR_speednode_0015
+- name: 8|FR_speednode_0008
   network: ws
   port: 2053
   server: 51.38.86.3
@@ -551,37 +516,26 @@ proxies:
       host: mositr.freenods.sbs
     path: Twitterfreecodes
 - client-fingerprint: random
-  name: 8|HK_speednode_0016
+  fp: random
+  name: 8|FR_speednode_0011
   network: ws
-  port: 8969
+  port: 2053
   security: tls
-  server: 152.32.252.175
-  servername: cfed.tgzdyz2.top
+  server: 46.105.170.124
+  servername: mositr.freenods.sbs
   skip-cert-verify: false
-  sni: cfed.tgzdyz2.top
+  sni: mositr.freenods.sbs
   tfo: false
   tls: true
   type: vless
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
+  uuid: 678ac895-92c2-4f27-a9d4-f1a89c5f5365
   ws-opts:
     headers:
-      host: cfed.tgzdyz2.top
-    path: tg%40zdyz2
-- name: 8|HK_speednode_0017
-  network: ws
-  port: 22338
-  server: 43.132.244.52
-  servername: cfed.tgzdyz2.top
-  tls: true
-  type: vless
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
-  ws-opts:
-    headers:
-      host: cfed.tgzdyz2.top
-    path: tg@zdyz2
+      host: mositr.freenods.sbs
+    path: '%2f%3fed%3d2048'
 - client-fingerprint: random
   fp: random
-  name: 8|HK_speednode_0018
+  name: 8|HK_speednode_0012
   network: ws
   port: 36950
   security: tls
@@ -597,27 +551,184 @@ proxies:
     headers:
       host: cfed.tgzdyz2.top
     path: TG%40ZDYZ2
-- Inc. - 6...: None
-  client-fingerprint: random
-  delay: 403
-  name: 8|HK_speednode_0019
+- name: 8|HK_speednode_0013
   network: ws
-  port: 49454
-  server: 45.249.246.59
-  servername: cfed.tgzdyz2.top
+  password: CMLiu
+  port: 2096
+  server: aliyun.classelivre.eu.org
   skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|HK_speednode_0014
+  network: ws
+  password: CMLiu
+  port: 2087
+  server: 47.76.32.108
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|HK_speednode_0015
+  network: ws
+  password: CMLiu
+  port: 35123
+  server: 123.58.212.186
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|HK_speednode_0016
+  network: ws
+  password: CMLiu
+  port: 2053
+  server: 47.76.32.108
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|HK_speednode_0017
+  network: ws
+  password: CMLiu
+  port: 4431
+  server: 152.32.190.239
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|HK_speednode_0018
+  network: ws
+  password: CMLiu
+  port: 50100
+  server: 202.81.235.90
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|HK_speednode_0019
+  network: ws
+  password: CMLiu
+  port: 55044
+  server: 103.20.223.16
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- client-fingerprint: random
+  delay: 356
+  name: 8|HK_speednode_0020
+  network: ws
+  port: 8969
+  security: tls
+  server: 152.32.252.175
+  servername: cfed.tgzdyz2.top
+  skip-cert-verify: false
+  sni: cfed.tgzdyz2.top
+  tfo: false
   tls: true
   type: vless
-  udp: true
   uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
   ws-opts:
     headers:
-      Host: cfed.tgzdyz2.top
-    path: TG@ZDYZ2
+      host: cfed.tgzdyz2.top
+    path: tg%40zdyz2
+- name: 8|JP_speednode_0021
+  network: ws
+  password: CMLiu
+  port: 21880
+  server: 149.62.44.35
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|JP_speednode_0022
+  network: ws
+  password: CMLiu
+  port: 11665
+  server: 141.98.197.101
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|JP_speednode_0023
+  network: ws
+  password: CMLiu
+  port: 31425
+  server: 147.78.242.111
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|JP_speednode_0024
+  network: ws
+  password: CMLiu
+  port: 443
+  server: 43.207.178.66
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|JP_speednode_0025
+  network: ws
+  password: CMLiu
+  port: 20111
+  server: 185.200.64.87
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
 - Inc. - 6...: None
   client-fingerprint: random
   delay: 752
-  name: 8|JP_speednode_0020
+  name: 8|JP_speednode_0026
   network: ws
   port: 2086
   server: 43.207.156.148
@@ -631,159 +742,51 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: TG@ZDYZ2
+- name: 8|KR_speednode_0027
+  network: ws
+  password: CMLiu
+  port: 52646
+  server: 210.87.202.245
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|KR_speednode_0028
+  network: ws
+  password: CMLiu
+  port: 26439
+  server: 210.87.195.139
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|KR_speednode_0029
+  network: ws
+  password: CMLiu
+  port: 443
+  server: 140.238.13.96
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
 - client-fingerprint: random
-  name: 8|KR_speednode_0021
+  name: 8|KR_speednode_0031
   network: ws
   port: 11659
   security: tls
   server: 146.56.171.182
-  servername: cfed.tgzdyz2.top
-  skip-cert-verify: false
-  sni: cfed.tgzdyz2.top
-  tfo: false
-  tls: true
-  type: vless
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
-  ws-opts:
-    headers:
-      host: cfed.tgzdyz2.top
-    path: tg%40zdyz2
-- name: 8|KR_speednode_0022
-  network: ws
-  port: 28756
-  server: 152.70.232.173
-  servername: mositr.freenods.sbs
-  tls: true
-  type: vless
-  uuid: 678ac895-92c2-4f27-a9d4-f1a89c5f5365
-  ws-opts:
-    headers:
-      host: mositr.freenods.sbs
-    path: Twitterfreecodes
-- client-fingerprint: random
-  name: 8|KR_speednode_0023
-  network: ws
-  port: 58854
-  security: tls
-  server: 140.238.14.228
-  servername: cfed.tgzdyz2.top
-  skip-cert-verify: false
-  sni: cfed.tgzdyz2.top
-  tfo: false
-  tls: true
-  type: vless
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
-  ws-opts:
-    headers:
-      host: cfed.tgzdyz2.top
-    path: tg%40zdyz2
-- client-fingerprint: random
-  name: 8|KR_speednode_0024
-  network: ws
-  port: 47590
-  security: tls
-  server: 146.56.141.168
-  servername: cfed.tgzdyz2.top
-  skip-cert-verify: false
-  sni: cfed.tgzdyz2.top
-  tfo: false
-  tls: true
-  type: vless
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
-  ws-opts:
-    headers:
-      host: cfed.tgzdyz2.top
-    path: tg%40zdyz2
-- delay: 1630
-  name: 8|KR_speednode_0025
-  network: ws
-  port: 49248
-  server: 193.123.239.18
-  servername: cfed.tgzdyz2.top
-  tls: true
-  type: vless
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
-  ws-opts:
-    headers:
-      host: cfed.tgzdyz2.top
-    path: tg@zdyz2
-- client-fingerprint: random
-  name: 8|KR_speednode_0026
-  network: ws
-  port: 59158
-  security: tls
-  server: 129.154.206.254
-  servername: cfed.tgzdyz2.top
-  skip-cert-verify: false
-  sni: cfed.tgzdyz2.top
-  tfo: false
-  tls: true
-  type: vless
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
-  ws-opts:
-    headers:
-      host: cfed.tgzdyz2.top
-    path: tg%40zdyz2
-- client-fingerprint: random
-  name: 8|KR_speednode_0027
-  network: ws
-  port: 39637
-  security: tls
-  server: 132.145.95.170
-  servername: cfed.tgzdyz2.top
-  skip-cert-verify: false
-  sni: cfed.tgzdyz2.top
-  tfo: false
-  tls: true
-  type: vless
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
-  ws-opts:
-    headers:
-      host: cfed.tgzdyz2.top
-    path: tg%40zdyz2
-- client-fingerprint: random
-  name: 8|KR_speednode_0028
-  network: ws
-  port: 50001
-  security: tls
-  server: 146.56.145.38
-  servername: cfed.tgzdyz2.top
-  skip-cert-verify: false
-  sni: cfed.tgzdyz2.top
-  tfo: false
-  tls: true
-  type: vless
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
-  ws-opts:
-    headers:
-      host: cfed.tgzdyz2.top
-    path: tg%40zdyz2
-- client-fingerprint: random
-  delay: 953
-  fp: random
-  name: 8|KR_speednode_0031
-  network: ws
-  port: 25800
-  security: tls
-  server: 193.122.110.164
-  servername: cfed.tgzdyz2.top
-  skip-cert-verify: false
-  sni: cfed.tgzdyz2.top
-  tfo: false
-  tls: true
-  type: vless
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
-  ws-opts:
-    headers:
-      host: cfed.tgzdyz2.top
-    path: TG%40ZDYZ2
-- client-fingerprint: random
-  delay: 689
-  name: 8|KR_speednode_0030
-  network: ws
-  port: 20082
-  security: tls
-  server: 210.111.176.108
   servername: cfed.tgzdyz2.top
   skip-cert-verify: false
   sni: cfed.tgzdyz2.top
@@ -808,7 +811,25 @@ proxies:
       host: cfed.tgzdyz2.top
     path: tg@zdyz2
 - client-fingerprint: random
+  delay: 1275
   name: 8|KR_speednode_0033
+  network: ws
+  port: 58854
+  security: tls
+  server: 140.238.14.228
+  servername: cfed.tgzdyz2.top
+  skip-cert-verify: false
+  sni: cfed.tgzdyz2.top
+  tfo: false
+  tls: true
+  type: vless
+  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
+  ws-opts:
+    headers:
+      host: cfed.tgzdyz2.top
+    path: tg%40zdyz2
+- client-fingerprint: random
+  name: 8|KR_speednode_0034
   network: ws
   port: 443
   security: tls
@@ -824,10 +845,29 @@ proxies:
     headers:
       host: TG.CMLiussss.ooguy.com
     path: '%2f%3fed%3d2560'
-- name: 8|KR_speednode_0034
+- client-fingerprint: random
+  delay: 1572
+  name: 8|KR_speednode_0035
   network: ws
-  port: 37992
-  server: 119.17.25.40
+  port: 47590
+  security: tls
+  server: 146.56.141.168
+  servername: cfed.tgzdyz2.top
+  skip-cert-verify: false
+  sni: cfed.tgzdyz2.top
+  tfo: false
+  tls: true
+  type: vless
+  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
+  ws-opts:
+    headers:
+      host: cfed.tgzdyz2.top
+    path: tg%40zdyz2
+- delay: 1068
+  name: 8|KR_speednode_0036
+  network: ws
+  port: 25800
+  server: 193.122.110.164
   servername: cfed.tgzdyz2.top
   tls: true
   type: vless
@@ -837,8 +877,68 @@ proxies:
       host: cfed.tgzdyz2.top
     path: tg@zdyz2
 - client-fingerprint: random
+  name: 8|KR_speednode_0037
+  network: ws
+  port: 50001
+  security: tls
+  server: 146.56.145.38
+  servername: cfed.tgzdyz2.top
+  skip-cert-verify: false
+  sni: cfed.tgzdyz2.top
+  tfo: false
+  tls: true
+  type: vless
+  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
+  ws-opts:
+    headers:
+      host: cfed.tgzdyz2.top
+    path: tg%40zdyz2
+- client-fingerprint: random
+  delay: 1074
+  name: 8|KR_speednode_0038
+  network: ws
+  port: 59408
+  security: tls
+  server: 132.226.235.126
+  servername: cfed.tgzdyz2.top
+  skip-cert-verify: false
+  tfo: false
+  tls: true
+  type: vless
+  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
+  ws-opts:
+    headers:
+      host: cfed.tgzdyz2.top
+    path: tg%40zdyz2
+- name: 8|KR_speednode_0039
+  network: ws
+  password: CMLiu
+  port: 34933
+  server: 59.187.242.236
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|KR_speednode_0040
+  network: ws
+  password: CMLiu
+  port: 8080
+  server: 15.165.49.161
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- client-fingerprint: random
   delay: 1528
-  name: 8|KR_speednode_0035
+  name: 8|KR_speednode_0041
   network: ws
   port: 18888
   security: tls
@@ -854,37 +954,102 @@ proxies:
     headers:
       host: juzibaipiao.5112233.xyz
     path: '%2f%3fed%3d2048'
-- client-fingerprint: random
-  name: 8|KR_speednode_0036
+- Inc. - 4...: None
+  client-fingerprint: random
+  delay: 1518
+  name: 8|KR_speednode_0042
   network: ws
-  port: 10194
-  security: tls
-  server: 121.131.91.22
-  servername: cfed.tgzdyz2.top
-  skip-cert-verify: false
-  sni: cfed.tgzdyz2.top
-  tfo: false
+  port: 59158
+  server: 129.154.206.254
+  servername: toujiediansigema.666888.lol
   tls: true
   type: vless
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
+  udp: true
+  uuid: 4f42d8f7-8beb-47e1-9465-8f390c6d658d
   ws-opts:
     headers:
-      host: cfed.tgzdyz2.top
-    path: tg%40zdyz2
-- name: 8|KR_speednode_0037
+      Host: toujiediansigema.666888.lol
+    path: TG@mianfeicf
+- name: 8|SG_speednode_0043
   network: ws
-  port: 10209
-  server: 210.222.133.55
-  servername: mositr.freenods.sbs
-  tls: true
-  type: vless
-  uuid: 678ac895-92c2-4f27-a9d4-f1a89c5f5365
+  password: CMLiu
+  port: 2096
+  server: 8.219.67.133
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
   ws-opts:
     headers:
-      host: mositr.freenods.sbs
-    path: Twitterfreecodes
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|SG_speednode_0044
+  network: ws
+  password: CMLiu
+  port: 2053
+  server: 47.237.8.82
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|SG_speednode_0045
+  network: ws
+  password: CMLiu
+  port: 2053
+  server: 47.236.144.196
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|SG_speednode_0046
+  network: ws
+  password: CMLiu
+  port: 2083
+  server: 47.236.144.208
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|SG_speednode_0047
+  network: ws
+  password: CMLiu
+  port: 8443
+  server: 47.236.83.239
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|SG_speednode_0048
+  network: ws
+  password: CMLiu
+  port: 2087
+  server: 47.236.171.205
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
 - client-fingerprint: random
-  name: 8|SG_speednode_0038
+  name: 8|SG_speednode_0049
   network: ws
   port: 53821
   security: tls
@@ -904,7 +1069,7 @@ proxies:
   client-fingerprint: random
   delay: 1469
   fp: random
-  name: 8|TW_speednode_0039
+  name: 8|TW_speednode_0050
   network: ws
   port: 553
   security: tls
@@ -920,57 +1085,37 @@ proxies:
     headers:
       host: cfed.tgzdyz2.top
     path: TG%40ZDYZ2
-- client-fingerprint: random
-  delay: 771
-  name: 8|TW_speednode_0040
-  network: ws
-  port: 4443
-  security: tls
-  server: 211.75.74.232
-  servername: cfed.tgzdyz2.top
-  skip-cert-verify: false
-  sni: cfed.tgzdyz2.top
-  tfo: false
-  tls: true
-  type: vless
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
-  ws-opts:
-    headers:
-      host: cfed.tgzdyz2.top
-    path: tg%40zdyz2
-- client-fingerprint: random
-  delay: 779
-  name: 8|TW_speednode_0042
+- Inc. - 5...: None
+  client-fingerprint: random
+  delay: 1189
+  name: 8|TW_speednode_0051
   network: ws
   port: 25424
-  security: tls
   server: 220.133.227.253
-  servername: cfed.tgzdyz2.top
-  skip-cert-verify: false
-  sni: cfed.tgzdyz2.top
-  tfo: false
+  servername: toujiediansigema.666888.lol
   tls: true
   type: vless
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
+  udp: true
+  uuid: 4f42d8f7-8beb-47e1-9465-8f390c6d658d
   ws-opts:
     headers:
-      host: cfed.tgzdyz2.top
-    path: tg@zdyz2
-- name: 8|TW_speednode_0043
+      Host: toujiediansigema.666888.lol
+    path: TG@mianfeicf
+- name: 8|US_speednode_0052
   network: ws
-  port: 38370
-  server: 118.163.128.81
-  servername: cfed.tgzdyz2.top
-  tls: true
-  type: vless
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
+  password: CMLiu
+  port: 53151
+  server: 161.129.39.66
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
   ws-opts:
     headers:
-      host: cfed.tgzdyz2.top
-    path: tg@zdyz2
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
 - client-fingerprint: random
-  delay: 2568
-  name: 8|US_speednode_0046
+  name: 8|US_speednode_0053
   network: ws
   port: 443
   security: tls
@@ -986,65 +1131,146 @@ proxies:
     headers:
       host: cfed.tgzdyz2.top
     path: tg%40zdyz2
-- name: 8|US_speednode_0047
+- name: 8|US_speednode_0054
+  network: ws
+  password: CMLiu
+  port: 29293
+  server: 185.148.15.219
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- client-fingerprint: random
+  delay: 2240
+  name: 8|US_speednode_0056
   network: ws
   port: 443
+  security: tls
   server: 43.153.103.203
   servername: cfed.tgzdyz2.top
+  skip-cert-verify: false
+  sni: cfed.tgzdyz2.top
+  tfo: false
   tls: true
   type: vless
   uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
   ws-opts:
     headers:
       host: cfed.tgzdyz2.top
-    path: tg@zdyz2
-- alterId: 0
-  cipher: auto
-  name: 9|baipaovpn美国加利福尼亚州圣克拉拉县山景市
+    path: tg%40zdyz2
+- name: 8|US_speednode_0057
   network: ws
-  port: '2087'
-  server: 35.189.159.254
-  servername: ggjp.duduskying.tk
-  tls: true
-  type: vmess
-  uuid: 6559fbc7-4b72-4985-8a80-f3736b9e2eff
+  password: CMLiu
+  port: 49555
+  server: 45.59.185.97
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
   ws-opts:
     headers:
-      Host: ''
-    path: ''
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|US_speednode_0058
+  network: ws
+  password: CMLiu
+  port: 34237
+  server: 45.59.186.34
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|US_speednode_0059
+  network: ws
+  password: CMLiu
+  port: 25176
+  server: 45.59.185.130
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|US_speednode_0060
+  network: ws
+  password: CMLiu
+  port: 11324
+  server: 136.175.178.141
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
+- name: 8|US_speednode_0061
+  network: ws
+  password: CMLiu
+  port: 41697
+  server: 38.59.245.159
+  skip-cert-verify: true
+  sni: trojan.classelivre.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: trojan.classelivre.eu.org
+    path: /?ed=2048
 - alterId: 0
   cipher: auto
   name: 9|baipaovpn日本
   network: ws
   port: '80'
-  server: 43.201.27.168
+  server: 54.248.66.236
   servername: ''
   tls: false
   type: vmess
-  uuid: e5e2206d-8650-4dfb-9731-fe2ee99b944e
+  uuid: 90b2f590-5e7b-4ca2-a2d5-3bcc435d9650
   ws-opts:
     headers:
-      Host: kr01.travisdependable.online
+      Host: jp01.fredericamelody.online
     path: /
 - alterId: 0
   cipher: auto
-  name: 10|🇺🇸_US_美国_2_9
+  name: 10|🇷🇺_RU_俄罗斯联邦_由快嘴科技提供：kkzui.com
   network: ws
-  port: 2052
-  server: cfcdn1.sanfencdn9.com
+  port: 54321
+  server: eedp257bubu2wefy.lovebaipiao.net
+  tls: false
+  type: vmess
+  uuid: bdeaba4b-bdac-426f-94f2-16a63d91352f
+  ws-opts:
+    path: /iphone
+- alterId: 0
+  cipher: auto
+  name: 10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_2
+  network: ws
+  port: 2082
+  server: 104.19.138.73
   tls: false
   type: vmess
   uuid: 7f40abd1-6397-4706-8510-bc5d08df8ad5
   ws-opts:
     headers:
-      Host: tw1bQiWSE4x.fzbqfrse.xyz
-    path: /video/GQ2qE5Us9g
+      Host: us4Bb5oSgJA.fzbqfrse.xyz
+    path: /video/CuTy87zAzV/
 - alterId: 0
   cipher: auto
-  name: '10|🇺🇸_US_美国->🇩🇪_DE_德国_2_由快嘴科技提供：k... #1'
+  name: 10|🇺🇸_US_美国->🇩🇪_DE_德国_3_23
   network: ws
   port: 2052
-  server: 104.19.250.15
+  server: cfcdn1.sanfencdn9.com
   tls: false
   type: vmess
   uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961
@@ -1054,7 +1280,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_8
+  name: 10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_16
   network: ws
   port: 2082
   server: cfcdn1.sanfencdn9.com
@@ -1067,18 +1293,68 @@ proxies:
     path: /video/CuTy87zAzV/
 - alterId: 0
   cipher: auto
-  name: 10|🇨🇦_CA_加拿大_5
+  name: 10|🇺🇸_US_美国_3_由快嘴科技提供：kkzui.com0
   network: ws
-  port: 443
-  server: 23.162.200.227
-  tls: true
+  port: 80
+  server: 162.159.133.42
+  tls: false
   type: vmess
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  uuid: bdeaba4b-bdac-426f-94f2-16a63d91352f
   ws-opts:
-    path: /linkvws
+    headers:
+      Host: ustoucjjnid18sj6us.lovebaipiao.com
+    path: /
 - alterId: 0
   cipher: auto
-  name: '10|🇺🇸_US_美国->🇩🇪_DE_德国_3_由快嘴科技提供：k... #1'
+  name: 10|🇺🇸_US_美国_4_由快嘴科技提供：kkzui.com2
+  network: ws
+  port: 80
+  server: 104.18.15.150
+  tls: false
+  type: vmess
+  uuid: bdeaba4b-bdac-426f-94f2-16a63d91352f
+  ws-opts:
+    headers:
+      Host: us3.889611.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 10|🇺🇸_US_美国_5_由快嘴科技提供：kkzui.com4
+  network: ws
+  port: 80
+  server: 104.19.173.68
+  tls: false
+  type: vmess
+  uuid: bdeaba4b-bdac-426f-94f2-16a63d91352f
+  ws-opts:
+    headers:
+      Host: ustoucjjnid18sj6us.lovebaipiao.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 10|🇺🇸_US_美国_2_由快嘴科技提供：kkzui.com7
+  network: ws
+  port: 2052
+  server: 104.19.250.15
+  tls: false
+  type: vmess
+  uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961
+  ws-opts:
+    headers:
+      Host: helanv6cf.inekokkk.top
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 10|🇱🇺_LU_卢森堡_由快嘴科技提供：kkzui.com8
+  network: http
+  port: 3389
+  server: 45.82.31.164
+  tls: false
+  type: vmess
+  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
+- alterId: 0
+  cipher: auto
+  name: 10|🇺🇸_US_美国->🇩🇪_DE_德国_由快嘴科技提供：kkz...
   network: ws
   port: 2052
   server: 104.18.36.119
@@ -1091,7 +1367,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '10|🇺🇸_US_美国->🇩🇪_DE_德国_由快嘴科技提供：kkz... #1'
+  name: 10|🇺🇸_US_美国->🇩🇪_DE_德国_2_20
   network: ws
   port: 2052
   server: 104.18.19.191
@@ -1104,62 +1380,51 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 10|🇺🇸_US_美国->🇨🇦_CA_加拿大_23
+  name: 10|🇺🇸_US_美国->🇫🇷_FR_法国_由快嘴科技提供：kkz...
   network: ws
-  port: 8080
-  server: yh4.dtku41.xyz
+  port: 2082
+  server: 104.21.8.157
   tls: false
   type: vmess
-  uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+  uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a
   ws-opts:
     headers:
-      Host: dual-nothing-prep-exit.trycloudflare.com
-    path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
-- alterId: 0
-  cipher: auto
-  name: 10|🇺🇸_US_美国->🇮🇳_IN_印度_由快嘴科技提供：kkz...
-  network: ws
-  port: 2052
-  server: hk.wish.ml
-  tls: false
-  type: vmess
-  uuid: 543f15f1-96a8-4205-b4a2-1a1ae6766c12
-  ws-opts:
-    headers:
-      Host: in3.wish.ml
+      Host: s1c.v2.v001sss.xyz
     path: /
 - alterId: 0
   cipher: auto
-  name: 10|🇺🇸_US_美国->🇩🇪_DE_德国_4_2由快嘴科技提供：...
-  network: ws
-  port: 2052
-  server: cfcdn1.sanfencdn9.com
-  tls: false
-  type: vmess
-  uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961
-  ws-opts:
-    headers:
-      Host: helanv6cf.inekokkk.top
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 10|🇱🇺_LU_卢森堡_22
-  network: http
-  port: 3389
-  server: 45.82.31.164
-  tls: false
-  type: vmess
-  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
-- alterId: 0
-  cipher: auto
-  name: 10|🇳🇱_NL_荷兰_24
+  name: 10|🇩🇪_DE_德意志联邦共和国_25
   network: ws
   port: 443
-  server: nl2-full.privateip.net
+  server: 23.158.56.50
   tls: true
   type: vmess
-  uuid: b7a0cf39-99fa-47a4-8d9f-5263806e8cce
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    path: /linkvws
+- alterId: 0
+  cipher: auto
+  name: 10|🇺🇸_US_美国->🇫🇷_FR_法国_2_26
+  network: ws
+  port: 2082
+  server: 172.67.130.140
+  tls: false
+  type: vmess
+  uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a
   ws-opts:
     headers:
-      Host: nl2-full.privateip.net
-    path: /RACEVPN
+      Host: s1c.v2.v001sss.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 10|🇰🇷_KR_韩国->🇷🇺_RU_俄罗斯联邦_35
+  network: ws
+  port: 60999
+  server: 210.87.195.254
+  tls: false
+  type: vmess
+  uuid: e8c6eb94-0c48-49de-c3eb-e305a26d1074
+  ws-opts:
+    headers:
+      Host: tg.dns68.9669.link
+    path: /TG@dns68维护
