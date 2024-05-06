@@ -104,23 +104,13 @@ proxies:
   ws-opts:
     headers:
       Host: ''
-    path: ''
-- alterId: 0
-  cipher: auto
-  name: '9|baipaovpn日本东京 #1'
-  network: tcp
-  port: '50001'
-  server: 52.192.73.127
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 6541d170-1507-45bc-9603-e8138a21b28c
+    path: /
 - alterId: 0
   cipher: auto
   name: '9|baipaovpn日本 #1'
   network: ws
   port: '80'
-  server: 54.92.2.85
+  server: 54.238.232.168
   servername: ''
   tls: false
   type: vmess
@@ -129,3 +119,13 @@ proxies:
     headers:
       Host: ''
     path: ''
+- alterId: 0
+  cipher: auto
+  name: '9|baipaovpn日本 #2'
+  network: tcp
+  port: '50001'
+  server: 18.179.26.12
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 6541d170-1507-45bc-9603-e8138a21b28c
