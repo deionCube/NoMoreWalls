@@ -32,7 +32,7 @@ proxies:
   type: trojan
 - client-fingerprint: random
   delay: 2568
-  name: 8|US_speednode_0174
+  name: 8|US_speednode_0046
   network: ws
   port: 443
   security: tls
@@ -48,23 +48,32 @@ proxies:
     headers:
       host: cfed.tgzdyz2.top
     path: tg%40zdyz2
-- client-fingerprint: random
-  name: 8|US_speednode_0173
+- name: 8|US_speednode_0047
   network: ws
   port: 443
-  security: tls
   server: 43.153.103.203
   servername: cfed.tgzdyz2.top
-  skip-cert-verify: false
-  sni: cfed.tgzdyz2.top
-  tfo: false
   tls: true
   type: vless
   uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
   ws-opts:
     headers:
       host: cfed.tgzdyz2.top
-    path: tg%40zdyz2
+    path: tg@zdyz2
+- alterId: 0
+  cipher: auto
+  name: 9|baipaovpn美国加利福尼亚州圣克拉拉县山景市
+  network: ws
+  port: '2087'
+  server: 35.189.159.254
+  servername: ggjp.duduskying.tk
+  tls: true
+  type: vmess
+  uuid: 6559fbc7-4b72-4985-8a80-f3736b9e2eff
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
 - alterId: 0
   cipher: auto
   name: 10|🇺🇸_US_美国_2_9
