@@ -22,7 +22,7 @@ proxies:
   name: 5|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 13.214.214.197
+  server: 46.137.236.48
   tfo: false
   type: ss
 - alterId: 0
@@ -108,3 +108,17 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: TG@ZDYZ2
+- alterId: 0
+  cipher: auto
+  name: 9|baipaovpn日本
+  network: ws
+  port: '25363'
+  server: 146.56.128.194
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: eedfc125-cc91-4f47-bc7b-41157c200283
+  ws-opts:
+    headers:
+      Host: kr-seoul-oracle-4fccf5.ip1.shop
+    path: /gd3245vd2S32cr
