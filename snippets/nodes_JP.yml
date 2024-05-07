@@ -37,11 +37,15 @@ proxies:
   uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad
 - alterId: 0
   cipher: auto
-  name: 9|baipaovpn日本
-  network: tcp
-  port: '14935'
-  server: 167.179.111.237
+  name: 9|baipaovpn日本东京
+  network: ws
+  port: '80'
+  server: 3.112.208.212
   servername: ''
   tls: false
   type: vmess
-  uuid: e961894f-8e90-472f-98d3-09402e4be453
+  uuid: 90b2f590-5e7b-4ca2-a2d5-3bcc435d9650
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
