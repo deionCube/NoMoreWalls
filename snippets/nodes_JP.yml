@@ -65,23 +65,3 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 1
-  cipher: auto
-  name: 9|baipaovpn日本
-  network: tcp
-  port: '449'
-  server: 18.181.19.184
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 2278146c-8fb0-3683-8300-342238f8a9d0
-- alterId: 1
-  cipher: auto
-  name: '9|baipaovpn日本 #1'
-  network: tcp
-  port: '28788'
-  server: 52.68.26.131
-  servername: 1ridh-g06.jp06-7c5a-vm0.entry.fr0307a.art
-  tls: true
-  type: vmess
-  uuid: 2278146c-8fb0-3683-8300-342238f8a9d0
