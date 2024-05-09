@@ -1,4 +1,12 @@
 proxies:
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 5|🇺🇸 美国2|@ripaojiedian
+  password: 5cp9Z3iWnJZ2
+  port: 443
+  server: 205.134.180.151
+  tfo: false
+  type: ss
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -30,6 +38,104 @@ proxies:
   server: 112.29.94.23
   skip-cert-verify: true
   type: trojan
+- alterId: 0
+  cipher: auto
+  name: 9|baipaovpn美国俄勒冈州波特兰
+  network: ws
+  port: '80'
+  server: 34.217.76.0
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: ece6750e-df24-48c9-8007-34451285f57e
+  ws-opts:
+    headers:
+      Host: gw.alicdn.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 9|baipaovpn美国
+  network: ws
+  port: '80'
+  server: 35.92.103.90
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: ece6750e-df24-48c9-8007-34451285f57e
+  ws-opts:
+    headers:
+      Host: gw.alicdn.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '9|baipaovpn美国 #1'
+  network: ws
+  port: '80'
+  server: 24.144.83.126
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: ece6750e-df24-48c9-8007-34451285f57e
+  ws-opts:
+    headers:
+      Host: gw.alicdn.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 9|baipaovpn美国加利福尼亚州费里蒙
+  network: ws
+  port: '80'
+  server: 173.255.240.29
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: ece6750e-df24-48c9-8007-34451285f57e
+  ws-opts:
+    headers:
+      Host: gw.alicdn.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '9|baipaovpn美国 #2'
+  network: ws
+  port: '80'
+  server: 3.75.179.180
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: ece6750e-df24-48c9-8007-34451285f57e
+  ws-opts:
+    headers:
+      Host: gw.alicdn.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '9|baipaovpn美国 #3'
+  network: ws
+  port: '80'
+  server: 13.214.162.31
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: ece6750e-df24-48c9-8007-34451285f57e
+  ws-opts:
+    headers:
+      Host: gw.alicdn.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '9|baipaovpn美国 #4'
+  network: ws
+  port: '25363'
+  server: 64.110.89.101
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: eedfc125-cc91-4f47-bc7b-41157c200283
+  ws-opts:
+    headers:
+      Host: kr-seoul-oracle-4fccf5.ip1.shop
+    path: /gd3245vd2S32cr
 - alterId: 0
   cipher: auto
   name: 10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_2

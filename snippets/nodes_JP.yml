@@ -66,11 +66,29 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: 9|baipaovpn日本东京
-  network: tcp
-  port: '50001'
-  server: 35.78.77.148
+  name: 9|baipaovpn日本
+  network: ws
+  port: '80'
+  server: 160.16.55.118
   servername: ''
   tls: false
   type: vmess
-  uuid: 6541d170-1507-45bc-9603-e8138a21b28c
+  uuid: ece6750e-df24-48c9-8007-34451285f57e
+  ws-opts:
+    headers:
+      Host: gw.alicdn.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '9|baipaovpn日本 #1'
+  network: ws
+  port: '80'
+  server: 18.183.171.31
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: ece6750e-df24-48c9-8007-34451285f57e
+  ws-opts:
+    headers:
+      Host: gw.alicdn.com
+    path: /
