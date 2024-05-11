@@ -7,14 +7,6 @@ proxies:
   server: 212.102.47.198
   tfo: false
   type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 5|🇺🇸 美国2|@ripaojiedian
-  password: 5cp9Z3iWnJZ2
-  port: 443
-  server: 205.134.180.151
-  tfo: false
-  type: ss
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -48,10 +40,280 @@ proxies:
   type: trojan
 - client-fingerprint: random
   flow: ''
+  name: 8|US_speednode_0020
+  network: ws
+  port: 80
+  server: 162.159.198.42
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0021
+  network: ws
+  port: 80
+  server: 162.159.198.47
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0022
+  network: ws
+  port: 80
+  server: 162.159.198.5
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0023
+  network: ws
+  port: 80
+  server: 162.159.198.13
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0024
+  network: ws
+  port: 80
+  server: 162.159.198.19
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0025
+  network: ws
+  port: 80
+  server: 162.159.198.38
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0026
+  network: ws
+  port: 80
+  server: 162.159.198.28
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0027
+  network: ws
+  port: 80
+  server: 162.159.198.6
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0028
+  network: ws
+  port: 80
+  server: 162.159.198.43
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0029
+  network: ws
+  port: 80
+  server: 162.159.198.49
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0030
+  network: ws
+  port: 80
+  server: 162.159.198.29
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0031
+  network: ws
+  port: 80
+  server: 162.159.198.21
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0032
+  network: ws
+  port: 80
+  server: 162.159.198.7
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0033
+  network: ws
+  port: 80
+  server: 162.159.198.31
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0034
+  network: ws
+  port: 80
+  server: 162.159.198.24
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0035
+  network: ws
+  port: 80
+  server: 162.159.198.18
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0036
+  network: ws
+  port: 80
+  server: 162.159.198.48
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0037
+  network: ws
+  port: 80
+  server: 162.159.198.8
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
   name: 8|US_speednode_0038
   network: ws
   port: 80
-  server: 162.159.199.25
+  server: 162.159.198.9
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -66,7 +328,7 @@ proxies:
   name: 8|US_speednode_0039
   network: ws
   port: 80
-  server: 162.159.199.21
+  server: 162.159.198.34
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -81,7 +343,7 @@ proxies:
   name: 8|US_speednode_0040
   network: ws
   port: 80
-  server: 162.159.199.11
+  server: 162.159.198.3
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -96,7 +358,7 @@ proxies:
   name: 8|US_speednode_0041
   network: ws
   port: 80
-  server: 162.159.199.19
+  server: 162.159.198.1
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -111,7 +373,7 @@ proxies:
   name: 8|US_speednode_0042
   network: ws
   port: 80
-  server: 162.159.199.7
+  server: 162.159.198.45
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -126,7 +388,7 @@ proxies:
   name: 8|US_speednode_0043
   network: ws
   port: 80
-  server: 162.159.199.23
+  server: 162.159.198.16
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -141,7 +403,7 @@ proxies:
   name: 8|US_speednode_0044
   network: ws
   port: 80
-  server: 162.159.199.1
+  server: 162.159.198.22
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -156,7 +418,7 @@ proxies:
   name: 8|US_speednode_0045
   network: ws
   port: 80
-  server: 162.159.199.20
+  server: 162.159.198.15
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -171,7 +433,7 @@ proxies:
   name: 8|US_speednode_0046
   network: ws
   port: 80
-  server: 162.159.199.28
+  server: 162.159.198.26
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -186,7 +448,7 @@ proxies:
   name: 8|US_speednode_0047
   network: ws
   port: 80
-  server: 162.159.199.46
+  server: 162.159.198.33
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -201,7 +463,7 @@ proxies:
   name: 8|US_speednode_0048
   network: ws
   port: 80
-  server: 162.159.199.22
+  server: 162.159.198.41
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -216,7 +478,7 @@ proxies:
   name: 8|US_speednode_0049
   network: ws
   port: 80
-  server: 162.159.199.4
+  server: 162.159.198.27
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -231,7 +493,7 @@ proxies:
   name: 8|US_speednode_0050
   network: ws
   port: 80
-  server: 162.159.199.9
+  server: 162.159.198.39
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -246,7 +508,7 @@ proxies:
   name: 8|US_speednode_0051
   network: ws
   port: 80
-  server: 162.159.199.3
+  server: 162.159.198.14
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -261,7 +523,7 @@ proxies:
   name: 8|US_speednode_0052
   network: ws
   port: 80
-  server: 162.159.199.45
+  server: 162.159.198.36
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -276,7 +538,7 @@ proxies:
   name: 8|US_speednode_0053
   network: ws
   port: 80
-  server: 162.159.199.12
+  server: 162.159.198.10
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -291,7 +553,7 @@ proxies:
   name: 8|US_speednode_0054
   network: ws
   port: 80
-  server: 162.159.199.29
+  server: 162.159.198.40
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -306,7 +568,7 @@ proxies:
   name: 8|US_speednode_0055
   network: ws
   port: 80
-  server: 162.159.199.2
+  server: 162.159.198.44
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -321,7 +583,7 @@ proxies:
   name: 8|US_speednode_0056
   network: ws
   port: 80
-  server: 162.159.199.26
+  server: 162.159.198.23
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -336,7 +598,7 @@ proxies:
   name: 8|US_speednode_0057
   network: ws
   port: 80
-  server: 162.159.199.24
+  server: 162.159.198.37
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -351,7 +613,7 @@ proxies:
   name: 8|US_speednode_0058
   network: ws
   port: 80
-  server: 162.159.199.31
+  server: 162.159.198.12
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -366,7 +628,7 @@ proxies:
   name: 8|US_speednode_0059
   network: ws
   port: 80
-  server: 162.159.199.41
+  server: 162.159.198.17
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -381,7 +643,7 @@ proxies:
   name: 8|US_speednode_0060
   network: ws
   port: 80
-  server: 162.159.199.13
+  server: 162.159.198.2
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -396,7 +658,7 @@ proxies:
   name: 8|US_speednode_0061
   network: ws
   port: 80
-  server: 162.159.199.33
+  server: 162.159.198.0
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -411,7 +673,7 @@ proxies:
   name: 8|US_speednode_0062
   network: ws
   port: 80
-  server: 162.159.199.5
+  server: 162.159.198.32
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -426,7 +688,7 @@ proxies:
   name: 8|US_speednode_0063
   network: ws
   port: 80
-  server: 162.159.199.6
+  server: 162.159.198.20
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -441,7 +703,7 @@ proxies:
   name: 8|US_speednode_0064
   network: ws
   port: 80
-  server: 162.159.199.18
+  server: 162.159.198.30
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -456,7 +718,7 @@ proxies:
   name: 8|US_speednode_0065
   network: ws
   port: 80
-  server: 162.159.199.30
+  server: 162.159.198.46
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -471,7 +733,7 @@ proxies:
   name: 8|US_speednode_0066
   network: ws
   port: 80
-  server: 162.159.199.17
+  server: 162.159.198.11
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -486,7 +748,7 @@ proxies:
   name: 8|US_speednode_0067
   network: ws
   port: 80
-  server: 162.159.199.36
+  server: 162.159.198.25
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -501,7 +763,7 @@ proxies:
   name: 8|US_speednode_0068
   network: ws
   port: 80
-  server: 162.159.199.16
+  server: 162.159.198.35
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -516,7 +778,7 @@ proxies:
   name: 8|US_speednode_0069
   network: ws
   port: 80
-  server: 162.159.199.8
+  server: 162.159.198.4
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -531,7 +793,7 @@ proxies:
   name: 8|US_speednode_0070
   network: ws
   port: 80
-  server: 162.159.199.47
+  server: 162.159.198.53
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -546,7 +808,7 @@ proxies:
   name: 8|US_speednode_0071
   network: ws
   port: 80
-  server: 162.159.199.0
+  server: 162.159.198.52
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -561,7 +823,7 @@ proxies:
   name: 8|US_speednode_0072
   network: ws
   port: 80
-  server: 162.159.199.43
+  server: 162.159.198.71
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -576,7 +838,7 @@ proxies:
   name: 8|US_speednode_0073
   network: ws
   port: 80
-  server: 162.159.199.10
+  server: 162.159.198.59
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -591,7 +853,7 @@ proxies:
   name: 8|US_speednode_0074
   network: ws
   port: 80
-  server: 162.159.199.48
+  server: 162.159.198.76
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -606,7 +868,7 @@ proxies:
   name: 8|US_speednode_0075
   network: ws
   port: 80
-  server: 162.159.199.32
+  server: 162.159.198.70
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -621,7 +883,7 @@ proxies:
   name: 8|US_speednode_0076
   network: ws
   port: 80
-  server: 162.159.199.39
+  server: 162.159.198.51
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -636,7 +898,7 @@ proxies:
   name: 8|US_speednode_0077
   network: ws
   port: 80
-  server: 162.159.199.14
+  server: 162.159.198.61
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -651,7 +913,7 @@ proxies:
   name: 8|US_speednode_0078
   network: ws
   port: 80
-  server: 162.159.199.38
+  server: 162.159.198.68
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -666,7 +928,7 @@ proxies:
   name: 8|US_speednode_0079
   network: ws
   port: 80
-  server: 162.159.199.15
+  server: 162.159.198.92
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -681,7 +943,7 @@ proxies:
   name: 8|US_speednode_0080
   network: ws
   port: 80
-  server: 162.159.199.34
+  server: 162.159.198.81
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -696,7 +958,7 @@ proxies:
   name: 8|US_speednode_0081
   network: ws
   port: 80
-  server: 162.159.199.40
+  server: 162.159.198.79
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -711,7 +973,7 @@ proxies:
   name: 8|US_speednode_0082
   network: ws
   port: 80
-  server: 162.159.199.42
+  server: 162.159.198.90
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -726,7 +988,7 @@ proxies:
   name: 8|US_speednode_0083
   network: ws
   port: 80
-  server: 162.159.199.35
+  server: 162.159.198.74
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -741,7 +1003,7 @@ proxies:
   name: 8|US_speednode_0084
   network: ws
   port: 80
-  server: 162.159.199.37
+  server: 162.159.198.67
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -756,7 +1018,7 @@ proxies:
   name: 8|US_speednode_0085
   network: ws
   port: 80
-  server: 162.159.199.54
+  server: 162.159.198.65
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -771,7 +1033,7 @@ proxies:
   name: 8|US_speednode_0086
   network: ws
   port: 80
-  server: 162.159.199.27
+  server: 162.159.198.83
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -786,7 +1048,7 @@ proxies:
   name: 8|US_speednode_0087
   network: ws
   port: 80
-  server: 162.159.199.50
+  server: 162.159.198.57
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -801,7 +1063,7 @@ proxies:
   name: 8|US_speednode_0088
   network: ws
   port: 80
-  server: 162.159.199.49
+  server: 162.159.198.88
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -816,7 +1078,7 @@ proxies:
   name: 8|US_speednode_0089
   network: ws
   port: 80
-  server: 162.159.199.63
+  server: 162.159.198.85
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -831,7 +1093,7 @@ proxies:
   name: 8|US_speednode_0090
   network: ws
   port: 80
-  server: 162.159.199.44
+  server: 162.159.198.60
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -846,7 +1108,7 @@ proxies:
   name: 8|US_speednode_0091
   network: ws
   port: 80
-  server: 162.159.199.55
+  server: 162.159.198.50
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -861,7 +1123,7 @@ proxies:
   name: 8|US_speednode_0092
   network: ws
   port: 80
-  server: 162.159.199.62
+  server: 162.159.198.55
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -876,7 +1138,7 @@ proxies:
   name: 8|US_speednode_0093
   network: ws
   port: 80
-  server: 162.159.199.67
+  server: 162.159.198.89
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -891,7 +1153,7 @@ proxies:
   name: 8|US_speednode_0094
   network: ws
   port: 80
-  server: 162.159.199.58
+  server: 162.159.198.58
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -906,7 +1168,7 @@ proxies:
   name: 8|US_speednode_0095
   network: ws
   port: 80
-  server: 162.159.199.71
+  server: 162.159.198.75
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -921,7 +1183,7 @@ proxies:
   name: 8|US_speednode_0096
   network: ws
   port: 80
-  server: 162.159.199.83
+  server: 162.159.198.72
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -936,7 +1198,7 @@ proxies:
   name: 8|US_speednode_0097
   network: ws
   port: 80
-  server: 162.159.199.53
+  server: 162.159.198.73
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -951,7 +1213,7 @@ proxies:
   name: 8|US_speednode_0098
   network: ws
   port: 80
-  server: 162.159.199.52
+  server: 162.159.198.77
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -966,7 +1228,7 @@ proxies:
   name: 8|US_speednode_0099
   network: ws
   port: 80
-  server: 162.159.199.75
+  server: 162.159.198.93
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -981,7 +1243,7 @@ proxies:
   name: 8|US_speednode_0100
   network: ws
   port: 80
-  server: 162.159.199.59
+  server: 162.159.198.64
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -996,7 +1258,7 @@ proxies:
   name: 8|US_speednode_0101
   network: ws
   port: 80
-  server: 162.159.199.80
+  server: 162.159.198.66
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1011,7 +1273,7 @@ proxies:
   name: 8|US_speednode_0102
   network: ws
   port: 80
-  server: 162.159.199.84
+  server: 162.159.198.96
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1026,7 +1288,7 @@ proxies:
   name: 8|US_speednode_0103
   network: ws
   port: 80
-  server: 162.159.199.64
+  server: 162.159.198.62
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1041,7 +1303,7 @@ proxies:
   name: 8|US_speednode_0104
   network: ws
   port: 80
-  server: 162.159.199.70
+  server: 162.159.198.78
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1056,7 +1318,7 @@ proxies:
   name: 8|US_speednode_0105
   network: ws
   port: 80
-  server: 162.159.199.90
+  server: 162.159.198.99
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1071,7 +1333,7 @@ proxies:
   name: 8|US_speednode_0106
   network: ws
   port: 80
-  server: 162.159.199.57
+  server: 162.159.198.56
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1086,7 +1348,7 @@ proxies:
   name: 8|US_speednode_0107
   network: ws
   port: 80
-  server: 162.159.199.65
+  server: 162.159.198.54
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1101,7 +1363,7 @@ proxies:
   name: 8|US_speednode_0108
   network: ws
   port: 80
-  server: 162.159.199.56
+  server: 162.159.198.97
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1116,7 +1378,7 @@ proxies:
   name: 8|US_speednode_0109
   network: ws
   port: 80
-  server: 162.159.199.86
+  server: 162.159.198.84
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1131,7 +1393,7 @@ proxies:
   name: 8|US_speednode_0110
   network: ws
   port: 80
-  server: 162.159.199.69
+  server: 162.159.198.69
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1146,7 +1408,7 @@ proxies:
   name: 8|US_speednode_0111
   network: ws
   port: 80
-  server: 162.159.199.77
+  server: 162.159.198.82
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1161,7 +1423,7 @@ proxies:
   name: 8|US_speednode_0112
   network: ws
   port: 80
-  server: 162.159.199.88
+  server: 162.159.198.94
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1176,7 +1438,7 @@ proxies:
   name: 8|US_speednode_0113
   network: ws
   port: 80
-  server: 162.159.199.93
+  server: 162.159.198.86
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1191,7 +1453,7 @@ proxies:
   name: 8|US_speednode_0114
   network: ws
   port: 80
-  server: 162.159.199.91
+  server: 162.159.198.63
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1206,7 +1468,7 @@ proxies:
   name: 8|US_speednode_0115
   network: ws
   port: 80
-  server: 162.159.199.87
+  server: 162.159.198.95
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1221,7 +1483,7 @@ proxies:
   name: 8|US_speednode_0116
   network: ws
   port: 80
-  server: 162.159.199.82
+  server: 162.159.198.87
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1236,7 +1498,7 @@ proxies:
   name: 8|US_speednode_0117
   network: ws
   port: 80
-  server: 162.159.199.92
+  server: 162.159.198.91
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1251,7 +1513,7 @@ proxies:
   name: 8|US_speednode_0118
   network: ws
   port: 80
-  server: 162.159.199.81
+  server: 162.159.198.80
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1266,7 +1528,7 @@ proxies:
   name: 8|US_speednode_0119
   network: ws
   port: 80
-  server: 162.159.199.61
+  server: 162.159.198.98
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1281,7 +1543,7 @@ proxies:
   name: 8|US_speednode_0120
   network: ws
   port: 80
-  server: 162.159.199.51
+  server: 162.159.198.105
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1296,7 +1558,7 @@ proxies:
   name: 8|US_speednode_0121
   network: ws
   port: 80
-  server: 162.159.199.60
+  server: 162.159.198.103
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1311,7 +1573,7 @@ proxies:
   name: 8|US_speednode_0122
   network: ws
   port: 80
-  server: 162.159.199.73
+  server: 162.159.198.121
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1326,7 +1588,7 @@ proxies:
   name: 8|US_speednode_0123
   network: ws
   port: 80
-  server: 162.159.199.76
+  server: 162.159.198.111
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1341,7 +1603,7 @@ proxies:
   name: 8|US_speednode_0124
   network: ws
   port: 80
-  server: 162.159.199.68
+  server: 162.159.198.100
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1356,7 +1618,7 @@ proxies:
   name: 8|US_speednode_0125
   network: ws
   port: 80
-  server: 162.159.199.66
+  server: 162.159.198.104
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1371,7 +1633,7 @@ proxies:
   name: 8|US_speednode_0126
   network: ws
   port: 80
-  server: 162.159.199.94
+  server: 162.159.198.110
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1386,7 +1648,7 @@ proxies:
   name: 8|US_speednode_0127
   network: ws
   port: 80
-  server: 162.159.199.74
+  server: 162.159.198.126
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1401,7 +1663,7 @@ proxies:
   name: 8|US_speednode_0128
   network: ws
   port: 80
-  server: 162.159.199.78
+  server: 162.159.198.112
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1416,7 +1678,7 @@ proxies:
   name: 8|US_speednode_0129
   network: ws
   port: 80
-  server: 162.159.199.72
+  server: 162.159.198.109
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1431,7 +1693,7 @@ proxies:
   name: 8|US_speednode_0130
   network: ws
   port: 80
-  server: 162.159.199.95
+  server: 162.159.198.141
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1446,7 +1708,7 @@ proxies:
   name: 8|US_speednode_0131
   network: ws
   port: 80
-  server: 162.159.199.79
+  server: 162.159.198.107
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1461,7 +1723,7 @@ proxies:
   name: 8|US_speednode_0132
   network: ws
   port: 80
-  server: 162.159.199.96
+  server: 162.159.198.120
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1476,7 +1738,7 @@ proxies:
   name: 8|US_speednode_0133
   network: ws
   port: 80
-  server: 162.159.199.100
+  server: 162.159.198.131
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1491,7 +1753,7 @@ proxies:
   name: 8|US_speednode_0134
   network: ws
   port: 80
-  server: 162.159.199.108
+  server: 162.159.198.127
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1506,7 +1768,7 @@ proxies:
   name: 8|US_speednode_0135
   network: ws
   port: 80
-  server: 162.159.199.97
+  server: 162.159.198.115
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1521,7 +1783,7 @@ proxies:
   name: 8|US_speednode_0136
   network: ws
   port: 80
-  server: 162.159.199.102
+  server: 162.159.198.136
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1536,7 +1798,7 @@ proxies:
   name: 8|US_speednode_0137
   network: ws
   port: 80
-  server: 162.159.199.105
+  server: 162.159.198.102
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1551,7 +1813,7 @@ proxies:
   name: 8|US_speednode_0138
   network: ws
   port: 80
-  server: 162.159.199.85
+  server: 162.159.198.125
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1566,7 +1828,7 @@ proxies:
   name: 8|US_speednode_0139
   network: ws
   port: 80
-  server: 162.159.199.101
+  server: 162.159.198.113
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1581,7 +1843,7 @@ proxies:
   name: 8|US_speednode_0140
   network: ws
   port: 80
-  server: 162.159.199.89
+  server: 162.159.198.124
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1596,7 +1858,7 @@ proxies:
   name: 8|US_speednode_0141
   network: ws
   port: 80
-  server: 162.159.199.98
+  server: 162.159.198.101
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1611,7 +1873,7 @@ proxies:
   name: 8|US_speednode_0142
   network: ws
   port: 80
-  server: 162.159.199.124
+  server: 162.159.198.148
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1626,7 +1888,7 @@ proxies:
   name: 8|US_speednode_0143
   network: ws
   port: 80
-  server: 162.159.199.104
+  server: 162.159.198.123
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1641,7 +1903,7 @@ proxies:
   name: 8|US_speednode_0144
   network: ws
   port: 80
-  server: 162.159.199.106
+  server: 162.159.198.146
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1656,7 +1918,7 @@ proxies:
   name: 8|US_speednode_0145
   network: ws
   port: 80
-  server: 162.159.199.99
+  server: 162.159.198.108
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1671,7 +1933,7 @@ proxies:
   name: 8|US_speednode_0146
   network: ws
   port: 80
-  server: 162.159.199.123
+  server: 162.159.198.135
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1686,7 +1948,7 @@ proxies:
   name: 8|US_speednode_0147
   network: ws
   port: 80
-  server: 162.159.199.122
+  server: 162.159.198.119
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1701,7 +1963,7 @@ proxies:
   name: 8|US_speednode_0148
   network: ws
   port: 80
-  server: 162.159.199.103
+  server: 162.159.198.118
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1716,7 +1978,7 @@ proxies:
   name: 8|US_speednode_0149
   network: ws
   port: 80
-  server: 162.159.199.113
+  server: 162.159.198.106
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1731,7 +1993,7 @@ proxies:
   name: 8|US_speednode_0150
   network: ws
   port: 80
-  server: 162.159.199.118
+  server: 162.159.198.139
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1746,7 +2008,7 @@ proxies:
   name: 8|US_speednode_0151
   network: ws
   port: 80
-  server: 162.159.199.107
+  server: 162.159.198.134
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1761,7 +2023,502 @@ proxies:
   name: 8|US_speednode_0152
   network: ws
   port: 80
-  server: 162.159.199.110
+  server: 162.159.198.142
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0153
+  network: ws
+  port: 80
+  server: 162.159.198.143
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0154
+  network: ws
+  port: 80
+  server: 162.159.198.117
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0155
+  network: ws
+  port: 80
+  server: 162.159.198.137
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0156
+  network: ws
+  port: 80
+  server: 162.159.198.114
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0157
+  network: ws
+  port: 80
+  server: 162.159.198.140
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0158
+  network: ws
+  port: 80
+  server: 162.159.198.149
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0159
+  network: ws
+  port: 80
+  server: 162.159.198.128
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0160
+  network: ws
+  port: 80
+  server: 162.159.198.116
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0161
+  network: ws
+  port: 80
+  server: 162.159.198.145
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0162
+  network: ws
+  port: 80
+  server: 162.159.198.130
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0163
+  network: ws
+  port: 80
+  server: 162.159.198.129
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0164
+  network: ws
+  port: 80
+  server: 162.159.198.122
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0165
+  network: ws
+  port: 80
+  server: 162.159.198.147
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0166
+  network: ws
+  port: 80
+  server: 162.159.198.133
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0167
+  network: ws
+  port: 80
+  server: 162.159.198.138
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0168
+  network: ws
+  port: 80
+  server: 162.159.198.132
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0169
+  network: ws
+  port: 80
+  server: 162.159.198.144
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0170
+  network: ws
+  port: 80
+  server: 162.159.198.151
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0171
+  network: ws
+  port: 80
+  server: 162.159.198.162
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0172
+  network: ws
+  port: 80
+  server: 162.159.198.160
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0173
+  network: ws
+  port: 80
+  server: 162.159.198.154
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0174
+  network: ws
+  port: 80
+  server: 162.159.198.156
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0175
+  network: ws
+  port: 80
+  server: 162.159.198.161
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0176
+  network: ws
+  port: 80
+  server: 162.159.198.163
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0177
+  network: ws
+  port: 80
+  server: 162.159.198.174
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0178
+  network: ws
+  port: 80
+  server: 162.159.198.167
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0179
+  network: ws
+  port: 80
+  server: 162.159.198.152
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0180
+  network: ws
+  port: 80
+  server: 162.159.198.170
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0181
+  network: ws
+  port: 80
+  server: 162.159.198.159
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0182
+  network: ws
+  port: 80
+  server: 162.159.198.150
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0183
+  network: ws
+  port: 80
+  server: 162.159.198.175
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0184
+  network: ws
+  port: 80
+  server: 162.159.198.158
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8%20%2F%3Fed%3D2048
+- client-fingerprint: random
+  flow: ''
+  name: 8|US_speednode_0185
+  network: ws
+  port: 80
+  server: 162.159.198.176
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1776,35 +2533,7 @@ proxies:
   name: 9|baipaovpn美国
   network: ws
   port: '80'
-  server: 16.163.148.4
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: b39a02bc-dec0-4964-b861-d89ffe42558a
-  ws-opts:
-    headers:
-      Host: ''
-    path: /
-- alterId: 0
-  cipher: auto
-  name: '9|baipaovpn美国 #1'
-  network: ws
-  port: '80'
-  server: 164.92.231.187
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: b39a02bc-dec0-4964-b861-d89ffe42558a
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
-- alterId: 0
-  cipher: auto
-  name: '9|baipaovpn美国 #2'
-  network: ws
-  port: '80'
-  server: 16.163.148.4
+  server: 158.247.240.219
   servername: ''
   tls: false
   type: vmess
@@ -1815,10 +2544,10 @@ proxies:
     path: ''
 - alterId: 0
   cipher: auto
-  name: '9|baipaovpn美国 #3'
+  name: '9|baipaovpn美国 #1'
   network: ws
   port: '80'
-  server: 157.230.23.55
+  server: 161.35.212.34
   servername: ''
   tls: false
   type: vmess
@@ -1826,21 +2555,7 @@ proxies:
   ws-opts:
     headers:
       Host: ''
-    path: /
-- alterId: 0
-  cipher: auto
-  name: '9|baipaovpn美国 #4'
-  network: ws
-  port: '80'
-  server: 16.163.145.203
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: b39a02bc-dec0-4964-b861-d89ffe42558a
-  ws-opts:
-    headers:
-      Host: hk02.nathaniatheodora.cloud
-    path: /
+    path: ''
 - alterId: 0
   cipher: auto
   name: 10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_20

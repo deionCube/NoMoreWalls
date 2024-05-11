@@ -36,14 +36,6 @@ proxies:
   server: gd1-jp.fwcloud.cc
   tfo: false
   type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 5|🇯🇵 日本特殊|@ripaojiedian
-  password: amazonskr05
-  port: 443
-  server: 13.124.178.1
-  tfo: false
-  type: ss
 - alterId: 0
   cipher: auto
   name: 6|日本2|@ripaojiedian
@@ -69,7 +61,7 @@ proxies:
   name: 9|baipaovpn日本
   network: ws
   port: '80'
-  server: 43.199.71.122
+  server: 43.199.74.222
   servername: ''
   tls: false
   type: vmess
@@ -83,12 +75,26 @@ proxies:
   name: '9|baipaovpn日本 #1'
   network: ws
   port: '80'
-  server: 43.198.16.132
+  server: 43.199.71.122
   servername: ''
   tls: false
   type: vmess
-  uuid: 35a409bd-433b-478c-bd5f-4b59c3a88690
+  uuid: b39a02bc-dec0-4964-b861-d89ffe42558a
   ws-opts:
     headers:
       Host: ''
     path: ''
+- alterId: 0
+  cipher: auto
+  name: 9|baipaovpn日本东京都东京
+  network: ws
+  port: '57557'
+  server: 168.138.197.181
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: f1b91a7d-a5e2-4684-a183-d2d656400ca1
+  ws-opts:
+    headers:
+      Host: jp-tokyo-oracle-5a26da.ip1.shop
+    path: /rongseven?ed=2048

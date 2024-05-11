@@ -39,7 +39,7 @@ proxies:
   uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad
 - client-fingerprint: random
   delay: 394
-  name: 8|TW_speednode_0037
+  name: 8|TW_speednode_0019
   network: ws
   port: 13688
   server: 118.163.128.81
