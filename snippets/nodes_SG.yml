@@ -1,30 +1,30 @@
 proxies:
-- client-fingerprint: chrome
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
   name: 5|🇸🇬 新加坡|@ripaojiedian
-  password: 0f408453-2589-4fc2-bf9d-22e0cef8b8d2
-  port: 20230
-  server: sg08.421421.xyz
+  port: 37997
+  server: 8789-kf49kc85w.uy2w4vf-sg03.my777999.top
   skip-cert-verify: false
-  sni: 421421.xyz
-  type: trojan
-- client-fingerprint: chrome
-  name: 5|🇸🇬 新加坡2|@ripaojiedian
-  network: ws
-  password: e81d213d-8dd5-4207-9445-24d8903ffe0c
-  port: 2248
-  server: awssg.cfyun.top
-  skip-cert-verify: false
-  sni: lmtsg2.cfyun01.sbs
-  type: trojan
-  ws-opts:
-    headers:
-      Host: lmtsg2.cfyun01.sbs
-    path: /CFYUN
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 6399ac7d-8265-436d-b348-299df4b735a5
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 5|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 18.143.93.163
+  server: 18.183.73.152
   tfo: false
   type: ss
+- alterId: 0
+  cipher: auto
+  name: 6|新加坡|@ripaojiedian
+  network: tcp
+  port: '37997'
+  server: 8789-kf49kc85w.uy2w4vf-sg03.my777999.top
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 6399ac7d-8265-436d-b348-299df4b735a5
