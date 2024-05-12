@@ -175,10 +175,10 @@ proxies:
     path: /?ed=2560
 - alterId: 0
   cipher: auto
-  name: 9|baipaovpn香港
+  name: '9|baipaovpn香港 #6'
   network: ws
   port: '80'
-  server: 18.163.195.203
+  server: 16.162.24.154
   servername: ''
   tls: false
   type: vmess
@@ -186,7 +186,7 @@ proxies:
   ws-opts:
     headers:
       Host: ''
-    path: ''
+    path: /
 - alterId: 0
   cipher: auto
   name: '9|baipaovpn香港 #1'
@@ -196,17 +196,17 @@ proxies:
   servername: ''
   tls: false
   type: vmess
-  uuid: 35a409bd-433b-478c-bd5f-4b59c3a88690
+  uuid: b39a02bc-dec0-4964-b861-d89ffe42558a
   ws-opts:
     headers:
       Host: ''
-    path: /
+    path: ''
 - alterId: 0
   cipher: auto
   name: '9|baipaovpn香港 #2'
   network: ws
   port: '80'
-  server: 16.162.24.154
+  server: 18.166.214.33
   servername: ''
   tls: false
   type: vmess
@@ -214,17 +214,17 @@ proxies:
   ws-opts:
     headers:
       Host: ''
-    path: /
+    path: ''
 - alterId: 0
   cipher: auto
   name: '9|baipaovpn香港 #3'
   network: ws
-  port: '80'
-  server: 16.162.24.154
+  port: '12909'
+  server: 210.3.159.224
   servername: ''
-  tls: false
+  tls: true
   type: vmess
-  uuid: 35a409bd-433b-478c-bd5f-4b59c3a88690
+  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
   ws-opts:
     headers:
       Host: ''
@@ -234,15 +234,15 @@ proxies:
   name: '9|baipaovpn香港 #4'
   network: ws
   port: '80'
-  server: 18.166.214.33
+  server: 18.163.195.203
   servername: ''
   tls: false
   type: vmess
-  uuid: 35a409bd-433b-478c-bd5f-4b59c3a88690
+  uuid: b39a02bc-dec0-4964-b861-d89ffe42558a
   ws-opts:
     headers:
       Host: ''
-    path: ''
+    path: /
 - alterId: 0
   cipher: auto
   name: '9|baipaovpn香港 #5'
@@ -256,4 +256,18 @@ proxies:
   ws-opts:
     headers:
       Host: ''
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '9|baipaovpn香港 #7'
+  network: ws
+  port: '80'
+  server: 18.166.177.223
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: b39a02bc-dec0-4964-b861-d89ffe42558a
+  ws-opts:
+    headers:
+      Host: hk02.nathaniatheodora.cloud
     path: /
