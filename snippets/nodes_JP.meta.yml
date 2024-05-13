@@ -17,12 +17,31 @@ proxies:
   tls: false
   type: vmess
   uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 5|🇯🇵 日本3|@ripaojiedian
+  port: 443
+  server: 20.40.97.46
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vmess
+  uuid: 5c03bf73-c00a-4c7b-a71d-b913641a0c10
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 5|🇯🇵 日本4|@ripaojiedian
+  password: 918eba0d3ff04abc803fb00e18d0fcb5
+  port: 60283
+  server: any.hmbiplc-02.com
+  tfo: false
+  type: ss
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 5|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 13.229.54.243
+  server: 3.112.219.236
   tfo: false
   type: ss
 - alterId: 0
@@ -37,18 +56,14 @@ proxies:
   uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad
 - alterId: 0
   cipher: auto
-  name: 9|baipaovpn日本
-  network: ws
-  port: '80'
-  server: 43.199.36.215
+  name: 6|日本3|@ripaojiedian
+  network: tcp
+  port: '443'
+  server: 20.40.97.46
   servername: ''
-  tls: false
+  tls: true
   type: vmess
-  uuid: 35a409bd-433b-478c-bd5f-4b59c3a88690
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
+  uuid: 5c03bf73-c00a-4c7b-a71d-b913641a0c10
 - alterId: 0
   cipher: auto
   name: '9|baipaovpn日本 #1'
@@ -59,17 +74,3 @@ proxies:
   tls: true
   type: vmess
   uuid: 98e3e6ae-239e-48f7-a5fc-4a6307bf071c
-- alterId: 0
-  cipher: auto
-  name: '9|baipaovpn日本 #2'
-  network: ws
-  port: '80'
-  server: 43.207.102.14
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 35a409bd-433b-478c-bd5f-4b59c3a88690
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
