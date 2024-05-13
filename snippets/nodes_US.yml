@@ -1,4 +1,12 @@
 proxies:
+- cipher: aes-128-cfb
+  client-fingerprint: chrome
+  name: 5|🇺🇸 美国|@ripaojiedian
+  password: shadowsocks
+  port: 443
+  server: 212.102.47.198
+  tfo: false
+  type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 5|🇺🇸 美国2|@ripaojiedian
@@ -60,7 +68,7 @@ proxies:
   name: 9|baipaovpn美国
   network: ws
   port: '80'
-  server: 16.162.45.195
+  server: 206.189.50.150
   servername: ''
   tls: false
   type: vmess
@@ -74,7 +82,7 @@ proxies:
   name: '9|baipaovpn美国 #1'
   network: ws
   port: '80'
-  server: 16.162.45.195
+  server: 206.189.50.150
   servername: ''
   tls: false
   type: vmess
@@ -86,31 +94,13 @@ proxies:
 - alterId: 0
   cipher: auto
   name: '9|baipaovpn美国 #2'
-  network: ws
-  port: '80'
-  server: 209.38.218.216
-  servername: ''
-  tls: false
+  network: tcp
+  port: '8080'
+  server: 172.233.84.25
+  servername: jp-dj-gy-1.skyorg.me
+  tls: true
   type: vmess
-  uuid: 35a409bd-433b-478c-bd5f-4b59c3a88690
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
-- alterId: 0
-  cipher: auto
-  name: '9|baipaovpn美国 #3'
-  network: ws
-  port: '80'
-  server: 206.189.50.150
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 35a409bd-433b-478c-bd5f-4b59c3a88690
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
+  uuid: 98e3e6ae-239e-48f7-a5fc-4a6307bf071c
 - alterId: 0
   cipher: auto
   name: 10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com1
