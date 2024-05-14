@@ -43,7 +43,7 @@ proxies:
   name: '9|baipaovpn新加坡 #1'
   network: ws
   port: '80'
-  server: 13.212.80.10
+  server: 13.228.71.138
   servername: ''
   tls: false
   type: vmess
@@ -51,4 +51,4 @@ proxies:
   ws-opts:
     headers:
       Host: ''
-    path: /
+    path: ''
