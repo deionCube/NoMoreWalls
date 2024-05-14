@@ -7,17 +7,10 @@ proxies:
   server: 212.102.47.198
   tfo: false
   type: ss
-- client-fingerprint: chrome
-  name: 5|🇺🇸 美国4|@ripaojiedian
-  password: MyYoZhfX
-  port: 15274
-  server: 223.113.54.154
-  skip-cert-verify: true
-  type: trojan
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 5,6|美国3|@ripaojiedian
+  name: 5,6|美国2|@ripaojiedian
   network: ws
   port: '8880'
   server: cfcdn1.sanfencdn9.com
@@ -26,38 +19,31 @@ proxies:
   tfo: false
   tls: false
   type: vmess
-  uuid: c5da6e6b-7918-4d29-a05c-450f4eeecb19
+  uuid: 0a208887-f5d4-40eb-ac7f-7bbc6584f9d7
   ws-opts:
     headers:
       Host: us6gzxQRrE4.fzbqfrse.xyz
     path: /video/bYdJ7Vc2We
 - client-fingerprint: chrome
+  name: 5|🇺🇸 美国4|@ripaojiedian
+  password: TNDSJfNv
+  port: 34057
+  server: 36.151.195.48
+  skip-cert-verify: true
+  type: trojan
+- client-fingerprint: chrome
   name: 5|🇺🇸 美国5|@ripaojiedian
-  password: MyYoZhfX
+  password: TNDSJfNv
   port: 20344
-  server: 36.151.195.46
+  server: 36.151.195.48
   skip-cert-verify: true
   type: trojan
 - alterId: 0
   cipher: auto
   name: 9|baipaovpn美国
   network: ws
-  port: '57557'
-  server: 158.101.66.40
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: f1b91a7d-a5e2-4684-a183-d2d656400ca1
-  ws-opts:
-    headers:
-      Host: jp-tokyo-oracle-5a26da.ip1.shop
-    path: /rongseven?ed=2048
-- alterId: 0
-  cipher: auto
-  name: 9|baipaovpn美国纽约市
-  network: ws
   port: '80'
-  server: 207.154.240.149
+  server: 159.65.124.97
   servername: ''
   tls: false
   type: vmess
@@ -71,7 +57,7 @@ proxies:
   name: '9|baipaovpn美国 #1'
   network: ws
   port: '80'
-  server: 64.226.69.208
+  server: 161.35.217.92
   servername: ''
   tls: false
   type: vmess
@@ -85,11 +71,11 @@ proxies:
   name: '9|baipaovpn美国 #2'
   network: ws
   port: '80'
-  server: 161.35.217.92
+  server: 64.226.69.208
   servername: ''
   tls: false
   type: vmess
-  uuid: b39a02bc-dec0-4964-b861-d89ffe42558a
+  uuid: 35a409bd-433b-478c-bd5f-4b59c3a88690
   ws-opts:
     headers:
       Host: ''
