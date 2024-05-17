@@ -34,12 +34,23 @@ proxies:
     headers:
       Host: wtywwcrzjp5.yofnhkfc.xyz
     path: /video/9TfVEyku
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 5|🇯🇵 日本4|@ripaojiedian
+  port: 32365
+  server: 158.51.111.114
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: f956a5d9-1f30-4f89-adc8-4286f4a3eb16
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 5|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 18.182.6.181
+  server: 18.181.198.10
   tfo: false
   type: ss
 - alterId: 0
@@ -54,15 +65,11 @@ proxies:
   uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad
 - alterId: 0
   cipher: auto
-  name: 9|baipaovpn日本
-  network: ws
-  port: '80'
-  server: 43.199.73.135
+  name: 6|日本4|@ripaojiedian
+  network: tcp
+  port: '32365'
+  server: 158.51.111.114
   servername: ''
   tls: false
   type: vmess
-  uuid: b39a02bc-dec0-4964-b861-d89ffe42558a
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
+  uuid: f956a5d9-1f30-4f89-adc8-4286f4a3eb16
