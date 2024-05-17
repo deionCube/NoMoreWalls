@@ -172,7 +172,7 @@ proxies:
     path: ' /?ed=2048'
 - alterId: 0
   cipher: auto
-  name: 9|baipaovpn香港
+  name: '9|baipaovpn香港 #1'
   network: ws
   port: '80'
   server: 18.162.49.79
@@ -183,4 +183,4 @@ proxies:
   ws-opts:
     headers:
       Host: ''
-    path: ''
+    path: /
