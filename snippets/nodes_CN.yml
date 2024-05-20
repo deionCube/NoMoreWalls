@@ -3,8 +3,8 @@ proxies:
   cipher: auto
   name: 9|baipaovpn广东省江门市
   network: tcp
-  port: '35068'
-  server: 120.238.122.151
+  port: '35019'
+  server: 120.238.122.212
   servername: ''
   tls: false
   type: vmess
