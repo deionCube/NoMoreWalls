@@ -41,6 +41,27 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
+  client-fingerprint: chrome
+  name: 5|🇺🇸 美国6||@ripaojiedian
+  port: 443
+  server: 38.77.232.10
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vmess
+  uuid: dbbb87ba-7b57-4228-b9e7-bdfa5e661b55
+- alterId: 0
+  cipher: auto
+  name: 6|美国6||@ripaojiedian
+  network: tcp
+  port: '443'
+  server: 38.77.232.10
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: dbbb87ba-7b57-4228-b9e7-bdfa5e661b55
+- alterId: 0
+  cipher: auto
   name: 10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_5
   network: ws
   port: 8880
