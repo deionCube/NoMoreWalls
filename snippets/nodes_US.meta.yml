@@ -2564,6 +2564,26 @@ proxies:
     path: /proxyIP=proxyip.us.fxxk.dedyn.io
 - alterId: 0
   cipher: auto
+  name: 9|baipaovpn美国
+  network: tcp
+  port: '26022'
+  server: 152.70.39.9
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e0254dda-dc8c-46b0-8df8-07c453aaafd7
+- alterId: 0
+  cipher: auto
+  name: '9|baipaovpn美国 #2'
+  network: tcp
+  port: '1069'
+  server: 152.69.197.60
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: ac8e26fe-8150-4b60-ae64-82fc77eba2cf
+- alterId: 0
+  cipher: auto
   name: 10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_10
   network: ws
   port: 8880
