@@ -3,7 +3,7 @@ proxies:
   name: 5|🇯🇵 日本|@ripaojiedian
   password: TNDSJfNv
   port: 42583
-  server: 36.151.195.46
+  server: 36.151.195.48
   skip-cert-verify: true
   type: trojan
 - alterId: 0
@@ -34,14 +34,6 @@ proxies:
     headers:
       Host: oA5FSz9Tjp1.yofnhkfc.xyz
     path: /video/P7EExoE2
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 5|🇯🇵 日本特殊|@ripaojiedian
-  password: amazonskr05
-  port: 443
-  server: 3.112.189.248
-  tfo: false
-  type: ss
 - alterId: 0
   cipher: auto
   name: 6|日本2|@ripaojiedian
