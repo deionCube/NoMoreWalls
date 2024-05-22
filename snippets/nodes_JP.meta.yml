@@ -34,9 +34,17 @@ proxies:
     headers:
       Host: oA5FSz9Tjp1.yofnhkfc.xyz
     path: /video/P7EExoE2
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 5|🇯🇵 日本特殊|@ripaojiedian
+  password: amazonskr05
+  port: 443
+  server: 18.143.159.186
+  tfo: false
+  type: ss
 - alterId: 0
   cipher: auto
-  name: 6|日本2|@ripaojiedian
+  name: '6,9|baipaovpn广东省汕头市 #1'
   network: tcp
   port: '30038'
   server: 183.240.179.207
