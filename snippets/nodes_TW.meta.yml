@@ -1,25 +1,4 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 5|🇹🇼 台湾|@ripaojiedian
-  port: 34998
-  server: 879xhl1.hsspr5bu1-tw02.my777999.top
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 798c4ab8-613f-468f-b3ff-daf43c88aad7
-- alterId: 0
-  cipher: auto
-  name: 6|台湾|@ripaojiedian
-  network: tcp
-  port: '34998'
-  server: 879xhl1.hsspr5bu1-tw02.my777999.top
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 798c4ab8-613f-468f-b3ff-daf43c88aad7
 - name: 8|TW_speednode_0127
   network: ws
   port: 38370
