@@ -58,25 +58,10 @@ proxies:
   server: 43.201.47.36
   tfo: false
   type: ss
-- client-fingerprint: random
-  name: 8|SG_speednode_0042
+- name: 8|SG_speednode_0112
   network: ws
-  port: 2096
-  server: 47.236.167.231
-  servername: mositr.freenods.sbs
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 678ac895-92c2-4f27-a9d4-f1a89c5f5365
-  ws-opts:
-    headers:
-      Host: mositr.freenods.sbs
-    path: /?ed=2560
-- name: 8|SG_speednode_0043
-  network: ws
-  port: 8443
-  server: 47.236.174.206
+  port: 2087
+  server: 47.236.253.41
   servername: jd.wxgqlfx.top
   tls: true
   type: vless
@@ -84,4 +69,112 @@ proxies:
   ws-opts:
     headers:
       host: jd.wxgqlfx.top
-    path: /?ed=2048
+    path: /
+- name: 8|SG_speednode_0114
+  network: ws
+  port: 2096
+  server: 47.236.93.176
+  servername: cfed.tgzdyz2.top
+  tls: true
+  type: vless
+  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
+  ws-opts:
+    headers:
+      host: cfed.tgzdyz2.top
+    path: tg@zdyz2
+- name: 8|SG_speednode_0115
+  network: ws
+  port: 2096
+  server: 47.236.254.120
+  servername: jd.wxgqlfx.top
+  tls: true
+  type: vless
+  uuid: 38a2070d-a256-48f3-891b-c9b68b01c8f7
+  ws-opts:
+    headers:
+      host: jd.wxgqlfx.top
+    path: /
+- name: 8|SG_speednode_0116
+  network: ws
+  port: 3003
+  server: 58.182.218.190
+  servername: a.ssll.gay
+  tls: true
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: a.ssll.gay
+    path: /
+- name: 8|SG_speednode_0117
+  network: ws
+  port: 20872
+  server: 43.156.97.73
+  servername: cfed.tgzdyz2.top
+  tls: true
+  type: vless
+  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
+  ws-opts:
+    headers:
+      host: cfed.tgzdyz2.top
+    path: tg@zdyz2
+- name: 8|SG_speednode_0118
+  network: ws
+  port: 443
+  server: 27.50.48.108
+  servername: cfed.tgzdyz2.top
+  tls: true
+  type: vless
+  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
+  ws-opts:
+    headers:
+      host: cfed.tgzdyz2.top
+    path: tg@zdyz2
+- client-fingerprint: random
+  name: 8|SG_speednode_0120
+  network: ws
+  port: 443
+  security: tls
+  server: 27.50.48.222
+  servername: juzibaipiao.5112233.xyz
+  skip-cert-verify: false
+  tfo: false
+  tls: true
+  type: vless
+  uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+  ws-opts:
+    headers:
+      host: juzibaipiao.5112233.xyz
+    path: /
+- client-fingerprint: random
+  name: 8|SG_speednode_0121
+  network: ws
+  port: 8443
+  security: tls
+  server: 27.50.49.232
+  servername: juzibaipiao.5112233.xyz
+  skip-cert-verify: false
+  tfo: false
+  tls: true
+  type: vless
+  uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+  ws-opts:
+    headers:
+      host: juzibaipiao.5112233.xyz
+    path: '%2f%3fed%3d2048'
+- client-fingerprint: random
+  name: 8|SG_speednode_0123
+  network: ws
+  port: 443
+  security: tls
+  server: 27.50.49.13
+  servername: juzibaipiao.5112233.xyz
+  skip-cert-verify: false
+  tfo: false
+  tls: true
+  type: vless
+  uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+  ws-opts:
+    headers:
+      host: juzibaipiao.5112233.xyz
+    path: '%2f%3fed%3d2048'
