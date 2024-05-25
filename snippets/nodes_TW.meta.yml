@@ -2,10 +2,11 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 5,10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_1
+  name: 5,6,10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_1
   network: ws
   port: 2052
   server: cfcdn1.sanfencdn9.com
+  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -15,3 +16,13 @@ proxies:
     headers:
       Host: tw1bQiWSE4x.fzbqfrse.xyz
     path: /video/GQ2qE5Us9g
+- alterId: 0
+  cipher: auto
+  name: 6|台湾2|@ripaojiedian
+  network: tcp
+  port: '21004'
+  server: tw.lianjianode.cc
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: b5655f14-eba6-4bc4-8f8d-8b60df50baff
