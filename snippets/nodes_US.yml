@@ -24,6 +24,17 @@ proxies:
     headers:
       Host: us82pRzxDMb.fzbqfrse.xyz
     path: /video/qYZue4zaWS
+- alterId: 64
+  cipher: auto
+  client-fingerprint: chrome
+  name: 5|🇺🇸 美国3|@ripaojiedian
+  port: 34414
+  server: 120.238.122.250
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - client-fingerprint: chrome
   name: 5|🇺🇸 美国4|@ripaojiedian
   password: TNDSJfNv
@@ -38,6 +49,16 @@ proxies:
   server: 36.151.195.48
   skip-cert-verify: true
   type: trojan
+- alterId: 64
+  cipher: auto
+  name: 6|美国3|@ripaojiedian
+  network: tcp
+  port: '34414'
+  server: 120.238.122.250
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
   name: 9|baipaovpn美国
@@ -52,3 +73,31 @@ proxies:
     headers:
       Host: fr.grpc.gay
     path: /rongseven?ed=2048
+- alterId: 0
+  cipher: auto
+  name: '9|baipaovpn美国 #1'
+  network: ws
+  port: '80'
+  server: 104.16.61.8
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 6c168fcc-2231-4f3b-8c1e-f6391692df4a
+  ws-opts:
+    headers:
+      Host: erfannewfreenodes.vdmmswyzmzigonvnjk443.workers.dev
+    path: /hms02.fxiaomi.sbs/link
+- alterId: 0
+  cipher: auto
+  name: '9|baipaovpn美国 #2'
+  network: ws
+  port: '2082'
+  server: 104.16.60.8
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: f584de15-2034-4170-a723-f48c2bae5e0f
+  ws-opts:
+    headers:
+      Host: worker-noisy-paper-fa00.hetoj18200.workers.dev
+    path: /afrhms16v.bestxray.buzz/linkws

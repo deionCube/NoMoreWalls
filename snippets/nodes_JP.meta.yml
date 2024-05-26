@@ -6,17 +6,6 @@ proxies:
   server: 36.151.195.48
   skip-cert-verify: true
   type: trojan
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 5|🇯🇵 日本2|@ripaojiedian
-  port: 30038
-  server: 183.240.179.207
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 5bd5899a-4b78-4d75-8570-4d21b43422c4
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 5|🇯🇵 日本特殊|@ripaojiedian
@@ -25,16 +14,6 @@ proxies:
   server: 34.222.36.230
   tfo: false
   type: ss
-- alterId: 0
-  cipher: auto
-  name: 6|日本2|@ripaojiedian
-  network: tcp
-  port: '30038'
-  server: 183.240.179.207
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 5bd5899a-4b78-4d75-8570-4d21b43422c4
 - name: 8|JP_speednode_0066
   network: ws
   port: 443
@@ -47,3 +26,31 @@ proxies:
     headers:
       host: cfed.tgzdyz2.top
     path: tg@zdyz2
+- alterId: 0
+  cipher: auto
+  name: 9|baipaovpn日本
+  network: ws
+  port: '46515'
+  server: 146.56.44.165
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: f0f067fe-8e6d-4d95-816b-601038fd5876
+  ws-opts:
+    headers:
+      Host: ''
+    path: /rongseven?ed=2048
+- alterId: 0
+  cipher: auto
+  name: '9|baipaovpn日本 #1'
+  network: ws
+  port: '46515'
+  server: 146.56.44.165
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: f0f067fe-8e6d-4d95-816b-601038fd5876
+  ws-opts:
+    headers:
+      Host: kr-seoul-oracle-b0566e.ip1.shop
+    path: /rongseven?ed=2048
