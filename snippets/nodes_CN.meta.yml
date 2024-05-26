@@ -26,18 +26,14 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 9|baipaovpn广东省广州市
-  network: ws
-  port: '40396'
-  server: 183.232.166.137
+  name: 9|baipaovpn广东省深圳市
+  network: tcp
+  port: '15600'
+  server: 183.232.142.179
   servername: ''
   tls: false
   type: vmess
-  uuid: 3d9bbb25-d1a9-42dd-b5db-bbd1effaf8da
-  ws-opts:
-    headers:
-      Host: tms.dingtalk.com
-    path: /
+  uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad
 - alterId: 0
   cipher: auto
   name: 9|baipaovpn广东省汕头市
@@ -48,13 +44,3 @@ proxies:
   tls: false
   type: vmess
   uuid: 5bd5899a-4b78-4d75-8570-4d21b43422c4
-- alterId: 0
-  cipher: auto
-  name: 9|baipaovpn广东省佛山市
-  network: tcp
-  port: '15603'
-  server: 183.232.199.28
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad
