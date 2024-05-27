@@ -1,29 +1,12 @@
 proxies:
-- cipher: aes-128-cfb
-  client-fingerprint: chrome
-  name: 5|🇺🇸 美国|@ripaojiedian
-  password: shadowsocks
-  port: 443
-  server: 212.102.47.198
-  tfo: false
-  type: ss
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 5,6|美国2|@ripaojiedian
-  network: ws
-  port: '2095'
-  server: cfcdn1.sanfencdn9.com
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 1564cf5b-48c2-46f9-a59c-0234e936f237
-  ws-opts:
-    headers:
-      Host: us82pRzxDMb.fzbqfrse.xyz
-    path: /video/qYZue4zaWS
+- client-fingerprint: chrome
+  name: 5,8|CN_speednode_0029
+  network: tcp
+  password: TNDSJfNv
+  port: 4603
+  server: 36.151.195.48
+  skip-cert-verify: true
+  type: trojan
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
@@ -35,14 +18,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- client-fingerprint: chrome
-  name: 5,8|CN_speednode_0029
-  network: tcp
-  password: TNDSJfNv
-  port: 4603
-  server: 36.151.195.48
-  skip-cert-verify: true
-  type: trojan
 - client-fingerprint: chrome
   name: 5,8|CN_speednode_0027
   network: tcp
@@ -115,12 +90,12 @@ proxies:
   name: '9|baipaovpn美国 #2'
   network: ws
   port: '80'
-  server: 104.26.0.244
+  server: 172.64.104.182
   servername: ''
   tls: false
   type: vmess
-  uuid: 9133af1b-72e3-40b2-c811-45acaabd0ff0
+  uuid: f0f067fe-8e6d-4d95-816b-601038fd5876
   ws-opts:
     headers:
-      Host: hinet.alipay.ovh
-    path: /?ed=2048
+      Host: fr.grpc.gay
+    path: /rongseven?ed=2048
