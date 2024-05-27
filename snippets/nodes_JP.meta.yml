@@ -14,25 +14,24 @@ proxies:
   server: 34.222.36.230
   tfo: false
   type: ss
-- name: 8|JP_speednode_0112
-  network: ws
-  port: 2053
-  server: 140.238.58.181
-  servername: v116.ylkszy.eu.org
-  tls: true
-  type: vless
-  uuid: c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0
-  ws-opts:
-    headers:
-      host: v116.ylkszy.eu.org
-    path: /
-- alterId: 0
-  cipher: auto
-  name: '9|baipaovpn日本 #1'
-  network: tcp
-  port: '39777'
-  server: 210.230.206.18
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: fc78cd01-99ac-a085-cb84-69a60920129d
+- name: 8|JP_speednode_0062
+  password: c286daa2-59de-455c-8de8-ec032b6ce2e8
+  port: 30102
+  server: 168.138.203.223
+  skip-cert-verify: true
+  sni: jp2.wish.ml
+  type: hysteria2
+- name: 8|JP_speednode_0063
+  password: c286daa2-59de-455c-8de8-ec032b6ce2e8
+  port: 30102
+  server: 103.140.136.23
+  skip-cert-verify: true
+  sni: jp1.wish.ml
+  type: hysteria2
+- name: 8|JP_speednode_0064
+  password: c286daa2-59de-455c-8de8-ec032b6ce2e8
+  port: 30102
+  server: 150.230.4.114
+  skip-cert-verify: true
+  sni: jp3.wish.ml
+  type: hysteria2
