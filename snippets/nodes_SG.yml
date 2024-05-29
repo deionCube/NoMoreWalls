@@ -45,19 +45,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 6f81fa0c-2ee2-43f0-adce-5d14a6643ed4
-- name: 8|SG_speednode_0075
-  network: ws
-  password: b84d16a244460e09
-  port: 3306
-  server: 5.44.249.44
-  skip-cert-verify: true
-  sni: n2.gladns.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: n2.gladns.com
-    path: /gateway/connect
-- name: 8|SG_speednode_0079
+- name: 8|SG_speednode_0109
   network: ws
   password: b84d16a244460e09
   port: 3306
