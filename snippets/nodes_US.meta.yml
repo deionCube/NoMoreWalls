@@ -2,10 +2,11 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 5|🇺🇸 美国|@ripaojiedian
+  name: 5,6|美国|@ripaojiedian
   network: ws
-  port: 2052
+  port: '2052'
   server: hk.wish.ml
+  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -41,26 +42,9 @@ proxies:
   server: 36.151.195.48
   skip-cert-verify: true
   type: trojan
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 5,6|美国6|@ripaojiedian
-  network: ws
-  port: '2095'
-  server: cfcdn1.sanfencdn9.com
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: e83f27c4-b1cb-4311-907c-ea16d32348e1
-  ws-opts:
-    headers:
-      Host: us82pRzxDMb.fzbqfrse.xyz
-    path: /video/qYZue4zaWS
 - alterId: 64
   cipher: auto
-  name: 6|美国3|@ripaojiedian
+  name: 6,9|baipaovpn广东省江门市
   network: tcp
   port: '34414'
   server: 120.238.122.250
@@ -263,15 +247,15 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 9|baipaovpn美国
+  name: 9|baipaovpn美国弗吉尼亚州阿什本
   network: ws
   port: '80'
-  server: 162.159.9.55
+  server: 34.197.201.171
   servername: ''
   tls: false
   type: vmess
-  uuid: 9133af1b-72e3-40b2-c811-45acaabd0ff0
+  uuid: 1d5fb496-19fb-48fb-9880-a147326dee62
   ws-opts:
     headers:
-      Host: hinet.alipay.ovh
-    path: /?ed=2048
+      Host: best-charm-pediatrician.glitch.me
+    path: /1d5fb496-19fb-48fb-9880-a147326dee62-vmess
