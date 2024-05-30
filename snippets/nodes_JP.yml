@@ -14,3 +14,11 @@ proxies:
   skip-cert-verify: false
   sni: nagoya.meijireform.com
   type: trojan
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 5|🇯🇵 日本特殊|@ripaojiedian
+  password: amazonskr05
+  port: 443
+  server: 18.143.93.163
+  tfo: false
+  type: ss
