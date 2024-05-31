@@ -42,6 +42,20 @@ proxies:
   server: 36.151.195.48
   skip-cert-verify: true
   type: trojan
+- alterId: 0
+  cipher: auto
+  name: 6|美国2|@ripaojiedian
+  network: ws
+  port: '8880'
+  server: cfcdn1.sanfencdn9.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: ccd92698-4499-472d-a06f-f90e7e89ba4f
+  ws-opts:
+    headers:
+      Host: us6gzxQRrE4.fzbqfrse.xyz
+    path: /video/bYdJ7Vc2We
 - alterId: 64
   cipher: auto
   name: 6|美国3|@ripaojiedian
@@ -54,7 +68,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: '9|baipaovpn美国 #1'
+  name: 9|baipaovpn美国
   network: ws
   port: '80'
   server: 162.159.9.55
