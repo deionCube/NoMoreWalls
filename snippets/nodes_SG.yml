@@ -29,7 +29,7 @@ proxies:
   name: 5|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 13.212.91.18
+  server: 47.128.230.112
   tfo: false
   type: ss
 - name: 8|SG_speednode_0109
