@@ -1,12 +1,25 @@
 proxies:
-- client-fingerprint: chrome
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
   name: 5|🇹🇼 台湾|@ripaojiedian
-  password: TaE3D3Yc9R2eCzl4OuCpgyCFy4OuCpgyCFy3SlRNY88SKanIejx37OAFZaXDx0anIejx3
-  port: 28332
-  server: sohtsa.taiwanesefood.link
+  port: 34998
+  server: 879xhl1.hsspr5bu1-tw02.my777999.top
   skip-cert-verify: false
-  sni: sohtsa.taiwanesefood.link
-  type: trojan
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 33aefd89-3285-4347-9083-6249711f02e9
+- alterId: 0
+  cipher: auto
+  name: 6|台湾|@ripaojiedian
+  network: tcp
+  port: '34998'
+  server: 879xhl1.hsspr5bu1-tw02.my777999.top
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 33aefd89-3285-4347-9083-6249711f02e9
 - client-fingerprint: chrome
   name: 8|TW_speednode_0130
   network: ws
