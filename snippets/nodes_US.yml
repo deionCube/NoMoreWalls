@@ -2,20 +2,39 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
+  name: 5|🇺🇸 美国|@ripaojiedian
+  port: 40096
+  server: 183.232.170.47
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
   name: 5,6|美国2|@ripaojiedian
   network: ws
-  port: '2082'
+  port: '2052'
   server: cfcdn1.sanfencdn9.com
   servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
   type: vmess
-  uuid: bb1af7d3-9526-44f1-9155-788773cc629e
+  uuid: 3b99fe7d-a3e5-46c2-adee-7c9a8e40eb09
   ws-opts:
     headers:
-      Host: us4Bb5oSgJA.fzbqfrse.xyz
-    path: /video/CuTy87zAzV/
+      Host: us3AJ8biuQx.fzbqfrse.xyz
+    path: /video/QXjZG5u4F2
+- client-fingerprint: chrome
+  name: 5|🇺🇸 美国3|@ripaojiedian
+  password: SREqCp9nAFy38S4xK03YYRzOlxK03YYRzOlcBlDea3OXD5pgZyaZ2eN8j6CITw5pgZyaZ
+  port: 28333
+  server: gobchang.koreanbbq.link
+  skip-cert-verify: false
+  sni: gobchang.koreanbbq.link
+  type: trojan
 - client-fingerprint: chrome
   name: 5,8|CN_speednode_0006
   network: tcp
@@ -26,8 +45,18 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 5|🇺🇸 美国5|@ripaojiedian
-  password: TNDSJfNv
+  password: gkviEOYc
   port: 4787
   server: 36.151.195.48
   skip-cert-verify: true
   type: trojan
+- alterId: 0
+  cipher: auto
+  name: 6|美国|@ripaojiedian
+  network: tcp
+  port: '40096'
+  server: 183.232.170.47
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad
