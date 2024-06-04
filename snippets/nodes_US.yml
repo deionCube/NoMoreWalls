@@ -36,7 +36,7 @@ proxies:
   sni: gobchang.koreanbbq.link
   type: trojan
 - client-fingerprint: chrome
-  name: 5,8|CN_speednode_0250
+  name: 5,8|CN_speednode_0013
   network: tcp
   password: TNDSJfNv
   port: 4603
