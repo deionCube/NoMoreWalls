@@ -28,6 +28,14 @@ proxies:
       Host: us3AJ8biuQx.fzbqfrse.xyz
     path: /video/QXjZG5u4F2
 - client-fingerprint: chrome
+  name: 5|🇺🇸 美国3|@ripaojiedian
+  password: SREqCp9nAFy38S4xK03YYRzOlxK03YYRzOlcBlDea3OXD5pgZyaZ2eN8j6CITw5pgZyaZ
+  port: 28333
+  server: gobchang.koreanbbq.link
+  skip-cert-verify: false
+  sni: gobchang.koreanbbq.link
+  type: trojan
+- client-fingerprint: chrome
   name: 5,8|CN_speednode_0013
   network: tcp
   password: TNDSJfNv
