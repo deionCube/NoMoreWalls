@@ -1,98 +1,24 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 0|-https://t.me/MrXbin-1
-  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
-  plugin: obfs
-  plugin-opts:
-    host: (TG @WangCai2)feec8af:29306
-    mode: tls
-  port: 2377
-  server: 118.163.179.161
-  type: ss
 - cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-4
+  name: 0|-https://t.me/MrXbin-1
   password: amazonskr05
   port: 443
   server: 47.129.9.69
   type: ss
   udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|-https://t.me/MrXbin-5
-  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
-  plugin: obfs
-  plugin-opts:
-    host: (TG @WangCai2)feec8af:29306
-    mode: tls
-  port: 2377
-  server: 118.163.179.162
-  type: ss
 - cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-8
-  obfs: tls1.2_ticket_auth
-  obfs-param: cloudfront.net
-  password: iFqnzSscN
-  port: 8083
-  protocol: origin
-  server: 150.107.46.21
-  type: ssr
-- alterId: 0
-  cipher: auto
-  country: FI
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-76
-  network: ws
-  port: 80
-  server: 135.181.109.197
-  skip-cert-verify: true
-  type: vmess
-  uuid: 1b457053-80cc-4391-b2bf-badfd71ad8cd
-  ws-opts:
-    path: /ZXzpLGLXPrYffqWUhE
-- alterId: 0
-  cipher: auto
-  country: HK
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-77
-  network: ws
-  port: 12909
-  server: 210.3.159.224
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
-  ws-opts:
-    path: /
-- alterId: 0
-  cipher: auto
-  country: IN
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-78
-  network: ws
+  country: JP
+  name: 0|-https://t.me/MrXbin-58
+  password: amazonskr05
   port: 443
-  server: in-full.privateip.net
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 7ac33d15-d4a3-4cad-8c83-fe916f0eaf3c
-  ws-opts:
-    path: /RACEVPN
-- country: IN
-  name: 0|-https://t.me/MrXbin-79
-  password: 47824654-0a19-45ae-9f13-0c2b42ce911f
-  port: 443
-  server: in-full.privateip.net
-  skip-cert-verify: true
-  type: trojan
-  udp: true
+  server: 3.112.219.236
+  type: ss
 - alterId: 0
   cipher: auto
   country: TH
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-80
+  name: 0|-https://t.me/MrXbin-59
   network: ws
   port: 80
   server: th1.no-pro.online
@@ -106,111 +32,35 @@ proxies:
     path: /vmess
 - cipher: chacha20-ietf-poly1305
   country: US
-  name: 0|-https://t.me/MrXbin-82
+  name: 0|-https://t.me/MrXbin-61
   password: lWaGPVFjmnag
   port: 443
   server: 205.134.180.139
+  type: ss
+- cipher: aes-256-gcm
+  country: US
+  name: 0|-https://t.me/MrXbin-62
+  password: Y6R9pAtvxxzmGC
+  port: 5601
+  server: 23.157.40.119
   type: ss
 - alterId: 0
   cipher: auto
   country: US
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-83
+  name: 0|-https://t.me/MrXbin-63
   network: ws
   port: 8080
-  server: 172.67.199.211
-  servername: oiictw.yydsii.com
+  server: yh4.dtku41.xyz
+  servername: dual-nothing-prep-exit.trycloudflare.com
   skip-cert-verify: true
   type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
+  uuid: ef8c954e-014f-4b36-8273-9b5086afab34
   ws-opts:
     headers:
-      HOST: oiictw.yydsii.com
-    path: /
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-85
-  network: ws
-  port: 8080
-  server: 172.67.172.219
-  servername: oiictw.yydsii.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  ws-opts:
-    headers:
-      HOST: oiictw.yydsii.com
-    path: /
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-86
-  network: ws
-  port: 12947
-  server: 195.123.240.45
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
-  ws-opts:
-    path: /
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-87
-  network: ws
-  port: 8080
-  server: 172.67.185.64
-  servername: oiictw.yydsii.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  ws-opts:
-    headers:
-      HOST: oiictw.yydsii.com
-    path: /
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-88
-  network: ws
-  port: 8080
-  server: 172.67.172.65
-  servername: oiictw.yydsii.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  ws-opts:
-    headers:
-      HOST: oiictw.yydsii.com
-    path: /
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-89
-  network: ws
-  port: 8080
-  server: 172.67.169.90
-  servername: oiictw.yydsii.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  ws-opts:
-    headers:
-      HOST: oiictw.yydsii.com
-    path: /
+      HOST: dual-nothing-prep-exit.trycloudflare.com
+    path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
 - cipher: aes-128-gcm
   name: 5|🇭🇰 香港KT|@ripaojiedian
   password: a-wym4ovY4Yw
