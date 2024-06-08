@@ -1,25 +1,16 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 5|🇺🇸 美国|@ripaojiedian
-  password: lWaGPVFjmnag
-  port: 443
-  server: 205.134.180.139
-  tfo: false
-  type: ss
 - client-fingerprint: chrome
-  name: 5,8|CN_speednode_0013
-  network: tcp
-  password: TNDSJfNv
-  port: 4603
-  server: 36.151.195.48
+  name: 5|🇺🇸 美国4|@ripaojiedian
+  password: gkviEOYc
+  port: 23223
+  server: 223.113.54.160
   skip-cert-verify: true
   type: trojan
 - client-fingerprint: chrome
   name: 5|🇺🇸 美国5|@ripaojiedian
   password: gkviEOYc
-  port: 4787
-  server: 36.151.195.48
+  port: 50611
+  server: 183.232.139.22
   skip-cert-verify: true
   type: trojan
 - cipher: aes-256-cfb
