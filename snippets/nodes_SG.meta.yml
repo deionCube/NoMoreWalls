@@ -29,14 +29,6 @@ proxies:
     headers:
       Host: trojan.freenods.sbs
     path: /?ed=2560
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 5|🇸🇬 狮城特殊|@ripaojiedian
-  password: amazonskr05
-  port: 443
-  server: 13.113.253.68
-  tfo: false
-  type: ss
 - client-fingerprint: chrome
   name: 8|SG_speednode_0086
   network: ws
