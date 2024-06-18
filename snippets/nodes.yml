@@ -1,66 +1,83 @@
 proxies:
-- cipher: aes-256-gcm
-  name: 0|-https://t.me/MrXbin-3
-  password: g5MeD6Ft3CWlJId
-  port: 5003
-  server: 38.86.135.31
-  type: ss
 - cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-4
+  name: 0|-https://t.me/MrXbin-2
   password: amazonskr05
   port: 443
   server: 43.202.43.179
   type: ss
   udp: true
+- cipher: aes-128-gcm
+  name: 0|-https://t.me/MrXbin-3
+  password: shadowsocks
+  port: 443
+  server: 212.102.53.80
+  type: ss
 - cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-6
+  name: 0,5|🇸🇬 狮城特殊|@ripaojiedian
+  password: amazonskr05
+  port: 443
+  server: 3.38.251.211
+  tfo: false
+  type: ss
+- cipher: aes-256-cfb
+  name: 0|-https://t.me/MrXbin-5
   password: amazonskr05
   port: 443
   server: 3.112.128.40
   type: ss
 - cipher: rc4-md5
-  name: 0|-https://t.me/MrXbin-10
+  name: 0|-https://t.me/MrXbin-17
   obfs: tls1.2_ticket_auth
   password: Cskw6d
-  port: 13183
+  port: 13223
+  protocol: auth_aes128_md5
+  protocol-param: 524959:5u4MZ6
+  server: xrbsy1.cdn.node.a.tddns-ounk.com
+  type: ssr
+- cipher: rc4-md5
+  name: 0|-https://t.me/MrXbin-26
+  obfs: tls1.2_ticket_auth
+  password: Cskw6d
+  port: 13186
   protocol: auth_aes128_md5
   protocol-param: 524959:5u4MZ6
   server: z5is.cdn.node.a.tddns-ounk.com
   type: ssr
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-12
-  obfs: tls1.2_ticket_auth
-  password: fou8MBGij
-  port: 8081
-  protocol: origin
-  server: us-am3.eqnode.net
-  type: ssr
+- name: 0|-https://t.me/MrXbin-33
+  password: 4a67f957-d53d-486d-8295-1add754fc16d
+  port: 50001
+  server: agroup.node2.t.nodelist-gfwairport2.top
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+- country: SG
+  name: 0|-https://t.me/MrXbin-147
+  password: 0f408453-2589-4fc2-bf9d-22e0cef8b8d2
+  port: 20230
+  server: sg08.421421.xyz
+  skip-cert-verify: true
+  sni: 421421.xyz
+  type: trojan
+  udp: true
+- name: 0|-https://t.me/MrXbin-35
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 3.67.160.118
+  sni: trojan.burgerip.co.uk
+  type: trojan
 - cipher: aes-256-cfb
   country: BE
-  name: 0|-https://t.me/MrXbin-30
+  name: 0|-https://t.me/MrXbin-36
   password: amazonskr05
   port: 443
   server: 57.180.25.130
   type: ss
 - alterId: 0
   cipher: auto
-  country: BE
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-31
-  network: ws
-  port: 80
-  server: jp02.rosemarytrustworthy.icu
-  skip-cert-verify: true
-  type: vmess
-  uuid: 4022f6b4-ab73-4147-9a00-ff0b4c4a09cb
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
   country: CA
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-32
+  name: 0|-https://t.me/MrXbin-37
   network: tcp
   port: 443
   server: ca-v2ray.ipracevpn.com
@@ -73,10 +90,10 @@ proxies:
   country: DE
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-107
+  name: 0|-https://t.me/MrXbin-109
   network: ws
   port: 443
-  server: 92.223.124.25
+  server: 92.223.124.17
   servername: sanapardaz.onthewifi.com
   skip-cert-verify: true
   tls: true
@@ -91,10 +108,10 @@ proxies:
   country: DE
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-108
+  name: 0|-https://t.me/MrXbin-110
   network: ws
   port: 443
-  server: 92.223.124.17
+  server: 92.223.124.25
   servername: sanapardaz.onthewifi.com
   skip-cert-verify: true
   tls: true
@@ -105,24 +122,44 @@ proxies:
       HOST: sanapardaz.onthewifi.com
     path: /@V2RAY_CONFIGS_POOL
 - country: DE
-  name: 0|-https://t.me/MrXbin-109
-  password: DjjmkA5lzBjU
-  port: 12270
+  name: 0|-https://t.me/MrXbin-111
+  password: cXHlEDeHMHNO
+  port: 12440
+  server: 18.196.7.44
+  skip-cert-verify: true
+  sni: appsvs.shop
+  type: trojan
+  udp: true
+- country: DE
+  name: 0|-https://t.me/MrXbin-112
+  password: BK4lULQDlWnR
+  port: 12454
+  server: 35.159.81.207
+  skip-cert-verify: true
+  sni: appsvs.shop
+  type: trojan
+  udp: true
+- country: DE
+  name: 0|-https://t.me/MrXbin-113
+  password: )i8xTvfIj3Eu
+  port: 12453
   server: 18.199.226.86
   skip-cert-verify: true
   sni: appsvs.shop
   type: trojan
   udp: true
-- cipher: chacha20-ietf-poly1305
-  country: GB
-  name: 0|-https://t.me/MrXbin-110
-  password: aXuV8k5a4NFmkphgr5NTlL
-  port: 52338
-  server: 89.185.84.185
-  type: ss
+- country: DE
+  name: 0|-https://t.me/MrXbin-114
+  password: f)0xdid8KI14
+  port: 12462
+  server: 3.70.96.199
+  skip-cert-verify: true
+  sni: appsvs.shop
+  type: trojan
+  udp: true
 - cipher: aes-128-gcm
   country: GB
-  name: 0|-https://t.me/MrXbin-111
+  name: 0|-https://t.me/MrXbin-115
   password: shadowsocks
   port: 443
   server: 212.102.53.194
@@ -132,7 +169,7 @@ proxies:
   country: GB
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-112
+  name: 0|-https://t.me/MrXbin-116
   network: ws
   port: 443
   server: 93.123.11.12
@@ -145,57 +182,214 @@ proxies:
     headers:
       HOST: sanapardaz.onthewifi.com
     path: /@V2RAY_CONFIGS_POOL
+- country: GB
+  name: 0|-https://t.me/MrXbin-117
+  password: 5abd691e-7c75-4096-81cb-ce9c7739fe16
+  port: 443
+  server: sg01.trojanyyds.xyz
+  skip-cert-verify: true
+  sni: sg01.trojanyyds.xyz
+  type: trojan
+  udp: true
+- country: GB
+  name: 0|-https://t.me/MrXbin-118
+  password: 5abd691e-7c75-4096-81cb-ce9c7739fe16
+  port: 443
+  server: tw01.trojanyyds.xyz
+  skip-cert-verify: true
+  sni: tw01.trojanyyds.xyz
+  type: trojan
+  udp: true
+- country: GB
+  name: 0|-https://t.me/MrXbin-119
+  password: 5abd691e-7c75-4096-81cb-ce9c7739fe16
+  port: 443
+  server: hk03.trojanyyds.xyz
+  skip-cert-verify: true
+  sni: hk03.trojanyyds.xyz
+  type: trojan
+  udp: true
+- country: GB
+  name: 0|-https://t.me/MrXbin-120
+  password: 5abd691e-7c75-4096-81cb-ce9c7739fe16
+  port: 443
+  server: sk01.trojanyyds.xyz
+  skip-cert-verify: true
+  sni: sk01.trojanyyds.xyz
+  type: trojan
+  udp: true
+- country: GB
+  name: 0|-https://t.me/MrXbin-121
+  password: 5abd691e-7c75-4096-81cb-ce9c7739fe16
+  port: 443
+  server: hk01.trojanyyds.xyz
+  skip-cert-verify: true
+  sni: hk01.trojanyyds.xyz
+  type: trojan
+  udp: true
+- country: GB
+  name: 0|-https://t.me/MrXbin-122
+  password: 5abd691e-7c75-4096-81cb-ce9c7739fe16
+  port: 443
+  server: de01.trojanyyds.xyz
+  skip-cert-verify: true
+  sni: de01.trojanyyds.xyz
+  type: trojan
+  udp: true
+- country: GB
+  name: 0|-https://t.me/MrXbin-123
+  password: 5abd691e-7c75-4096-81cb-ce9c7739fe16
+  port: 443
+  server: us01.trojanyyds.xyz
+  skip-cert-verify: true
+  sni: us01.trojanyyds.xyz
+  type: trojan
+  udp: true
+- country: HK
+  name: 0|-https://t.me/MrXbin-124
+  password: 5abd691e-7c75-4096-81cb-ce9c7739fe16
+  port: 443
+  server: hk02.trojanyyds.xyz
+  skip-cert-verify: true
+  sni: hk02.trojanyyds.xyz
+  type: trojan
+  udp: true
 - cipher: chacha20-ietf-poly1305
   country: ' IE'
-  name: 0|-https://t.me/MrXbin-113
+  name: 0|-https://t.me/MrXbin-125
   password: yoOT6tXP5LdMyyU5IQDcGn
   port: 21190
   server: 13.79.72.88
   type: ss
 - cipher: chacha20-ietf-poly1305
   country: IE
-  name: 0|-https://t.me/MrXbin-114
+  name: 0|-https://t.me/MrXbin-126
   password: bLlbFBQ5WI6iCiRnfoxORn
   port: 22885
   server: 13.74.253.230
   type: ss
 - cipher: aes-256-cfb
   country: JP
-  name: 0|-https://t.me/MrXbin-115
-  obfs: tls1.2_ticket_auth
-  password: eAokbaDN6
-  port: 8081
-  protocol: origin
-  protocol-param: ",:\x16\x13##\x16@...:#%%%%%%%%%\x12%^..%"
-  server: jp-am48-6.eqnode.net
-  type: ssr
+  name: 0|-https://t.me/MrXbin-127
+  password: amazonskr05
+  port: 443
+  server: 18.181.170.157
+  type: ss
+- cipher: aes-256-cfb
+  country: JP
+  name: 0|-https://t.me/MrXbin-128
+  password: amazonskr05
+  port: 443
+  server: 3.112.219.236
+  type: ss
+- cipher: aes-256-cfb
+  country: JP
+  name: 0|-https://t.me/MrXbin-129
+  password: amazonskr05
+  port: 443
+  server: 18.179.23.67
+  type: ss
+- cipher: aes-256-cfb
+  country: JP
+  name: 0|-https://t.me/MrXbin-130
+  password: amazonskr05
+  port: 443
+  server: 13.113.253.68
+  type: ss
+- cipher: aes-256-cfb
+  country: JP
+  name: 0|-https://t.me/MrXbin-131
+  password: amazonskr05
+  port: 443
+  server: 52.194.225.73
+  type: ss
+- cipher: aes-256-cfb
+  country: JP
+  name: 0|-https://t.me/MrXbin-132
+  password: amazonskr05
+  port: 443
+  server: 18.183.130.46
+  type: ss
+- cipher: aes-256-cfb
+  country: JP
+  name: 0|-https://t.me/MrXbin-133
+  password: amazonskr05
+  port: 443
+  server: 3.112.233.37
+  type: ss
+- cipher: aes-256-cfb
+  country: JP
+  name: 0|-https://t.me/MrXbin-134
+  password: amazonskr05
+  port: 443
+  server: 3.112.44.123
+  type: ss
 - country: JP
-  name: 0|-https://t.me/MrXbin-116
-  password: a2byUJKXvUfa
-  port: 12273
-  server: 52.197.12.248
+  name: 0|-https://t.me/MrXbin-135
+  password: 5abd691e-7c75-4096-81cb-ce9c7739fe16
+  port: 443
+  server: hk04.trojanyyds.xyz
   skip-cert-verify: true
-  sni: appsvs.shop
+  sni: hk04.trojanyyds.xyz
   type: trojan
   udp: true
 - country: JP
-  name: 0|-https://t.me/MrXbin-117
-  password: 2e660d96-f2d2-43c0-aa62-bf92edbac0cf
-  port: 20230
-  server: jp07.421421.xyz
+  name: 0|-https://t.me/MrXbin-136
+  password: 5abd691e-7c75-4096-81cb-ce9c7739fe16
+  port: 443
+  server: in01.trojanyyds.xyz
   skip-cert-verify: true
-  sni: 421421.xyz
+  sni: in01.trojanyyds.xyz
   type: trojan
   udp: true
+- country: JP
+  name: 0|-https://t.me/MrXbin-137
+  password: 5abd691e-7c75-4096-81cb-ce9c7739fe16
+  port: 443
+  server: us02.trojanyyds.xyz
+  skip-cert-verify: true
+  sni: us02.trojanyyds.xyz
+  type: trojan
+  udp: true
+- country: JP
+  name: 0|-https://t.me/MrXbin-138
+  password: 5abd691e-7c75-4096-81cb-ce9c7739fe16
+  port: 443
+  server: tw02.trojanyyds.xyz
+  skip-cert-verify: true
+  sni: tw02.trojanyyds.xyz
+  type: trojan
+  udp: true
+- cipher: aes-256-cfb
+  country: KR
+  name: 0|-https://t.me/MrXbin-139
+  password: amazonskr05
+  port: 443
+  server: 52.79.247.2
+  type: ss
+- cipher: aes-256-cfb
+  country: KR
+  name: 0|-https://t.me/MrXbin-140
+  password: amazonskr05
+  port: 443
+  server: 54.180.230.217
+  type: ss
+- cipher: aes-256-cfb
+  country: KR
+  name: 0|-https://t.me/MrXbin-141
+  password: amazonskr05
+  port: 443
+  server: 43.201.17.220
+  type: ss
 - alterId: 0
   cipher: auto
-  country: KG
+  country: NA
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-118
+  name: 0|-https://t.me/MrXbin-142
   network: ws
   port: 443
-  server: 195.216.237.197
+  server: 197.188.22.102
   servername: sanapardaz.onthewifi.com
   skip-cert-verify: true
   tls: true
@@ -205,167 +399,82 @@ proxies:
     headers:
       HOST: sanapardaz.onthewifi.com
     path: /@V2RAY_CONFIGS_POOL
-- cipher: aes-256-cfb
-  country: KR
-  name: 0|-https://t.me/MrXbin-119
-  password: amazonskr05
-  port: 443
-  server: 43.201.17.220
-  type: ss
-- cipher: aes-256-cfb
-  country: KR
-  name: 0|-https://t.me/MrXbin-120
-  password: amazonskr05
-  port: 443
-  server: 54.180.230.217
-  type: ss
-- cipher: aes-256-cfb
-  country: KR
-  name: 0|-https://t.me/MrXbin-121
-  password: amazonskr05
-  port: 443
-  server: 52.79.247.2
-  type: ss
-- alterId: 0
-  cipher: auto
-  country: KR
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-122
-  network: ws
-  port: 80
-  server: kr01.rosemarytrustworthy.icu
-  skip-cert-verify: true
-  type: vmess
-  uuid: 4022f6b4-ab73-4147-9a00-ff0b4c4a09cb
-  ws-opts: {}
-- country: KR
-  name: 0|-https://t.me/MrXbin-123
-  password: xgIgq(DBXio1
-  port: 12288
-  server: 54.180.246.31
-  skip-cert-verify: true
-  sni: appsvs.shop
-  type: trojan
-  udp: true
 - cipher: chacha20-ietf-poly1305
-  country: NL
-  name: 0|-https://t.me/MrXbin-124
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-  port: 8080
-  server: 193.29.139.251
-  type: ss
-- cipher: aes-256-gcm
-  country: PL
-  name: 0|-https://t.me/MrXbin-125
-  password: Y6R9pAtvxxzmGC
-  port: 5000
-  server: 51.77.53.200
-  type: ss
-- cipher: aes-256-gcm
-  country: PL
-  name: 0|-https://t.me/MrXbin-126
-  password: KixLvKzwjekG00rm
-  port: 8080
-  server: 51.77.53.200
-  type: ss
-- cipher: aes-256-gcm
-  country: PL
-  name: 0|-https://t.me/MrXbin-127
-  password: Y6R9pAtvxxzmGC
-  port: 3389
-  server: 51.77.53.200
-  type: ss
-- cipher: aes-256-gcm
-  country: PL
-  name: 0|-https://t.me/MrXbin-128
-  password: Y6R9pAtvxxzmGC
-  port: 5001
-  server: 51.77.53.200
-  type: ss
-- cipher: aes-256-gcm
-  country: PL
-  name: 0|-https://t.me/MrXbin-129
-  password: cdBIDV42DCwnfIN
-  port: 8118
-  server: 51.77.53.200
-  type: ss
-- cipher: aes-256-gcm
-  country: PL
-  name: 0|-https://t.me/MrXbin-130
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 51.77.53.200
-  type: ss
-- cipher: aes-256-gcm
-  country: PL
-  name: 0|-https://t.me/MrXbin-131
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 51.77.53.200
-  type: ss
-- cipher: aes-256-gcm
-  country: PL
-  name: 0|-https://t.me/MrXbin-132
-  password: kDWvXYZoTBcGkC4
-  port: 8882
-  server: 51.77.53.200
-  type: ss
-- cipher: aes-256-gcm
-  country: PL
-  name: 0|-https://t.me/MrXbin-133
-  password: FoOiGlkAA9yPEGP
-  port: 7306
-  server: 51.77.53.200
-  type: ss
-- cipher: aes-256-gcm
-  country: PL
-  name: 0|-https://t.me/MrXbin-134
-  password: cdBIDV42DCwnfIN
-  port: 8119
-  server: 51.77.53.200
-  type: ss
-- cipher: aes-256-gcm
-  country: PL
-  name: 0|-https://t.me/MrXbin-135
-  password: kDWvXYZoTBcGkC4
-  port: 8881
-  server: 51.77.53.200
+  country: ' PL'
+  name: 0|-https://t.me/MrXbin-143
+  password: 3pURuTUf-lFgg5qWg8euFA
+  port: 1080
+  server: 188.116.20.185
   type: ss
 - cipher: chacha20-ietf-poly1305
   country: RU
-  name: 0|-https://t.me/MrXbin-136
+  name: 0|-https://t.me/MrXbin-144
   password: 3pURuTUf-lFgg5qWg8euFA
   port: 1080
   server: 31.129.22.73
   type: ss
-- cipher: chacha20-ietf-poly1305
-  country: UA
-  name: 0|-https://t.me/MrXbin-137
-  password: 9Eli0vyoLMRCQqln6HUVZEOrEqjG7Aefj6RBuxsxMQhMevOk
-  port: 51348
-  server: 130.0.233.247
+- cipher: aes-256-cfb
+  country: SG
+  name: 0|-https://t.me/MrXbin-145
+  password: amazonskr05
+  port: 443
+  server: 13.215.177.171
+  type: ss
+- cipher: aes-256-cfb
+  country: SG
+  name: 0|-https://t.me/MrXbin-146
+  password: amazonskr05
+  port: 443
+  server: 18.143.159.186
   type: ss
 - cipher: aes-256-gcm
   country: US
-  name: 0|-https://t.me/MrXbin-138
+  name: 0|-https://t.me/MrXbin-148
+  password: PCnnH6SQSnfoS27
+  port: 8091
+  server: 23.157.40.120
+  type: ss
+- cipher: aes-256-gcm
+  country: US
+  name: 0|-https://t.me/MrXbin-149
+  password: pKEW8JPByTVTLtM
+  port: 443
+  server: 23.157.40.120
+  type: ss
+- cipher: aes-256-gcm
+  country: US
+  name: 0|-https://t.me/MrXbin-150
+  password: Y6R9pAtvxxzmGC
+  port: 5001
+  server: 23.157.40.120
+  type: ss
+- cipher: aes-256-gcm
+  country: US
+  name: 0|-https://t.me/MrXbin-151
+  password: lGqs95QkFHo2NV
+  port: 5498
+  server: 23.157.40.120
+  type: ss
+- cipher: aes-256-cfb
+  country: US
+  name: 0|-https://t.me/MrXbin-152
+  password: amazonskr05
+  port: 443
+  server: 43.202.40.133
+  type: ss
+- cipher: aes-256-gcm
+  country: US
+  name: 0|-https://t.me/MrXbin-153
+  password: Y6R9pAtvxxzmGC
+  port: 5601
+  server: 23.157.40.120
+  type: ss
+- cipher: aes-256-gcm
+  country: US
+  name: 0|-https://t.me/MrXbin-154
   password: lGqs95QkFHo2NV
   port: 5498
   server: 23.154.136.137
-  type: ss
-- cipher: aes-256-gcm
-  country: US
-  name: 0|-https://t.me/MrXbin-139
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 23.157.40.120
-  type: ss
-- cipher: aes-256-gcm
-  country: US
-  name: 0|-https://t.me/MrXbin-140
-  password: cdBIDV42DCwnfIN
-  port: 8118
-  server: 23.157.40.120
   type: ss
 - cipher: aes-256-gcm
   country: US
@@ -375,60 +484,25 @@ proxies:
   server: 38.121.43.248
   tfo: false
   type: ss
-- cipher: aes-256-cfb
-  country: US
-  name: 0|-https://t.me/MrXbin-142
-  password: amazonskr05
-  port: 443
-  server: 43.207.171.228
-  type: ss
 - cipher: aes-256-gcm
   country: US
-  name: 0|-https://t.me/MrXbin-143
-  password: Y6R9pAtvxxzmGC
-  port: 5600
+  name: 0|-https://t.me/MrXbin-156
+  password: KixLvKzwjekG00rm
+  port: 8000
   server: 23.157.40.120
   type: ss
 - cipher: aes-256-gcm
   country: US
-  name: 0|-https://t.me/MrXbin-144
-  password: pKEW8JPByTVTLtM
-  port: 443
-  server: 23.157.40.120
-  type: ss
-- cipher: aes-256-gcm
-  country: US
-  name: 0|-https://t.me/MrXbin-145
-  password: zDNVedRFPQexG9v
-  port: 6379
-  server: 23.157.40.120
-  type: ss
-- cipher: aes-256-gcm
-  country: US
-  name: 0|-https://t.me/MrXbin-146
+  name: 0|-https://t.me/MrXbin-157
   password: faBAoD54k87UJG7
   port: 2376
   server: 23.157.40.120
   type: ss
 - cipher: aes-256-gcm
   country: US
-  name: 0|-https://t.me/MrXbin-147
-  password: XKFKl2rULjIp74
-  port: 8008
-  server: 23.157.40.120
-  type: ss
-- cipher: aes-256-gcm
-  country: US
-  name: 0|-https://t.me/MrXbin-148
+  name: 0|-https://t.me/MrXbin-158
   password: Y6R9pAtvxxzmGC
   port: 9090
-  server: 23.157.40.120
-  type: ss
-- cipher: aes-256-gcm
-  country: US
-  name: 0|-https://t.me/MrXbin-149
-  password: lGqs95QkFHo2NV
-  port: 5498
   server: 23.157.40.120
   type: ss
 - alterId: 64
@@ -436,7 +510,76 @@ proxies:
   country: US
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-150
+  name: 0|-https://t.me/MrXbin-160
+  network: ws
+  port: 443
+  server: 107.167.20.186
+  servername: www.15314695.xyz
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  ws-opts:
+    headers:
+      HOST: www.15314695.xyz
+    path: /path/191019072927
+- alterId: 0
+  cipher: auto
+  country: US
+  h2-opts: {}
+  http-opts: {}
+  name: 0|-https://t.me/MrXbin-161
+  network: ws
+  port: 8080
+  server: 172.67.169.91
+  servername: oiictw.yydsii.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
+  ws-opts:
+    headers:
+      HOST: oiictw.yydsii.com
+    path: /
+- alterId: 0
+  cipher: auto
+  country: US
+  h2-opts: {}
+  http-opts: {}
+  name: 0|-https://t.me/MrXbin-163
+  network: ws
+  port: 8080
+  server: 172.67.172.50
+  servername: oiictw.yydsii.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
+  ws-opts:
+    headers:
+      HOST: oiictw.yydsii.com
+    path: /
+- alterId: 0
+  cipher: auto
+  country: US
+  h2-opts: {}
+  http-opts: {}
+  name: 0|-https://t.me/MrXbin-164
+  network: ws
+  port: 8080
+  server: 172.67.199.143
+  servername: oiictw.yydsii.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
+  ws-opts:
+    headers:
+      HOST: oiictw.yydsii.com
+    path: /
+- alterId: 64
+  cipher: auto
+  country: US
+  h2-opts: {}
+  http-opts: {}
+  name: 0|-https://t.me/MrXbin-165
   network: ws
   port: 38001
   server: 38.33.57.13
@@ -454,192 +597,10 @@ proxies:
   country: US
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-151
+  name: 0|-https://t.me/MrXbin-166
   network: ws
   port: 8080
-  server: 172.67.185.79
-  servername: oiictw.yydsii.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  ws-opts:
-    headers:
-      HOST: oiictw.yydsii.com
-    path: /
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-152
-  network: ws
-  port: 8080
-  server: 172.67.172.65
-  servername: oiictw.yydsii.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  ws-opts:
-    headers:
-      HOST: oiictw.yydsii.com
-    path: /
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-153
-  network: ws
-  port: 8080
-  server: 172.67.199.211
-  servername: oiictw.yydsii.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  ws-opts:
-    headers:
-      HOST: oiictw.yydsii.com
-    path: /
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-154
-  network: ws
-  port: 8080
-  server: 172.67.185.64
-  servername: oiictw.yydsii.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  ws-opts:
-    headers:
-      HOST: oiictw.yydsii.com
-    path: /
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-155
-  network: ws
-  port: 8080
-  server: 172.67.199.185
-  servername: oiictw.yydsii.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  ws-opts:
-    headers:
-      HOST: oiictw.yydsii.com
-    path: /
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-156
-  network: ws
-  port: 8080
-  server: 172.67.172.67
-  servername: oiictw.yydsii.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  ws-opts:
-    headers:
-      HOST: oiictw.yydsii.com
-    path: /
-- alterId: 64
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-157
-  network: ws
-  port: 443
-  server: 107.167.20.186
-  servername: www.15314695.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  ws-opts:
-    headers:
-      HOST: www.15314695.xyz
-    path: /path/191019072927
-- alterId: 64
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-158
-  network: ws
-  port: 49997
-  server: 107.148.209.84
-  servername: www.47825872.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  ws-opts:
-    headers:
-      HOST: www.47825872.xyz
-    path: /path/191019072927
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-159
-  network: ws
-  port: 80
-  server: us02.rosemarytrustworthy.icu
-  skip-cert-verify: true
-  type: vmess
-  uuid: 4022f6b4-ab73-4147-9a00-ff0b4c4a09cb
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-160
-  network: ws
-  port: 8080
-  server: 172.67.169.90
-  servername: oiictw.yydsii.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  ws-opts:
-    headers:
-      HOST: oiictw.yydsii.com
-    path: /
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-161
-  network: ws
-  port: 80
-  server: us04.rosemarytrustworthy.icu
-  servername: us04.rosemarytrustworthy.icu
-  skip-cert-verify: true
-  type: vmess
-  uuid: 4022f6b4-ab73-4147-9a00-ff0b4c4a09cb
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-162
-  network: ws
-  port: 8080
-  server: kkyx.yydsii.com
+  server: 172.67.199.216
   servername: oiictw.yydsii.com
   skip-cert-verify: true
   type: vmess
@@ -873,13 +834,6 @@ proxies:
   password: amazonskr05
   port: 443
   server: 52.199.130.48
-  tfo: false
-  type: ss
-- cipher: aes-256-cfb
-  name: 5|🇸🇬 狮城特殊|@ripaojiedian
-  password: amazonskr05
-  port: 443
-  server: 3.38.251.211
   tfo: false
   type: ss
 - cipher: aes-256-cfb
