@@ -48,10 +48,13 @@ proxies:
   server: 183.232.139.22
   skip-cert-verify: true
   type: trojan
-- client-fingerprint: chrome
-  name: 5|🇺🇸 美国5|@ripaojiedian
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 5,8|CN_speednode_0038
   password: gkviEOYc
   port: 50611
   server: 183.232.139.22
   skip-cert-verify: true
   type: trojan
+  udp: true

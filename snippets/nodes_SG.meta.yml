@@ -7,17 +7,3 @@ proxies:
   skip-cert-verify: false
   sni: mention.protocolbuffer.com
   type: trojan
-- client-fingerprint: chrome
-  name: 8|SG_speednode_0074
-  network: ws
-  port: 2053
-  server: 47.236.125.62
-  skip-cert-verify: true
-  tfo: false
-  tls: true
-  type: vless
-  uuid: 7509f896-2115-4420-b487-501c9103bebd
-  ws-opts:
-    headers:
-      Host: ccs.443888.xyz
-    path: /vless?ed=2560

@@ -45,13 +45,16 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- client-fingerprint: chrome
-  name: 5|🇭🇰 香港4|@ripaojiedian
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 5,8|CN_speednode_0015
   password: gkviEOYc
   port: 4027
   server: 183.232.139.22
   skip-cert-verify: true
   type: trojan
+  udp: true
 - cipher: aes-128-gcm
   client-fingerprint: chrome
   name: 5|🇭🇰 香港5|@ripaojiedian
