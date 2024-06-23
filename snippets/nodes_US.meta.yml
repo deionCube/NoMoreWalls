@@ -19,11 +19,10 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 5,6|美国2|@ripaojiedian
+  name: 5|🇺🇸 美国2|@ripaojiedian
   network: ws
-  port: '8880'
+  port: 8880
   server: cfcdn1.sanfencdn9.com
-  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -50,6 +49,34 @@ proxies:
   skip-cert-verify: true
   type: trojan
   udp: true
+- alterId: 0
+  cipher: auto
+  name: 6|美国2|@ripaojiedian
+  network: ws
+  port: '2052'
+  server: cfcdn1.sanfencdn9.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fec25e7b-3e30-4702-9b93-62ed3849a9d7
+  ws-opts:
+    headers:
+      Host: us1cPZiz8nb.fzbqfrse.xyz
+    path: /video/6VBhAkCtV4/
+- alterId: 0
+  cipher: auto
+  name: 6|美国6|@ripaojiedian
+  network: ws
+  port: '46036'
+  server: mmus36.micloud.buzz
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e0affd30-6517-4f32-a2bd-71faab70b40a
+  ws-opts:
+    headers:
+      Host: ''
+    path: /zh-cn
 - client-fingerprint: chrome
   name: 8|US_speednode_0257
   network: ws
