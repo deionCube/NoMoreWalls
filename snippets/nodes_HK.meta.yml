@@ -19,18 +19,13 @@ proxies:
   cipher: auto
   client-fingerprint: chrome
   name: 5|🇭🇰 香港|@ripaojiedian
-  network: ws
-  port: 21949
-  server: sui.forlive.live
+  port: 41169
+  server: 154.198.227.114
   skip-cert-verify: false
   tfo: false
   tls: false
   type: vmess
-  uuid: 98f068ea-cd44-4a66-9cd4-710fb40ffcce
-  ws-opts:
-    headers:
-      Host: tms.dingtalk.com
-    path: /
+  uuid: ebc31ff4-0c12-4356-bbf4-57988c6ea320
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
