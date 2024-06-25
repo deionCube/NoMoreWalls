@@ -1,59 +1,64 @@
 proxies:
+- cipher: aes-256-gcm
+  name: 0|-https://t.me/MrXbin-36
+  password: faBAoD54k87UJG7
+  port: 2375
+  server: 38.68.134.9
+  type: ss
+- cipher: aes-256-gcm
+  name: 0|-https://t.me/MrXbin-37
+  password: XKFKl2rULjIp74
+  port: 8009
+  server: 38.68.134.9
+  type: ss
+- cipher: aes-256-cfb
+  name: 0|-https://t.me/MrXbin-38
+  password: amazonskr05
+  port: 443
+  server: 3.39.251.119
+  type: ss
+- cipher: aes-256-cfb
+  country: JP
+  name: 0|-https://t.me/MrXbin-131
+  obfs: tls1.2_ticket_auth
+  password: eAokbaDN6
+  port: 8081
+  protocol: origin
+  server: jp-am48-6.eqnode.net
+  type: ssr
 - cipher: aes-256-cfb
   country: KR
-  name: 0|-https://t.me/MrXbin-92
+  name: 0|-https://t.me/MrXbin-132
   password: amazonskr05
   port: 443
   server: 54.180.251.250
   type: ss
-- cipher: aes-256-gcm
-  country: US
-  name: 0|-https://t.me/MrXbin-93
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 38.110.1.43
-  type: ss
-- cipher: aes-256-gcm
-  country: US
-  name: 0|-https://t.me/MrXbin-94
-  password: lGqs95QkFHo2NV
-  port: 5499
-  server: 38.110.1.43
-  type: ss
-- alterId: 0
+- alterId: 1
   cipher: auto
   country: US
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-95
+  name: 0|-https://t.me/MrXbin-133
   network: ws
-  port: 8080
-  server: 172.67.172.219
-  servername: oiictw.yydsii.com
+  port: 443
+  server: hms07.xfixedfloat.cfd
+  servername: afrhms07.xfixedfloat.cfd
   skip-cert-verify: true
+  tls: true
   type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
+  uuid: a1655f51-1e20-4a92-8a11-b7ca30a7a353
   ws-opts:
     headers:
-      HOST: oiictw.yydsii.com
-    path: /
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-96
-  network: ws
-  port: 8080
-  server: 172.67.172.65
-  servername: oiictw.yydsii.com
+      HOST: afrhms07.xfixedfloat.cfd
+    path: /linkws
+- country: US
+  name: 0|-https://t.me/MrXbin-135
+  password: 2155145a-b1b5-443a-8977-670f6bd10f02
+  port: 50001
+  server: bgroup.node2.t.nodelist-gfwairport2.top
   skip-cert-verify: true
-  type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  ws-opts:
-    headers:
-      HOST: oiictw.yydsii.com
-    path: /
+  type: trojan
+  udp: true
 - cipher: aes-128-gcm
   name: 5|🇭🇰 香港KT|@ripaojiedian
   password: a-wym4ovY4Yw
