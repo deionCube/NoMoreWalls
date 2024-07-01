@@ -6,25 +6,14 @@ proxies:
   server: 223.113.54.154
   skip-cert-verify: true
   type: trojan
-- cipher: chacha20-ietf-poly1305
+- cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 5|🇯🇵 日本2|@ripaojiedian
-  password: edf4caf7-6788-31a8-9893-93c053f7bbc2
-  port: 61001
-  server: 4.forlive.live
+  name: 5|🇯🇵 日本R|@ripaojiedian
+  password: hGkQ6915tD
+  port: 15084
+  server: 59.56.77.178
   tfo: false
   type: ss
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 5|🇯🇵 日本3|@ripaojiedian
-  port: 55218
-  server: 103.85.25.134
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 3827a5c8-c031-46cf-848d-e890d0ead803
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -49,41 +38,14 @@ proxies:
   skip-cert-verify: false
   sni: aixunx168.top
   type: trojan
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 5,6|日本6|@ripaojiedian
-  network: ws
-  port: '80'
-  server: cfcdn3.sanfencdn9.com
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: cd0eb936-9e1e-4730-989e-be43e7fcaf3e
-  ws-opts:
-    headers:
-      Host: GWYp69Yujp2.yofnhkfc.xyz
-    path: /video/VDXcaM7r
 - cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 5|🇯🇵 日本R|@ripaojiedian
-  password: hGkQ6915tD
-  port: 15084
-  server: 59.56.77.178
+  name: 5|🇯🇵 日本特殊|@ripaojiedian
+  password: amazonskr05
+  port: 443
+  server: 3.39.227.28
   tfo: false
   type: ss
-- alterId: 0
-  cipher: auto
-  name: 6|日本3|@ripaojiedian
-  network: tcp
-  port: '55218'
-  server: 103.85.25.134
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 3827a5c8-c031-46cf-848d-e890d0ead803
 - alterId: 0
   cipher: auto
   name: 6|日本4|@ripaojiedian
@@ -103,21 +65,6 @@ proxies:
   client-fingerprint: random
   name: 8|JP_speednode_0119
   network: ws
-  port: 443
-  server: 34.97.85.97
-  servername: pages.dnsorg.filegear-sg.me
-  tls: true
-  type: vless
-  uuid: 20250a94-b535-4116-9c7f-bd57a2c3eb66
-  ws-opts:
-    headers:
-      Host: pages.dnsorg.filegear-sg.me
-    path: /?ed=2048
-- alpn:
-  - http/1.1
-  client-fingerprint: random
-  name: 8|JP_speednode_0120
-  network: ws
   port: 34237
   server: 150.66.24.104
   servername: pages.dnsorg.filegear-sg.me
@@ -129,7 +76,7 @@ proxies:
       Host: pages.dnsorg.filegear-sg.me
     path: /?ed=2048
 - client-fingerprint: random
-  name: 8|JP_speednode_0121
+  name: 8|JP_speednode_0120
   network: ws
   port: 8443
   server: 107.191.60.177
@@ -144,7 +91,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: /TG@ZDYZ2
-- name: 8|JP_speednode_0122
+- name: 8|JP_speednode_0121
   network: ws
   port: 443
   server: 40.74.100.138
@@ -156,7 +103,7 @@ proxies:
     headers:
       Host: jpp1.azurewebsites.net
     path: /
-- name: 8|JP_speednode_0123
+- name: 8|JP_speednode_0122
   network: ws
   port: 443
   server: 154.92.9.15
@@ -168,7 +115,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|JP_speednode_0124
+- name: 8|JP_speednode_0123
   network: ws
   port: 2053
   server: 176.97.73.82
