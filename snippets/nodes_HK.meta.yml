@@ -96,7 +96,192 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- name: 8|HK_speednode_0086
+- alpn:
+  - http/1.1
+  client-fingerprint: random
+  name: 8|HK_speednode_0094
+  network: ws
+  port: 2096
+  server: aliyun.2096.us.kg
+  servername: pages.dnsorg.filegear-sg.me
+  tls: true
+  type: vless
+  uuid: 20250a94-b535-4116-9c7f-bd57a2c3eb66
+  ws-opts:
+    headers:
+      Host: pages.dnsorg.filegear-sg.me
+    path: /?ed=2048
+- client-fingerprint: random
+  name: 8|HK_speednode_0095
+  network: ws
+  port: 2096
+  server: 47.76.203.101
+  servername: mositr.freenods.sbs
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 678ac895-92c2-4f27-a9d4-f1a89c5f5365
+  ws-opts:
+    headers:
+      Host: mositr.freenods.sbs
+    path: /?ed=2560
+- client-fingerprint: random
+  name: 8|HK_speednode_0096
+  network: ws
+  port: 8443
+  server: 47.76.98.98
+  servername: mositr.freenods.sbs
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 678ac895-92c2-4f27-a9d4-f1a89c5f5365
+  ws-opts:
+    headers:
+      Host: mositr.freenods.sbs
+    path: /?ed=2560
+- alpn:
+  - http/1.1
+  client-fingerprint: random
+  name: 8|HK_speednode_0104
+  network: ws
+  port: 8443
+  server: 47.76.192.24
+  servername: pages.dnsorg.filegear-sg.me
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 20250a94-b535-4116-9c7f-bd57a2c3eb66
+  ws-opts:
+    headers:
+      Host: pages.dnsorg.filegear-sg.me
+    path: /?ed=2048
+- alpn:
+  - http/1.1
+  client-fingerprint: random
+  name: 8|HK_speednode_0098
+  network: ws
+  port: 2053
+  server: 47.238.35.50
+  servername: pages.dnsorg.filegear-sg.me
+  tls: true
+  type: vless
+  uuid: 20250a94-b535-4116-9c7f-bd57a2c3eb66
+  ws-opts:
+    headers:
+      Host: pages.dnsorg.filegear-sg.me
+    path: /?ed=2048
+- alpn:
+  - http/1.1
+  client-fingerprint: random
+  name: 8|HK_speednode_0099
+  network: ws
+  port: 2096
+  server: 47.76.29.115
+  servername: pages.dnsorg.filegear-sg.me
+  tls: true
+  type: vless
+  uuid: 20250a94-b535-4116-9c7f-bd57a2c3eb66
+  ws-opts:
+    headers:
+      Host: pages.dnsorg.filegear-sg.me
+    path: /?ed=2048
+- alpn:
+  - http/1.1
+  client-fingerprint: random
+  name: 8|HK_speednode_0100
+  network: ws
+  port: 2096
+  server: 47.238.0.114
+  servername: pages.dnsorg.filegear-sg.me
+  tls: true
+  type: vless
+  uuid: 20250a94-b535-4116-9c7f-bd57a2c3eb66
+  ws-opts:
+    headers:
+      Host: pages.dnsorg.filegear-sg.me
+    path: /?ed=2048
+- alpn:
+  - http/1.1
+  client-fingerprint: random
+  name: 8|HK_speednode_0101
+  network: ws
+  port: 2087
+  server: 47.76.29.115
+  servername: pages.dnsorg.filegear-sg.me
+  tls: true
+  type: vless
+  uuid: 20250a94-b535-4116-9c7f-bd57a2c3eb66
+  ws-opts:
+    headers:
+      Host: pages.dnsorg.filegear-sg.me
+    path: /?ed=2048
+- alpn:
+  - http/1.1
+  client-fingerprint: random
+  name: 8|HK_speednode_0102
+  network: ws
+  port: 2083
+  server: 47.76.227.128
+  servername: pages.dnsorg.filegear-sg.me
+  tls: true
+  type: vless
+  uuid: 20250a94-b535-4116-9c7f-bd57a2c3eb66
+  ws-opts:
+    headers:
+      Host: pages.dnsorg.filegear-sg.me
+    path: /?ed=2048
+- alpn:
+  - http/1.1
+  client-fingerprint: random
+  name: 8|HK_speednode_0103
+  network: ws
+  port: 4328
+  server: 47.57.14.238
+  servername: pages.dnsorg.filegear-sg.me
+  tls: true
+  type: vless
+  uuid: 20250a94-b535-4116-9c7f-bd57a2c3eb66
+  ws-opts:
+    headers:
+      Host: pages.dnsorg.filegear-sg.me
+    path: /?ed=2048
+- alpn:
+  - http/1.1
+  client-fingerprint: random
+  name: 8|HK_speednode_0105
+  network: ws
+  port: 8003
+  server: 38.147.188.86
+  servername: pages.dnsorg.filegear-sg.me
+  tls: true
+  type: vless
+  uuid: 20250a94-b535-4116-9c7f-bd57a2c3eb66
+  ws-opts:
+    headers:
+      Host: pages.dnsorg.filegear-sg.me
+    path: /?ed=2048
+- alpn:
+  - http/1.1
+  client-fingerprint: random
+  name: 8|HK_speednode_0106
+  network: ws
+  port: 2053
+  server: 47.76.204.76
+  servername: pages.dnsorg.filegear-sg.me
+  tls: true
+  type: vless
+  uuid: 20250a94-b535-4116-9c7f-bd57a2c3eb66
+  ws-opts:
+    headers:
+      Host: pages.dnsorg.filegear-sg.me
+    path: /?ed=2048
+- name: 8|HK_speednode_0107
   network: ws
   port: 2053
   server: 47.76.214.139
@@ -108,76 +293,19 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: /tg@zdyz2
-- name: 8|HK_speednode_0087
+- name: 8|HK_speednode_0108
   network: ws
-  port: 2053
-  server: 8.218.92.195
-  servername: zdyt.kpcloud.eu.org
+  port: 2096
+  server: 47.76.146.1
+  servername: cfed.tgzdyz2.top
   tls: true
   type: vless
-  uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
+  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
   ws-opts:
     headers:
-      Host: zdyt.kpcloud.eu.org
-    path: /
-- alpn:
-  - http/1.1
-  client-fingerprint: random
-  name: 8|HK_speednode_0088
-  network: ws
-  port: 2053
-  server: 47.76.178.146
-  servername: 3555.aespa.dynv6.net
-  tls: true
-  type: vless
-  uuid: a27dedf5-5e63-48ec-8239-e256b1b3d310
-  ws-opts:
-    headers:
-      Host: 3555.aespa.dynv6.net
-    path: /?proxyip=proxyip.us.fxxk.dedyn.io
-- name: 8|HK_speednode_0089
-  network: ws
-  port: 2083
-  server: 47.76.26.26
-  servername: go.jp980.cloudns.org
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: b9011be4-b7d5-428e-a4cc-be5cc8768ba4
-  ws-opts:
-    headers:
-      Host: go.jp980.cloudns.org
-    path: /?ed=2560
-- name: 8|HK_speednode_0090
-  network: ws
-  port: 2053
-  server: 47.238.35.50
-  servername: go.jp980.cloudns.org
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: b9011be4-b7d5-428e-a4cc-be5cc8768ba4
-  ws-opts:
-    headers:
-      Host: go.jp980.cloudns.org
-    path: /?ed=2560
-- name: 8|HK_speednode_0091
-  network: ws
-  port: 2083
-  server: 47.238.35.50
-  servername: go.jp980.cloudns.org
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: b9011be4-b7d5-428e-a4cc-be5cc8768ba4
-  ws-opts:
-    headers:
-      Host: go.jp980.cloudns.org
-    path: /?ed=2560
-- name: 8|HK_speednode_0092
+      Host: cfed.tgzdyz2.top
+    path: /tg@zdyz2
+- name: 8|HK_speednode_0109
   network: ws
   port: 11443
   server: 103.84.110.114
@@ -189,7 +317,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|HK_speednode_0093
+- name: 8|HK_speednode_0110
   network: ws
   port: 2096
   server: 47.238.6.58
@@ -201,89 +329,23 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: /tg@zdyz2
-- name: 8|HK_speednode_0094
+- client-fingerprint: random
+  name: 8|HK_speednode_0113
   network: ws
-  port: 2083
-  server: 47.238.0.114
-  servername: go.jp980.cloudns.org
+  port: 443
+  server: 43.154.96.33
+  servername: cfed.tgzdyz2.top
+  skip-cert-verify: true
   tfo: false
   tls: true
   type: vless
   udp: true
-  uuid: b9011be4-b7d5-428e-a4cc-be5cc8768ba4
+  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
   ws-opts:
     headers:
-      Host: go.jp980.cloudns.org
-    path: /?ed=2560
-- name: 8|HK_speednode_0095
-  network: ws
-  port: 8443
-  server: 47.76.225.255
-  servername: go.jp980.cloudns.org
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: b9011be4-b7d5-428e-a4cc-be5cc8768ba4
-  ws-opts:
-    headers:
-      Host: go.jp980.cloudns.org
-    path: /?ed=2560
-- name: 8|HK_speednode_0096
-  network: ws
-  port: 2096
-  server: 47.76.225.255
-  servername: go.jp980.cloudns.org
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: b9011be4-b7d5-428e-a4cc-be5cc8768ba4
-  ws-opts:
-    headers:
-      Host: go.jp980.cloudns.org
-    path: /?ed=2560
-- name: 8|HK_speednode_0097
-  network: ws
-  port: 2096
-  server: aliyun.2096.us.kg
-  servername: go.jp980.cloudns.org
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: b9011be4-b7d5-428e-a4cc-be5cc8768ba4
-  ws-opts:
-    headers:
-      Host: go.jp980.cloudns.org
-    path: /?ed=2560
-- name: 8|HK_speednode_0098
-  network: ws
-  port: 2087
-  server: 47.76.33.40
-  servername: zdyt.kpcloud.eu.org
-  tls: true
-  type: vless
-  uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
-  ws-opts:
-    headers:
-      Host: zdyt.kpcloud.eu.org
-    path: /freecodes
-- name: 8|HK_speednode_0099
-  network: ws
-  port: 2087
-  server: 47.76.29.115
-  servername: go.jp980.cloudns.org
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: b9011be4-b7d5-428e-a4cc-be5cc8768ba4
-  ws-opts:
-    headers:
-      Host: go.jp980.cloudns.org
-    path: /?ed=2560
-- name: 8|HK_speednode_0100
+      Host: cfed.tgzdyz2.top
+    path: /tg@zdyz2
+- name: 8|HK_speednode_0114
   network: ws
   port: 806
   server: 152.32.130.150
@@ -295,21 +357,23 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|HK_speednode_0101
+- client-fingerprint: random
+  name: 8|HK_speednode_0118
   network: ws
-  port: 443
-  server: 43.154.96.33
-  servername: go.jp980.cloudns.org
+  port: 1520
+  server: 203.184.132.238
+  servername: cfed.tgzdyz2.top
+  skip-cert-verify: true
   tfo: false
   tls: true
   type: vless
   udp: true
-  uuid: b9011be4-b7d5-428e-a4cc-be5cc8768ba4
+  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
   ws-opts:
     headers:
-      Host: go.jp980.cloudns.org
-    path: /?ed=2560
-- name: 8|HK_speednode_0102
+      Host: cfed.tgzdyz2.top
+    path: TG@ZDYZ2
+- name: 8|HK_speednode_0117
   network: ws
   port: 1443
   server: 103.148.72.147

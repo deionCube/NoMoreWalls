@@ -40,23 +40,3 @@ proxies:
   server: 223.113.54.154
   skip-cert-verify: true
   type: trojan
-- name: 8|US_speednode_0243
-  password: 468a7536-0967-43ff-8d93-ff83f7b4e731
-  port: 8888
-  server: vir.mjjloc.xyz
-  sni: vir.mjjloc.xyz
-  type: trojan
-  udp: true
-- name: 8|US_speednode_0258
-  network: ws
-  password: NISHIKUITAN222
-  port: 443
-  server: 34.102.111.127
-  skip-cert-verify: true
-  sni: tt.ylks.link
-  type: trojan
-  udp: false
-  ws-opts:
-    headers:
-      Host: tt.ylks.link
-    path: /
