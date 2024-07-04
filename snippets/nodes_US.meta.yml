@@ -34,7 +34,7 @@ proxies:
       Host: us6gzxQRrE4.fzbqfrse.xyz
     path: /video/bYdJ7Vc2We
 - client-fingerprint: chrome
-  name: 5,8|CN_speednode_0037
+  name: 5,8|CN_speednode_0036
   password: GsKYmYOE
   port: 1617
   server: 223.113.54.154
@@ -78,7 +78,7 @@ proxies:
     headers:
       Host: cdn2.freegradely.xyz
     path: github.com/Alvin9999
-- name: 8|US_speednode_0217
+- name: 8|US_speednode_0202
   network: ws
   port: 38747
   server: 38.59.249.82
@@ -91,7 +91,7 @@ proxies:
     headers:
       Host: go.jp980.cloudns.org
     path: /?ed=2560
-- name: 8|US_speednode_0218
+- name: 8|US_speednode_0203
   network: ws
   port: 47403
   server: 38.59.240.180
@@ -104,7 +104,7 @@ proxies:
     headers:
       Host: go.jp980.cloudns.org
     path: /?ed=2560
-- name: 8|US_speednode_0219
+- name: 8|US_speednode_0204
   network: ws
   port: 18618
   server: 154.17.227.26
@@ -117,7 +117,7 @@ proxies:
     headers:
       Host: go.jp980.cloudns.org
     path: /?ed=2560
-- name: 8|US_speednode_0220
+- name: 8|US_speednode_0205
   network: ws
   port: 80
   server: 204.93.210.218
@@ -129,7 +129,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|US_speednode_0221
+- name: 8|US_speednode_0206
   network: ws
   port: 80
   server: 204.93.210.226
@@ -141,7 +141,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|US_speednode_0222
+- name: 8|US_speednode_0207
   network: ws
   port: 8443
   server: 45.159.218.162
@@ -154,7 +154,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /?ed=2048
-- name: 8|US_speednode_0223
+- name: 8|US_speednode_0208
   network: ws
   port: 443
   server: 199.181.197.39
@@ -168,7 +168,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /?ed=2048
-- name: 8|US_speednode_0224
+- name: 8|US_speednode_0209
   network: ws
   port: 28555
   server: 38.59.244.77
@@ -181,7 +181,7 @@ proxies:
     headers:
       Host: go.jp980.cloudns.org
     path: /?ed=2560
-- name: 8|US_speednode_0225
+- name: 8|US_speednode_0210
   network: ws
   port: 80
   server: 155.46.213.100
@@ -193,7 +193,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|US_speednode_0226
+- name: 8|US_speednode_0211
   network: ws
   port: 2083
   server: 216.205.52.109
@@ -207,7 +207,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /?ed=2048
-- name: 8|US_speednode_0252
+- name: 8|US_speednode_0235
   network: ws
   port: 8443
   server: 89.116.161.250
@@ -221,7 +221,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|US_speednode_0228
+- name: 8|US_speednode_0213
   network: ws
   port: 80
   server: 66.81.247.161
@@ -233,7 +233,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|US_speednode_0230
+- name: 8|US_speednode_0214
   network: ws
   port: 443
   server: 43.153.80.208
@@ -246,7 +246,7 @@ proxies:
     headers:
       Host: go.jp980.cloudns.org
     path: /?ed=2560
-- name: 8|US_speednode_0231
+- name: 8|US_speednode_0215
   network: ws
   port: 80
   server: 204.93.210.46
@@ -258,7 +258,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|US_speednode_0232
+- name: 8|US_speednode_0216
   network: ws
   port: 80
   server: 204.93.210.208
@@ -270,7 +270,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|US_speednode_0233
+- name: 8|US_speednode_0217
   network: ws
   port: 443
   server: 43.153.103.203
@@ -283,7 +283,7 @@ proxies:
     headers:
       Host: go.jp980.cloudns.org
     path: /?ed=2560
-- name: 8|US_speednode_0234
+- name: 8|US_speednode_0218
   network: ws
   port: 2096
   server: 14.102.228.210
@@ -297,7 +297,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /?ed=2048
-- name: 8|US_speednode_0235
+- name: 8|US_speednode_0219
   network: ws
   port: 80
   server: 185.148.104.199
@@ -309,7 +309,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|US_speednode_0236
+- name: 8|US_speednode_0220
   network: ws
   port: 2096
   server: 204.93.210.80
@@ -321,7 +321,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|US_speednode_0237
+- name: 8|US_speednode_0221
   network: ws
   port: 2096
   server: 204.93.210.49
@@ -334,7 +334,7 @@ proxies:
       Host: a.ssll.gay
     path: Twitterfreecodes
 - client-fingerprint: random
-  name: 8|US_speednode_0238
+  name: 8|US_speednode_0222
   network: ws
   port: 443
   server: 167.68.11.48
@@ -348,7 +348,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: TG%40ZDYZ2
-- name: 8|US_speednode_0254
+- name: 8|US_speednode_0237
   network: ws
   port: 2053
   server: 130.250.137.196
@@ -360,7 +360,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|US_speednode_0240
+- name: 8|US_speednode_0224
   network: ws
   port: 8443
   server: 204.93.210.208
@@ -372,7 +372,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|US_speednode_0241
+- name: 8|US_speednode_0225
   network: ws
   port: 2082
   server: 130.250.137.164
@@ -384,7 +384,7 @@ proxies:
     headers:
       Host: hkd.ylks.link
     path: /freecodes
-- name: 8|US_speednode_0242
+- name: 8|US_speednode_0226
   network: ws
   port: 8443
   server: 204.93.210.185
@@ -397,7 +397,7 @@ proxies:
       Host: a.ssll.gay
     path: Twitterfreecodes
 - client-fingerprint: chrome
-  name: 8|US_speednode_0243
+  name: 8|US_speednode_0227
   network: ws
   port: 38337
   server: 156.251.176.112
@@ -410,7 +410,7 @@ proxies:
     headers:
       Host: ccs.443888.xyz
     path: /vless?ed=2560
-- name: 8|US_speednode_0244
+- name: 8|US_speednode_0228
   network: ws
   port: 443
   server: 167.68.11.146
@@ -423,7 +423,7 @@ proxies:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
 - client-fingerprint: chrome
-  name: 8|US_speednode_0245
+  name: 8|US_speednode_0229
   network: ws
   port: 60559
   server: 156.251.176.11
@@ -437,7 +437,7 @@ proxies:
       Host: ccs.443888.xyz
     path: /vless?ed=2560
 - client-fingerprint: chrome
-  name: 8|US_speednode_0246
+  name: 8|US_speednode_0230
   network: ws
   port: 46010
   server: 156.251.176.109
@@ -450,7 +450,7 @@ proxies:
     headers:
       Host: ccs.443888.xyz
     path: /vless?ed=2560
-- name: 8|US_speednode_0247
+- name: 8|US_speednode_0231
   network: ws
   port: 2083
   server: 185.148.106.44
@@ -462,7 +462,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /
-- name: 8|US_speednode_0248
+- name: 8|US_speednode_0232
   network: ws
   port: 2053
   server: 216.205.52.180
@@ -474,7 +474,7 @@ proxies:
     headers:
       Host: 78345.pages.dev
     path: /?ed
-- name: 8|US_speednode_0249
+- name: 8|US_speednode_0233
   network: ws
   port: 2087
   server: 14.102.229.66
@@ -486,15 +486,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /
-- name: 8|US_speednode_0250
-  password: 450524c4-86ee-4a97-ac7f-888942039bcd
-  port: 24444
-  server: 172.233.146.107
-  skip-cert-verify: true
-  sni: new.download.the-best-airport.com
-  type: trojan
-  udp: true
-- name: 8|US_speednode_0251
+- name: 8|US_speednode_0234
   network: ws
   port: 443
   server: 155.46.213.166
@@ -506,7 +498,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|US_speednode_0253
+- name: 8|US_speednode_0236
   network: ws
   port: 2096
   server: 204.93.210.24
@@ -518,7 +510,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|US_speednode_0255
+- name: 8|US_speednode_0238
   network: ws
   port: 8443
   server: 204.93.210.231
@@ -530,7 +522,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: twitter苏小柠
-- name: 8|US_speednode_0256
+- name: 8|US_speednode_0239
   network: ws
   port: 8443
   server: 204.93.210.184
@@ -542,7 +534,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|US_speednode_0257
+- name: 8|US_speednode_0240
   network: ws
   port: 443
   server: 216.24.57.117
@@ -554,7 +546,7 @@ proxies:
     headers:
       Host: hkd.ylks.link
     path: /freecodes
-- name: 8|US_speednode_0258
+- name: 8|US_speednode_0241
   network: ws
   port: 2053
   server: 216.116.134.43
@@ -568,7 +560,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /?ed=2048
-- name: 8|US_speednode_0259
+- name: 8|US_speednode_0242
   network: ws
   port: 443
   server: 185.148.107.144
@@ -580,7 +572,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|US_speednode_0260
+- name: 8|US_speednode_0243
   network: ws
   port: 443
   server: 155.46.213.37
@@ -592,7 +584,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|US_speednode_0261
+- name: 8|US_speednode_0244
   network: ws
   port: 443
   server: 205.233.181.90
@@ -604,7 +596,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: /tg@zdyz2
-- name: 8|US_speednode_0262
+- name: 8|US_speednode_0245
   network: ws
   port: 443
   server: 155.46.213.9
@@ -616,7 +608,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: /tg@zdyz2
-- name: 8|US_speednode_0263
+- name: 8|US_speednode_0246
   network: ws
   port: 443
   server: 205.233.181.41
@@ -628,7 +620,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|US_speednode_0264
+- name: 8|US_speednode_0247
   network: ws
   port: 443
   server: 45.159.219.23
@@ -641,7 +633,7 @@ proxies:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
 - client-fingerprint: chrome
-  name: 8|US_speednode_0265
+  name: 8|US_speednode_0248
   network: ws
   port: 8443
   server: 66.235.200.1
@@ -653,7 +645,7 @@ proxies:
     headers:
       Host: 698Aa4AA.Swz-UUz-316.PageS.Dev
     path: /
-- name: 8|US_speednode_0266
+- name: 8|US_speednode_0249
   network: ws
   port: 2087
   server: 45.159.217.54
@@ -665,7 +657,7 @@ proxies:
     headers:
       Host: fq521.6789.cloudns.be
     path: Twitter苏小柠
-- name: 8|US_speednode_0267
+- name: 8|US_speednode_0250
   network: ws
   port: 443
   server: 69.84.182.160
@@ -677,7 +669,7 @@ proxies:
     headers:
       Host: hkd.ylks.link
     path: /freecodes
-- name: 8|US_speednode_0269
+- name: 8|US_speednode_0251
   network: ws
   port: 2096
   server: 204.93.210.132
@@ -689,7 +681,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: /
-- name: 8|US_speednode_0270
+- name: 8|US_speednode_0252
   network: ws
   port: 443
   server: 45.159.218.188
@@ -701,7 +693,7 @@ proxies:
     headers:
       Host: hkd.ylks.link
     path: /
-- name: 8|US_speednode_0272
+- name: 8|US_speednode_0253
   network: ws
   port: 443
   server: 167.68.11.106
@@ -713,7 +705,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|US_speednode_0274
+- name: 8|US_speednode_0254
   network: ws
   port: 17665
   server: 65.75.195.33
