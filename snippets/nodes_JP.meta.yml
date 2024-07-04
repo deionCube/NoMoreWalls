@@ -53,7 +53,7 @@ proxies:
   sni: aixunx168.top
   type: trojan
 - client-fingerprint: random
-  name: 8|JP_speednode_0236
+  name: 8|JP_speednode_0094
   network: ws
   port: 8443
   server: 107.191.60.177
@@ -68,19 +68,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: /TG@ZDYZ2
-- name: 8|JP_speednode_0237
-  network: ws
-  port: 443
-  server: 154.92.9.15
-  servername: cfed.tgzdyz2.top
-  tls: true
-  type: vless
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
-  ws-opts:
-    headers:
-      Host: cfed.tgzdyz2.top
-    path: tg@zdyz2
-- name: 8|JP_speednode_0238
+- name: 8|JP_speednode_0095
   network: ws
   port: 2053
   server: 176.97.73.82
