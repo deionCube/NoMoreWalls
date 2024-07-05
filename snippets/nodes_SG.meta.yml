@@ -33,6 +33,14 @@ proxies:
     headers:
       Host: ''
     path: /
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 5|🇸🇬 狮城特殊|@ripaojiedian
+  password: amazonskr05
+  port: 443
+  server: 13.114.74.148
+  tfo: false
+  type: ss
 - client-fingerprint: random
   name: 8|SG_speednode_0181
   network: ws
