@@ -1,25 +1,12 @@
 proxies:
-- alterId: 0
-  cipher: auto
+- cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 5|🇸🇬 新加坡|@ripaojiedian
-  port: 25747
-  server: svip.hongxingdl.vip
-  skip-cert-verify: false
+  name: 5|🇸🇬 狮城特殊|@ripaojiedian
+  password: amazonskr05
+  port: 443
+  server: 18.143.107.4
   tfo: false
-  tls: false
-  type: vmess
-  uuid: afb152b7-3f81-4b96-83d6-3decbbf2d757
-- alterId: 0
-  cipher: auto
-  name: 6|新加坡|@ripaojiedian
-  network: tcp
-  port: '25747'
-  server: svip.hongxingdl.vip
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: afb152b7-3f81-4b96-83d6-3decbbf2d757
+  type: ss
 - client-fingerprint: random
   name: 8|SG_speednode_0146
   network: ws

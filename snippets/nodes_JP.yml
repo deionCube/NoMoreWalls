@@ -10,13 +10,38 @@ proxies:
   cipher: auto
   client-fingerprint: chrome
   name: 5|🇯🇵 日本2|@ripaojiedian
-  port: 45521
-  server: 45.159.50.136
+  port: 14940
+  server: 45.159.50.214
   skip-cert-verify: false
   tfo: false
   tls: false
   type: vmess
-  uuid: 74774f13-5257-4f65-accd-1c916def66db
+  uuid: dc1a2701-26db-4470-abee-d4e6dc25391b
+- client-fingerprint: chrome
+  name: 5|🇯🇵 日本3|@ripaojiedian
+  password: 7745cd82-55ad-39e5-8cb9-bd605b8808d3
+  port: 13049
+  server: 120.241.118.157
+  skip-cert-verify: false
+  sni: ip2648428075.mobgslb.tbcache.com
+  type: trojan
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 5,6|日本4|@ripaojiedian
+  network: ws
+  port: '80'
+  server: cfcdn3.sanfencdn9.com
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 8b03c864-31e3-4cfb-949a-2e7eb13f698d
+  ws-opts:
+    headers:
+      Host: agzbjszujp4.yofnhkfc.xyz
+    path: /video/ibCT6z55
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 5|🇯🇵 日本R|@ripaojiedian
@@ -25,13 +50,21 @@ proxies:
   server: 59.56.77.178
   tfo: false
   type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 5|🇯🇵 日本特殊|@ripaojiedian
+  password: amazonskr05
+  port: 443
+  server: 52.221.209.247
+  tfo: false
+  type: ss
 - alterId: 0
   cipher: auto
   name: 6|日本2|@ripaojiedian
   network: tcp
-  port: '45521'
-  server: 45.159.50.136
+  port: '14940'
+  server: 45.159.50.214
   servername: ''
   tls: false
   type: vmess
-  uuid: 74774f13-5257-4f65-accd-1c916def66db
+  uuid: dc1a2701-26db-4470-abee-d4e6dc25391b
