@@ -33,14 +33,14 @@ proxies:
     headers:
       Host: us2jdgv5GC7.fzbqfrse.xyz
     path: /video/DDC4btA8wc/
-- client-fingerprint: chrome
-  name: 5,8|CN_speednode_0026
-  password: GsKYmYOE
-  port: 1617
-  server: 223.113.54.154
-  skip-cert-verify: true
-  type: trojan
-  udp: false
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 5|🇺🇸 美国3|@ripaojiedian
+  password: Y6R9pAtvxxzmGC
+  port: 9090
+  server: 23.150.152.56
+  tfo: false
+  type: ss
 - client-fingerprint: chrome
   name: 5|🇺🇸 美国4|@ripaojiedian
   password: GsKYmYOE
