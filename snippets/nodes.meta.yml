@@ -1,6 +1,39 @@
 proxies:
 - cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-13
+  name: 0|-https://t.me/MrXbin-7
+  password: amazonskr05
+  port: 443
+  server: 13.124.244.90
+  type: ss
+- cipher: aes-256-gcm
+  name: 0|-https://t.me/MrXbin-8
+  password: g5MeD6Ft3CWlJId
+  port: 5004
+  server: 38.75.137.66
+  type: ss
+- cipher: aes-256-cfb
+  name: 0|-https://t.me/MrXbin-9
+  password: amazonskr05
+  port: 443
+  server: 52.195.1.82
+  type: ss
+- cipher: aes-256-cfb
+  name: 0|-https://t.me/MrXbin-12
+  password: amazonskr05
+  port: 443
+  server: 3.39.251.119
+  type: ss
+- cipher: rc4-md5
+  name: 0|-https://t.me/MrXbin-14
+  obfs: tls1.2_ticket_auth
+  password: Cskw6d
+  port: 13634
+  protocol: auth_aes128_md5
+  protocol-param: 524959:5u4MZ6
+  server: bb29cs.cdn.node.a.tddns-ounk.com
+  type: ssr
+- cipher: aes-256-cfb
+  name: 0|-https://t.me/MrXbin-22
   obfs: tls1.2_ticket_auth
   password: fou8MBGij
   port: 8081
@@ -9,21 +42,10 @@ proxies:
   type: ssr
 - alterId: 0
   cipher: auto
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-18
-  network: tcp
-  port: 20006
-  server: kr01.aikunapp.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: 7aca895e-9734-4784-9437-ce6420d45968
-- alterId: 0
-  cipher: auto
   country: DE
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-68
+  name: 0|-https://t.me/MrXbin-83
   network: tcp
   port: 22324
   server: 23.157.88.35
@@ -31,140 +53,159 @@ proxies:
   type: vmess
   uuid: 04621bae-ab36-11ec-b909-0242ac120002
 - cipher: aes-256-cfb
-  country: JP
-  name: 0|-https://t.me/MrXbin-69
-  obfs: tls1.2_ticket_auth
-  password: eAokbaDN6
-  port: 8081
-  protocol: origin
-  protocol-param: ",:\x16\x13##\x16@...:#%%%%%%%%%\x12%^..%"
-  server: jp-am48-6.eqnode.net
-  type: ssr
-- country: JP
-  name: 0|-https://t.me/MrXbin-70
-  password: 518a6ff8-7233-4f28-8a40-d3fa82a5875d
-  port: 709
-  server: 2sg002ff0f283d-2433-bbbe-4d7a-59990b8b8b74.233235.xyz
-  skip-cert-verify: true
-  sni: 2sg002ff0f283d-2433-bbbe-4d7a-59990b8b8b74.233235.xyz
-  type: trojan
-  udp: true
+  country: KR
+  name: 0|-https://t.me/MrXbin-84
+  password: amazonskr05
+  port: 443
+  server: 3.39.227.28
+  type: ss
+- cipher: aes-256-cfb
+  country: KR
+  name: 0|-https://t.me/MrXbin-85
+  password: amazonskr05
+  port: 443
+  server: 54.180.251.250
+  type: ss
 - alterId: 0
   cipher: auto
   country: NL
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-71
+  name: 0|-https://t.me/MrXbin-86
   network: ws
   port: 80
-  server: 188.114.96.3
-  servername: 127.0.0.1.kleksacademy..ak..wonkacapitano.buzz.
+  server: 188.114.96.221
+  servername: dl2.127.0.0.1.p..ka.kl3ksacad3my..wonkacapitano.buzz.
   skip-cert-verify: true
   type: vmess
-  uuid: 43ac3b21-2e9b-4a7c-aef6-2e4b8f73ce2f
+  uuid: 310fabb7-2abc-4301-b302-22aa49c954fb
   ws-opts:
     headers:
-      HOST: 127.0.0.1.kleksacademy..ak..wonkacapitano.buzz.
+      HOST: dl2.127.0.0.1.p..ka.kl3ksacad3my..wonkacapitano.buzz.
     path: /vmess
+- alterId: 0
+  cipher: auto
+  country: ' SG'
+  h2-opts: {}
+  http-opts: {}
+  name: 0,6|新加坡|@ripaojiedian
+  network: tcp
+  port: '57614'
+  server: 5.34.176.111
+  servername: ''
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 4e55ce40-9f8e-417d-f8ae-aa6af97a7097
+- cipher: aes-256-gcm
+  country: US
+  name: 0|-https://t.me/MrXbin-88
+  password: XKFKl2rULjIp74
+  port: 8009
+  server: 23.157.40.19
+  type: ss
+- cipher: aes-256-gcm
+  country: US
+  name: 0|-https://t.me/MrXbin-89
+  password: RexnBgU7EV5ADxG
+  port: 7001
+  server: 38.75.137.66
+  type: ss
+- cipher: aes-256-gcm
+  country: US
+  name: 0|-https://t.me/MrXbin-90
+  password: cdBIDV42DCwnfIN
+  port: 8118
+  server: 23.154.136.51
+  type: ss
 - cipher: aes-256-cfb
   country: US
-  name: 0|-https://t.me/MrXbin-72
+  name: 0|-https://t.me/MrXbin-91
   password: amazonskr05
   port: 443
   server: 47.129.0.210
   type: ss
+- cipher: aes-256-gcm
+  country: US
+  name: 0|-https://t.me/MrXbin-92
+  password: TEzjfAYq2IjtuoS
+  port: 6697
+  server: 23.154.136.51
+  type: ss
+- cipher: aes-256-gcm
+  country: US
+  name: 0|-https://t.me/MrXbin-93
+  password: lGqs95QkFHo2NV
+  port: 5498
+  server: 23.157.40.19
+  type: ss
+- cipher: aes-256-gcm
+  country: US
+  name: 0|-https://t.me/MrXbin-94
+  password: lGqs95QkFHo2NV
+  port: 5498
+  server: 23.154.136.137
+  type: ss
+- cipher: aes-256-gcm
+  country: US
+  name: 0|-https://t.me/MrXbin-95
+  password: kDWvXYZoTBcGkC4
+  port: 8882
+  server: 38.75.137.66
+  type: ss
+- cipher: aes-256-gcm
+  country: US
+  name: 0|-https://t.me/MrXbin-96
+  password: TEzjfAYq2IjtuoS
+  port: 6679
+  server: 23.157.40.19
+  type: ss
+- cipher: aes-256-gcm
+  country: US
+  name: 0|-https://t.me/MrXbin-97
+  password: PCnnH6SQSnfoS27
+  port: 8091
+  server: 23.157.40.19
+  type: ss
+- cipher: aes-256-gcm
+  country: US
+  name: 0|-https://t.me/MrXbin-98
+  password: Y6R9pAtvxxzmGC
+  port: 8888
+  server: 23.154.136.51
+  type: ss
+- cipher: aes-256-gcm
+  country: US
+  name: 0|-https://t.me/MrXbin-99
+  password: lGqs95QkFHo2NV
+  port: 5499
+  server: 23.154.136.51
+  type: ss
 - cipher: aes-256-cfb
   country: US
-  name: 0|-https://t.me/MrXbin-73
+  name: 0|-https://t.me/MrXbin-100
   password: amazonskr05
   port: 443
   server: 43.201.254.211
   type: ss
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-74
-  network: ws
-  port: 2086
-  server: 172.64.233.17
-  servername: ip2.1457230.xyz
+- country: US
+  name: 0|-https://t.me/MrXbin-104
+  password: 361f238c-ed2a-418d-8c1d-45d6f0e8abe2
+  port: 443
+  server: hk3.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen
   skip-cert-verify: true
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      HOST: ip2.1457230.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-75
-  network: ws
-  port: 8080
-  server: 172.67.199.144
-  servername: oiictw.yydsii.com
+  sni: hk3.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen
+  type: trojan
+  udp: true
+- country: US
+  name: 0|-https://t.me/MrXbin-105
+  password: 361f238c-ed2a-418d-8c1d-45d6f0e8abe2
+  port: 443
+  server: unlk2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen
   skip-cert-verify: true
-  type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  ws-opts:
-    headers:
-      HOST: oiictw.yydsii.com
-    path: /
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-76
-  network: ws
-  port: 2086
-  server: 172.64.233.15
-  servername: ip2.1457230.xyz
-  skip-cert-verify: true
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      HOST: ip2.1457230.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-77
-  network: ws
-  port: 2086
-  server: 172.64.233.32
-  servername: ip2.1457230.xyz
-  skip-cert-verify: true
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      HOST: ip2.1457230.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  country: US
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-78
-  network: ws
-  port: 2086
-  server: 172.64.233.24
-  servername: ip2.1457230.xyz
-  skip-cert-verify: true
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      HOST: ip2.1457230.xyz
-    path: github.com/Alvin9999
+  sni: unlk2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen
+  type: trojan
+  udp: true
 - cipher: aes-128-gcm
   name: 5|🇭🇰 香港KT|@ripaojiedian
   password: a-wym4ovY4Yw
@@ -451,16 +492,6 @@ proxies:
   tls: false
   type: vmess
   uuid: cc47370e-62e3-431b-97d1-7b520aa1122c
-- alterId: 0
-  cipher: auto
-  name: 6|新加坡|@ripaojiedian
-  network: tcp
-  port: '57614'
-  server: 5.34.176.111
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 4e55ce40-9f8e-417d-f8ae-aa6af97a7097
 - name: 8|AE_speednode_0001
   network: ws
   port: 80
