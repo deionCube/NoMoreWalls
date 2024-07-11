@@ -15,7 +15,7 @@ proxies:
   name: 5|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 18.139.110.249
+  server: 13.213.30.202
   tfo: false
   type: ss
 - alterId: 0
