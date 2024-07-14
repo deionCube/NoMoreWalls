@@ -28,5 +28,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK81fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInhj
 trojan://09191dbf-e7f7-4e7d-b405-c4785ea992bf@95.164.9.196:2053?allowInsecure=1&sni=ftp.debian.org#8%7CAT_speednode_0005
 trojan://09191dbf-e7f7-4e7d-b405-c4785ea992bf@at1.trojanvpn.de:2053?allowInsecure=1&sni=ftp.debian.org#8%7CAT_speednode_0006
 trojan://GsKYmYOE@223.113.54.154:1617?allowInsecure=1#8%7CCN_speednode_0026
-https://ablnk.absslk.xyz/OO1o3go
-https://freemc.mcsslk.xyz/TPOQRz0
+https://ablnk.absslk.xyz/umqP82g
+https://freemc.mcsslk.xyz/U7l6TZ6
