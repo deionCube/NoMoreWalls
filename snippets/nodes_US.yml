@@ -33,13 +33,18 @@ proxies:
     headers:
       Host: us4Bb5oSgJA.fzbqfrse.xyz
     path: /video/CuTy87zAzV/
-- client-fingerprint: chrome
-  name: 5|🇺🇸 美国4|@ripaojiedian
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 5,8|CN_speednode_0059
   password: GsKYmYOE
   port: 40081
   server: 183.232.139.22
   skip-cert-verify: true
+  tfo: false
   type: trojan
+  udp: false
+  uuid: 7345a163-c47b-47b3-8675-bf12b85ce364
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
