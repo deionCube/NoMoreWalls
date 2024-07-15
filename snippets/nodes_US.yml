@@ -100,3 +100,11 @@ proxies:
   tls: false
   type: vmess
   uuid: b8b99a7a-c4a5-4ccd-ad36-8a66067d123d
+- name: 8|US_speednode_0265
+  password: e261dc84-1b52-42db-859a-ed575e0876fa
+  port: 40021
+  server: hk-2-ddns.sudatech.store
+  skip-cert-verify: true
+  sni: vpn-4-1.sudatech.store
+  type: trojan
+  udp: true
