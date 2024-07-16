@@ -1,22 +1,30 @@
 proxies:
 - client-fingerprint: chrome
   name: 5|🇯🇵 日本|@ripaojiedian
-  password: RmdXQRXg
+  password: MfqALmAJ
   port: 36931
-  server: 183.232.139.22
+  server: 183.232.139.24
   skip-cert-verify: true
   type: trojan
-- alterId: 0
-  cipher: auto
+- cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 5|🇯🇵 日本2|@ripaojiedian
-  port: 13390
-  server: 45.159.50.225
+  password: 6f3562c7-904f-417e-818b-dcd49b564078
+  port: 30002
+  server: 115.239.225.217
+  tfo: false
+  type: ss
+- alterId: 1
+  cipher: auto
+  client-fingerprint: chrome
+  name: 5|🇯🇵 日本3|@ripaojiedian
+  port: 28787
+  server: uwz9g-g05.jp07-1f28-vm0.entry.fr0307a.art
   skip-cert-verify: false
   tfo: false
   tls: false
   type: vmess
-  uuid: 0b27b36a-15c0-4699-a25f-223650f23537
+  uuid: d4b889ad-dd2e-39ee-ba1a-05821751bb3a
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -47,19 +55,19 @@ proxies:
   name: 5|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 34.221.97.62
+  server: 43.201.254.74
   tfo: false
   type: ss
-- alterId: 0
+- alterId: 1
   cipher: auto
-  name: 6|日本2|@ripaojiedian
+  name: 6|日本3|@ripaojiedian
   network: tcp
-  port: '13390'
-  server: 45.159.50.225
+  port: '28787'
+  server: uwz9g-g05.jp07-1f28-vm0.entry.fr0307a.art
   servername: ''
   tls: false
   type: vmess
-  uuid: 0b27b36a-15c0-4699-a25f-223650f23537
+  uuid: d4b889ad-dd2e-39ee-ba1a-05821751bb3a
 - alterId: -1
   name: 8|JP_speednode_0149
   password: 7b1dc908-93f8-4111-8d80-e69a9a2d5476
