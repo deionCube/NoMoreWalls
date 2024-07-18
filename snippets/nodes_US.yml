@@ -36,12 +36,13 @@ proxies:
   tfo: false
   type: ss
 - client-fingerprint: chrome
-  name: 5|🇺🇸 美国4|@ripaojiedian
+  name: 5,8|CN_speednode_0035
   password: MfqALmAJ
   port: 40081
   server: 183.232.139.24
   skip-cert-verify: true
   type: trojan
+  udp: false
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -86,11 +87,3 @@ proxies:
   tls: false
   type: vmess
   uuid: 5ffe58d1-ddbe-4fc0-8af7-06db520b48c9
-- name: 8|US_speednode_0265
-  password: e261dc84-1b52-42db-859a-ed575e0876fa
-  port: 40021
-  server: hk-2-ddns.sudatech.store
-  skip-cert-verify: true
-  sni: vpn-4-1.sudatech.store
-  type: trojan
-  udp: true
