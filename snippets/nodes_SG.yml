@@ -16,37 +16,14 @@ proxies:
     headers:
       Host: jpafzyhfsg3.yofnhkfc.xyz
     path: /video/u4eCZTxW
-- client-fingerprint: chrome
-  name: 5|🇸🇬 新加坡2|@ripaojiedian
-  password: 0667c315-3a42-3c09-9c26-8a9d81a31ee0
-  port: 14009
-  server: 36.141.40.27
-  skip-cert-verify: false
-  sni: ip2648428075.mobgslb.tbcache.com
-  type: trojan
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 5|🇸🇬 新加坡3|@ripaojiedian
-  password: amazonskr05
-  port: 80
-  server: 43.203.225.224
-  tfo: false
-  type: ss
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 5|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 3.38.104.248
+  server: 54.250.73.149
   tfo: false
   type: ss
-- name: 8|SG_speednode_0214
-  password: b06d7f06-51ba-402d-991a-3fe1e432247c
-  port: 443
-  server: usa.lydurlclub.top
-  skip-cert-verify: true
-  type: trojan
-  udp: false
 - name: 8|SG_speednode_0215
   network: ws
   password: 7b06d22a8a7c764f
