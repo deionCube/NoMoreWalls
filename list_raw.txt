@@ -36,5 +36,5 @@ trojan://7b1dc908-93f8-4111-8d80-e69a9a2d5476@jp005.421421.xyz:20230?allowInsecu
 trojan://b06d7f06-51ba-402d-991a-3fe1e432247c@usa.lydurlclub.top:443?allowInsecure=1#8%7CSG_speednode_0214
 trojan://7b06d22a8a7c764f@5.44.249.43:3306?allowInsecure=1&sni=n2.gladns.com&type=ws&host=TG.WangCai_1&path=/gateway/connect#8%7CSG_speednode_0215
 trojan://e261dc84-1b52-42db-859a-ed575e0876fa@hk-2-ddns.sudatech.store:40021?allowInsecure=1&sni=vpn-4-1.sudatech.store#8%7CUS_speednode_0265
-https://freemc.mcsslk.xyz/lgHZ5eH
-https://ablnk.absslk.xyz/gBN54rU
+https://freemc.mcsslk.xyz/qqLIpdb
+https://ablnk.absslk.xyz/UNXdcOs
