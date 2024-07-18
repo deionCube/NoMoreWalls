@@ -36,7 +36,7 @@ proxies:
   tfo: false
   type: ss
 - client-fingerprint: chrome
-  name: 5,8|CN_speednode_0035
+  name: 5,8|CN_speednode_0028
   password: MfqALmAJ
   port: 40081
   server: 183.232.139.24
