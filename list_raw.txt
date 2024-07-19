@@ -29,5 +29,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK82fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInhj
 trojan://MfqALmAJ@183.232.139.24:40081?allowInsecure=1&sni=ip2648428075.mobgslb.tbcache.com#8%7CCN_speednode_0027
 trojan://telegram-id-privatevpns@13.60.141.186:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CSE_speednode_0133
 trojan://epDl3yFT5CNCKazFSqAxDOAyau3IXjxl63YcZSE0248BnZ7gOa8C9pYR3weSDR@okelvv.superpokemon.com:28342?allowInsecure=1&sni=okelvv.superpokemon.com#8%7CUS_speednode_0165
-https://freemc.mcsslk.xyz/sNTy1Fu
-https://ablnk.absslk.xyz/WHZyYWs
+https://ablnk.absslk.xyz/as5klrU
+https://freemc.mcsslk.xyz/dozorBr
