@@ -15,14 +15,17 @@ proxies:
   server: 172.67.141.111
   tfo: false
   type: ss
-- client-fingerprint: chrome
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
   name: 5|🇭🇰 香港|@ripaojiedian
-  password: 15bc9e79-5ba0-388a-8804-67f203ee4487
-  port: 13002
-  server: 36.141.40.27
-  skip-cert-verify: true
-  sni: ip2648428075.mobgslb.tbcache.com
-  type: trojan
+  port: 10069
+  server: 36.138.218.41
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: ad2114ca-1c75-4607-ad14-1a1824a6dde9
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
@@ -34,14 +37,14 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- client-fingerprint: chrome
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
   name: 5|🇭🇰 香港3|@ripaojiedian
-  password: 9bd9f0da-cb8b-4bd3-9f80-efa1be67daa0
-  port: 13008
-  server: naiu-hk.05vr9nyqg5.download
-  skip-cert-verify: false
-  sni: cloudflare.node-ssl.cdn-alibaba.com
-  type: trojan
+  password: ad2114ca-1c75-4607-ad14-1a1824a6dde9
+  port: 10067
+  server: 36.138.218.41
+  tfo: false
+  type: ss
 - client-fingerprint: chrome
   name: 5|🇭🇰 香港4|@ripaojiedian
   password: MfqALmAJ
@@ -61,13 +64,13 @@ proxies:
   cipher: auto
   client-fingerprint: chrome
   name: 5|🇭🇰 香港6|@ripaojiedian
-  port: 3293
-  server: pro01.dns2024.org
+  port: 45449
+  server: xctransfer1st.cokecloud.top
   skip-cert-verify: false
   tfo: false
-  tls: true
+  tls: false
   type: vmess
-  uuid: 4ff0df2c-2092-36ab-882f-29e46fea089c
+  uuid: 2afa1ad2-990e-4711-8cd0-34085115ec22
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 5|🇭🇰 香港R|@ripaojiedian
@@ -76,6 +79,16 @@ proxies:
   server: 59.56.77.178
   tfo: false
   type: ss
+- alterId: 0
+  cipher: auto
+  name: 6|香港|@ripaojiedian
+  network: tcp
+  port: '10069'
+  server: 36.138.218.41
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: ad2114ca-1c75-4607-ad14-1a1824a6dde9
 - alterId: 64
   cipher: auto
   name: 6|香港2|@ripaojiedian
@@ -90,12 +103,12 @@ proxies:
   cipher: auto
   name: 6|香港6|@ripaojiedian
   network: tcp
-  port: '3293'
-  server: pro01.dns2024.org
+  port: '45449'
+  server: xctransfer1st.cokecloud.top
   servername: ''
-  tls: true
+  tls: false
   type: vmess
-  uuid: 4ff0df2c-2092-36ab-882f-29e46fea089c
+  uuid: 2afa1ad2-990e-4711-8cd0-34085115ec22
 - name: 8|HK_speednode_0099
   network: ws
   port: 443
