@@ -16,14 +16,17 @@ proxies:
     headers:
       Host: ip005.dtku47.xyz
     path: github.com/Alvin9999
-- client-fingerprint: chrome
+- alterId: 64
+  cipher: auto
+  client-fingerprint: chrome
   name: 5|🇺🇸 美国2|@ripaojiedian
-  password: TlcDxy6NSZ33XD56zOlqFSauCeaySZ3CSFYa5RnDp39K8yYOZxY0xI7IXAnA2CE38wD33
-  port: 28331
-  server: cooker.homeofbrave.net
+  port: 42055
+  server: 120.232.153.37
   skip-cert-verify: false
-  sni: cooker.homeofbrave.net
-  type: trojan
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - client-fingerprint: chrome
   name: 5,8|CN_speednode_0028
   password: MfqALmAJ
@@ -49,23 +52,16 @@ proxies:
     headers:
       Host: ip14.freegradely.xyz
     path: github.com/Alvin9999
-- alterId: 0
+- alterId: 64
   cipher: auto
-  client-fingerprint: chrome
-  name: 5,6|美国6|@ripaojiedian
-  network: ws
-  port: '2052'
-  server: 104.19.38.18
+  name: 6|美国2|@ripaojiedian
+  network: tcp
+  port: '42055'
+  server: 120.232.153.37
   servername: ''
-  skip-cert-verify: false
-  tfo: false
   tls: false
   type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: cdn2.freegradely.xyz
-    path: github.com/Alvin9999
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - name: 8|US_speednode_0141
   network: ws
   port: 2096
