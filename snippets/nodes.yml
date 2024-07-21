@@ -1,10 +1,19 @@
 proxies:
-- name: 0|-https://t.me/MrXbin-10
-  password: b06d7f06-51ba-402d-991a-3fe1e432247c
-  port: 443
-  server: usa.lydurlclub.top
+- alterId: 0
+  cipher: auto
+  h2-opts: {}
+  http-opts: {}
+  name: 0|-https://t.me/MrXbin-9
+  network: ws
+  port: 80
+  server: 206.238.236.36
   skip-cert-verify: true
-  type: trojan
+  type: vmess
+  uuid: bc864078-dcf3-4bf4-8dbf-ca9f200b56be
+  ws-opts:
+    headers:
+      Host: mysan2.jaquay22.workers.dev
+    path: /gwdef.sbs/linkws
 - cipher: aes-128-gcm
   name: 5|🇭🇰 香港KT|@ripaojiedian
   password: a-wym4ovY4Yw
