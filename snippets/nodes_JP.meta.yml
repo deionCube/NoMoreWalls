@@ -6,14 +6,23 @@ proxies:
   server: 36.151.195.77
   skip-cert-verify: true
   type: trojan
-- client-fingerprint: chrome
-  name: 5|🇯🇵 日本2|@ripaojiedian
-  password: d2382a15-ae45-40ab-8925-84792b584bd8
-  port: 20230
-  server: jp005.421421.xyz
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 5,6|日本2|@ripaojiedian
+  network: ws
+  port: '63011'
+  server: in06.dns2024.org
+  servername: ''
   skip-cert-verify: false
-  sni: 421421.xyz
-  type: trojan
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: e8e6f618-842c-33d4-9a9f-7827614a6bf9
+  ws-opts:
+    headers:
+      Host: jp-a-mugua.weibo-cdn.best
+    path: /
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -31,14 +40,6 @@ proxies:
     headers:
       Host: kvjqqknzjp6.yofnhkfc.xyz
     path: /video/Zo98PYfE
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 5|🇯🇵 日本4|@ripaojiedian
-  password: a2c791a3-b846-4429-9b5a-32003a6bf733
-  port: 61001
-  server: 4.forlive.live
-  tfo: false
-  type: ss
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 5|🇯🇵 日本R|@ripaojiedian
@@ -52,7 +53,7 @@ proxies:
   name: 5|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 52.195.207.131
+  server: 54.255.211.19
   tfo: false
   type: ss
 - name: 8|JP_speednode_0100
