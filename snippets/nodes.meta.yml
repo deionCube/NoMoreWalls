@@ -1,4 +1,22 @@
 proxies:
+- cipher: rc4-md5
+  name: 0|-https://t.me/MrXbin-3
+  obfs: tls1.2_ticket_auth
+  password: Cskw6d
+  port: 13682
+  protocol: auth_aes128_md5
+  protocol-param: 524959:5u4MZ6
+  server: z5is.cdn.node.a.tddns-ounk.com
+  type: ssr
+- cipher: rc4-md5
+  name: 0|-https://t.me/MrXbin-5
+  obfs: tls1.2_ticket_auth
+  password: Cskw6d
+  port: 13351
+  protocol: auth_aes128_md5
+  protocol-param: 524959:5u4MZ6
+  server: r97q.cdn.node.a.tddns-ounk.com
+  type: ssr
 - cipher: aes-256-cfb
   name: 0|-https://t.me/MrXbin-7
   obfs: tls1.2_ticket_auth
@@ -19,7 +37,7 @@ proxies:
     skip-cert-verify: false
     tls: true
   port: 8443
-  server: 36.232.48.74
+  server: 118.170.94.207
   tfo: false
   type: ss
 - cipher: chacha20-ietf-poly1305
@@ -39,38 +57,26 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
-  name: 5,6|香港3|@ripaojiedian
-  network: ws
-  port: '2052'
-  server: 22.6bnw.top
-  servername: ''
+- name: 5|🇭🇰 香港3|@ripaojiedian
+  password: d6d86a97-2bef-4f89-9527-ce2003377677
+  port: 13007
+  server: naiu-hk.05vr9nyqg5.download
   skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: b0549224-831d-4cba-bab9-94fdc6a1327e
-  ws-opts:
-    headers:
-      Host: polohk.6bnw.top
-    path: /cctv?ed=2048
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  type: trojan
 - name: 5|🇭🇰 香港4|@ripaojiedian
   password: MfqALmAJ
   port: 20819
   server: 36.151.195.77
   skip-cert-verify: true
   type: trojan
-- alterId: 0
-  cipher: auto
-  name: 5|🇭🇰 香港5|@ripaojiedian
-  port: 63090
-  server: in06.dns2024.org
+- name: 5|🇭🇰 香港5|@ripaojiedian
+  password: NUeBvQHox0BmnHpu
+  port: 443
+  server: ggghhhk51.xyz
   skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: e8e6f618-842c-33d4-9a9f-7827614a6bf9
+  sni: ggghhhk51.xyz
+  type: trojan
 - cipher: aes-256-cfb
   name: 5|🇭🇰 香港R|@ripaojiedian
   password: hGkQ6915tD
@@ -83,6 +89,13 @@ proxies:
   password: 5bb63601-bac8-40fd-9dc4-92de6e6ecd33
   port: 32207
   server: aa01gg.sssyun.xyz
+  tfo: false
+  type: ss
+- cipher: aes-128-gcm
+  name: 5|🇹🇼 台湾2|@ripaojiedian
+  password: NUeBvQHox0BmnHpu
+  port: 27918
+  server: twacq10.top
   tfo: false
   type: ss
 - name: 5|🇯🇵 日本|@ripaojiedian
@@ -114,27 +127,18 @@ proxies:
   server: aa01gg.sssyun.xyz
   tfo: false
   type: ss
-- alterId: 0
-  cipher: auto
-  name: 5,6|日本4|@ripaojiedian
-  network: ws
-  port: '2052'
-  server: 4.6bnw.top
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: b0549224-831d-4cba-bab9-94fdc6a1327e
-  ws-opts:
-    headers:
-      Host: yuwanjp.6bnw.top
-    path: /?ed=2560
 - cipher: aes-256-cfb
   name: 5|🇯🇵 日本R|@ripaojiedian
   password: hGkQ6915tD
   port: 15084
   server: 59.56.77.178
+  tfo: false
+  type: ss
+- cipher: aes-256-gcm
+  name: 5|🇰🇷 韩国|@ripaojiedian
+  password: WcilR7WG
+  port: 33342
+  server: bja.lightssocks.com
   tfo: false
   type: ss
 - cipher: chacha20-ietf-poly1305
@@ -149,6 +153,13 @@ proxies:
   password: 5bb63601-bac8-40fd-9dc4-92de6e6ecd33
   port: 39204
   server: aa01gg.sssyun.xyz
+  tfo: false
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 5|🇸🇬 新加坡2|@ripaojiedian
+  password: 2af732d9-b956-42dc-8be2-4f28c3407cb2
+  port: 44400
+  server: free-relay.t01.themars.top
   tfo: false
   type: ss
 - alterId: 0
@@ -177,13 +188,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- name: 5|🇺🇸 美国3|@ripaojiedian
-  password: Z3FSA9weaaRYpN89weaaRYpN89weaaRYpN80CDYFOxS5TSBqlCyAaXzaXzc7ZpngISBqlCyAaXzc7Zp
-  port: 443
-  server: tubular.wireshop.net
-  skip-cert-verify: false
-  sni: tubular.wireshop.net
-  type: trojan
 - name: 5,8|CN_speednode_0028
   password: MfqALmAJ
   port: 40081
@@ -211,21 +215,21 @@ proxies:
   name: 5|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 13.228.79.13
+  server: 52.194.250.138
   tfo: false
   type: ss
 - cipher: aes-256-cfb
   name: 5|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 3.112.220.140
+  server: 18.142.246.19
   tfo: false
   type: ss
 - cipher: aes-256-cfb
   name: 5|🇰🇷 韩国特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 52.197.150.228
+  server: 13.212.82.167
   tfo: false
   type: ss
 - cipher: aes-256-cfb
@@ -252,16 +256,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
-  name: 6|香港5|@ripaojiedian
-  network: tcp
-  port: '63090'
-  server: in06.dns2024.org
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: e8e6f618-842c-33d4-9a9f-7827614a6bf9
 - alterId: 64
   cipher: auto
   name: 6|美国2|@ripaojiedian

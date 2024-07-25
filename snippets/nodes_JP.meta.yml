@@ -31,23 +31,6 @@ proxies:
   server: aa01gg.sssyun.xyz
   tfo: false
   type: ss
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 5,6|日本4|@ripaojiedian
-  network: ws
-  port: '2052'
-  server: 4.6bnw.top
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: b0549224-831d-4cba-bab9-94fdc6a1327e
-  ws-opts:
-    headers:
-      Host: yuwanjp.6bnw.top
-    path: /?ed=2560
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 5|🇯🇵 日本R|@ripaojiedian
@@ -61,7 +44,7 @@ proxies:
   name: 5|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 13.228.79.13
+  server: 52.194.250.138
   tfo: false
   type: ss
 - name: 8|JP_speednode_0100
