@@ -1,4 +1,4 @@
-ssr://us-am3.eqnode.net:8081:origin:aes-256-cfb:tls1.2_ticket_authZm91OE1CR2lqremarks=MHwtaHR0cHM6Ly90Lm1lL01yWGJpbi02
+ssr://us-am3.eqnode.net:8081:origin:aes-256-cfb:tls1.2_ticket_authZm91OE1CR2lqremarks=MHwtaHR0cHM6Ly90Lm1lL01yWGJpbi01
 ss://YWVzLTEyOC1nY206YS13eW00b3ZZNFl3@118.170.94.207:8443#5%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AFKT%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YmI2MzYwMS1iYWM4LTQwZmQtOWRjNC05MmRlNmU2ZWNkMzM=@aa01gg.sssyun.xyz:39301#5%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNXzwn4et8J+HsCDpppnmuK8yfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjE4My4yMzYuNTEuMjMiLCAicG9ydCI6IDQ1MDIwLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
@@ -30,5 +30,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnznvo7lm70yfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjEy
 trojan://MfqALmAJ@183.232.139.24:40081?allowInsecure=1&sni=ip2648428075.mobgslb.tbcache.com#8%7CCN_speednode_0027
 trojan://telegram-id-privatevpns@13.60.141.186:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CSE_speednode_0133
 trojan://epDl3yFT5CNCKazFSqAxDOAyau3IXjxl63YcZSE0248BnZ7gOa8C9pYR3weSDR@okelvv.superpokemon.com:28342?allowInsecure=1&sni=okelvv.superpokemon.com#8%7CUS_speednode_0165
-https://freemc.mcsslk.xyz/UD9sVwi
-https://ablnk.absslk.xyz/yhNd0YN
+https://freemc.mcsslk.xyz/y7BiYLv
+https://ablnk.absslk.xyz/qRSrUJ9
