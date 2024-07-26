@@ -32,5 +32,5 @@ trojan://MfqALmAJ@183.232.139.24:40081?allowInsecure=1&sni=ip2648428075.mobgslb.
 trojan://MfqALmAJ@183.232.139.24:40081?allowInsecure=1#8%7CCN_speednode_0028
 trojan://telegram-id-privatevpns@13.60.141.186:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CSE_speednode_0133
 trojan://epDl3yFT5CNCKazFSqAxDOAyau3IXjxl63YcZSE0248BnZ7gOa8C9pYR3weSDR@okelvv.superpokemon.com:28342?allowInsecure=1&sni=okelvv.superpokemon.com#8%7CUS_speednode_0165
-https://ablnk.absslk.xyz/wThW5BA
-https://freemc.mcsslk.xyz/sA1tzG5
+https://freemc.mcsslk.xyz/tOCMloz
+https://ablnk.absslk.xyz/47fxqch
