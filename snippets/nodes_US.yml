@@ -16,14 +16,6 @@ proxies:
     headers:
       Host: ip005.dtku47.xyz
     path: github.com/Alvin9999
-- client-fingerprint: chrome
-  name: 5|🇺🇸 美国2|@ripaojiedian
-  password: cfa36789-94aa-4c4c-ad06-ab35a8eb9312
-  port: 18298
-  server: tw60.233235.xyz
-  skip-cert-verify: false
-  sni: usmax03.170203.xyz
-  type: trojan
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
