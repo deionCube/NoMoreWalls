@@ -2,50 +2,16 @@ proxies:
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 5|🇹🇼 台湾|@ripaojiedian
-  password: XoYrrEfZYxxHL3AI
-  port: 35699
-  server: ydthree.9sjd2dkesl2.shop
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 5|🇹🇼 台湾2|@ripaojiedian
-  password: b5abc4c0-b518-4195-88b4-57900f16fb65
-  port: 39201
-  server: aa01gg.sssyun.xyz
+  password: 4e079290-392b-4e4b-bdc4-f0a1f56ae841
+  port: 28111
+  server: tw01.51feitu.com
   tfo: false
   type: ss
 - cipher: aes-128-gcm
   client-fingerprint: chrome
-  name: 5|🇹🇼 台湾3|@ripaojiedian
+  name: 5|🇹🇼 台湾2|@ripaojiedian
   password: NUeBvQHox0BmnHpu
-  port: 15375
-  server: twacq10.top
+  port: 33368
+  server: guangguang01.xyz
   tfo: false
   type: ss
-- client-fingerprint: chrome
-  name: 8|TW_speednode_0139
-  network: ws
-  port: 23555
-  server: 60.249.89.74
-  servername: page-us-qg0.pages.dev
-  tls: true
-  type: vless
-  uuid: bd7d2c5c-86bc-4d5c-8c6b-a5c58981e68c
-  ws-opts:
-    headers:
-      Host: page-us-qg0.pages.dev
-    path: twitterfreecodes
-- client-fingerprint: chrome
-  name: 8|TW_speednode_0140
-  network: ws
-  port: 23555
-  server: 211.72.156.10
-  servername: cfed.tgzdyz2.top
-  tls: true
-  type: vless
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
-  ws-opts:
-    headers:
-      Host: cfed.tgzdyz2.top
-    path: tg@zdyz2
