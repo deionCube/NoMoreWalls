@@ -6,14 +6,6 @@ proxies:
   server: 36.151.195.77
   skip-cert-verify: true
   type: trojan
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 5|🇯🇵 日本2|@ripaojiedian
-  password: 3293037f-210e-4f64-8542-2af0141b8d43
-  port: 48801
-  server: jp01.network-cdn-gw.cc
-  tfo: false
-  type: ss
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -35,7 +27,7 @@ proxies:
   name: 5|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 52.69.70.123
+  server: 52.33.38.192
   tfo: false
   type: ss
 - alterId: 0
