@@ -1,31 +1,23 @@
 proxies:
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 5|🇭🇰 香港KT|@ripaojiedian
-  password: a-wym4ovY4Yw
-  port: 81
-  server: 218.250.217.111
-  tfo: false
-  type: ss
-- client-fingerprint: chrome
-  name: 5|🇭🇰 香港1|@ripaojiedian
-  password: NUeBvQHox0BmnHpu
-  port: 443
-  server: gquuangc27.xyz
-  skip-cert-verify: false
-  sni: gquuangc27.xyz
-  type: trojan
-- alterId: 64
+- alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 5|🇭🇰 香港2|@ripaojiedian
-  port: 45020
-  server: 183.236.51.23
+  name: 5|🇭🇰 香港|@ripaojiedian
+  port: 29767
+  server: iepl.hongxingdl.vip
   skip-cert-verify: false
   tfo: false
   tls: false
   type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  uuid: 47205b34-a0d2-462a-b603-438f62ad8027
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 5|🇭🇰 香港2|@ripaojiedian
+  password: 356cd62f-a0ea-4630-8d67-847b6f2b3321
+  port: 40023
+  server: gg01.6bnw.top
+  tfo: false
+  type: ss
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -63,25 +55,28 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 5|🇭🇰 香港6|@ripaojiedian
-  port: 33575
-  server: xctransfer1st.cokecloud.top
+  name: 5,6|香港6|@ripaojiedian
+  network: ws
+  port: '2052'
+  server: v4.yydspp.cc
+  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
   type: vmess
-  uuid: 1de8f496-378f-4979-ba17-500fd9fee228
-- alterId: 0
-  cipher: auto
+  uuid: 4929f0ca-2793-4aa3-b2d0-7445447097f6
+  ws-opts:
+    headers:
+      Host: oiichk.yydsii.com
+    path: /
+- cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 5|🇭🇰 香港7|@ripaojiedian
-  port: 60066
-  server: hk0069.alibabaokz.com
-  skip-cert-verify: false
+  password: 356cd62f-a0ea-4630-8d67-847b6f2b3321
+  port: 36993
+  server: aa01gg.sssyun.xyz
   tfo: false
-  tls: false
-  type: vmess
-  uuid: 38571ca6-6692-4559-b901-0bc5826b7661
+  type: ss
 - client-fingerprint: chrome
   name: 5|🇭🇰 香港8|@ripaojiedian
   password: NUeBvQHox0BmnHpu
@@ -90,24 +85,32 @@ proxies:
   skip-cert-verify: false
   sni: pplaca05.top
   type: trojan
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
+- client-fingerprint: chrome
   name: 5|🇭🇰 香港9|@ripaojiedian
-  password: c7f2cbc9-00c6-4948-9a72-c77ff72e69dc
-  port: 39301
-  server: aa01gg.sssyun.xyz
-  tfo: false
-  type: ss
-- alterId: 64
+  password: 5f27eb67-a1ea-43a3-9a33-8d85d61b9574
+  port: 443
+  server: 104.208.111.108
+  skip-cert-verify: false
+  sni: hknode02.oportal.cc
+  type: trojan
+- client-fingerprint: chrome
+  name: 5|🇭🇰 香港10|@ripaojiedian
+  password: NUeBvQHox0BmnHpu
+  port: 443
+  server: gquuangc27.xyz
+  skip-cert-verify: false
+  sni: gquuangc27.xyz
+  type: trojan
+- alterId: 0
   cipher: auto
-  name: 6|香港2|@ripaojiedian
+  name: 6|香港|@ripaojiedian
   network: tcp
-  port: '45020'
-  server: 183.236.51.23
+  port: '29767'
+  server: iepl.hongxingdl.vip
   servername: ''
   tls: false
   type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  uuid: 47205b34-a0d2-462a-b603-438f62ad8027
 - alterId: 0
   cipher: auto
   name: 6|香港3|@ripaojiedian
@@ -132,26 +135,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
-  name: 6|香港6|@ripaojiedian
-  network: tcp
-  port: '33575'
-  server: xctransfer1st.cokecloud.top
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 1de8f496-378f-4979-ba17-500fd9fee228
-- alterId: 0
-  cipher: auto
-  name: 6|香港7|@ripaojiedian
-  network: tcp
-  port: '60066'
-  server: hk0069.alibabaokz.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 38571ca6-6692-4559-b901-0bc5826b7661
 - client-fingerprint: chrome
   name: 8|HK_speednode_0097
   network: ws

@@ -1,12 +1,12 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
+- client-fingerprint: chrome
   name: 5|🇹🇼 台湾|@ripaojiedian
-  password: c7f2cbc9-00c6-4948-9a72-c77ff72e69dc
-  port: 40018
-  server: gg01.6bnw.top
-  tfo: false
-  type: ss
+  password: NUeBvQHox0BmnHpu
+  port: 443
+  server: lsodgkanq01.xyz
+  skip-cert-verify: false
+  sni: lsodgkanq01.xyz
+  type: trojan
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 5|🇹🇼 台湾2|@ripaojiedian
@@ -15,3 +15,20 @@ proxies:
   server: tw04.51feitu.com
   tfo: false
   type: ss
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 5,6|台湾3|@ripaojiedian
+  network: ws
+  port: '80'
+  server: v4.cfnode.eu.org
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 4929f0ca-2793-4aa3-b2d0-7445447097f6
+  ws-opts:
+    headers:
+      Host: oiictw.yydsii.com
+    path: /
