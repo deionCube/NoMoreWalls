@@ -1,15 +1,12 @@
 proxies:
-- alterId: 0
-  cipher: auto
+- cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 5|🇭🇰 香港7|@ripaojiedian
-  port: 10184
-  server: 36.139.183.164
-  skip-cert-verify: false
+  name: 5|🇭🇰 香港|@ripaojiedian
+  password: ef1cf445-e1b6-4536-ab3c-8aa1bb0dff11
+  port: 39301
+  server: aa01gg.sssyun.xyz
   tfo: false
-  tls: false
-  type: vmess
-  uuid: 273a61f5-03b5-4449-9d18-7e914d3808c4
+  type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 5|🇭🇰 香港2|@ripaojiedian
@@ -18,22 +15,6 @@ proxies:
   server: aa01gg.sssyun.xyz
   tfo: false
   type: ss
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 5|🇭🇰 香港3|@ripaojiedian
-  network: ws
-  port: 46001
-  server: mmhk01.micloud.buzz
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: f9b02d8c-b69b-435f-aa25-68393e5fb121
-  ws-opts:
-    headers:
-      Host: mmhk01.micloud.buzz
-    path: /zh-cn
 - client-fingerprint: chrome
   name: 5|🇭🇰 香港4|@ripaojiedian
   password: llyEnxJlVC
@@ -52,41 +33,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 5|🇭🇰 香港6|@ripaojiedian
-  port: 29767
-  server: svip.hongxingdl.vip
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: d08b6b45-cd8a-4d36-a0fe-ef626b94fc27
-- alterId: 0
-  cipher: auto
-  name: 6|香港7|@ripaojiedian
-  network: tcp
-  port: '10184'
-  server: 36.139.183.164
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 273a61f5-03b5-4449-9d18-7e914d3808c4
-- alterId: 0
-  cipher: auto
-  name: 6|香港3|@ripaojiedian
-  network: ws
-  port: '46001'
-  server: mmhk01.micloud.buzz
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: f9b02d8c-b69b-435f-aa25-68393e5fb121
-  ws-opts:
-    headers:
-      Host: ''
-    path: /zh-cn
 - alterId: 64
   cipher: auto
   name: 6|香港5|@ripaojiedian
@@ -97,16 +43,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
-  name: 6|香港6|@ripaojiedian
-  network: tcp
-  port: '29767'
-  server: svip.hongxingdl.vip
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: d08b6b45-cd8a-4d36-a0fe-ef626b94fc27
 - client-fingerprint: chrome
   name: 8|HK_speednode_0097
   network: ws
