@@ -2,7 +2,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 5|🇭🇰 香港|@ripaojiedian
+  name: 5|🇭🇰 香港2|@ripaojiedian
   network: ws
   port: 46001
   server: mmhk01.micloud.buzz
@@ -15,30 +15,22 @@ proxies:
     headers:
       Host: mmhk01.micloud.buzz
     path: /zh-cn
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 5|🇭🇰 香港2|@ripaojiedian
-  password: ad2114ca-1c75-4607-ad14-1a1824a6dde9
-  port: 10182
-  server: 36.139.183.164
-  tfo: false
-  type: ss
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
   name: 5,6|香港3|@ripaojiedian
   network: ws
-  port: '30000'
-  server: 143.92.61.87
-  servername: www.13181057.xyz
+  port: '443'
+  server: 103.212.98.234
+  servername: www.59795160.xyz
   skip-cert-verify: false
   tfo: false
   tls: true
   type: vmess
-  uuid: 99c2c24c-66bd-4419-afb8-ac0f5aaf337a
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
   ws-opts:
     headers:
-      Host: www.13181057.xyz
+      Host: www.59795160.xyz
     path: /path/011410073331
 - client-fingerprint: chrome
   name: 5|🇭🇰 香港4|@ripaojiedian
@@ -66,43 +58,25 @@ proxies:
   server: aa01gg.sssyun.xyz
   tfo: false
   type: ss
-- alterId: 64
-  cipher: auto
+- cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 5,6|香港7|@ripaojiedian
-  network: ws
-  port: '443'
-  server: 172.247.118.254
-  servername: www.63461637.xyz
-  skip-cert-verify: false
+  name: 5|🇭🇰 香港7|@ripaojiedian
+  password: 3632bd90-d85e-42ef-a2b3-36393ae88c17
+  port: 39301
+  server: aa01gg.sssyun.xyz
   tfo: false
-  tls: true
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  ws-opts:
-    headers:
-      Host: www.63461637.xyz
-    path: /path/011410073331
-- alterId: 64
-  cipher: auto
+  type: ss
+- cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 5,6|香港8|@ripaojiedian
-  network: ws
-  port: '443'
-  server: 103.212.98.234
-  servername: www.59795160.xyz
-  skip-cert-verify: false
+  name: 5|🇭🇰 香港8|@ripaojiedian
+  password: ad2114ca-1c75-4607-ad14-1a1824a6dde9
+  port: 10182
+  server: 36.139.183.164
   tfo: false
-  tls: true
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  ws-opts:
-    headers:
-      Host: www.59795160.xyz
-    path: /path/011410073331
+  type: ss
 - alterId: 0
   cipher: auto
-  name: 6|香港|@ripaojiedian
+  name: 6|香港2|@ripaojiedian
   network: ws
   port: '46001'
   server: mmhk01.micloud.buzz
@@ -124,3 +98,107 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- name: 8|HK_speednode_0156
+  network: ws
+  password: CMLiu
+  port: 38050
+  server: 46.3.105.181
+  skip-cert-verify: true
+  sni: aliorg.filegear-sg.me
+  type: trojan
+  udp: false
+  ws-opts:
+    headers:
+      Host: aliorg.filegear-sg.me
+    path: /?ed=2048
+- name: 8|HK_speednode_0157
+  network: ws
+  password: CMLiu
+  port: 443
+  server: 47.76.221.85
+  skip-cert-verify: true
+  sni: aliorg.filegear-sg.me
+  type: trojan
+  udp: false
+  ws-opts:
+    headers:
+      Host: aliorg.filegear-sg.me
+    path: /?ed=2048
+- name: 8|HK_speednode_0159
+  network: ws
+  password: CMLiu
+  port: 2087
+  server: 47.76.227.128
+  skip-cert-verify: true
+  sni: aliorg.filegear-sg.me
+  type: trojan
+  udp: false
+  ws-opts:
+    headers:
+      Host: aliorg.filegear-sg.me
+    path: /?ed=2048
+- name: 8|HK_speednode_0160
+  network: ws
+  password: CMLiu
+  port: 8443
+  server: 47.76.26.26
+  skip-cert-verify: true
+  sni: aliorg.filegear-sg.me
+  type: trojan
+  udp: false
+  ws-opts:
+    headers:
+      Host: aliorg.filegear-sg.me
+    path: /?ed=2048
+- name: 8|HK_speednode_0163
+  network: ws
+  password: CMLiu
+  port: 55330
+  server: 38.147.190.245
+  skip-cert-verify: true
+  sni: aliorg.filegear-sg.me
+  type: trojan
+  udp: false
+  ws-opts:
+    headers:
+      Host: aliorg.filegear-sg.me
+    path: /?ed=2048
+- name: 8|HK_speednode_0164
+  network: ws
+  password: CMLiu
+  port: 44689
+  server: 38.207.165.185
+  skip-cert-verify: true
+  sni: aliorg.filegear-sg.me
+  type: trojan
+  udp: false
+  ws-opts:
+    headers:
+      Host: aliorg.filegear-sg.me
+    path: /?ed=2048
+- name: 8|HK_speednode_0165
+  network: ws
+  password: CMLiu
+  port: 37578
+  server: 149.104.19.75
+  skip-cert-verify: true
+  sni: aliorg.filegear-sg.me
+  type: trojan
+  udp: false
+  ws-opts:
+    headers:
+      Host: aliorg.filegear-sg.me
+    path: /?ed=2048
+- name: 8|HK_speednode_0168
+  network: ws
+  password: CMLiu
+  port: 15957
+  server: 46.3.102.22
+  skip-cert-verify: true
+  sni: aliorg.filegear-sg.me
+  type: trojan
+  udp: false
+  ws-opts:
+    headers:
+      Host: aliorg.filegear-sg.me
+    path: /?ed=2048
