@@ -6,23 +6,14 @@ proxies:
   server: 183.232.139.24
   skip-cert-verify: true
   type: trojan
-- alterId: 64
-  cipher: auto
+- cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 5,6|日本2|@ripaojiedian
-  network: ws
-  port: '443'
-  server: 134.122.139.79
-  servername: www.48907900.xyz
-  skip-cert-verify: false
+  name: 5|🇯🇵 日本2|@ripaojiedian
+  password: c0623f02-6b3a-4742-b34f-f6763581b8ce
+  port: 19529
+  server: aa01gg.sssyun.xyz
   tfo: false
-  tls: true
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  ws-opts:
-    headers:
-      Host: www.48907900.xyz
-    path: /path/011410073331
+  type: ss
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -39,14 +30,6 @@ proxies:
     headers:
       Host: mmjp11.micloud.buzz
     path: /zh-cn
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 5|🇯🇵 日本4|@ripaojiedian
-  password: 3632bd90-d85e-42ef-a2b3-36393ae88c17
-  port: 49207
-  server: aa01gg.sssyun.xyz
-  tfo: false
-  type: ss
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -69,7 +52,7 @@ proxies:
   name: 5|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 47.128.150.72
+  server: 13.229.87.253
   tfo: false
   type: ss
 - alterId: 0
