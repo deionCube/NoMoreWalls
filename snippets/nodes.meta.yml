@@ -1,21 +1,65 @@
 proxies:
+- cipher: rc4-md5
+  name: 0|-https://t.me/MrXbin-3
+  obfs: tls1.2_ticket_auth
+  password: Cskw6d
+  port: 13545
+  protocol: auth_aes128_md5
+  protocol-param: 524959:5u4MZ6
+  server: tata12.cdn.node.a.tddns-ounk.com
+  type: ssr
+- cipher: rc4-md5
+  name: 0|-https://t.me/MrXbin-6
+  obfs: tls1.2_ticket_auth
+  password: Cskw6d
+  port: 13186
+  protocol: auth_aes128_md5
+  protocol-param: 524959:5u4MZ6
+  server: z5is.cdn.node.a.tddns-ounk.com
+  type: ssr
+- cipher: rc4-md5
+  name: 0|-https://t.me/MrXbin-7
+  obfs: tls1.2_ticket_auth
+  password: Cskw6d
+  port: 13637
+  protocol: auth_aes128_md5
+  protocol-param: 524959:5u4MZ6
+  server: bb29cs.cdn.node.a.tddns-ounk.com
+  type: ssr
+- cipher: rc4-md5
+  name: 0|-https://t.me/MrXbin-8
+  obfs: tls1.2_ticket_auth
+  password: Cskw6d
+  port: 13636
+  protocol: auth_aes128_md5
+  protocol-param: 524959:5u4MZ6
+  server: bb29cs.cdn.node.a.tddns-ounk.com
+  type: ssr
 - cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-2
+  name: 0|-https://t.me/MrXbin-9
   obfs: tls1.2_ticket_auth
   password: fou8MBGij
   port: 8081
   protocol: origin
   server: us-am3.eqnode.net
   type: ssr
-- cipher: rc4-md5
-  name: 0|-https://t.me/MrXbin-6
-  obfs: tls1.2_ticket_auth
-  password: Cskw6d
-  port: 13622
-  protocol: auth_aes128_md5
-  protocol-param: 524959:5u4MZ6
-  server: hfa1.cdn.node.a.tddns-ounk.com
-  type: ssr
+- alterId: 0
+  cipher: auto
+  h2-opts: {}
+  http-opts: {}
+  name: 0|-https://t.me/MrXbin-13
+  network: ws
+  port: 443
+  server: na.ma
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 00759fb3-bf4d-4b31-ac07-e77353592813
+  ws-opts:
+    headers:
+      Host: 849aec73-0517-us.vps-jdkz.gq
+    path: /.cachefiles/89d86e07-f6a8-4aa9-9ba0-fafd2dc17300/
 - alterId: 0
   cipher: auto
   name: 5|🇭🇰 香港6|@ripaojiedian
@@ -2266,7 +2310,9 @@ proxies:
     headers:
       Host: glitch.8cc.free.hr
     path: /vless?ed=2048
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0181
   network: ws
@@ -2282,7 +2328,9 @@ proxies:
     headers:
       Host: BpB-aoL.paGEs.DeV
     path: /9cSwJO49pS1XoR5h?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0182
   network: ws
@@ -2298,7 +2346,9 @@ proxies:
     headers:
       Host: bPB-Aol.pAgeS.dEV
     path: /k8Cf2AyTRwBYwjRh?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0183
   network: ws
@@ -2314,7 +2364,9 @@ proxies:
     headers:
       Host: BpB-aOl.PaGeS.DEV
     path: /tnwErZfkCcunhInQ?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0184
   network: ws
@@ -2330,7 +2382,9 @@ proxies:
     headers:
       Host: bpb-aOl.PAGes.DeV
     path: /iBiy4tzvPfZtBQH2?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0185
   network: ws
@@ -2346,7 +2400,9 @@ proxies:
     headers:
       Host: bPb-aOl.pAges.DEv
     path: /s0tMz8RaPB3C9hrm?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0186
   network: ws
@@ -2362,7 +2418,9 @@ proxies:
     headers:
       Host: bpb-aoL.paGEs.dEV
     path: /Q2f26Ke3MMb7FKbC?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0187
   network: ws
@@ -2393,7 +2451,9 @@ proxies:
     headers:
       Host: edgetunnel-free.pages.dev
     path: /
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0190
   network: ws
@@ -2409,7 +2469,9 @@ proxies:
     headers:
       Host: BPB-AOL.PagEs.deV
     path: /uK796zqotQZN0LYS?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0191
   network: ws
@@ -2425,7 +2487,9 @@ proxies:
     headers:
       Host: bPb-aol.paGEs.dev
     path: /LvoeebIzZrXjc3JO?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0192
   network: ws
@@ -2441,7 +2505,9 @@ proxies:
     headers:
       Host: BPb-aol.pageS.deV
     path: /3smt1xt5o0lIwUWj?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0194
   network: ws
@@ -2457,7 +2523,9 @@ proxies:
     headers:
       Host: BpB-AOl.PAgES.DeV
     path: /Q4zqtoq471TNTXjC?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0195
   network: ws
@@ -2473,7 +2541,9 @@ proxies:
     headers:
       Host: BPb-Aol.pages.dEv
     path: /DtS1ZiagEu6vwoKt?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0196
   network: ws
@@ -2489,7 +2559,9 @@ proxies:
     headers:
       Host: bpB-aOl.PagES.Dev
     path: /RZAfP9ylD88dnkeA?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0197
   network: ws
@@ -2505,7 +2577,9 @@ proxies:
     headers:
       Host: BPb-aoL.pAges.dEV
     path: /GRhLLpnrX8SrfMsV?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0198
   network: ws
@@ -2521,7 +2595,9 @@ proxies:
     headers:
       Host: BPb-AoL.PagEs.dev
     path: /wyFz2JSmx8eVbVjF?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0199
   network: ws
@@ -2537,7 +2613,9 @@ proxies:
     headers:
       Host: bPb-aol.pages.DeV
     path: /3PUJaNIIWUr9UNXS?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0200
   network: ws
@@ -2553,7 +2631,9 @@ proxies:
     headers:
       Host: bpb-AOl.PaGEs.dEV
     path: /WcDWwnEvaqnNqPpQ?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0201
   network: ws
@@ -2569,7 +2649,9 @@ proxies:
     headers:
       Host: Bpb-AOl.PageS.dEV
     path: /KvSRzPzvZmtKqxjB?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0202
   network: ws
@@ -2585,7 +2667,9 @@ proxies:
     headers:
       Host: bpb-AoL.pageS.Dev
     path: /ShcMqONF0EMFNoxj?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0203
   network: ws
@@ -2601,7 +2685,9 @@ proxies:
     headers:
       Host: BpB-AoL.PageS.DEv
     path: /n054ZYTXMQ7LZ7pr?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0204
   network: ws
@@ -2617,7 +2703,9 @@ proxies:
     headers:
       Host: Bpb-aoL.pAges.DEV
     path: /6wa5bh8yS6duRsPc?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0205
   network: ws
@@ -2633,7 +2721,9 @@ proxies:
     headers:
       Host: bPB-AoL.paGEs.DEV
     path: /O2M3gR7T1XjzKh6M?ed=2560
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0206
   network: ws
@@ -2664,7 +2754,9 @@ proxies:
     headers:
       Host: edgetunnel-free.pages.dev
     path: /?ed=2048
-- alpn: '[h2,  http/1.1]'
+- alpn:
+  - h2
+  - http/1.1
   client-fingerprint: randomized
   name: 8|US_speednode_0208
   network: ws
