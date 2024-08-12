@@ -65,7 +65,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- name: 8|HK_speednode_0086
+- name: 8|HK_speednode_0061
   network: ws
   password: CMLiu
   port: 2083
@@ -79,7 +79,7 @@ proxies:
       Host: aliorg.filegear-sg.me
     path: /?ed=2048
 - client-fingerprint: randomized
-  name: 8|HK_speednode_0087
+  name: 8|HK_speednode_0062
   network: ws
   port: 35002
   server: 58.176.229.127
@@ -94,7 +94,7 @@ proxies:
       Host: dns68.putata.eu.org
     path: /?ed=2048
 - client-fingerprint: randomized
-  name: 8|HK_speednode_0088
+  name: 8|HK_speednode_0063
   network: ws
   port: 2053
   server: 47.76.225.255
@@ -108,7 +108,7 @@ proxies:
     headers:
       Host: dns68.putata.eu.org
     path: /?ed=2048
-- name: 8|HK_speednode_0089
+- name: 8|HK_speednode_0064
   network: ws
   port: 2053
   server: 47.243.90.180
@@ -122,7 +122,7 @@ proxies:
     headers:
       Host: page-us-qg0.pages.dev
     path: /
-- name: 8|HK_speednode_0090
+- name: 8|HK_speednode_0065
   network: ws
   port: 12346
   server: 8.210.142.146
@@ -136,20 +136,7 @@ proxies:
     headers:
       Host: zhongkui.pages.dev
     path: /?end=
-- name: 8|HK_speednode_0091
-  network: ws
-  password: CMLiu
-  port: 34237
-  server: 154.204.56.238
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  udp: false
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: /?ed=2048
-- name: 8|HK_speednode_0097
+- name: 8|HK_speednode_0068
   network: ws
   port: 443
   server: 202.81.231.150
@@ -164,7 +151,7 @@ proxies:
       Host: ch.ylks.xyz
     path: /
 - client-fingerprint: randomized
-  name: 8|HK_speednode_0096
+  name: 8|HK_speednode_0067
   network: ws
   port: 11417
   server: 183.178.22.246
@@ -179,7 +166,7 @@ proxies:
       Host: dns68.putata.eu.org
     path: /?ed=2048
 - client-fingerprint: chrome
-  name: 8|HK_speednode_0098
+  name: 8|HK_speednode_0069
   network: ws
   port: 34987
   server: 8.210.13.126

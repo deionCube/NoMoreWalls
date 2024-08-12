@@ -69,7 +69,7 @@ proxies:
     headers:
       Host: ''
     path: /zh-cn
-- name: 8|JP_speednode_0102
+- name: 8|JP_speednode_0070
   network: ws
   password: CMLiu
   port: 2096
@@ -82,7 +82,7 @@ proxies:
     headers:
       Host: aliorg.filegear-sg.me
     path: /?ed=2048
-- name: 8|JP_speednode_0103
+- name: 8|JP_speednode_0071
   network: ws
   password: CMLiu
   port: 8443
@@ -95,7 +95,7 @@ proxies:
     headers:
       Host: aliorg.filegear-sg.me
     path: /?ed=2048
-- name: 8|JP_speednode_0104
+- name: 8|JP_speednode_0072
   network: ws
   password: CMLiu
   port: 47519
