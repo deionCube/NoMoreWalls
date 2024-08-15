@@ -33,14 +33,14 @@ proxies:
     headers:
       Host: us6gzxQRrE4.fzbqfrse.xyz
     path: /video/bYdJ7Vc2We
-- cipher: aes-128-cfb
-  client-fingerprint: chrome
+- client-fingerprint: chrome
   name: 5|🇺🇸 美国3|@ripaojiedian
-  password: shadowsocks
-  port: 443
-  server: 184.170.241.194
-  tfo: false
-  type: ss
+  password: de4a493f-5fd9-46e7-bde2-46b9cc3a6d9b
+  port: 21134
+  server: shcm082.rennn.ren
+  skip-cert-verify: false
+  sni: k19.tudou211.com
+  type: trojan
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
