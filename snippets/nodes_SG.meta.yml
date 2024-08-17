@@ -1,12 +1,12 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
+- client-fingerprint: chrome
   name: 5|🇸🇬 新加坡|@ripaojiedian
-  password: c054d9f9-be86-4fb1-a03c-b3476d3c9672
-  port: 39204
-  server: 6bhz.6bnw.top
-  tfo: false
-  type: ss
+  password: a3467343-8c87-40a6-a87f-a466b340475c
+  port: 20230
+  server: sg007.421421.xyz
+  skip-cert-verify: false
+  sni: 421421.xyz
+  type: trojan
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -24,12 +24,20 @@ proxies:
     headers:
       Host: rpmlybgzsg2.yofnhkfc.xyz
     path: /video/3YKfzGw4
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 5|🇸🇬 新加坡3|@ripaojiedian
+  password: ab6c6d06-8315-4ab8-80c2-786e8645b412
+  port: 40014
+  server: gg01.6bnw.top
+  tfo: false
+  type: ss
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 5|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 35.87.154.95
+  server: 57.180.28.226
   tfo: false
   type: ss
 - name: 8|SG_speednode_0096
