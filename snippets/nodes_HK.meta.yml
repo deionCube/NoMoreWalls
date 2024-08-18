@@ -18,16 +18,16 @@ proxies:
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 5|🇭🇰 香港2|@ripaojiedian
-  password: ab6c6d06-8315-4ab8-80c2-786e8645b412
-  port: 36993
-  server: 6bhz.6bnw.top
+  password: f4f5d320-dd4d-4abd-bcc2-85b23d392fd0
+  port: 40012
+  server: gg01.6bnw.top
   tfo: false
   type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 5|🇭🇰 香港6|@ripaojiedian
-  password: ab6c6d06-8315-4ab8-80c2-786e8645b412
-  port: 29527
+  name: 5|🇭🇰 香港3|@ripaojiedian
+  password: f4f5d320-dd4d-4abd-bcc2-85b23d392fd0
+  port: 36993
   server: 6bhz.6bnw.top
   tfo: false
   type: ss
@@ -49,14 +49,17 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- cipher: chacha20-ietf-poly1305
+- alterId: 0
+  cipher: auto
   client-fingerprint: chrome
-  name: 5|🇭🇰 香港7|@ripaojiedian
-  password: ebae2ae3-5bb1-4dea-a834-b0427cbd4147
-  port: 59681
-  server: gdcub.yunnode.win
+  name: 5|🇭🇰 香港6|@ripaojiedian
+  port: 29767
+  server: iepl.hongxingdl.vip
+  skip-cert-verify: false
   tfo: false
-  type: ss
+  tls: false
+  type: vmess
+  uuid: fce9f624-b3c0-41ed-8327-13b85dbd2693
 - alterId: 0
   cipher: auto
   name: 6|香港|@ripaojiedian
@@ -81,6 +84,16 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alterId: 0
+  cipher: auto
+  name: 6|香港6|@ripaojiedian
+  network: tcp
+  port: '29767'
+  server: iepl.hongxingdl.vip
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fce9f624-b3c0-41ed-8327-13b85dbd2693
 - name: 8|HK_speednode_0046
   network: ws
   port: 12346
