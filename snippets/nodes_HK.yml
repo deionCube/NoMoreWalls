@@ -15,17 +15,22 @@ proxies:
     headers:
       Host: mmhk01.micloud.buzz
     path: /zh-cn
-- alterId: 0
-  cipher: auto
+- cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 5|🇭🇰 香港2|@ripaojiedian
-  port: 44806
-  server: ambxxic01hk.dorabbb.top
-  skip-cert-verify: false
+  password: adf1fbfc-6276-4478-9a08-0fca1da2edda
+  port: 36993
+  server: 6bhz.6bnw.top
   tfo: false
-  tls: false
-  type: vmess
-  uuid: ae66331e-b6b4-4c6f-959f-6ed64cf97628
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 5|🇭🇰 香港3|@ripaojiedian
+  password: adf1fbfc-6276-4478-9a08-0fca1da2edda
+  port: 40012
+  server: gg01.6bnw.top
+  tfo: false
+  type: ss
 - client-fingerprint: chrome
   name: 5|🇭🇰 香港4|@ripaojiedian
   password: llyEnxJlVC
@@ -58,16 +63,6 @@ proxies:
     headers:
       Host: ''
     path: /zh-cn
-- alterId: 0
-  cipher: auto
-  name: 6|香港2|@ripaojiedian
-  network: tcp
-  port: '44806'
-  server: ambxxic01hk.dorabbb.top
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: ae66331e-b6b4-4c6f-959f-6ed64cf97628
 - alterId: 64
   cipher: auto
   name: 6|香港5|@ripaojiedian
