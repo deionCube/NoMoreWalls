@@ -82,7 +82,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- name: 8|HK_speednode_0046
+- name: 8|HK_speednode_0075
   network: ws
   port: 12346
   server: 8.210.142.146
@@ -97,7 +97,7 @@ proxies:
       Host: zhongkui.pages.dev
     path: /?end=
 - client-fingerprint: randomized
-  name: 8|HK_speednode_0047
+  name: 8|HK_speednode_0076
   network: ws
   port: 35002
   server: 58.176.229.127
