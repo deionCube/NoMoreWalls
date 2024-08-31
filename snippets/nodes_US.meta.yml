@@ -21,6 +21,31 @@ proxies:
   client-fingerprint: chrome
   name: 5,6|美国2|@ripaojiedian
   network: ws
+  port: '8080'
+  server: mugen11.6bnw.top
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 4b1b1e13-1e02-4b73-848a-e99cefab6f55
+  ws-opts:
+    headers:
+      Host: buyvmus.6bnw.top
+    path: /cctv?ed=2048
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 5|🇺🇸 美国3|@ripaojiedian
+  password: a4e0dffc-5059-4c27-83c8-7a02f297ff3b
+  port: 50054
+  server: lmnode-08b37ac4.ixd3fh2v5uq1v3z-lmus.lma1b2.com
+  tfo: false
+  type: ss
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 5,6|美国4|@ripaojiedian
+  network: ws
   port: '2052'
   server: cfcdn1.sanfencdn9.com
   servername: ''
@@ -28,7 +53,7 @@ proxies:
   tfo: false
   tls: false
   type: vmess
-  uuid: b300b4b1-e6d4-463b-9dae-2ac0cfa0d218
+  uuid: 63911f91-bc91-4b71-8d40-9ba99e7043e0
   ws-opts:
     headers:
       Host: us2jdgv5GC7.fzbqfrse.xyz
@@ -485,27 +510,6 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Telegram🇨🇳 @WangCai_8 /?ed=2048
-- name: 8|US_speednode_0222
-  password: 4f7a9e87-5f6b-4296-bb36-0330071c07a6
-  port: 44300
-  server: us-01.worldfirst.eu.org
-  skip-cert-verify: true
-  sni: us-01.worldfirst.eu.org
-  type: hysteria2
-- name: 8|US_speednode_0223
-  password: 1211948f-54b5-4814-834f-492199b09084
-  port: 44300
-  server: us-03.worldfirst.eu.org
-  skip-cert-verify: true
-  sni: us-01.worldfirst.eu.org
-  type: hysteria2
-- name: 8|US_speednode_0224
-  password: c3356297-4027-441c-b7b5-2f0b4e80a597
-  port: 44300
-  server: us-04.worldfirst.eu.org
-  skip-cert-verify: true
-  sni: us-01.worldfirst.eu.org
-  type: hysteria2
 - name: 8|US_speednode_0225
   network: ws
   port: 80
@@ -518,13 +522,6 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Telegram🇨🇳 @WangCai_8 /?ed=2048
-- name: 8|US_speednode_0226
-  password: 69945c66-7c57-4fa2-90e9-4dbac5bc8b91
-  port: 44300
-  server: us-02.worldfirst.eu.org
-  skip-cert-verify: true
-  sni: us-01.worldfirst.eu.org
-  type: hysteria2
 - name: 8|US_speednode_0227
   network: ws
   port: 80
