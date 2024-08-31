@@ -1,15 +1,24 @@
 proxies:
 - cipher: rc4-md5
-  name: 0|-https://t.me/MrXbin-7
+  name: 0|-https://t.me/MrXbin-19
   obfs: tls1.2_ticket_auth
   password: Cskw6d
-  port: 13317
+  port: 13630
   protocol: auth_aes128_md5
   protocol-param: 524959:5u4MZ6
-  server: lld9k6.cdn.node.a.tddns-ounk.com
+  server: bb29cs.cdn.node.a.tddns-ounk.com
+  type: ssr
+- cipher: rc4-md5
+  name: 0|-https://t.me/MrXbin-20
+  obfs: tls1.2_ticket_auth
+  password: Cskw6d
+  port: 13620
+  protocol: auth_aes128_md5
+  protocol-param: 524959:5u4MZ6
+  server: hfa1.cdn.node.a.tddns-ounk.com
   type: ssr
 - cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-8
+  name: 0|-https://t.me/MrXbin-21
   obfs: tls1.2_ticket_auth
   password: fou8MBGij
   port: 8081
@@ -20,26 +29,10 @@ proxies:
   cipher: auto
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-14
+  name: 0|-https://t.me/MrXbin-29
   network: ws
   port: 2086
-  server: 23.227.38.6
-  skip-cert-verify: true
-  type: vmess
-  udp: true
-  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
-  ws-opts:
-    headers:
-      Host: ip006.dtku47.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-19
-  network: ws
-  port: 2086
-  server: icook.tw
+  server: malaysia.com
   skip-cert-verify: true
   type: vmess
   udp: true
@@ -52,7 +45,23 @@ proxies:
   cipher: auto
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-20
+  name: 0|-https://t.me/MrXbin-33
+  network: ws
+  port: 2086
+  server: 23.227.38.3
+  skip-cert-verify: true
+  type: vmess
+  udp: true
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: ip2.1457230.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  h2-opts: {}
+  http-opts: {}
+  name: 0|-https://t.me/MrXbin-38
   network: ws
   port: 2086
   server: 172.64.166.28
@@ -68,7 +77,71 @@ proxies:
   cipher: auto
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-24
+  name: 0|-https://t.me/MrXbin-41
+  network: ws
+  port: 2086
+  server: 172.64.175.213
+  skip-cert-verify: true
+  type: vmess
+  udp: true
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: ip2.1457230.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  h2-opts: {}
+  http-opts: {}
+  name: 0|-https://t.me/MrXbin-44
+  network: ws
+  port: 2086
+  server: 172.64.167.5
+  skip-cert-verify: true
+  type: vmess
+  udp: true
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: ip2.1457230.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  h2-opts: {}
+  http-opts: {}
+  name: 0|-https://t.me/MrXbin-46
+  network: ws
+  port: 2086
+  server: 172.64.166.22
+  skip-cert-verify: true
+  type: vmess
+  udp: true
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: ip2.1457230.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  h2-opts: {}
+  http-opts: {}
+  name: 0|-https://t.me/MrXbin-49
+  network: ws
+  port: 2086
+  server: 172.64.198.249
+  skip-cert-verify: true
+  type: vmess
+  udp: true
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: ip1.1457230.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  h2-opts: {}
+  http-opts: {}
+  name: 0|-https://t.me/MrXbin-50
   network: ws
   port: 2086
   server: singapore.com
@@ -79,6 +152,38 @@ proxies:
   ws-opts:
     headers:
       Host: ip1.1789034.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  h2-opts: {}
+  http-opts: {}
+  name: 0|-https://t.me/MrXbin-54
+  network: ws
+  port: 2086
+  server: icook.tw
+  skip-cert-verify: true
+  type: vmess
+  udp: true
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: ip1.1789034.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  h2-opts: {}
+  http-opts: {}
+  name: 0|-https://t.me/MrXbin-57
+  network: ws
+  port: 2086
+  server: 23.227.38.6
+  skip-cert-verify: true
+  type: vmess
+  udp: true
+  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+  ws-opts:
+    headers:
+      Host: ip006.dtku47.xyz
     path: github.com/Alvin9999
 - alterId: 64
   cipher: auto
@@ -553,64 +658,43 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|CN_speednode_0028
+- name: 8|CN_speednode_0022
   port: 7890
   server: 117.25.69.67
   skip-cert-verify: true
   tls: false
   type: http
   udp: true
-- name: 8|CN_speednode_0029
-  port: 33210
-  server: 120.24.189.187
-  skip-cert-verify: true
-  tls: false
-  type: http
-  udp: true
-- name: 8|CN_speednode_0030
+- name: 8|CN_speednode_0023
   port: 7890
   server: 8.142.90.27
   skip-cert-verify: true
   tls: false
   type: http
   udp: true
-- name: 8|CN_speednode_0036
-  port: 7890
-  server: 124.72.196.189
-  skip-cert-verify: true
-  tls: false
-  type: http
-  udp: true
 - alterId: -1
-  name: 8|CN_speednode_0037
+  name: 8|CN_speednode_0024
   port: 7890
   server: 47.123.4.164
   skip-cert-verify: true
   tls: false
   type: http
   udp: true
-- name: 8|CN_speednode_0038
+- name: 8|CN_speednode_0025
   port: 7890
   server: 110.19.193.117
   skip-cert-verify: true
   tls: false
   type: http
   udp: true
-- name: 8|CN_speednode_0051
-  password: pTuMwddQ
-  port: 41115
-  server: 223.113.54.185
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- name: 8|CN_speednode_0055
+- name: 8|CN_speednode_0028
   port: 7890
   server: 113.226.148.65
   skip-cert-verify: true
   tls: false
   type: http
   udp: true
-- name: 8|DE_speednode_0070
+- name: 8|DE_speednode_0058
   network: ws
   port: 443
   server: 188.244.122.58
@@ -622,7 +706,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /
-- name: 8|DE_speednode_0071
+- name: 8|DE_speednode_0059
   network: ws
   port: 2096
   server: 45.80.111.38
@@ -636,7 +720,43 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /?ed=2048
-- name: 8|EE_speednode_0079
+- name: 8|DE_speednode_0060
+  network: ws
+  port: 80
+  server: 130.162.61.18
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|DE_speednode_0061
+  network: ws
+  port: 80
+  server: 52.29.224.33
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|DE_speednode_0062
+  network: ws
+  port: 80
+  server: 8.209.119.190
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|EE_speednode_0070
   network: ws
   port: 80
   server: 45.80.110.173
@@ -651,7 +771,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|EE_speednode_0073
+- name: 8|EE_speednode_0064
   network: ws
   port: 80
   server: 45.80.110.41
@@ -664,7 +784,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodesfp=chrome
-- name: 8|EE_speednode_0084
+- name: 8|EE_speednode_0075
   network: ws
   port: 80
   server: 45.80.110.175
@@ -679,7 +799,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodesfp=chrome
-- name: 8|EE_speednode_0100
+- name: 8|EE_speednode_0091
   network: ws
   port: 80
   server: 45.80.110.201
@@ -694,7 +814,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|EE_speednode_0078
+- name: 8|EE_speednode_0069
   network: ws
   port: 80
   server: 45.80.110.238
@@ -705,7 +825,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|EE_speednode_0080
+- name: 8|EE_speednode_0071
   network: ws
   port: 80
   server: 45.80.110.245
@@ -718,7 +838,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|EE_speednode_0081
+- name: 8|EE_speednode_0072
   network: ws
   port: 80
   server: 45.80.110.161
@@ -732,7 +852,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodesfp=chrome
-- name: 8|EE_speednode_0086
+- name: 8|EE_speednode_0077
   network: ws
   port: 80
   server: 45.80.110.130
@@ -747,7 +867,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|EE_speednode_0095
+- name: 8|EE_speednode_0086
   network: ws
   port: 80
   server: 45.80.110.231
@@ -762,7 +882,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|EE_speednode_0091
+- name: 8|EE_speednode_0082
   network: ws
   port: 80
   server: 45.80.110.13
@@ -777,7 +897,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|EE_speednode_0089
+- name: 8|EE_speednode_0080
   network: ws
   port: 80
   server: 45.80.110.209
@@ -792,7 +912,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|EE_speednode_0093
+- name: 8|EE_speednode_0084
   network: ws
   port: 8443
   server: 45.80.110.245
@@ -804,7 +924,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: twitter苏小柠security
-- name: 8|EE_speednode_0094
+- name: 8|EE_speednode_0085
   network: ws
   port: 8443
   server: 45.80.110.203
@@ -818,7 +938,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|EE_speednode_0096
+- name: 8|EE_speednode_0087
   network: ws
   port: 443
   server: 45.80.110.8
@@ -832,7 +952,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|EE_speednode_0097
+- name: 8|EE_speednode_0088
   network: ws
   port: 2083
   server: 45.80.110.5
@@ -844,7 +964,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: /
-- name: 8|EE_speednode_0098
+- name: 8|EE_speednode_0089
   network: ws
   port: 8443
   server: 45.80.110.2
@@ -858,7 +978,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: twitter懈袥袩械∞袩卸携†fp=chrome
-- name: 8|EE_speednode_0099
+- name: 8|EE_speednode_0090
   network: ws
   port: 2087
   server: 45.80.110.252
@@ -870,7 +990,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: /
-- name: 8|EE_speednode_0109
+- name: 8|EE_speednode_0100
   network: ws
   port: 2087
   server: 45.80.110.230
@@ -885,7 +1005,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: twitterfreecodesfp=chromefp=chrome
-- name: 8|EE_speednode_0102
+- name: 8|EE_speednode_0093
   network: ws
   port: 2087
   server: 45.80.110.215
@@ -899,7 +1019,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: twitterfreecodesfp=chromefp=chromefp=chrome
-- name: 8|EE_speednode_0103
+- name: 8|EE_speednode_0094
   network: ws
   port: 2053
   server: 45.80.110.223
@@ -913,7 +1033,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|EE_speednode_0104
+- name: 8|EE_speednode_0095
   network: ws
   port: 8443
   server: 45.80.110.212
@@ -927,7 +1047,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: twitterfreecodes
-- name: 8|EE_speednode_0105
+- name: 8|EE_speednode_0096
   network: ws
   port: 2087
   server: 45.80.110.241
@@ -939,7 +1059,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: twitterfreecodessecurity
-- name: 8|EE_speednode_0107
+- name: 8|EE_speednode_0098
   network: ws
   port: 2083
   server: 45.80.110.161
@@ -953,7 +1073,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: twitterfreecodesfp=chromefp=chrome
-- name: 8|EE_speednode_0108
+- name: 8|EE_speednode_0099
   network: ws
   port: 2053
   server: 45.80.110.200
@@ -965,7 +1085,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodes
-- name: 8|EE_speednode_0113
+- name: 8|EE_speednode_0104
   network: ws
   port: 2087
   server: 45.80.110.133
@@ -980,7 +1100,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: twitterfreecodesfp=chromefp=chrome
-- name: 8|EE_speednode_0111
+- name: 8|EE_speednode_0102
   network: ws
   port: 8443
   server: 45.80.110.13
@@ -992,7 +1112,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: twitterfreecodes
-- name: 8|EE_speednode_0114
+- name: 8|EE_speednode_0105
   network: ws
   port: 2053
   server: 45.80.110.211
@@ -1007,7 +1127,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: twitterfreecodesfp=chromefp=chromefp=chrome
-- name: 8|EE_speednode_0115
+- name: 8|EE_speednode_0106
   network: ws
   port: 2087
   server: 45.80.110.130
@@ -1020,7 +1140,7 @@ proxies:
       Host: a.ssll.gay
     path: twitterfreecodessecurity
 - client-fingerprint: randomized
-  name: 8|EE_speednode_0116
+  name: 8|EE_speednode_0107
   network: ws
   port: 2053
   server: 45.80.110.207
@@ -1034,17 +1154,21 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: twitterfreecodesfp=chromefp=chrome
-- name: 8|FR_speednode_0118
+- name: 8|FR_speednode_0108
   network: ws
-  port: 80
-  server: 162.19.228.119
-  servername: google.com
-  tls: false
+  port: 8443
+  server: 141.145.205.115
+  servername: a.ssll.gay
+  skip-cert-verify: false
+  tls: true
   type: vless
-  uuid: dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
   ws-opts:
-    path: /http
-- name: 8|GB_speednode_0119
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|GB_speednode_0109
   network: ws
   port: 443
   server: 94.247.142.245
@@ -1058,7 +1182,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /?ed=2048
-- name: 8|GB_speednode_0120
+- name: 8|GB_speednode_0110
   network: ws
   port: 2053
   server: 217.163.76.107
@@ -1070,7 +1194,7 @@ proxies:
     headers:
       Host: mositr.freenods.sbs
     path: twitterfreecodes
-- name: 8|GB_speednode_0125
+- name: 8|GB_speednode_0114
   network: ws
   port: 2096
   server: 94.247.142.245
@@ -1085,7 +1209,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /?ed
-- name: 8|GB_speednode_0124
+- name: 8|GB_speednode_0113
   network: ws
   port: 443
   server: 31.22.116.198
@@ -1099,7 +1223,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|GB_speednode_0131
+- name: 8|GB_speednode_0120
   network: ws
   port: 443
   server: 31.22.116.225
@@ -1114,7 +1238,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2fp=chrome
-- name: 8|GB_speednode_0127
+- name: 8|GB_speednode_0116
   network: ws
   port: 443
   server: 94.247.142.241
@@ -1126,7 +1250,7 @@ proxies:
     headers:
       Host: fq521.6789.cloudns.be
     path: twitterfreecodessecurity
-- name: 8|GB_speednode_0132
+- name: 8|GB_speednode_0121
   network: ws
   port: 443
   server: 31.22.116.56
@@ -1141,7 +1265,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: /tg@zdyz2
-- name: 8|GB_speednode_0129
+- name: 8|GB_speednode_0118
   network: ws
   port: 443
   server: 31.22.116.155
@@ -1153,7 +1277,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|GB_speednode_0130
+- name: 8|GB_speednode_0119
   network: ws
   port: 443
   server: 31.22.116.186
@@ -1165,7 +1289,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|HK_speednode_0137
+- name: 8|HK_speednode_0125
   network: ws
   port: 35002
   server: 58.176.229.127
@@ -1180,20 +1304,8 @@ proxies:
     headers:
       Host: dns68.putata.eu.org
     path: /?ed=2048fp=randomized
-- name: 8|HK_speednode_0134
-  network: ws
-  password: CMLiu
-  port: 32828
-  server: 38.207.164.31
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: /?ed=2048
 - client-fingerprint: randomized
-  name: 8|HK_speednode_0135
+  name: 8|HK_speednode_0123
   network: ws
   port: 443
   server: 58.176.95.46
@@ -1206,7 +1318,7 @@ proxies:
       Host: dns68.putata.eu.org
     path: /?ed=2048
 - client-fingerprint: randomized
-  name: 8|HK_speednode_0138
+  name: 8|HK_speednode_0126
   network: ws
   packet-encoding: ''
   port: 28717
@@ -1219,7 +1331,135 @@ proxies:
     headers:
       Host: dns68.putata.eu.org
     path: /?ed=2048
-- name: 8|KR_speednode_0140
+- name: 8|HK_speednode_0128
+  network: ws
+  port: 81
+  server: 203.198.16.117
+  servername: a.ssll.gay
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|HK_speednode_0129
+  network: ws
+  port: 80
+  server: 47.57.233.126
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|HK_speednode_0130
+  network: ws
+  port: 36669
+  server: 183.178.22.246
+  servername: a.ssll.gay
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|IE_speednode_0131
+  network: ws
+  port: 80
+  server: 54.194.162.247
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|IN_speednode_0132
+  network: ws
+  port: 80
+  server: 35.200.202.118
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|IT_speednode_0133
+  network: ws
+  port: 80
+  server: 204.216.218.114
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|JP_speednode_0134
+  network: ws
+  port: 80
+  server: 54.199.224.90
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|JP_speednode_0135
+  network: ws
+  port: 80
+  server: 13.230.34.30
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|JP_speednode_0136
+  network: ws
+  port: 34237
+  server: 45.251.240.213
+  servername: a.ssll.gay
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|JP_speednode_0137
+  network: ws
+  port: 443
+  server: 64.110.98.49
+  servername: a.ssll.gay
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|KR_speednode_0138
   network: ws
   password: CMLiu
   port: 16575
@@ -1231,6 +1471,30 @@ proxies:
     headers:
       Host: aliorg.filegear-sg.me
     path: /?ed=2048
+- name: 8|KR_speednode_0139
+  network: ws
+  port: 80
+  server: 52.79.235.86
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|KR_speednode_0140
+  network: ws
+  port: 80
+  server: 144.24.85.158
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
 - name: 8|KZ_speednode_0141
   network: ws
   port: 443
@@ -1281,15 +1545,18 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /
-- alterId: -1
-  name: 8|LU_speednode_0145
-  password: 3698a3e7-2877-4ded-a665-d81ee3cfd449
-  port: 12033
-  server: 82.117.226.218
-  skip-cert-verify: true
-  sni: cdn.alibaba.com
-  type: trojan
+- name: 8|PH_speednode_0145
+  network: ws
+  port: 80
+  server: 96.0.147.129
+  skip-cert-verify: false
+  type: vless
   udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
 - name: 8|RU_speednode_0154
   network: ws
   port: 8443
@@ -1481,29 +1748,93 @@ proxies:
     headers:
       Host: e10c0e4b.oodaeq2.pages.dev
     path: /tel.icv2ray.space
+- name: 8|SG_speednode_0169
+  network: ws
+  port: 80
+  server: 13.229.84.65
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|SG_speednode_0170
+  network: ws
+  port: 80
+  server: 8.223.3.253
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|SG_speednode_0171
+  network: ws
+  port: 443
+  server: 194.114.138.190
+  servername: a.ssll.gay
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|SG_speednode_0172
+  network: ws
+  port: 80
+  server: 34.124.151.234
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|SG_speednode_0173
+  network: ws
+  port: 80
+  server: 8.219.77.141
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|TW_speednode_0174
+  network: ws
+  port: 12832
+  server: 60.248.63.88
+  servername: a.ssll.gay
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
 - client-fingerprint: randomized
-  name: 8|US_speednode_0183
+  name: 8|US_speednode_0175
   network: ws
   port: 8080
   server: ip.sb
-  servername: feng4.l1ut8bi9.workers.dev
+  servername: 901.dbodanwi.workers.dev
   type: vless
-  uuid: d6ff33a6-03bf-4338-8a63-62ab284a9466
+  uuid: 6f183280-b258-437a-a216-e83f7dece776
   ws-opts:
     headers:
-      Host: feng4.l1ut8bi9.workers.dev
-    path: /?ed=2048
-- client-fingerprint: randomized
-  name: 8|US_speednode_0170
-  network: ws
-  port: 8080
-  server: xn--b6gac.eu.org
-  servername: feng.ipy29c99.workers.dev
-  type: vless
-  uuid: 046da250-d5ef-4867-9095-302477d54d20
-  ws-opts:
-    headers:
-      Host: feng.ipy29c99.workers.dev
+      Host: 901.dbodanwi.workers.dev
     path: /?ed=2048
 - name: 8|US_speednode_0180
   network: ws
@@ -1534,20 +1865,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /?ed=2048
-- client-fingerprint: randomized
-  name: 8|US_speednode_0177
-  network: ws
-  packet-encoding: ''
-  port: 8080
-  server: www.gov.ua
-  servername: 201.58vtg99l.workers.dev
-  type: vless
-  uuid: 4c9541c7-5fa1-403c-84af-175e3b25a27f
-  ws-opts:
-    headers:
-      Host: 201.58vtg99l.workers.dev
-    path: /?ed=2048
-- name: 8|US_speednode_0227
+- name: 8|US_speednode_0218
   network: ws
   packet-encoding: ''
   port: 443
@@ -1566,30 +1884,6 @@ proxies:
 - name: 8|US_speednode_0181
   network: ws
   password: CMLiu
-  port: 44017
-  server: 38.207.187.156
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: /?ed=2048
-- name: 8|US_speednode_0182
-  network: ws
-  password: CMLiu
-  port: 53479
-  server: 185.218.7.182
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: /?ed=2048
-- name: 8|US_speednode_0184
-  network: ws
-  password: CMLiu
   port: 34967
   server: 154.17.20.7
   skip-cert-verify: true
@@ -1599,44 +1893,7 @@ proxies:
     headers:
       Host: aliorg.filegear-sg.me
     path: /?ed=2048
-- name: 8|US_speednode_0185
-  network: ws
-  password: CMLiu
-  port: 30861
-  server: 154.17.22.88
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: /?ed=2048
-- name: 8|US_speednode_0186
-  network: ws
-  password: CMLiu
-  port: 14280
-  server: 154.21.93.124
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: /?ed=2048
-- client-fingerprint: randomized
-  name: 8|US_speednode_0187
-  network: ws
-  packet-encoding: ''
-  port: 8080
-  server: www.ipget.net
-  servername: 201.myhmyhhuang1980.workers.dev
-  type: vless
-  uuid: 6af03153-ee0a-4ec7-93d4-89b4debc3c07
-  ws-opts:
-    headers:
-      Host: 201.myhmyhhuang1980.workers.dev
-    path: /?ed=2048
-- name: 8|US_speednode_0209
+- name: 8|US_speednode_0201
   network: ws
   port: 2053
   server: 216.116.134.43
@@ -1650,7 +1907,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /?ed
-- name: 8|US_speednode_0191
+- name: 8|US_speednode_0185
   network: ws
   port: 2083
   server: 216.205.52.109
@@ -1664,7 +1921,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /?ed=2048
-- name: 8|US_speednode_0190
+- name: 8|US_speednode_0184
   network: ws
   password: CMLiu
   port: 50376
@@ -1676,7 +1933,7 @@ proxies:
     headers:
       Host: aliorg.filegear-sg.me
     path: /?ed=2048
-- name: 8|US_speednode_0229
+- name: 8|US_speednode_0220
   network: ws
   port: 443
   server: 69.84.182.102
@@ -1691,20 +1948,8 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: /?ed=2048fp=chrome
-- name: 8|US_speednode_0193
-  network: ws
-  password: CMLiu
-  port: 48333
-  server: 2.59.151.85
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: /?ed=2048
 - client-fingerprint: randomized
-  name: 8|US_speednode_0228
+  name: 8|US_speednode_0219
   network: ws
   port: 2087
   server: 14.102.229.66
@@ -1718,7 +1963,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /security=tls
-- name: 8|US_speednode_0195
+- name: 8|US_speednode_0188
   network: ws
   port: 443
   server: 63.141.128.97
@@ -1730,7 +1975,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: telegram🇨🇳@wangcai_8/?ed
-- name: 8|US_speednode_0220
+- name: 8|US_speednode_0211
   network: ws
   password: CMLiu
   port: 443
@@ -1743,7 +1988,7 @@ proxies:
     headers:
       Host: aliorg.filegear-sg.me
     path: /?ed=2048
-- name: 8|US_speednode_0214
+- name: 8|US_speednode_0205
   network: ws
   port: 443
   server: 198.62.62.4
@@ -1758,20 +2003,7 @@ proxies:
     headers:
       Host: page-us-qg0.pages.dev
     path: twitterfreecodesfp=chrome
-- name: 8|US_speednode_0198
-  network: ws
-  password: tg-dns68
-  port: 443
-  server: 198.62.62.37
-  skip-cert-verify: true
-  sni: vip.putata.eu.org
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: vip.putata.eu.org
-    path: /
-- name: 8|US_speednode_0199
+- name: 8|US_speednode_0191
   network: ws
   port: 443
   server: 167.68.11.146
@@ -1783,7 +2015,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /
-- name: 8|US_speednode_0200
+- name: 8|US_speednode_0192
   network: ws
   port: 443
   server: 155.46.213.37
@@ -1795,7 +2027,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|US_speednode_0201
+- name: 8|US_speednode_0193
   network: ws
   port: 443
   server: 45.159.218.76
@@ -1807,7 +2039,7 @@ proxies:
     headers:
       Host: mmdv2.pages.dev
     path: /?ed
-- name: 8|US_speednode_0207
+- name: 8|US_speednode_0199
   network: ws
   password: CMLiu
   port: 443
@@ -1820,7 +2052,7 @@ proxies:
     headers:
       Host: aliorg.filegear-sg.me
     path: /
-- name: 8|US_speednode_0203
+- name: 8|US_speednode_0195
   network: ws
   port: 443
   server: 167.68.11.106
@@ -1832,7 +2064,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2security
-- name: 8|US_speednode_0205
+- name: 8|US_speednode_0197
   network: ws
   port: 443
   server: 167.68.11.191
@@ -1844,7 +2076,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2security
-- name: 8|US_speednode_0206
+- name: 8|US_speednode_0198
   network: ws
   packet-encoding: ''
   port: 443
@@ -1857,7 +2089,7 @@ proxies:
     headers:
       Host: vpn-aryoo-bo4.pages.dev
     path: /?ed=2560
-- name: 8|US_speednode_0208
+- name: 8|US_speednode_0200
   network: ws
   port: 443
   server: 155.46.213.32
@@ -1869,7 +2101,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: /tg@zdyz2
-- name: 8|US_speednode_0210
+- name: 8|US_speednode_0202
   network: ws
   port: 443
   server: 155.46.213.9
@@ -1881,7 +2113,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: /tg@zdyz2
-- name: 8|US_speednode_0225
+- name: 8|US_speednode_0216
   network: ws
   port: 443
   server: 45.159.217.220
@@ -1895,19 +2127,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /
-- name: 8|US_speednode_0212
-  network: ws
-  password: CMLiu
-  port: 28619
-  server: 45.87.103.80
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: /?ed=2048
-- name: 8|US_speednode_0213
+- name: 8|US_speednode_0204
   network: ws
   port: 443
   server: 216.116.134.16
@@ -1919,7 +2139,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|US_speednode_0215
+- name: 8|US_speednode_0206
   network: ws
   port: 443
   server: 66.81.247.244
@@ -1931,7 +2151,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2security
-- name: 8|US_speednode_0216
+- name: 8|US_speednode_0207
   network: ws
   port: 2083
   server: 66.81.247.19
@@ -1943,7 +2163,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: twitter苏小柠security
-- name: 8|US_speednode_0217
+- name: 8|US_speednode_0208
   network: ws
   port: 2053
   server: 130.250.137.196
@@ -1957,7 +2177,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /
-- name: 8|US_speednode_0221
+- name: 8|US_speednode_0212
   network: ws
   port: 443
   server: 170.114.46.140
@@ -1969,7 +2189,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|US_speednode_0222
+- name: 8|US_speednode_0213
   network: ws
   password: CMLiu
   port: 443
@@ -1981,7 +2201,7 @@ proxies:
     headers:
       Host: aliorg.filegear-sg.me
     path: '%2F'
-- name: 8|US_speednode_0223
+- name: 8|US_speednode_0214
   network: ws
   port: 443
   server: 167.68.11.95
@@ -1994,7 +2214,7 @@ proxies:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
 - client-fingerprint: firefox
-  name: 8|US_speednode_0226
+  name: 8|US_speednode_0217
   network: ws
   port: 2053
   server: fbi.gov
@@ -2006,3 +2226,227 @@ proxies:
     headers:
       Host: COde911comEtoIrAnNsOdSnefHHDKaLcOSHD.PAGES.dEV
     path: /?ed=0
+- name: 8|US_speednode_0221
+  network: ws
+  port: 80
+  server: 34.36.183.121
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|US_speednode_0222
+  password: 4f7a9e87-5f6b-4296-bb36-0330071c07a6
+  port: 44300
+  server: us-01.worldfirst.eu.org
+  skip-cert-verify: true
+  sni: us-01.worldfirst.eu.org
+  type: hysteria2
+- name: 8|US_speednode_0223
+  password: 1211948f-54b5-4814-834f-492199b09084
+  port: 44300
+  server: us-03.worldfirst.eu.org
+  skip-cert-verify: true
+  sni: us-01.worldfirst.eu.org
+  type: hysteria2
+- name: 8|US_speednode_0224
+  password: c3356297-4027-441c-b7b5-2f0b4e80a597
+  port: 44300
+  server: us-04.worldfirst.eu.org
+  skip-cert-verify: true
+  sni: us-01.worldfirst.eu.org
+  type: hysteria2
+- name: 8|US_speednode_0225
+  network: ws
+  port: 80
+  server: 34.160.118.77
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|US_speednode_0226
+  password: 69945c66-7c57-4fa2-90e9-4dbac5bc8b91
+  port: 44300
+  server: us-02.worldfirst.eu.org
+  skip-cert-verify: true
+  sni: us-01.worldfirst.eu.org
+  type: hysteria2
+- name: 8|US_speednode_0227
+  network: ws
+  port: 80
+  server: 34.111.135.19
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|US_speednode_0228
+  network: ws
+  port: 80
+  server: 34.105.49.234
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|US_speednode_0229
+  network: ws
+  port: 80
+  server: 34.117.254.68
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|US_speednode_0230
+  network: ws
+  port: 80
+  server: 35.244.133.3
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|US_speednode_0231
+  network: ws
+  port: 80
+  server: 152.70.155.147
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|US_speednode_0232
+  network: ws
+  port: 80
+  server: 35.239.252.197
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|US_speednode_0233
+  network: ws
+  port: 80
+  server: 3.23.238.192
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|US_speednode_0234
+  network: ws
+  port: 80
+  server: 150.136.169.72
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|US_speednode_0235
+  network: ws
+  port: 80
+  server: 34.102.111.127
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|US_speednode_0236
+  network: ws
+  port: 8443
+  server: cdn.idouyin.tk
+  servername: a.ssll.gay
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|US_speednode_0237
+  network: ws
+  port: 8443
+  server: 47.251.54.234
+  servername: a.ssll.gay
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|US_speednode_0238
+  network: ws
+  port: 80
+  server: 18.216.55.100
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|US_speednode_0239
+  network: ws
+  port: 80
+  server: 34.135.226.181
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
+- name: 8|US_speednode_0240
+  network: ws
+  port: 80
+  server: 47.90.141.204
+  skip-cert-verify: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.ssll.gay
+    path: Telegram🇨🇳 @WangCai_8 /?ed=2048
