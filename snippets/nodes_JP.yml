@@ -7,18 +7,42 @@ proxies:
   server: yd1.qianggewangluo.buzz
   tfo: false
   type: ss
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 5|🇯🇵 日本2|@ripaojiedian
-  password: 99a941d2-2a7b-4dc4-bafc-eb18caffc648
-  port: 50242
-  server: microsoft-680deb75.nbaqz0v1meo0k3d-jp.fcnode.net
-  tfo: false
-  type: ss
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 5,6|日本3|@ripaojiedian
+  name: 5|🇯🇵 日本2|@ripaojiedian
+  network: ws
+  port: 5606
+  server: ovhsg.v4.ddnsjifeng.xyz
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: a95f159e-df58-452c-8484-f3571174d55a
+  ws-opts:
+    headers:
+      Host: ovhsg.v4.ddnsjifeng.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 5|🇯🇵 日本3|@ripaojiedian
+  network: ws
+  port: 5603
+  server: v1.cdn.ddnschiyun.xyz
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: a95f159e-df58-452c-8484-f3571174d55a
+  ws-opts:
+    headers:
+      Host: v1.cdn.ddnschiyun.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 5,6|日本4|@ripaojiedian
   network: ws
   port: '80'
   server: cfcdn3.sanfencdn9.com
@@ -27,24 +51,52 @@ proxies:
   tfo: false
   tls: false
   type: vmess
-  uuid: 63911f91-bc91-4b71-8d40-9ba99e7043e0
+  uuid: 7928c5c4-f653-4733-8409-9b1ca0a117a1
   ws-opts:
     headers:
       Host: GWYp69Yujp2.yofnhkfc.xyz
     path: /video/VDXcaM7r
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 5|🇯🇵 日本4|@ripaojiedian
-  password: 99a941d2-2a7b-4dc4-bafc-eb18caffc648
-  port: 50245
-  server: microsoft-680deb75.nbaqz0v1meo0k3d-jp.fcnode.net
-  tfo: false
-  type: ss
+- client-fingerprint: chrome
+  name: 5|🇯🇵 JP 07
+  password: 8fc4337b-4636-44a2-a160-9d360436aa57
+  port: 13017
+  server: naiu-jp.05vr9nyqg5.download
+  skip-cert-verify: false
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  type: trojan
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 5|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 43.201.116.207
+  server: 34.208.60.66
   tfo: false
   type: ss
+- alterId: 0
+  cipher: auto
+  name: 6|日本2|@ripaojiedian
+  network: ws
+  port: '5606'
+  server: ovhsg.v4.ddnsjifeng.xyz
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a95f159e-df58-452c-8484-f3571174d55a
+  ws-opts:
+    headers:
+      Host: ''
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 6|日本3|@ripaojiedian
+  network: ws
+  port: '5603'
+  server: v1.cdn.ddnschiyun.xyz
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a95f159e-df58-452c-8484-f3571174d55a
+  ws-opts:
+    headers:
+      Host: ''
+    path: /
