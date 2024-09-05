@@ -36,17 +36,6 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 5|🇺🇸 美国3|@ripaojiedian
-  port: 19358
-  server: bvip.hongxingdl.vip
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: c8c638a2-93f5-49a0-92eb-b5db91a3fa08
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
   name: 5,6|美国5|@ripaojiedian
   network: ws
   port: '2086'
@@ -61,31 +50,7 @@ proxies:
     headers:
       Host: ip14.freegradely.xyz
     path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 6|美国3|@ripaojiedian
-  network: tcp
-  port: '19358'
-  server: bvip.hongxingdl.vip
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: c8c638a2-93f5-49a0-92eb-b5db91a3fa08
-- client-fingerprint: chrome
-  name: 8|US_speednode_0193
-  network: ws
-  password: CMLiu
-  port: 443
-  server: 43.153.80.208
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  udp: false
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: /?ed=2048
-- name: 8|US_speednode_0161
+- name: 8|US_speednode_0516
   network: ws
   password: CMLiu
   port: 443
@@ -98,7 +63,8 @@ proxies:
     headers:
       Host: aliorg.filegear-sg.me
     path: /
-- name: 8|US_speednode_0188
+- client-fingerprint: chrome
+  name: 8|US_speednode_0545
   network: ws
   password: CMLiu
   port: 443
@@ -106,7 +72,8 @@ proxies:
   skip-cert-verify: true
   sni: aliorg.filegear-sg.me
   type: trojan
+  udp: false
   ws-opts:
     headers:
       Host: aliorg.filegear-sg.me
-    path: '%2F'
+    path: /?ed=2048
