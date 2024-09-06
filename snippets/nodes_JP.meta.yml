@@ -7,23 +7,14 @@ proxies:
   server: yd1.qianggewangluo.buzz
   tfo: false
   type: ss
-- alterId: 0
-  cipher: auto
+- cipher: aes-128-gcm
   client-fingerprint: chrome
-  name: 5,6|日本2|@ripaojiedian
-  network: ws
-  port: '80'
-  server: cfcdn3.sanfencdn9.com
-  servername: ''
-  skip-cert-verify: false
+  name: 5|🇯🇵 日本2|@ripaojiedian
+  password: 3a690709-5011-4a6c-ab62-da2fb5291233
+  port: 50243
+  server: microsoft-af1f5ba4.nbaqz0v1meo0k3d-jp.fcnode.net
   tfo: false
-  tls: false
-  type: vmess
-  uuid: 7786bd51-a965-4ae9-aac4-a224f9457243
-  ws-opts:
-    headers:
-      Host: agzbjszujp4.yofnhkfc.xyz
-    path: /video/ibCT6z55
+  type: ss
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -41,33 +32,11 @@ proxies:
     headers:
       Host: GWYp69Yujp2.yofnhkfc.xyz
     path: /video/VDXcaM7r
-- client-fingerprint: chrome
-  name: 5|🇯🇵 日本5|@ripaojiedian
-  password: 8fc4337b-4636-44a2-a160-9d360436aa57
-  port: 13017
-  server: naiu-jp.05vr9nyqg5.download
-  skip-cert-verify: false
-  sni: cloudflare.node-ssl.cdn-alibaba.com
-  type: trojan
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 5|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 35.85.56.3
+  server: 18.140.3.167
   tfo: false
   type: ss
-- name: 8|JP_speednode_0071
-  network: ws
-  port: 8443
-  server: 176.97.73.82
-  servername: a.ssll.gay
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  ws-opts:
-    headers:
-      Host: a.ssll.gay
-    path: /?ed=2048

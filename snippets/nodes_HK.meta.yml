@@ -10,40 +10,14 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
+- cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 5,6|香港2|@ripaojiedian
-  network: ws
-  port: '30068'
-  server: 220.246.57.161
-  servername: ''
-  skip-cert-verify: false
+  name: 5|🇭🇰 香港2|@ripaojiedian
+  password: d3f674e2-b985-49d2-8654-4b8d53e20217
+  port: 59096
+  server: gdyddx500.xiyunchen.cn
   tfo: false
-  tls: false
-  type: vmess
-  uuid: 1cbb8f04-b0cc-4520-8b17-ed412f457b9f
-  ws-opts:
-    headers:
-      Host: ''
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 5,6|香港3|@ripaojiedian
-  network: ws
-  port: '10001'
-  server: 62.72.163.54
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 3dddcee7-2cb3-4260-81da-83d8b926840f
-  ws-opts:
-    headers:
-      Host: ''
-    path: /
+  type: ss
 - client-fingerprint: chrome
   name: 5|🇭🇰 香港4|@ripaojiedian
   password: lNOcIAxy
@@ -67,22 +41,6 @@ proxies:
   server: hk1.mhw7e2.online
   tfo: false
   type: ss
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 5|🇭🇰 香港7|@ripaojiedian
-  password: 3a690709-5011-4a6c-ab62-da2fb5291233
-  port: 50203
-  server: microsoft-af1f5ba4.nbaqz0v1meo0k3d-hk.fcnode.net
-  tfo: false
-  type: ss
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 5|🇭🇰 香港8|@ripaojiedian
-  password: 3a690709-5011-4a6c-ab62-da2fb5291233
-  port: 50208
-  server: microsoft-af1f5ba4.nbaqz0v1meo0k3d-hk.fcnode.net
-  tfo: false
-  type: ss
 - alterId: 64
   cipher: auto
   name: 6|香港|@ripaojiedian
@@ -93,7 +51,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- name: 8|HK_speednode_0066
+- name: 8|HK_speednode_0064
   network: ws
   port: 32079
   server: 119.28.189.227
@@ -108,7 +66,7 @@ proxies:
       Host: a.ssll.gay
     path: /?ed=2048
 - client-fingerprint: randomized
-  name: 8|HK_speednode_0067
+  name: 8|HK_speednode_0065
   network: ws
   port: 443
   server: 58.176.95.46
@@ -120,7 +78,7 @@ proxies:
     headers:
       Host: dns68.putata.eu.org
     path: /?ed=2048
-- name: 8|HK_speednode_0068
+- name: 8|HK_speednode_0066
   network: ws
   port: 11417
   server: 183.178.22.246
@@ -135,7 +93,7 @@ proxies:
       Host: a.ssll.gay
     path: /?ed=2048
 - client-fingerprint: randomized
-  name: 8|HK_speednode_0069
+  name: 8|HK_speednode_0067
   network: ws
   packet-encoding: ''
   port: 28717
@@ -148,7 +106,7 @@ proxies:
     headers:
       Host: dns68.putata.eu.org
     path: /?ed=2048
-- name: 8|HK_speednode_0070
+- name: 8|HK_speednode_0068
   network: ws
   port: 17771
   server: 185.155.235.146
