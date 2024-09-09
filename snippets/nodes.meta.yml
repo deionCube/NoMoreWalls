@@ -1,33 +1,6 @@
 proxies:
-- cipher: rc4-md5
-  name: 0|-https://t.me/MrXbin-3
-  obfs: tls1.2_ticket_auth
-  password: Cskw6d
-  port: 13497
-  protocol: auth_aes128_md5
-  protocol-param: 524959:5u4MZ6
-  server: xrbsy1.cdn.node.a.tddns-ounk.com
-  type: ssr
-- cipher: rc4-md5
-  name: 0|-https://t.me/MrXbin-4
-  obfs: tls1.2_ticket_auth
-  password: Cskw6d
-  port: 13227
-  protocol: auth_aes128_md5
-  protocol-param: 524959:5u4MZ6
-  server: xrbsy1.cdn.node.a.tddns-ounk.com
-  type: ssr
-- cipher: rc4-md5
-  name: 0|-https://t.me/MrXbin-5
-  obfs: tls1.2_ticket_auth
-  password: Cskw6d
-  port: 13020
-  protocol: auth_aes128_md5
-  protocol-param: 524959:5u4MZ6
-  server: xrbsy1.cdn.node.a.tddns-ounk.com
-  type: ssr
 - cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-7
+  name: 0|-https://t.me/MrXbin-1
   obfs: tls1.2_ticket_auth
   password: fou8MBGij
   port: 8081
@@ -38,119 +11,7 @@ proxies:
   cipher: auto
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-10
-  network: ws
-  port: 2086
-  server: 23.227.38.6
-  skip-cert-verify: true
-  type: vmess
-  udp: true
-  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
-  ws-opts:
-    headers:
-      Host: ip006.dtku47.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-15
-  network: ws
-  port: 2086
-  server: 172.64.166.22
-  skip-cert-verify: true
-  type: vmess
-  udp: true
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      Host: ip2.1457230.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-17
-  network: ws
-  port: 2086
-  server: malaysia.com
-  skip-cert-verify: true
-  type: vmess
-  udp: true
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      Host: ip1.1789034.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-19
-  network: ws
-  port: 2086
-  server: 172.64.198.249
-  skip-cert-verify: true
-  type: vmess
-  udp: true
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      Host: ip1.1457230.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-33
-  network: ws
-  port: 2086
-  server: 172.64.166.28
-  skip-cert-verify: true
-  type: vmess
-  udp: true
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      Host: ip2.1457230.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-34
-  network: ws
-  port: 2086
-  server: 172.64.167.5
-  skip-cert-verify: true
-  type: vmess
-  udp: true
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      Host: ip2.1457230.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-41
-  network: ws
-  port: 2086
-  server: 23.227.38.3
-  skip-cert-verify: true
-  type: vmess
-  udp: true
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      Host: ip2.1457230.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-44
+  name: 0|-https://t.me/MrXbin-8
   network: ws
   port: 2086
   server: 172.64.175.213
@@ -161,6 +22,22 @@ proxies:
   ws-opts:
     headers:
       Host: ip2.1457230.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  h2-opts: {}
+  http-opts: {}
+  name: 0|-https://t.me/MrXbin-9
+  network: ws
+  port: 2086
+  server: malaysia.com
+  skip-cert-verify: true
+  type: vmess
+  udp: true
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: ip1.1789034.xyz
     path: github.com/Alvin9999
 - alterId: 64
   cipher: auto
@@ -179,35 +56,29 @@ proxies:
   server: gdyddx500.xiyunchen.cn
   tfo: false
   type: ss
-- cipher: aes-256-gcm
+- alterId: 0
+  cipher: auto
   name: 5|🇭🇰 香港3|@ripaojiedian
-  password: 42b6588e-7bf7-4aff-b0ce-074adb29bca7
-  port: 41888
-  server: 6ad1ae37883fcbf8.cdn.jiashule.com
+  port: 16431
+  server: relay.gz.flyidc.top
+  skip-cert-verify: false
   tfo: false
-  type: ss
+  tls: false
+  type: vmess
+  uuid: 2d9a81f6-e86e-48e6-9646-b3b1325f8d61
 - name: 5|🇭🇰 香港4|@ripaojiedian
   password: lNOcIAxy
   port: 51377
   server: 36.151.195.24
   skip-cert-verify: true
   type: trojan
-- alterId: 0
-  cipher: auto
-  name: 5,6|香港5|@ripaojiedian
-  network: ws
-  port: '80'
-  server: 157.254.22.109
-  servername: ''
-  skip-cert-verify: false
+- cipher: chacha20-ietf-poly1305
+  name: 5|🇭🇰 香港5|@ripaojiedian
+  password: 377f2e43-ebe9-497b-bd87-43cf554679e2
+  port: 39008
+  server: office-3ed49ffb70.f9umiigcm1awo6o-hk.qytnode.com
   tfo: false
-  tls: false
-  type: vmess
-  uuid: 2d9a81f6-e86e-48e6-9646-b3b1325f8d61
-  ws-opts:
-    headers:
-      Host: syjsq.hk5.flyidc.top
-    path: /syjsq/data
+  type: ss
 - cipher: chacha20-ietf-poly1305
   name: 5|🇭🇰 香港6|@ripaojiedian
   password: 70747514-fb14-4f31-8390-e1f0453eff6d
@@ -215,87 +86,71 @@ proxies:
   server: hk1.mhw7e2.online
   tfo: false
   type: ss
-- alterId: 0
-  cipher: auto
-  name: 5,6|香港7|@ripaojiedian
-  network: ws
-  port: '80'
-  server: 18.162.141.165
-  servername: ''
-  skip-cert-verify: false
+- cipher: chacha20-ietf-poly1305
+  name: 5|🇭🇰 香港7|@ripaojiedian
+  password: 377f2e43-ebe9-497b-bd87-43cf554679e2
+  port: 39013
+  server: office-3ed49ffb70.f9umiigcm1awo6o-hk.qytnode.com
   tfo: false
-  tls: false
-  type: vmess
-  uuid: 2d9a81f6-e86e-48e6-9646-b3b1325f8d61
-  ws-opts:
-    headers:
-      Host: syjsq.hk1.flyidc.top
-    path: /syjsq/data
-- alterId: 0
-  cipher: auto
-  name: 5,6|香港8|@ripaojiedian
-  network: ws
-  port: '80'
-  server: 16.163.143.214
-  servername: ''
-  skip-cert-verify: false
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 5|🇹🇼 台湾|@ripaojiedian
+  password: 377f2e43-ebe9-497b-bd87-43cf554679e2
+  port: 39030
+  server: office-3ed49ffb70.f9umiigcm1awo6o-tw.qytnode.com
   tfo: false
-  tls: false
-  type: vmess
-  uuid: 2d9a81f6-e86e-48e6-9646-b3b1325f8d61
-  ws-opts:
-    headers:
-      Host: syjsq.hk2.flyidc.top
-    path: /syjsq/data
-- alterId: 0
-  cipher: auto
+  type: ss
+- cipher: chacha20-ietf-poly1305
   name: 5|🇯🇵 日本|@ripaojiedian
+  password: 377f2e43-ebe9-497b-bd87-43cf554679e2
+  port: 39043
+  server: office-3ed49ffb70.f9umiigcm1awo6o-jp.qytnode.com
+  tfo: false
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 5|🇯🇵 日本2|@ripaojiedian
+  password: 377f2e43-ebe9-497b-bd87-43cf554679e2
+  port: 39049
+  server: office-3ed49ffb70.f9umiigcm1awo6o-jp.qytnode.com
+  tfo: false
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: 5|🇯🇵 日本3|@ripaojiedian
+  port: 16718
+  server: relay.gz.flyidc.top
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 2d9a81f6-e86e-48e6-9646-b3b1325f8d61
+- alterId: 0
+  cipher: auto
+  name: 5|🇯🇵 日本4|@ripaojiedian
   port: 11767
-  server: 212.50.255.109
+  server: 212.50.253.146
   skip-cert-verify: false
   tfo: false
   tls: false
   type: vmess
   uuid: 7269ac36-82da-43f9-86b8-ea57bef8f1e7
-- cipher: aes-128-gcm
-  name: 5|🇯🇵 日本2|@ripaojiedian
-  password: shadowsocks
-  port: 443
-  server: 149.22.87.241
+- cipher: chacha20-ietf-poly1305
+  name: 5|🇰🇷 韩国|@ripaojiedian
+  password: 377f2e43-ebe9-497b-bd87-43cf554679e2
+  port: 39051
+  server: office-3ed49ffb70.f9umiigcm1awo6o-kr.qytnode.com
   tfo: false
   type: ss
 - alterId: 0
   cipher: auto
-  name: 5,6|日本3|@ripaojiedian
-  network: ws
-  port: '80'
-  server: 103.238.129.205
-  servername: ''
+  name: 5|🇸🇬 新加坡|@ripaojiedian
+  port: 17575
+  server: relay.gz.flyidc.top
   skip-cert-verify: false
   tfo: false
   tls: false
   type: vmess
   uuid: 2d9a81f6-e86e-48e6-9646-b3b1325f8d61
-  ws-opts:
-    headers:
-      Host: syjsq.jp2.flyidc.top
-    path: /syjsq/data
-- alterId: 0
-  cipher: auto
-  name: 5,6|新加坡|@ripaojiedian
-  network: ws
-  port: '80'
-  server: 18.141.188.80
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 2d9a81f6-e86e-48e6-9646-b3b1325f8d61
-  ws-opts:
-    headers:
-      Host: syjsq.sg1.flyidc.top
-    path: /syjsq/data
 - alterId: 0
   cipher: auto
   name: 5,6|美国|@ripaojiedian
@@ -314,22 +169,6 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 5,6|美国7|@ripaojiedian
-  network: ws
-  port: '2052'
-  server: cfcdn1.sanfencdn9.com
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 7786bd51-a965-4ae9-aac4-a224f9457243
-  ws-opts:
-    headers:
-      Host: us3AJ8biuQx.fzbqfrse.xyz
-    path: /video/QXjZG5u4F2
-- alterId: 0
-  cipher: auto
   name: 5,6|美国3|@ripaojiedian
   network: ws
   port: '80'
@@ -343,22 +182,6 @@ proxies:
   ws-opts:
     headers:
       Host: syjsq.us4.flyidc.top
-    path: /syjsq/data
-- alterId: 0
-  cipher: auto
-  name: 5,6|美国4|@ripaojiedian
-  network: ws
-  port: '80'
-  server: 54.87.134.111
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 2d9a81f6-e86e-48e6-9646-b3b1325f8d61
-  ws-opts:
-    headers:
-      Host: syjsq.us2.flyidc.top
     path: /syjsq/data
 - alterId: 0
   cipher: auto
@@ -413,6 +236,13 @@ proxies:
   server: 54.169.246.181
   tfo: false
   type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 5|🇮🇳 印度|@ripaojiedian
+  password: 377f2e43-ebe9-497b-bd87-43cf554679e2
+  port: 39077
+  server: office-3ed49ffb70.f9umiigcm1awo6o-in.qytnode.com
+  tfo: false
+  type: ss
 - alterId: 64
   cipher: auto
   name: 6|香港|@ripaojiedian
@@ -425,14 +255,44 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: 6|日本|@ripaojiedian
+  name: 6|香港3|@ripaojiedian
+  network: tcp
+  port: '16431'
+  server: relay.gz.flyidc.top
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 2d9a81f6-e86e-48e6-9646-b3b1325f8d61
+- alterId: 0
+  cipher: auto
+  name: 6|日本3|@ripaojiedian
+  network: tcp
+  port: '16718'
+  server: relay.gz.flyidc.top
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 2d9a81f6-e86e-48e6-9646-b3b1325f8d61
+- alterId: 0
+  cipher: auto
+  name: 6|日本4|@ripaojiedian
   network: tcp
   port: '11767'
-  server: 212.50.255.109
+  server: 212.50.253.146
   servername: ''
   tls: false
   type: vmess
   uuid: 7269ac36-82da-43f9-86b8-ea57bef8f1e7
+- alterId: 0
+  cipher: auto
+  name: 6|新加坡|@ripaojiedian
+  network: tcp
+  port: '17575'
+  server: relay.gz.flyidc.top
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 2d9a81f6-e86e-48e6-9646-b3b1325f8d61
 - name: 8|AE_speednode_0004
   network: ws
   port: 80

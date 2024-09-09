@@ -2,20 +2,14 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 5,6|新加坡|@ripaojiedian
-  network: ws
-  port: '80'
-  server: 18.141.188.80
-  servername: ''
+  name: 5|🇸🇬 新加坡|@ripaojiedian
+  port: 17575
+  server: relay.gz.flyidc.top
   skip-cert-verify: false
   tfo: false
   tls: false
   type: vmess
   uuid: 2d9a81f6-e86e-48e6-9646-b3b1325f8d61
-  ws-opts:
-    headers:
-      Host: syjsq.sg1.flyidc.top
-    path: /syjsq/data
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 5|🇸🇬 狮城特殊|@ripaojiedian
@@ -24,3 +18,13 @@ proxies:
   server: 54.169.246.181
   tfo: false
   type: ss
+- alterId: 0
+  cipher: auto
+  name: 6|新加坡|@ripaojiedian
+  network: tcp
+  port: '17575'
+  server: relay.gz.flyidc.top
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 2d9a81f6-e86e-48e6-9646-b3b1325f8d61
