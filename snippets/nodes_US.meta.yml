@@ -66,7 +66,7 @@ proxies:
   server: 45.89.53.134
   tfo: false
   type: ss
-- name: 8|US_speednode_0238
+- name: 8|US_speednode_0382
   network: ws
   port: 443
   server: 167.68.11.247
@@ -80,7 +80,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|US_speednode_0240
+- name: 8|US_speednode_0384
   network: ws
   port: 443
   server: 167.68.11.106
@@ -95,7 +95,7 @@ proxies:
       Host: juzibaipiao.5112233.xyz
     path: /
 - client-fingerprint: chrome
-  name: 8|US_speednode_0241
+  name: 8|US_speednode_0385
   network: ws
   port: 443
   server: 45.159.217.21
@@ -109,7 +109,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /
-- name: 8|US_speednode_0242
+- name: 8|US_speednode_0386
   network: ws
   port: 2096
   server: 14.102.228.210
@@ -123,7 +123,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /?ed=2048
-- name: 8|US_speednode_0270
+- name: 8|US_speednode_0412
   network: ws
   port: 2053
   server: 130.250.137.196
@@ -138,7 +138,7 @@ proxies:
       Host: a.ssll.gay
     path: Twitterfreecodes
 - client-fingerprint: chrome
-  name: 8|US_speednode_0244
+  name: 8|US_speednode_0388
   network: ws
   port: 443
   server: 45.159.218.111
@@ -152,7 +152,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|US_speednode_0245
+- name: 8|US_speednode_0389
   network: ws
   port: 2083
   server: 216.205.52.109
@@ -167,7 +167,7 @@ proxies:
       Host: juzibaipiao.5112233.xyz
     path: /?ed=2048
 - client-fingerprint: randomized
-  name: 8|US_speednode_0259
+  name: 8|US_speednode_0401
   network: ws
   port: 2087
   server: 14.102.229.66
@@ -182,7 +182,7 @@ proxies:
       Host: juzibaipiao.5112233.xyz
     path: /
 - client-fingerprint: chrome
-  name: 8|US_speednode_0247
+  name: 8|US_speednode_0391
   network: ws
   port: 443
   server: 45.159.217.220
@@ -197,7 +197,7 @@ proxies:
       Host: juzibaipiao.5112233.xyz
     path: /
 - client-fingerprint: chrome
-  name: 8|US_speednode_0248
+  name: 8|US_speednode_0392
   network: ws
   port: 8443
   server: 159.112.235.14
@@ -212,7 +212,7 @@ proxies:
       Host: juzibaipiao.5112233.xyz
     path: /?ed
 - client-fingerprint: chrome
-  name: 8|US_speednode_0249
+  name: 8|US_speednode_0393
   network: ws
   port: 443
   server: 108.165.216.167
@@ -227,22 +227,7 @@ proxies:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
 - client-fingerprint: chrome
-  name: 8|US_speednode_0250
-  network: ws
-  port: 443
-  server: 185.148.106.134
-  servername: cfed.tgzdyz2.top
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
-  ws-opts:
-    headers:
-      Host: cfed.tgzdyz2.top
-    path: tg@zdyz2
-- client-fingerprint: chrome
-  name: 8|US_speednode_0251
+  name: 8|US_speednode_0394
   network: ws
   port: 443
   server: 45.159.218.7
@@ -257,7 +242,7 @@ proxies:
       Host: cfed.tgzdyz2.top
     path: twitterfreecodestg@zdyz2
 - client-fingerprint: chrome
-  name: 8|US_speednode_0252
+  name: 8|US_speednode_0395
   network: ws
   port: 443
   server: 185.148.105.175
@@ -272,7 +257,7 @@ proxies:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
 - client-fingerprint: chrome
-  name: 8|US_speednode_0253
+  name: 8|US_speednode_0396
   network: ws
   port: 2083
   server: 185.148.106.44
@@ -287,7 +272,7 @@ proxies:
       Host: juzibaipiao.5112233.xyz
     path: /
 - client-fingerprint: chrome
-  name: 8|US_speednode_0254
+  name: 8|US_speednode_0397
   network: ws
   port: 443
   server: 69.84.182.102
@@ -302,7 +287,7 @@ proxies:
       Host: a.ssll.gay
     path: Telegram🇨🇳 @WangCai_8 /?ed=2048
 - client-fingerprint: chrome
-  name: 8|US_speednode_0262
+  name: 8|US_speednode_0404
   network: ws
   port: 443
   server: 167.68.11.253
@@ -316,22 +301,8 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|US_speednode_0256
-  network: ws
-  port: 443
-  server: 170.114.45.25
-  servername: juzibaipiao.5112233.xyz
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
-  ws-opts:
-    headers:
-      Host: juzibaipiao.5112233.xyz
-    path: /?ed=2048
 - client-fingerprint: chrome
-  name: 8|US_speednode_0257
+  name: 8|US_speednode_0399
   network: ws
   port: 443
   server: 198.62.62.4
@@ -345,7 +316,7 @@ proxies:
     headers:
       Host: page-us-qg0.pages.dev
     path: twitterfreecodes
-- name: 8|US_speednode_0258
+- name: 8|US_speednode_0400
   network: ws
   port: 443
   server: 155.46.213.32
@@ -360,7 +331,7 @@ proxies:
       Host: cfed.tgzdyz2.top
     path: /tg@zdyz2
 - client-fingerprint: chrome
-  name: 8|US_speednode_0260
+  name: 8|US_speednode_0402
   network: ws
   port: 443
   server: 205.233.181.28
@@ -375,7 +346,7 @@ proxies:
       Host: cfed.tgzdyz2.top
     path: /tg@zdyz2fp=chrome
 - client-fingerprint: chrome
-  name: 8|US_speednode_0261
+  name: 8|US_speednode_0403
   network: ws
   port: 443
   server: 192.200.160.6
@@ -390,7 +361,7 @@ proxies:
       Host: a.ssll.gay
     path: Telegram🇨🇳 @WangCai_8 /?ed=2048
 - client-fingerprint: chrome
-  name: 8|US_speednode_0272
+  name: 8|US_speednode_0414
   network: ws
   port: 443
   server: 167.68.11.95
@@ -405,7 +376,7 @@ proxies:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2fp=chrome
 - client-fingerprint: chrome
-  name: 8|US_speednode_0264
+  name: 8|US_speednode_0406
   network: ws
   port: 443
   server: 45.159.219.23
@@ -419,7 +390,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
-- name: 8|US_speednode_0265
+- name: 8|US_speednode_0407
   network: ws
   port: 2083
   server: 66.81.247.19
@@ -433,7 +404,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: twitter苏小柠
-- name: 8|US_speednode_0266
+- name: 8|US_speednode_0408
   network: ws
   port: 2053
   server: 216.116.134.43
@@ -447,7 +418,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /?ed=2048
-- name: 8|US_speednode_0267
+- name: 8|US_speednode_0409
   network: ws
   port: 80
   server: 185.148.104.199
@@ -461,7 +432,7 @@ proxies:
       Host: a.ssll.gay
     path: Twitterfreecodes
 - client-fingerprint: chrome
-  name: 8|US_speednode_0278
+  name: 8|US_speednode_0419
   network: ws
   port: 8443
   server: 89.116.161.250
@@ -475,7 +446,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /?ed=2048
-- name: 8|US_speednode_0269
+- name: 8|US_speednode_0411
   network: ws
   port: 443
   server: 199.181.197.39
@@ -489,7 +460,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /?ed=2048
-- name: 8|US_speednode_0271
+- name: 8|US_speednode_0413
   network: ws
   port: 80
   server: 45.159.216.99
@@ -502,7 +473,7 @@ proxies:
     headers:
       Host: a.ssll.gay
     path: Twitterfreecodesfp=chrome
-- name: 8|US_speednode_0273
+- name: 8|US_speednode_0415
   network: ws
   port: 8443
   server: 185.148.105.225
@@ -516,22 +487,9 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /?ed=2048
-- name: 8|US_speednode_0274
-  network: ws
-  password: CMLiu
-  port: 443
-  server: 43.153.80.208
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  udp: false
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: /?ed=2048
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 8|US_speednode_0275
+  name: 8|US_speednode_0416
   network: tcp
   port: 62001
   reality-opts:
@@ -543,7 +501,7 @@ proxies:
   type: vless
   udp: true
   uuid: 3e2e8b99-7709-476d-a893-4b6d580ba01b
-- name: 8|US_speednode_0276
+- name: 8|US_speednode_0417
   network: ws
   port: 443
   server: 167.68.11.191
@@ -557,3 +515,787 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: tg@zdyz2
+- name: 8|US_speednode_0420
+  network: ws
+  port: 8443
+  server: 80.251.213.234
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0421
+  network: ws
+  port: 54545
+  server: 45.91.81.229
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0422
+  network: ws
+  port: 18260
+  server: 38.49.46.83
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0423
+  network: ws
+  port: 38908
+  server: 45.59.184.16
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0424
+  network: ws
+  port: 51777
+  server: 38.207.186.234
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0425
+  network: ws
+  port: 41822
+  server: 38.207.171.169
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0426
+  network: ws
+  port: 34237
+  server: 23.236.68.152
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0427
+  network: ws
+  port: 30979
+  server: 206.237.120.169
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0428
+  network: ws
+  port: 13117
+  server: 23.166.168.67
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0429
+  network: ws
+  port: 33158
+  server: 23.166.168.219
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0430
+  network: ws
+  port: 52449
+  server: 23.165.40.87
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0431
+  network: ws
+  port: 57321
+  server: 23.165.40.176
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0432
+  network: ws
+  port: 46589
+  server: 23.166.168.153
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0433
+  network: ws
+  port: 8002
+  server: 38.148.249.108
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0434
+  network: ws
+  port: 42035
+  server: 154.21.203.183
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0435
+  network: ws
+  port: 26114
+  server: 207.60.50.213
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0436
+  network: ws
+  port: 443
+  server: 199.193.126.19
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0437
+  network: ws
+  port: 20404
+  server: 154.9.238.154
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0438
+  network: ws
+  port: 20404
+  server: 154.9.238.153
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0439
+  network: ws
+  port: 53086
+  server: 154.21.93.36
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0440
+  network: ws
+  port: 882
+  server: 154.21.94.70
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0441
+  network: ws
+  port: 10001
+  server: 154.21.91.92
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0442
+  network: ws
+  port: 36433
+  server: 154.21.92.2
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0443
+  network: ws
+  port: 18294
+  server: 154.21.87.157
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0444
+  network: ws
+  port: 54336
+  server: 154.21.89.153
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0445
+  network: ws
+  port: 4433
+  server: 154.21.87.49
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0446
+  network: ws
+  port: 59217
+  server: 154.23.255.85
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0447
+  network: ws
+  port: 51525
+  server: 154.21.84.88
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0448
+  network: ws
+  port: 39258
+  server: 154.21.80.57
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0449
+  network: ws
+  port: 52804
+  server: 154.64.224.14
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0450
+  network: ws
+  port: 882
+  server: 154.17.9.73
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0451
+  network: ws
+  port: 45498
+  server: 154.23.207.84
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0452
+  network: ws
+  port: 13171
+  server: 154.21.80.55
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0453
+  network: ws
+  port: 31082
+  server: 154.9.241.153
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0454
+  network: ws
+  port: 35519
+  server: 193.134.209.148
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0455
+  network: ws
+  port: 47593
+  server: 154.17.5.32
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0456
+  network: ws
+  port: 33223
+  server: 154.17.30.48
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0457
+  network: ws
+  port: 44300
+  server: 154.17.5.198
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0458
+  network: ws
+  port: 35378
+  server: 154.17.4.191
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0459
+  network: ws
+  port: 32568
+  server: 154.17.29.112
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0460
+  network: ws
+  port: 1443
+  server: 154.17.25.65
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0461
+  network: ws
+  port: 43790
+  server: 154.17.227.95
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0462
+  network: ws
+  port: 35805
+  server: 154.17.225.34
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0463
+  network: ws
+  port: 30545
+  server: 154.17.19.18
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0464
+  network: ws
+  port: 8443
+  server: 154.19.242.205
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0465
+  network: ws
+  port: 8445
+  server: 154.17.12.26
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0466
+  network: ws
+  port: 9443
+  server: 154.17.12.204
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0467
+  network: ws
+  port: 12776
+  server: 154.17.10.2
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0468
+  network: ws
+  port: 14515
+  server: 154.17.10.111
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0469
+  network: ws
+  port: 62001
+  server: 141.11.90.242
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0470
+  network: ws
+  port: 50990
+  server: 136.175.177.2
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0471
+  network: ws
+  port: 443
+  server: 136.175.176.67
+  servername: global2.ccdd.site
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+  ws-opts:
+    headers:
+      Host: global2.ccdd.site
+    path: /?ed=2560
+- name: 8|US_speednode_0472
+  network: ws
+  port: 44559
+  server: 23.224.33.227
+  servername: pages.tcorg.filegear-sg.me
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 1b36afe3-79d3-42c5-8ac2-407ca73ce300
+  ws-opts:
+    headers:
+      Host: pages.tcorg.filegear-sg.me
+    path: /?ed=2048
+- name: 8|US_speednode_0473
+  network: ws
+  port: 40110
+  server: 141.11.91.177
+  servername: pages.tcorg.filegear-sg.me
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 1b36afe3-79d3-42c5-8ac2-407ca73ce300
+  ws-opts:
+    headers:
+      Host: pages.tcorg.filegear-sg.me
+    path: /?ed=2048
+- name: 8|US_speednode_0474
+  network: ws
+  port: 37956
+  server: 154.21.93.92
+  servername: pages.tcorg.filegear-sg.me
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 1b36afe3-79d3-42c5-8ac2-407ca73ce300
+  ws-opts:
+    headers:
+      Host: pages.tcorg.filegear-sg.me
+    path: /?ed=2048
+- name: 8|US_speednode_0475
+  network: ws
+  port: 13649
+  server: 45.59.185.71
+  servername: pages.tcorg.filegear-sg.me
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 1b36afe3-79d3-42c5-8ac2-407ca73ce300
+  ws-opts:
+    headers:
+      Host: pages.tcorg.filegear-sg.me
+    path: /?ed=2048
