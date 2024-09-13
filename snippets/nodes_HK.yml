@@ -26,9 +26,9 @@ proxies:
 - client-fingerprint: chrome
   name: 5|🇭🇰 香港4|@ripaojiedian
   password: lNOcIAxy
-  port: 444
+  port: 55314
   server: 36.151.195.83
-  skip-cert-verify: false
+  skip-cert-verify: true
   type: trojan
 - cipher: chacha20-ietf
   client-fingerprint: chrome
@@ -36,6 +36,33 @@ proxies:
   password: sacQKAwXBLMR
   port: 7568
   server: 103.97.131.204
+  tfo: false
+  type: ss
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 5|🇭🇰 香港6|@ripaojiedian
+  port: 44806
+  server: ambxxic01hk.dorabbb.top
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: fe9333e9-c864-41ea-8076-a0df85cc50de
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 5|🇭🇰 香港7|@ripaojiedian
+  password: ce19c839-49d3-4b65-bd5d-201862ead65b
+  port: 40000
+  server: cname-heyck2gkxig6ajkp.bestruisleipa.com
+  tfo: false
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 5|🇭🇰 香港8|@ripaojiedian
+  password: ce19c839-49d3-4b65-bd5d-201862ead65b
+  port: 40000
+  server: cnamepc01-drwtbltc3xwmfzhd.coffeehouse.wiki
   tfo: false
   type: ss
 - cipher: aes-256-cfb
@@ -46,3 +73,13 @@ proxies:
   server: 103.161.255.195
   tfo: false
   type: ss
+- alterId: 0
+  cipher: auto
+  name: 6|香港6|@ripaojiedian
+  network: tcp
+  port: '44806'
+  server: ambxxic01hk.dorabbb.top
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fe9333e9-c864-41ea-8076-a0df85cc50de

@@ -1,22 +1,9 @@
 proxies:
-- alterId: 0
-  cipher: auto
+- cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 5|🇸🇬 新加坡|@ripaojiedian
-  port: 17575
-  server: relay.gz.flyidc.top
-  skip-cert-verify: false
+  password: ce19c839-49d3-4b65-bd5d-201862ead65b
+  port: 40050
+  server: cnamepc01-drwtbltc3xwmfzhd.coffeehouse.wiki
   tfo: false
-  tls: false
-  type: vmess
-  uuid: 2d9a81f6-e86e-48e6-9646-b3b1325f8d61
-- alterId: 0
-  cipher: auto
-  name: 6|新加坡|@ripaojiedian
-  network: tcp
-  port: '17575'
-  server: relay.gz.flyidc.top
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 2d9a81f6-e86e-48e6-9646-b3b1325f8d61
+  type: ss
