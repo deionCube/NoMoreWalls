@@ -58,14 +58,6 @@ proxies:
     headers:
       Host: us3AJ8biuQx.fzbqfrse.xyz
     path: /video/QXjZG5u4F2
-- cipher: chacha20-ietf
-  client-fingerprint: chrome
-  name: 5|🇺🇸 美国5|@ripaojiedian
-  password: z5WzrVUCMZa2
-  port: 6297
-  server: 45.89.53.134
-  tfo: false
-  type: ss
 - name: 8|US_speednode_0382
   network: ws
   port: 443
