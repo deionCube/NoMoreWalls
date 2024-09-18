@@ -32,30 +32,3 @@ proxies:
   server: 14.29.215.158
   tfo: false
   type: ss
-- name: 8|TW_speednode_0354
-  network: ws
-  port: 81
-  server: 210.61.97.241
-  servername: a.ssll.gay
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  ws-opts:
-    headers:
-      Host: a.ssll.gay
-    path: Telegram🇨🇳 @WangCai2 /?ed=2048
-- client-fingerprint: randomized
-  name: 8|TW_speednode_0355
-  network: ws
-  password: A98XMiF6NA
-  port: 81
-  server: 210.61.97.241
-  skip-cert-verify: true
-  sni: dy.fxu.asia
-  type: trojan
-  ws-opts:
-    headers:
-      Host: dy.fxu.asia
-    path: /?ed=2560
