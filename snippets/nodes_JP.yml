@@ -1,12 +1,4 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 5|🇯🇵 日本|@ripaojiedian
-  password: 6007a3c9-eaa3-442f-b9fe-825b0926b1d9
-  port: 49494
-  server: jp.zhongguoliantong.shop
-  tfo: false
-  type: ss
 - client-fingerprint: chrome
   name: 5|🇯🇵 日本3|@ripaojiedian
   password: c471ef32-798d-40a0-a57c-acf3475a204e
@@ -20,6 +12,6 @@ proxies:
   name: 5|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 13.213.56.182
+  server: 54.180.240.137
   tfo: false
   type: ss
