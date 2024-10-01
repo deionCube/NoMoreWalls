@@ -12,7 +12,7 @@ proxies:
   name: 5|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 52.77.242.67
+  server: 47.129.154.80
   tfo: false
   type: ss
 - client-fingerprint: chrome
