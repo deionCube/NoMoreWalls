@@ -13,11 +13,10 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 5,6|日本2|@ripaojiedian
+  name: 5|🇯🇵 日本2|@ripaojiedian
   network: ws
-  port: '80'
+  port: 80
   server: kz3bw.c6tu5uwk9.buzz
-  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -54,9 +53,9 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 5,6|日本6|@ripaojiedian
+  name: 5|🇯🇵 日本6|@ripaojiedian
   network: ws
-  port: '12000'
+  port: 12000
   server: 172.234.86.166
   servername: 172.234.86.166
   skip-cert-verify: false
@@ -79,13 +78,17 @@ proxies:
 - alterId: 0
   cipher: auto
   name: 6|日本|@ripaojiedian
-  network: tcp
-  port: '31184'
-  server: 45.159.50.80
-  servername: ''
-  tls: false
+  network: ws
+  port: '443'
+  server: 172.233.92.155
+  servername: 172.233.92.155
+  tls: true
   type: vmess
-  uuid: 1852247b-8284-43d6-b0c7-d687464333a6
+  uuid: af0bfcce-8730-4133-bdaa-f6b1da70fc1c
+  ws-opts:
+    headers:
+      Host: 172.233.92.155
+    path: /fdmCQbor
 - client-fingerprint: chrome
   name: 8|JP_speednode_0173
   network: ws

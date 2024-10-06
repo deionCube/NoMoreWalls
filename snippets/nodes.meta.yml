@@ -1,15 +1,6 @@
 proxies:
-- cipher: rc4-md5
-  name: 0|-https://t.me/MrXbin-46
-  obfs: tls1.2_ticket_auth
-  password: Cskw6d
-  port: 13449
-  protocol: auth_aes128_md5
-  protocol-param: 524959:5u4MZ6
-  server: sjgysy.cdn.node.a.tddns-ounk.com
-  type: ssr
 - cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-48
+  name: 0|-https://t.me/MrXbin-64
   obfs: tls1.2_ticket_auth
   password: fou8MBGij
   port: 8081
@@ -34,9 +25,9 @@ proxies:
     path: /zh-cn
 - alterId: 64
   cipher: auto
-  name: 5,6|香港2|@ripaojiedian
+  name: 5|🇭🇰 香港2|@ripaojiedian
   network: ws
-  port: '48886'
+  port: 48886
   server: 134.122.135.158
   servername: www.26741191.xyz
   skip-cert-verify: false
@@ -70,11 +61,10 @@ proxies:
   uuid: 1852247b-8284-43d6-b0c7-d687464333a6
 - alterId: 0
   cipher: auto
-  name: 5,6|日本2|@ripaojiedian
+  name: 5|🇯🇵 日本2|@ripaojiedian
   network: ws
-  port: '80'
+  port: 80
   server: kz3bw.c6tu5uwk9.buzz
-  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -107,9 +97,9 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: 5,6|日本6|@ripaojiedian
+  name: 5|🇯🇵 日本6|@ripaojiedian
   network: ws
-  port: '12000'
+  port: 12000
   server: 172.234.86.166
   servername: 172.234.86.166
   skip-cert-verify: false
@@ -154,11 +144,10 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: 5,6|新加坡2|@ripaojiedian
+  name: 5|🇸🇬 新加坡2|@ripaojiedian
   network: ws
-  port: '80'
+  port: 80
   server: 3L6E2.c6tu5uwk9.buzz
-  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -248,24 +237,52 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: 6|日本|@ripaojiedian
+  name: 6|香港5|@ripaojiedian
   network: tcp
-  port: '31184'
-  server: 45.159.50.80
+  port: '57377'
+  server: 38.147.188.194
   servername: ''
   tls: false
   type: vmess
-  uuid: 1852247b-8284-43d6-b0c7-d687464333a6
+  uuid: ee05e267-1e79-472c-95e6-28a07c91f5ac
 - alterId: 0
   cipher: auto
-  name: 6|韩国3|@ripaojiedian
+  name: 6|日本|@ripaojiedian
+  network: ws
+  port: '443'
+  server: 172.233.92.155
+  servername: 172.233.92.155
+  tls: true
+  type: vmess
+  uuid: af0bfcce-8730-4133-bdaa-f6b1da70fc1c
+  ws-opts:
+    headers:
+      Host: 172.233.92.155
+    path: /fdmCQbor
+- alterId: 0
+  cipher: auto
+  name: 6|韩国2|@ripaojiedian
   network: tcp
-  port: '40546'
-  server: 45.94.68.193
+  port: '54553'
+  server: 45.141.136.217
   servername: ''
   tls: false
   type: vmess
-  uuid: 181cd551-ebfd-43fa-b3b6-01dd949f4013
+  uuid: e6e837d3-52f6-4ae2-9a69-34754ec2552e
+- alterId: 0
+  cipher: auto
+  name: 6|新加坡2|@ripaojiedian
+  network: ws
+  port: '2052'
+  server: 172.104.189.84
+  servername: 172.104.189.84
+  tls: true
+  type: vmess
+  uuid: af0bfcce-8730-4133-bdaa-f6b1da70fc1c
+  ws-opts:
+    headers:
+      Host: 172.104.189.84
+    path: /video/QqzfRGNq
 - alterId: 64
   cipher: auto
   name: 6|德国|@ripaojiedian

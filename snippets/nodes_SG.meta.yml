@@ -10,11 +10,10 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 5,6|新加坡2|@ripaojiedian
+  name: 5|🇸🇬 新加坡2|@ripaojiedian
   network: ws
-  port: '80'
+  port: 80
   server: 3L6E2.c6tu5uwk9.buzz
-  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -32,6 +31,20 @@ proxies:
   server: 13.125.222.81
   tfo: false
   type: ss
+- alterId: 0
+  cipher: auto
+  name: 6|新加坡2|@ripaojiedian
+  network: ws
+  port: '2052'
+  server: 172.104.189.84
+  servername: 172.104.189.84
+  tls: true
+  type: vmess
+  uuid: af0bfcce-8730-4133-bdaa-f6b1da70fc1c
+  ws-opts:
+    headers:
+      Host: 172.104.189.84
+    path: /video/QqzfRGNq
 - name: 8|SG_speednode_0260
   network: ws
   port: 443
