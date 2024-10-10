@@ -7,13 +7,42 @@ proxies:
   protocol: origin
   server: us-am3.eqnode.net
   type: ssr
-- name: 0,8|KR_speednode_0087
-  password: 1dfba761-c1e0-422e-98b6-062da56afb53
-  port: 443
-  server: jkrf1.969799.xyz
+- alterId: 0
+  cipher: auto
+  h2-opts: {}
+  http-opts: {}
+  name: 0|-https://t.me/MrXbin-52
+  network: ws
+  port: 30000
+  server: shsz.12123.org
+  servername: shsz.12123.org
   skip-cert-verify: true
-  type: trojan
+  tls: true
+  type: vmess
   udp: true
+  uuid: f1817051-323c-4cfd-8c91-18f1464d085d
+  ws-opts:
+    headers:
+      Host: www.baidu.com
+    path: /12123.org
+- alterId: 0
+  cipher: auto
+  h2-opts: {}
+  http-opts: {}
+  name: 0|-https://t.me/MrXbin-31
+  network: ws
+  port: 443
+  server: 57.129.28.69
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: baradiha.com
+    path: /linkvws
 - alterId: 0
   cipher: auto
   name: 5|🇭🇰 香港|@ripaojiedian
@@ -789,6 +818,13 @@ proxies:
   udp: true
   ws-opts:
     path: /
+- name: 8|KR_speednode_0087
+  password: 1dfba761-c1e0-422e-98b6-062da56afb53
+  port: 443
+  server: jkrf1.969799.xyz
+  skip-cert-verify: true
+  type: trojan
+  udp: true
 - name: 8|KR_speednode_0088
   password: 1dfba761-c1e0-422e-98b6-062da56afb53
   port: 443
