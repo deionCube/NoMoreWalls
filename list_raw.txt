@@ -1,4 +1,4 @@
-ssr://us-am3.eqnode.net:8081:origin:aes-256-cfb:tls1.2_ticket_authZm91OE1CR2lqremarks=MHwtaHR0cHM6Ly90Lm1lL01yWGJpbi0z
+ssr://us-am3.eqnode.net:8081:origin:aes-256-cfb:tls1.2_ticket_authZm91OE1CR2lqremarks=MHwtaHR0cHM6Ly90Lm1lL01yWGJpbi01
 trojan://1dfba761-c1e0-422e-98b6-062da56afb53@jkrf1.969799.xyz:443?allowInsecure=1#0%2C8%7CKR_speednode_0087
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNXzwn4et8J+HsCDpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAiMzguMTQ3LjE4OC4yMjgiLCAicG9ydCI6IDM4MzU5LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2YzZWU0OTQtZWVmYy00ZDljLTgzMDMtMWRkNzA2OWM0MDZmIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNSw2fOmmmea4rzJ8QHJpcGFvamllZGlhbiIsICJhZGQiOiAiMTE4LjEwNy4yNDUuMjMiLCAicG9ydCI6ICI0NDMiLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgInNuaSI6ICJ3d3cuODU1MTU4MDYueHl6IiwgImhvc3QiOiAid3d3Ljg1NTE1ODA2Lnh5eiIsICJwYXRoIjogIi9wYXRoLzM1MTIxMjA4MTUxNyJ9
@@ -33,4 +33,4 @@ trojan://CMLiu@59.3.3.161:443?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&
 trojan://1dfba761-c1e0-422e-98b6-062da56afb53@jkrf1.969799.xyz:443?allowInsecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#8%7CKR_speednode_0088
 trojan://bpb-trojan@45.142.120.4:2096?allowInsecure=1&sni=403B3611-99bC-43b7-88D7-26ed5d0825A9-3.PageS.DEV&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=/troUbg9Q3QgD0TJRfy?ed=2560#8%7CRU_speednode_0118
 trojan://bpb-trojan@199.181.197.143:443?allowInsecure=1&sni=403B3611-99bc-43b7-88D7-26eD5d0825A9-3.PaGeS.deV&type=ws&host=403B3611-99bc-43b7-88D7-26eD5d0825A9-3.PaGeS.deV&path=/trAun92tJzhYilmLtq?ed=2560#8%7CUS_speednode_0181
-https://YO38iD.mcsslk.xyz/370b5261beeabad7ba28c8a6627f508f
+https://fyO6is.mcsslk.xyz/8502a7c0be1667716799fdfd877b463b
