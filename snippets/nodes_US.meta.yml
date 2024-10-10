@@ -37,35 +37,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 21a9bff2-72de-4e62-93ff-8b159f66d875
-- name: 8|US_speednode_0181
-  network: ws
-  port: 443
-  server: 31.129.49.103
-  servername: lg.ylks.us.kg
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
-  ws-opts:
-    headers:
-      Host: lg.ylks.us.kg
-    path: /?ed=2560
-- name: 8|US_speednode_0183
-  network: ws
-  port: 443
-  server: 185.148.107.62
-  servername: juzibaipiao.5112233.xyz
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
-  ws-opts:
-    headers:
-      Host: juzibaipiao.5112233.xyz
-    path: /
-- name: 8|US_speednode_0184
+- name: 8|US_speednode_0175
   network: ws
   packet-encoding: ''
   port: 8443
@@ -79,7 +51,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /?ed=2048
-- name: 8|US_speednode_0185
+- name: 8|US_speednode_0176
   network: ws
   port: 2053
   server: 216.116.134.43
@@ -93,7 +65,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /?ed=2048
-- name: 8|US_speednode_0186
+- name: 8|US_speednode_0177
   network: ws
   port: 443
   server: 198.62.62.78
@@ -108,7 +80,7 @@ proxies:
       Host: cg.ylks.xyz
     path: /bluehttps://vless.fxxk.dedyn.io/sub?host=dg.ylks.xyz
 - client-fingerprint: chrome
-  name: 8|US_speednode_0187
+  name: 8|US_speednode_0178
   network: ws
   port: 443
   server: 45.159.219.23
@@ -122,7 +94,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: /tg@zdyz2
-- name: 8|US_speednode_0246
+- name: 8|US_speednode_0227
   network: ws
   port: 443
   server: 69.84.182.178
@@ -136,7 +108,7 @@ proxies:
     headers:
       Host: lg.ylka.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0189
+- name: 8|US_speednode_0180
   network: ws
   port: 443
   server: 198.62.62.1
@@ -150,7 +122,7 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0190
+- name: 8|US_speednode_0181
   network: ws
   password: bpb-trojan
   port: 443
@@ -163,7 +135,7 @@ proxies:
     headers:
       Host: 403B3611-99bc-43b7-88D7-26eD5d0825A9-3.PaGeS.deV
     path: /trAun92tJzhYilmLtq?ed=2560
-- name: 8|US_speednode_0191
+- name: 8|US_speednode_0182
   network: ws
   port: 443
   server: 198.62.62.27
@@ -177,7 +149,7 @@ proxies:
     headers:
       Host: lg.ylks.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0218
+- name: 8|US_speednode_0207
   network: ws
   port: 443
   server: 198.62.62.91
@@ -191,7 +163,7 @@ proxies:
     headers:
       Host: cg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0193
+- name: 8|US_speednode_0184
   network: ws
   port: 2087
   server: 14.102.229.66
@@ -203,7 +175,7 @@ proxies:
     headers:
       Host: juzibaipiao.5112233.xyz
     path: /
-- name: 8|US_speednode_0194
+- name: 8|US_speednode_0185
   network: ws
   port: 443
   server: 170.39.66.155
@@ -217,7 +189,7 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /freecodes
-- name: 8|US_speednode_0195
+- name: 8|US_speednode_0186
   network: ws
   port: 443
   server: 69.84.182.32
@@ -231,11 +203,11 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0248
+- name: 8|US_speednode_0187
   network: ws
   port: 443
   server: 69.84.182.192
-  servername: df.ylks.xyz
+  servername: dg.ylks.xyz
   skip-cert-verify: true
   tls: true
   type: vless
@@ -243,9 +215,9 @@ proxies:
   uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
   ws-opts:
     headers:
-      Host: df.ylks.xyz
+      Host: dg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0197
+- name: 8|US_speednode_0188
   network: ws
   port: 443
   server: 69.84.182.70
@@ -259,7 +231,7 @@ proxies:
     headers:
       Host: lg.ylks.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0198
+- name: 8|US_speednode_0189
   network: ws
   port: 443
   server: 198.62.62.127
@@ -273,7 +245,7 @@ proxies:
     headers:
       Host: lg.ylks.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0199
+- name: 8|US_speednode_0190
   network: ws
   port: 443
   server: 198.62.62.245
@@ -287,7 +259,7 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0200
+- name: 8|US_speednode_0191
   network: ws
   port: 443
   server: 198.62.62.165
@@ -301,7 +273,7 @@ proxies:
     headers:
       Host: cg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0331
+- name: 8|US_speednode_0296
   network: ws
   port: 443
   server: 167.68.11.106
@@ -315,21 +287,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: /tg@zdyz2security
-- name: 8|US_speednode_0202
-  network: ws
-  port: 443
-  server: 198.62.62.151
-  servername: lg.ylks01.eu.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
-  ws-opts:
-    headers:
-      Host: lg.ylks01.eu.org
-    path: /freecodes
-- name: 8|US_speednode_0203
+- name: 8|US_speednode_0193
   network: ws
   port: 443
   server: 198.62.62.52
@@ -343,7 +301,7 @@ proxies:
     headers:
       Host: lg.ylks.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0302
+- name: 8|US_speednode_0271
   network: ws
   port: 443
   server: 69.84.182.88
@@ -357,7 +315,7 @@ proxies:
     headers:
       Host: ag.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0205
+- name: 8|US_speednode_0195
   network: ws
   port: 443
   server: 69.84.182.97
@@ -371,7 +329,7 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /freecodes
-- name: 8|US_speednode_0206
+- name: 8|US_speednode_0196
   network: ws
   port: 443
   server: 63.141.128.100
@@ -385,7 +343,7 @@ proxies:
     headers:
       Host: cg.ylks.xyz
     path: /bluehttps://vless.fxxk.dedyn.io/sub?host=dg.ylks.xyz
-- name: 8|US_speednode_0207
+- name: 8|US_speednode_0197
   network: ws
   port: 443
   server: 69.84.182.30
@@ -399,11 +357,11 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0273
+- name: 8|US_speednode_0198
   network: ws
   port: 443
   server: 69.84.182.187
-  servername: lg.ylks01.eu.org
+  servername: dg.ylks.xyz
   skip-cert-verify: true
   tls: true
   type: vless
@@ -411,9 +369,9 @@ proxies:
   uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
   ws-opts:
     headers:
-      Host: lg.ylks01.eu.org
+      Host: dg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0234
+- name: 8|US_speednode_0220
   network: ws
   port: 443
   server: 160.79.105.233
@@ -427,7 +385,7 @@ proxies:
     headers:
       Host: cg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0210
+- name: 8|US_speednode_0200
   network: ws
   port: 443
   server: 69.84.182.141
@@ -441,25 +399,11 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0289
-  network: ws
-  port: 443
-  server: 69.84.182.186
-  servername: dg.ylks.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
-  ws-opts:
-    headers:
-      Host: dg.ylks.xyz
-    path: /blue
-- name: 8|US_speednode_0240
+- name: 8|US_speednode_0202
   network: ws
   port: 443
   server: 69.84.182.127
-  servername: af.ylks.xyz
+  servername: ag.ylks.xyz
   skip-cert-verify: true
   tls: true
   type: vless
@@ -467,9 +411,9 @@ proxies:
   uuid: 48198295-b7ba-4b5c-8d85-085d55a6c869
   ws-opts:
     headers:
-      Host: af.ylks.xyz
+      Host: ag.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0214
+- name: 8|US_speednode_0203
   network: ws
   port: 443
   server: 69.84.182.52
@@ -483,7 +427,7 @@ proxies:
     headers:
       Host: lg.ylks.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0215
+- name: 8|US_speednode_0204
   network: ws
   port: 443
   server: 192.0.63.40
@@ -497,7 +441,7 @@ proxies:
     headers:
       Host: cg.ylks.xyz
     path: /freecodeshttps://vless.fxxk.dedyn.io/sub?host=dg.ylks.xyz
-- name: 8|US_speednode_0216
+- name: 8|US_speednode_0205
   network: ws
   port: 443
   server: 198.62.62.44
@@ -511,7 +455,7 @@ proxies:
     headers:
       Host: ag.ylks.xyz
     path: /freecodes
-- name: 8|US_speednode_0217
+- name: 8|US_speednode_0206
   network: ws
   port: 443
   server: 69.84.182.15
@@ -525,7 +469,7 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /freecodes
-- name: 8|US_speednode_0219
+- name: 8|US_speednode_0208
   network: ws
   port: 443
   server: 198.62.62.22
@@ -539,7 +483,7 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /freecodes
-- name: 8|US_speednode_0220
+- name: 8|US_speednode_0209
   network: ws
   port: 443
   server: 198.62.62.28
@@ -553,7 +497,7 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /freecodes
-- name: 8|US_speednode_0221
+- name: 8|US_speednode_0210
   network: ws
   port: 443
   server: 69.84.182.29
@@ -567,7 +511,7 @@ proxies:
     headers:
       Host: lg.ylka.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0222
+- name: 8|US_speednode_0211
   network: ws
   port: 443
   server: 69.84.182.251
@@ -581,7 +525,7 @@ proxies:
     headers:
       Host: lg.ylks.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0318
+- name: 8|US_speednode_0283
   network: ws
   port: 443
   server: 198.62.62.220
@@ -595,7 +539,7 @@ proxies:
     headers:
       Host: cg.ylks.xyz
     path: /freecodes
-- name: 8|US_speednode_0295
+- name: 8|US_speednode_0264
   network: ws
   port: 443
   server: 69.84.182.200
@@ -609,7 +553,7 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0225
+- name: 8|US_speednode_0214
   network: ws
   port: 443
   server: 69.84.182.115
@@ -623,21 +567,7 @@ proxies:
     headers:
       Host: lg.ylka.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0301
-  network: ws
-  port: 443
-  server: 69.84.182.172
-  servername: ag.ylks.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 48198295-b7ba-4b5c-8d85-085d55a6c869
-  ws-opts:
-    headers:
-      Host: ag.ylks.xyz
-    path: /blue
-- name: 8|US_speednode_0227
+- name: 8|US_speednode_0215
   network: ws
   port: 443
   server: 69.84.182.101
@@ -651,7 +581,7 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /?proxyip=proxyip.us.fxxk.dedyn.io
-- name: 8|US_speednode_0228
+- name: 8|US_speednode_0216
   network: ws
   port: 443
   server: 69.84.182.86
@@ -665,11 +595,11 @@ proxies:
     headers:
       Host: lg.ylka.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0229
+- name: 8|US_speednode_0217
   network: ws
   port: 443
-  server: 198.62.62.236
-  servername: lg.ylks01.eu.org
+  server: 69.84.182.232
+  servername: lg.ylks.us.kg
   skip-cert-verify: true
   tls: true
   type: vless
@@ -677,23 +607,9 @@ proxies:
   uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
   ws-opts:
     headers:
-      Host: lg.ylks01.eu.org
-    path: /blue
-- name: 8|US_speednode_0242
-  network: ws
-  port: 443
-  server: 69.84.182.232
-  servername: af.ylks.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 48198295-b7ba-4b5c-8d85-085d55a6c869
-  ws-opts:
-    headers:
-      Host: af.ylks.xyz
-    path: /blue
-- name: 8|US_speednode_0231
+      Host: lg.ylks.us.kg
+    path: /?ed=2560
+- name: 8|US_speednode_0218
   network: ws
   port: 443
   server: 192.0.54.33
@@ -707,7 +623,7 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0232
+- name: 8|US_speednode_0219
   network: ws
   port: 443
   server: 69.84.182.165
@@ -721,35 +637,7 @@ proxies:
     headers:
       Host: lg.ylks.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0233
-  network: ws
-  port: 443
-  server: 198.62.62.15
-  servername: df.ylks.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
-  ws-opts:
-    headers:
-      Host: df.ylks.xyz
-    path: /blue
-- name: 8|US_speednode_0309
-  network: ws
-  port: 443
-  server: 198.62.62.241
-  servername: ag.ylks.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 48198295-b7ba-4b5c-8d85-085d55a6c869
-  ws-opts:
-    headers:
-      Host: ag.ylks.xyz
-    path: /blue
-- name: 8|US_speednode_0236
+- name: 8|US_speednode_0221
   network: ws
   port: 443
   server: 198.62.62.252
@@ -763,7 +651,7 @@ proxies:
     headers:
       Host: lg.ylks.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0237
+- name: 8|US_speednode_0222
   network: ws
   port: 443
   server: 198.62.62.166
@@ -777,7 +665,7 @@ proxies:
     headers:
       Host: ag.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0297
+- name: 8|US_speednode_0266
   network: ws
   port: 443
   server: 198.62.62.9
@@ -791,35 +679,7 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /freecodes
-- name: 8|US_speednode_0239
-  network: ws
-  port: 443
-  server: 69.84.182.59
-  servername: df.ylks.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
-  ws-opts:
-    headers:
-      Host: df.ylks.xyz
-    path: /blue
-- name: 8|US_speednode_0256
-  network: ws
-  port: 443
-  server: 69.84.182.138
-  servername: lg.ylks.us.kg
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
-  ws-opts:
-    headers:
-      Host: lg.ylks.us.kg
-    path: /?ed=2560
-- name: 8|US_speednode_0243
+- name: 8|US_speednode_0224
   network: ws
   port: 443
   server: 198.62.62.48
@@ -833,11 +693,11 @@ proxies:
     headers:
       Host: ag.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0317
+- name: 8|US_speednode_0281
   network: ws
   port: 443
   server: 198.62.62.227
-  servername: lg.ylks01.eu.org
+  servername: dg.ylks.xyz
   skip-cert-verify: true
   tls: true
   type: vless
@@ -845,9 +705,9 @@ proxies:
   uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
   ws-opts:
     headers:
-      Host: lg.ylks01.eu.org
+      Host: dg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0264
+- name: 8|US_speednode_0243
   network: ws
   port: 443
   server: 69.84.182.163
@@ -861,21 +721,7 @@ proxies:
     headers:
       Host: lg.ylka.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0310
-  network: ws
-  port: 443
-  server: 198.62.62.131
-  servername: ag.ylks.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 48198295-b7ba-4b5c-8d85-085d55a6c869
-  ws-opts:
-    headers:
-      Host: ag.ylks.xyz
-    path: /blue
-- name: 8|US_speednode_0249
+- name: 8|US_speednode_0228
   network: ws
   port: 443
   server: 198.62.62.183
@@ -889,7 +735,7 @@ proxies:
     headers:
       Host: lg.ylks.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0250
+- name: 8|US_speednode_0229
   network: ws
   port: 443
   server: 198.62.62.156
@@ -903,7 +749,7 @@ proxies:
     headers:
       Host: lg.ylks.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0251
+- name: 8|US_speednode_0230
   network: ws
   port: 443
   server: 216.24.57.24
@@ -917,7 +763,7 @@ proxies:
     headers:
       Host: cg.ylks.xyz
     path: /bluehttps://vless.fxxk.dedyn.io/sub?host=dg.ylks.xyz
-- name: 8|US_speednode_0252
+- name: 8|US_speednode_0231
   network: ws
   port: 443
   server: 198.62.62.211
@@ -931,7 +777,7 @@ proxies:
     headers:
       Host: ag.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0253
+- name: 8|US_speednode_0232
   network: ws
   port: 443
   server: 198.62.62.174
@@ -945,7 +791,7 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /freecodes
-- name: 8|US_speednode_0254
+- name: 8|US_speednode_0233
   network: ws
   port: 443
   server: 69.84.182.33
@@ -959,7 +805,7 @@ proxies:
     headers:
       Host: lg.ylks.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0255
+- name: 8|US_speednode_0234
   network: ws
   port: 443
   server: 198.62.62.128
@@ -973,7 +819,21 @@ proxies:
     headers:
       Host: lg.ylks.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0257
+- name: 8|US_speednode_0235
+  network: ws
+  port: 443
+  server: 69.84.182.138
+  servername: lg.ylks.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
+  ws-opts:
+    headers:
+      Host: lg.ylks.us.kg
+    path: /?ed=2560
+- name: 8|US_speednode_0236
   network: ws
   port: 443
   server: 198.62.62.12
@@ -987,7 +847,7 @@ proxies:
     headers:
       Host: ag.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0258
+- name: 8|US_speednode_0237
   network: ws
   port: 443
   server: 198.62.62.102
@@ -1001,7 +861,7 @@ proxies:
     headers:
       Host: lg.ylka.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0259
+- name: 8|US_speednode_0238
   network: ws
   port: 443
   server: 198.62.62.39
@@ -1015,7 +875,7 @@ proxies:
     headers:
       Host: lg.ylks.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0260
+- name: 8|US_speednode_0239
   network: ws
   port: 443
   server: 69.84.182.58
@@ -1029,7 +889,7 @@ proxies:
     headers:
       Host: lg.ylks.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0261
+- name: 8|US_speednode_0240
   network: ws
   port: 443
   server: 43.153.103.203
@@ -1043,7 +903,7 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0263
+- name: 8|US_speednode_0242
   network: ws
   port: 443
   server: 69.84.182.116
@@ -1057,21 +917,7 @@ proxies:
     headers:
       Host: lg.ylks.us.kg
     path: /?ed=2560
-- name: 8|US_speednode_0265
-  network: ws
-  port: 443
-  server: 43.153.80.208
-  servername: lg.ylks01.eu.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
-  ws-opts:
-    headers:
-      Host: lg.ylks01.eu.org
-    path: /blue
-- name: 8|US_speednode_0266
+- name: 8|US_speednode_0244
   network: ws
   port: 443
   server: 69.84.182.247
@@ -1085,35 +931,7 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0316
-  network: ws
-  port: 443
-  server: 198.62.62.32
-  servername: lg.ylks01.eu.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
-  ws-opts:
-    headers:
-      Host: lg.ylks01.eu.org
-    path: /blue
-- name: 8|US_speednode_0268
-  network: ws
-  port: 443
-  server: 198.62.62.161
-  servername: lg.ylks01.eu.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
-  ws-opts:
-    headers:
-      Host: lg.ylks01.eu.org
-    path: /blue
-- name: 8|US_speednode_0269
+- name: 8|US_speednode_0245
   network: ws
   port: 443
   server: 216.221.213.220
@@ -1127,7 +945,7 @@ proxies:
     headers:
       Host: cg.ylks.xyz
     path: /bluehttps://vless.fxxk.dedyn.io/sub?host=dg.ylks.xyz
-- name: 8|US_speednode_0279
+- name: 8|US_speednode_0252
   network: ws
   port: 443
   server: 192.0.63.188
@@ -1141,7 +959,7 @@ proxies:
     headers:
       Host: cg.ylks.xyz
     path: /bluehttps://vless.fxxk.dedyn.io/sub?host=dg.ylks.xyz
-- name: 8|US_speednode_0271
+- name: 8|US_speednode_0247
   network: ws
   port: 443
   server: 198.62.62.140
@@ -1155,7 +973,7 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /freecodes
-- name: 8|US_speednode_0272
+- name: 8|US_speednode_0248
   network: ws
   port: 443
   server: 198.62.62.176
@@ -1169,21 +987,7 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /?proxyip=proxyip.us.fxxk.dedyn.io
-- name: 8|US_speednode_0287
-  network: ws
-  port: 443
-  server: 198.62.62.185
-  servername: ag.ylks.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 48198295-b7ba-4b5c-8d85-085d55a6c869
-  ws-opts:
-    headers:
-      Host: ag.ylks.xyz
-    path: /freecodes
-- name: 8|US_speednode_0275
+- name: 8|US_speednode_0249
   network: ws
   port: 443
   server: 69.84.182.44
@@ -1197,7 +1001,7 @@ proxies:
     headers:
       Host: ag.ylks.xyz
     path: /freecodes
-- name: 8|US_speednode_0276
+- name: 8|US_speednode_0250
   network: ws
   port: 443
   server: 69.84.182.78
@@ -1211,7 +1015,7 @@ proxies:
     headers:
       Host: cg.ylks.xyz
     path: /freecodeshttps://vless.fxxk.dedyn.io/sub?host=lg.ylks01.eu.org
-- name: 8|US_speednode_0277
+- name: 8|US_speednode_0251
   network: ws
   port: 443
   server: 69.84.182.84
@@ -1225,11 +1029,11 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0293
+- name: 8|US_speednode_0259
   network: ws
   port: 443
-  server: 198.62.62.223
-  servername: cg.ylks.xyz
+  server: 69.84.182.186
+  servername: dg.ylks.xyz
   skip-cert-verify: true
   tls: true
   type: vless
@@ -1237,37 +1041,23 @@ proxies:
   uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
   ws-opts:
     headers:
-      Host: cg.ylks.xyz
-    path: /freecodeshttps://vless.fxxk.dedyn.io/sub?host=lg.ylks01.eu.org
-- name: 8|US_speednode_0280
+      Host: dg.ylks.xyz
+    path: /blue
+- name: 8|US_speednode_0277
   network: ws
   port: 443
-  server: 198.62.62.10
-  servername: lg.ylks01.eu.org
+  server: 198.62.62.241
+  servername: ag.ylks.xyz
   skip-cert-verify: true
   tls: true
   type: vless
   udp: true
-  uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
+  uuid: 48198295-b7ba-4b5c-8d85-085d55a6c869
   ws-opts:
     headers:
-      Host: lg.ylks01.eu.org
-    path: /freecodes
-- name: 8|US_speednode_0284
-  network: ws
-  port: 443
-  server: 69.84.182.179
-  servername: lg.ylks01.eu.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
-  ws-opts:
-    headers:
-      Host: lg.ylks01.eu.org
-    path: /freecodes
-- name: 8|US_speednode_0285
+      Host: ag.ylks.xyz
+    path: /blue
+- name: 8|US_speednode_0255
   network: ws
   port: 443
   server: 198.62.62.14
@@ -1281,7 +1071,7 @@ proxies:
     headers:
       Host: cg.ylks.xyz
     path: /freecodes
-- name: 8|US_speednode_0286
+- name: 8|US_speednode_0256
   network: ws
   port: 443
   server: 198.62.62.111
@@ -1295,7 +1085,21 @@ proxies:
     headers:
       Host: ag.ylks.xyz
     path: /freecodes
-- name: 8|US_speednode_0288
+- name: 8|US_speednode_0257
+  network: ws
+  port: 443
+  server: 198.62.62.185
+  servername: ag.ylks.xyz
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 48198295-b7ba-4b5c-8d85-085d55a6c869
+  ws-opts:
+    headers:
+      Host: ag.ylks.xyz
+    path: /freecodes
+- name: 8|US_speednode_0258
   network: ws
   port: 443
   server: 69.84.182.75
@@ -1309,21 +1113,7 @@ proxies:
     headers:
       Host: cg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0290
-  network: ws
-  port: 443
-  server: 198.62.62.75
-  servername: lg.ylks01.eu.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
-  ws-opts:
-    headers:
-      Host: lg.ylks01.eu.org
-    path: /freecodes
-- name: 8|US_speednode_0291
+- name: 8|US_speednode_0260
   network: ws
   port: 443
   server: 173.249.197.84
@@ -1337,7 +1127,7 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0292
+- name: 8|US_speednode_0261
   network: ws
   port: 443
   server: 198.62.62.217
@@ -1351,7 +1141,21 @@ proxies:
     headers:
       Host: ag.ylks.xyz
     path: /freecodes
-- name: 8|US_speednode_0294
+- name: 8|US_speednode_0262
+  network: ws
+  port: 443
+  server: 198.62.62.223
+  servername: cg.ylks.xyz
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
+  ws-opts:
+    headers:
+      Host: cg.ylks.xyz
+    path: /freecodeshttps://vless.fxxk.dedyn.io/sub?host=lg.ylks01.eu.org
+- name: 8|US_speednode_0263
   network: ws
   port: 443
   server: 160.79.105.217
@@ -1365,7 +1169,7 @@ proxies:
     headers:
       Host: ag.ylks.xyz
     path: /bluehttps://vless.fxxk.dedyn.io/sub?host=lg.kpcloud.eu.org
-- name: 8|US_speednode_0296
+- name: 8|US_speednode_0265
   network: ws
   port: 443
   server: 69.84.182.234
@@ -1379,7 +1183,7 @@ proxies:
     headers:
       Host: ag.ylks.xyz
     path: /?proxyip=proxyip.us.fxxk.dedyn.io
-- name: 8|US_speednode_0298
+- name: 8|US_speednode_0267
   network: ws
   port: 443
   server: 160.79.105.153
@@ -1393,7 +1197,7 @@ proxies:
     headers:
       Host: cg.ylks.xyz
     path: /bluehttps://vless.fxxk.dedyn.io/sub?host=lg.ylks01.eu.org
-- name: 8|US_speednode_0299
+- name: 8|US_speednode_0268
   network: ws
   port: 443
   server: 160.79.104.1
@@ -1407,7 +1211,7 @@ proxies:
     headers:
       Host: cg.ylks.xyz
     path: /freecodeshttps://vless.fxxk.dedyn.io/sub?host=lg.ylks01.eu.org
-- name: 8|US_speednode_0300
+- name: 8|US_speednode_0269
   network: ws
   port: 443
   server: 69.84.182.38
@@ -1421,7 +1225,21 @@ proxies:
     headers:
       Host: dg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0305
+- name: 8|US_speednode_0270
+  network: ws
+  port: 443
+  server: 69.84.182.172
+  servername: ag.ylks.xyz
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 48198295-b7ba-4b5c-8d85-085d55a6c869
+  ws-opts:
+    headers:
+      Host: ag.ylks.xyz
+    path: /blue
+- name: 8|US_speednode_0274
   network: ws
   port: 443
   server: 69.84.182.145
@@ -1435,7 +1253,7 @@ proxies:
     headers:
       Host: ag.ylks.xyz
     path: /freecodes
-- name: 8|US_speednode_0314
+- name: 8|US_speednode_0282
   network: ws
   port: 443
   server: 198.62.62.92
@@ -1449,7 +1267,7 @@ proxies:
     headers:
       Host: ag.ylks.xyz
     path: /freecodes
-- name: 8|US_speednode_0332
+- name: 8|US_speednode_0297
   network: ws
   port: 443
   server: 160.79.105.4
@@ -1463,7 +1281,7 @@ proxies:
     headers:
       Host: cg.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0312
+- name: 8|US_speednode_0280
   network: ws
   port: 443
   server: 198.62.62.84
@@ -1477,7 +1295,21 @@ proxies:
     headers:
       Host: ag.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0311
+- name: 8|US_speednode_0278
+  network: ws
+  port: 443
+  server: 198.62.62.131
+  servername: ag.ylks.xyz
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 48198295-b7ba-4b5c-8d85-085d55a6c869
+  ws-opts:
+    headers:
+      Host: ag.ylks.xyz
+    path: /blue
+- name: 8|US_speednode_0279
   network: ws
   port: 443
   server: 198.62.62.113
@@ -1491,22 +1323,8 @@ proxies:
     headers:
       Host: ag.ylks.xyz
     path: /freecodes
-- name: 8|US_speednode_0315
-  network: ws
-  port: 443
-  server: 198.62.62.237
-  servername: lg.ylks01.eu.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
-  ws-opts:
-    headers:
-      Host: lg.ylks01.eu.org
-    path: /freecodes
 - client-fingerprint: chrome
-  name: 8|US_speednode_0326
+  name: 8|US_speednode_0291
   network: ws
   port: 443
   server: 167.68.11.253
@@ -1520,7 +1338,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: /tg@zdyz2fp
-- name: 8|US_speednode_0321
+- name: 8|US_speednode_0286
   network: ws
   port: 443
   server: 167.68.11.191
@@ -1534,7 +1352,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: /tg@zdyz2
-- name: 8|US_speednode_0322
+- name: 8|US_speednode_0287
   network: ws
   port: 443
   server: 198.62.62.59
@@ -1549,7 +1367,7 @@ proxies:
       Host: ag.ylks.xyz
     path: /?proxyip=proxyip.us.fxxk.dedyn.io
 - client-fingerprint: chrome
-  name: 8|US_speednode_0323
+  name: 8|US_speednode_0288
   network: ws
   port: 443
   server: 167.68.11.95
@@ -1563,7 +1381,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: /tg@zdyz2fp=chrome
-- name: 8|US_speednode_0324
+- name: 8|US_speednode_0289
   network: ws
   port: 443
   server: 69.84.182.26
@@ -1577,7 +1395,7 @@ proxies:
     headers:
       Host: ag.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0325
+- name: 8|US_speednode_0290
   network: ws
   port: 443
   server: 155.46.213.9
@@ -1590,7 +1408,7 @@ proxies:
     headers:
       Host: cfed.tgzdyz2.top
     path: /tg@zdyz2fp
-- name: 8|US_speednode_0328
+- name: 8|US_speednode_0293
   network: ws
   port: 443
   server: 160.79.105.14
@@ -1604,7 +1422,7 @@ proxies:
     headers:
       Host: ag.ylks.xyz
     path: /blue
-- name: 8|US_speednode_0329
+- name: 8|US_speednode_0294
   network: ws
   port: 443
   server: 66.81.247.16
@@ -1617,7 +1435,7 @@ proxies:
     headers:
       Host: toujiediansigema.5112233.xyz
     path: /tg@juzibaipiao偷节点死吗
-- name: 8|US_speednode_0333
+- name: 8|US_speednode_0298
   network: ws
   port: 443
   server: 34.123.83.237
