@@ -39,3 +39,23 @@ proxies:
   server: 13.115.189.201
   tfo: false
   type: ss
+- alterId: 0
+  cipher: auto
+  name: 6|日本3|@ripaojiedian
+  network: tcp
+  port: '50032'
+  server: 50032.baidu-cdn.top
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 0900abc9-29a4-4f70-98de-336b5d4b79d6
+- alterId: 0
+  cipher: none
+  name: 6|日本5|@ripaojiedian
+  network: tcp
+  port: '35976'
+  server: 5.104.82.173
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dccaf5fa-5482-49cb-8519-5434af52ccbc
