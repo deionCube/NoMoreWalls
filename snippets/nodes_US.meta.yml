@@ -7,14 +7,6 @@ proxies:
   server: 212.102.47.131
   tfo: false
   type: ss
-- cipher: rc4-md5
-  client-fingerprint: chrome
-  name: 5|🇺🇸 美国2|@ripaojiedian
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
-  server: 107.155.57.51
-  tfo: false
-  type: ss
 - client-fingerprint: chrome
   name: 5|🇺🇸 美国3|@ripaojiedian
   password: 5b4becce-5739-483f-97ec-68b81a855d68
