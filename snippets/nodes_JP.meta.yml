@@ -1,19 +1,8 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 5|🇯🇵 日本|@ripaojiedian
-  port: 23468
-  server: 47.74.8.202
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 9f563bc7-0481-41d2-f8fd-a4736ded9bc0
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 5|🇯🇵 日本2|@ripaojiedian
-  password: 0683b4bd-5a19-4dae-bf07-7e7fe5dfd813
+  name: 5|🇯🇵 日本|@ripaojiedian
+  password: ff8e306e-7908-4576-a14d-2a6e037a695b
   port: 11001
   server: 61.172.235.22
   tfo: false
@@ -31,16 +20,81 @@ proxies:
   name: 5|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 52.198.194.170
+  server: 43.201.254.74
   tfo: false
   type: ss
-- alterId: 0
-  cipher: auto
-  name: 6|日本|@ripaojiedian
-  network: tcp
-  port: '23468'
-  server: 47.74.8.202
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 9f563bc7-0481-41d2-f8fd-a4736ded9bc0
+- client-fingerprint: chrome
+  name: 8|JP_speednode_0056
+  network: ws
+  port: 587
+  server: 38.47.97.33
+  servername: vless.ifx.us.kg
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: vless.ifx.us.kg
+    path: /?ed=2560
+- client-fingerprint: chrome
+  name: 8|JP_speednode_0057
+  network: ws
+  port: 8087
+  server: 38.6.155.65
+  servername: vless.ifx.us.kg
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: vless.ifx.us.kg
+    path: /?ed=2560
+- client-fingerprint: chrome
+  name: 8|JP_speednode_0058
+  network: ws
+  port: 54321
+  server: 34.146.31.202
+  servername: vless.ifx.us.kg
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: vless.ifx.us.kg
+    path: /?ed=2560
+- client-fingerprint: chrome
+  name: 8|JP_speednode_0059
+  network: ws
+  port: 587
+  server: 138.2.49.197
+  servername: vless.ifx.us.kg
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: vless.ifx.us.kg
+    path: /?ed=2560
+- client-fingerprint: chrome
+  name: 8|JP_speednode_0060
+  network: ws
+  port: 587
+  server: 168.138.51.162
+  servername: vless.ifx.us.kg
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: vless.ifx.us.kg
+    path: /?ed=2560
