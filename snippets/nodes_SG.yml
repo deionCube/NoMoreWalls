@@ -1,12 +1,12 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
+- client-fingerprint: chrome
   name: 5|🇸🇬 新加坡|@ripaojiedian
-  password: 9b296d1b-dea9-40fd-aef7-a62b083be9ec
-  port: 45782
-  server: atom.986886.xyz
-  tfo: false
-  type: ss
+  password: '!!str 3690911436885991424'
+  port: 443
+  server: flexible-griffon.iguana938.mom
+  skip-cert-verify: false
+  sni: flexible-griffon.iguana938.mom
+  type: trojan
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
@@ -23,7 +23,7 @@ proxies:
   name: 5|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 54.200.148.115
+  server: 43.203.218.87
   tfo: false
   type: ss
 - alterId: 64
