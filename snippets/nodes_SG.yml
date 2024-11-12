@@ -1,12 +1,4 @@
 proxies:
-- client-fingerprint: chrome
-  name: 5|🇸🇬 新加坡|@ripaojiedian
-  password: '!!str 3690911436885991424'
-  port: 443
-  server: master-boxer.pig299.lat
-  skip-cert-verify: false
-  sni: master-boxer.pig299.lat
-  type: trojan
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
@@ -18,14 +10,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 5|🇸🇬 新加坡3|@ripaojiedian
-  password: ZRN4E3KJH2N5Q5Y2
-  port: 16001
-  server: 120.241.45.50
-  tfo: false
-  type: ss
 - client-fingerprint: chrome
   name: 5|🇸🇬 新加坡4|@ripaojiedian
   password: d90e5504-a42b-44c1-8289-3543471bf55a
@@ -39,7 +23,7 @@ proxies:
   name: 5|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 54.238.90.188
+  server: 52.79.56.225
   tfo: false
   type: ss
 - alterId: 64
