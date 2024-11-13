@@ -1,10 +1,10 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
+- cipher: aes-128-gcm
   client-fingerprint: chrome
   name: 5|🇯🇵 日本|@ripaojiedian
-  password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-  port: 33238
-  server: 183.232.159.51
+  password: bd12f79e-3209-4970-83cd-5e1f3526ff51
+  port: 43684
+  server: lsjd.yunxiang8.mom
   tfo: false
   type: ss
 - cipher: aes-128-gcm
@@ -15,6 +15,14 @@ proxies:
   server: 149.22.87.240
   tfo: false
   type: ss
+- client-fingerprint: chrome
+  name: 5|🇯🇵 日本3|@ripaojiedian
+  password: 3FxORlYgZBNwDqxCj43X6el8I3EapZSpeD9S5zCF0A2cy8OSCYADn7au3KaRyT
+  port: 443
+  server: demise.meijireform.com
+  skip-cert-verify: false
+  sni: demise.meijireform.com
+  type: trojan
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 5|🇯🇵 日本特殊|@ripaojiedian
