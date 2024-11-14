@@ -31,3 +31,17 @@ proxies:
   server: 43.201.254.211
   tfo: false
   type: ss
+- alterId: 0
+  cipher: auto
+  name: 6|日本4|@ripaojiedian
+  network: ws
+  port: '33202'
+  server: yd2.ainivp.com
+  servername: yd2.ainivp.com
+  tls: true
+  type: vmess
+  uuid: 9204afcd-023e-781f-1abc-c12efccd1344
+  ws-opts:
+    headers:
+      Host: yd2.ainivp.com
+    path: /ray

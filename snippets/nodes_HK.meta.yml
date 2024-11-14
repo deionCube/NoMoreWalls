@@ -78,6 +78,16 @@ proxies:
   uuid: 640c1077-d10b-4225-a9fb-d3e9c3ce7a00
 - alterId: 64
   cipher: auto
+  name: 6|香港6|@ripaojiedian
+  network: tcp
+  port: '58002'
+  server: 120.232.153.27
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alterId: 64
+  cipher: auto
   name: 6|香港X|@ripaojiedian
   network: tcp
   port: '51704'
@@ -87,12 +97,12 @@ proxies:
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - client-fingerprint: chrome
-  name: 8|HK_speednode_0016
+  name: 8|HK_speednode_0032
   network: ws
   port: 23555
   server: 219.77.65.212
   servername: juzi8186.5112233.xyz
-  skip-cert-verify: true
+  skip-cert-verify: false
   tls: true
   type: vless
   udp: true
@@ -100,4 +110,4 @@ proxies:
   ws-opts:
     headers:
       Host: juzi8186.5112233.xyz
-    path: /?ed=2560fp=random
+    path: /?ed=2560
