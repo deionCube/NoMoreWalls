@@ -2,24 +2,17 @@ proxies:
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
-  name: 5|🇺🇸 美国|@ripaojiedian
+  name: 5,6|美国|@ripaojiedian
   network: ws
-  port: 38007
+  port: '38007'
   server: 142.4.108.140
+  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: true
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
   ws-opts:
+    headers:
+      Host: ''
     path: /path/081412110418
-- alterId: 64
-  cipher: auto
-  name: 6|美国4|@ripaojiedian
-  network: tcp
-  port: '52112'
-  server: 183.236.51.23
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
