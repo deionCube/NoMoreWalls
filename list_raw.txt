@@ -1,6 +1,7 @@
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:54345#0%7C-https%3A//t.me/MrXbin-2
-ssr://us-am3.eqnode.net:8081:origin:aes-256-cfb:tls1.2_ticket_authZm91OE1CR2lqremarks=MHwtaHR0cHM6Ly90Lm1lL01yWGJpbi0xMA==
-ssr://bb29cs.cdn.node.a.tddns-ounk.com:13637:auth_aes128_md5:rc4-md5:tls1.2_ticket_authQ3NrdzZkremarks=MHwtaHR0cHM6Ly90Lm1lL01yWGJpbi0xNA==&protoparam=NTI0OTU5OjV1NE1aNg==
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:54345#0%7C-https%3A//t.me/MrXbin-1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZnd1Zk9tSjlFTGZONHVtemNIQmZW@194.87.82.28:12224#0%7C-https%3A//t.me/MrXbin-3
+ssr://us-am3.eqnode.net:8081:origin:aes-256-cfb:tls1.2_ticket_authZm91OE1CR2lqremarks=MHwtaHR0cHM6Ly90Lm1lL01yWGJpbi01
+ssr://138.186.142.4:989:origin:aes-256-cfb:plainZjhmN2FDemNQS2JzRjhwMw==remarks=MHwtaHR0cHM6Ly90Lm1lL01yWGJpbi0yMA==
 trojan://QwwHvrnN@36.151.192.242:14505?allowInsecure=1#5%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%7C%40ripaojiedian
 trojan://QwwHvrnN@36.151.192.196:42395?allowInsecure=1#5%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNXzwn4et8J+HsCDpppnmuK8zfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjE4My4yMzYuNTEuMjMiLCAicG9ydCI6IDUzMDAyLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
@@ -21,4 +22,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8zfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjE4
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK80fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjEwMy4yMjQuODAuNTYiLCAicG9ydCI6ICIzNTkyNiIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJkM2MxZTlkMi00MjY3LTRmZTYtYTE4OS1kZTRkNjQxYzZhZjkiLCAic25pIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK82fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjEyMC4yMzIuMTUzLjI3IiwgInBvcnQiOiAiNTgwMDIiLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJzbmkiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnznvo7lm718QHJpcGFvamllZGlhbiIsICJhZGQiOiAiMTgzLjIzNi41MS4yMyIsICJwb3J0IjogIjUyMTEyIiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAic25pIjogIiJ9
-https://ZFBliX.mcsslk.xyz/95a5d630d47d5d14aa681f0ae78f7d19
+https://W9Ep1H.mcsslk.xyz/66ef15ba5dc32f484cb9e5584df80054
