@@ -1,10 +1,8 @@
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.105:5004#0%7C-https%3A//t.me/MrXbin-1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#0%7C-https%3A//t.me/MrXbin-5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#0%7C-https%3A//t.me/MrXbin-13
-ssr://hfa1.cdn.node.a.tddns-ounk.com:13620:auth_aes128_md5:rc4-md5:tls1.2_ticket_authQ3NrdzZkremarks=MHwtaHR0cHM6Ly90Lm1lL01yWGJpbi0xOA==&protoparam=NTI0OTU5OjV1NE1aNg==
-ssr://us-am3.eqnode.net:8081:origin:aes-256-cfb:tls1.2_ticket_authZm91OE1CR2lqremarks=MHwtaHR0cHM6Ly90Lm1lL01yWGJpbi0yMg==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtaHR0cHM6Ly90Lm1lL01yWGJpbi0zOCIsICJhZGQiOiAiMTcyLjY3LjE3NS41NiIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAicGF0aCI6ICIvbGlua3dzIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtaHR0cHM6Ly90Lm1lL01yWGJpbi00MiIsICJhZGQiOiAiMjMuMjI3LjM4LjMiLCAicG9ydCI6IDIwOTUsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjE4ZDk2MTkwLWMxMGYtNDQ4Zi1hODJhLTJkMzZkZjVjM2NkZSIsICJzbmkiOiAiYzIuNjAxNjcyNS54eXoiLCAiaG9zdCI6ICJjMi42MDE2NzI1Lnh5eiIsICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OSJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#0%7C-https%3A//t.me/MrXbin-7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#0%7C-https%3A//t.me/MrXbin-5
+ssr://us-am3.eqnode.net:8081:origin:aes-256-cfb:tls1.2_ticket_authZm91OE1CR2lqremarks=MHwtaHR0cHM6Ly90Lm1lL01yWGJpbi0xOA==
+trojan://wkmY1R4EcP@65.20.115.19:443?allowInsecure=1&sni=myket.io#0%7C-https%3A//t.me/MrXbin-36
 trojan://QwwHvrnN@36.151.192.242:14505?allowInsecure=1#5%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%7C%40ripaojiedian
 trojan://QwwHvrnN@36.151.192.196:42395?allowInsecure=1#5%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNXzwn4et8J+HsCDpppnmuK8zfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjE4My4yMzYuNTEuMjMiLCAicG9ydCI6IDUzMDAyLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
@@ -34,4 +32,4 @@ trojan://637308bc-fd52-343d-b573-7693835b8e20@35.75.8.137:443?allowInsecure=1&sn
 trojan://637308bc-fd52-343d-b573-7693835b8e20@103.136.185.27:5535?allowInsecure=1&sni=steampipe.akamaized.net#8%7CUS_speednode_0047
 trojan://637308bc-fd52-343d-b573-7693835b8e20@103.136.185.28:3516?allowInsecure=1&sni=akamai.cdn.steampipe.steamcontent.com#8%7CUS_speednode_0049
 trojan://637308bc-fd52-343d-b573-7693835b8e20@35.88.22.65:443?allowInsecure=1&sni=origin-a.akamaihd.net#8%7CUS_speednode_0076
-https://P4BJw3.mcsslk.xyz/ec5782c21dd961c36f37374e0d49d135
+https://9MUzz0.mcsslk.xyz/56164170e4057020239c1d9e4fe31c0c
