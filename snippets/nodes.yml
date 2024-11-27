@@ -1,4 +1,10 @@
 proxies:
+- cipher: aes-256-gcm
+  name: 0|-https://t.me/MrXbin-1
+  password: zDNVedRFPQexG9v
+  port: 6379
+  server: 38.110.1.46
+  type: ss
 - cipher: rc4-md5
   name: 0|-https://t.me/MrXbin-2
   password: 14fFPrbezE3HDZzsMOr6
