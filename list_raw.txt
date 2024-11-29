@@ -1,7 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTWdJaHF3cDRwak04U0t3aXhOa1la@193.124.22.253:33068#0%7C-https%3A//t.me/MrXbin-1
-ssr://us-am3.eqnode.net:8081:origin:aes-256-cfb:tls1.2_ticket_authZm91OE1CR2lqremarks=MHwtaHR0cHM6Ly90Lm1lL01yWGJpbi05
-ssr://z5is.cdn.node.a.tddns-ounk.com:13186:auth_aes128_md5:rc4-md5:tls1.2_ticket_authQ3NrdzZkremarks=MHwtaHR0cHM6Ly90Lm1lL01yWGJpbi0xMA==&protoparam=NTI0OTU5OjV1NE1aNg==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtaHR0cHM6Ly90Lm1lL01yWGJpbi0yNSIsICJhZGQiOiAiMjMuMTU4LjU2LjM5IiwgInBvcnQiOiA0NDMsICJhaWQiOiAxLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJob3N0IjogIjIzLjE1OC41Ni4zOSIsICJwYXRoIjogIi9saW5rdndzIn0=
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#0%7C-https%3A//t.me/MrXbin-2
+ssr://us-am3.eqnode.net:8081:origin:aes-256-cfb:tls1.2_ticket_authZm91OE1CR2lqremarks=MHwtaHR0cHM6Ly90Lm1lL01yWGJpbi04
 trojan://QwwHvrnN@36.151.192.201:34185?allowInsecure=1#5%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%7C%40ripaojiedian
 trojan://QwwHvrnN@36.151.192.203:18682?allowInsecure=1#5%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNXzwn4et8J+HsCDpppnmuK8zfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjE4My4yMzYuNTEuMjMiLCAicG9ydCI6IDUzMDAyLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
@@ -34,4 +33,4 @@ trojan://8cb7ad4e-2d61-3950-bb33-1d2cc3e653dd@18.179.44.127:443?allowInsecure=1&
 trojan://VPNCUSTOMIZE@104.17.234.12:443?allowInsecure=1&sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&type=ws&host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&path=/#8%7CUS_speednode_0047
 trojan://8cb7ad4e-2d61-3950-bb33-1d2cc3e653dd@35.92.52.160:443?allowInsecure=1&sni=akamai.cdn.steampipe.steamcontent.com#8%7CUS_speednode_0069
 trojan://bpb-trojan@104.18.86.204:443?allowInsecure=1&sni=102.djR999998.Eu.orG&type=ws&host=102.djR999998.Eu.orG&path=/trUvcCc2G5XwIs6jaw?ed=2560#8%7CUS_speednode_0080
-https://b0ogAl.mcsslk.xyz/18e2a9e4e0f48c747b82aa6008f71dfb
+https://lN2cqL.mcsslk.xyz/b72cbe74b95b058f9395adb4045ab213
