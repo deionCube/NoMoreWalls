@@ -1,16 +1,8 @@
 proxies:
-- name: 8|CN_speednode_0007
-  password: f58da02d-f06b-3e2f-8956-67afe8f6a998
-  port: 20309
-  server: gyl.58n.net
-  skip-cert-verify: true
-  sni: z309.hongkongnode.top
-  type: trojan
-  udp: true
 - alpn:
   - http%2F1.1
   client-fingerprint: chrome
-  name: 8|CN_speednode_0016
+  name: 8|CN_speednode_0007
   network: ws
   port: 443
   server: 103.44.255.81
