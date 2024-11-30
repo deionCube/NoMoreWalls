@@ -1,5 +1,4 @@
-ssr://nsus3.irundns.net:443:auth_aes128_md5:aes-128-cfb:http_postK2FzZDZhNXM1ZGYrremarks=MHwtaHR0cHM6Ly90Lm1lL01yWGJpbi0x
-ssr://us-am3.eqnode.net:8081:origin:aes-256-cfb:tls1.2_ticket_authZm91OE1CR2lqremarks=MHwtaHR0cHM6Ly90Lm1lL01yWGJpbi0xNA==
+ssr://us-am3.eqnode.net:8081:origin:aes-256-cfb:tls1.2_ticket_authZm91OE1CR2lqremarks=MHwtaHR0cHM6Ly90Lm1lL01yWGJpbi02
 trojan://DNUMdmnJ@36.151.192.201:51377?allowInsecure=1#5%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%7C%40ripaojiedian
 trojan://QwwHvrnN@36.151.192.239:42395?allowInsecure=1#5%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ssr://95b1cd85a0968ff2.cdn.jiashule.com:40209:auth_aes128_md5:rc4-md5:plainRU5aNTJLremarks=NXzwn4et8J-HsCDpppnmuK8zfEByaXBhb2ppZWRpYW4=&obfsparam=Y2Q1ZWQ3NDU5Mi42NjAyYjg0NjM0NjQxMDg1MDYubWljcm9zb2Z0LmNvbQ==&protoparam=NzQ1OTI6bzRmYmVvcHNnY2Y=
@@ -49,4 +48,4 @@ trojan://NISHIKUITAN111@185.148.106.44:443?allowInsecure=1&sni=za.ylks.xyz&type=
 trojan://NISHIKUITAN111@216.205.52.233:443?allowInsecure=1&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=/%2F#8%7CUS_speednode_0143
 trojan://NISHIKUITAN111@185.148.104.114:443?allowInsecure=1&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=/%2F#8%7CUS_speednode_0144
 trojan://NISHIKUITAN111@69.48.218.190:443?allowInsecure=1&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=/%2F#8%7CUS_speednode_0145
-https://5C3Gg3.mcsslk.xyz/1a294355a2b53241e8792d8297d49a6a
+https://zSkS5g.mcsslk.xyz/faf79605d98f7a36521d83d68402eb0d
