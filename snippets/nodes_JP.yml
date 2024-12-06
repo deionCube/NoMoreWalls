@@ -1,18 +1,18 @@
 proxies:
 - client-fingerprint: chrome
-  name: 5|🇯🇵 日本|@ripaojiedian
+  name: 5,8|CN_speednode_0007
   password: QwwHvrnN
   port: 12176
   server: 36.151.192.239
   skip-cert-verify: true
   type: trojan
 - client-fingerprint: chrome
-  name: 5|🇯🇵 日本2|@ripaojiedian
+  name: 5,8|JP_speednode_0027
   network: ws
   password: ouo
   port: 16800
   server: 152.70.101.24
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: tr.koiok.us.kg
   type: trojan
   ws-opts:
@@ -43,3 +43,15 @@ proxies:
   server: 18.183.146.147
   tfo: false
   type: ss
+- name: 8|JP_speednode_0028
+  network: ws
+  password: ouo
+  port: 16800
+  server: 152.70.101.24
+  skip-cert-verify: true
+  sni: tr.koiok.us.kg
+  type: trojan
+  ws-opts:
+    headers:
+      Host: tr.koiok.us.kg
+    path: /%2F%3Fed%3D2560
