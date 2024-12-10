@@ -1,12 +1,12 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
+- client-fingerprint: chrome
   name: 5|🇸🇬 新加坡|@ripaojiedian
-  password: 09833a6f-4d46-426e-87fe-7793a5489f84
-  port: 54030
-  server: s-g04.loveroise.com
-  tfo: false
-  type: ss
+  password: 7cd29891-fe78-4f8f-8844-abb31b9d9a75
+  port: 55357
+  server: 0862.4a11.a51c.hongxingdl.vip
+  skip-cert-verify: false
+  sni: mmbiz1.redapricotcloud.com
+  type: trojan
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 5|🇸🇬 狮城特殊|@ripaojiedian
