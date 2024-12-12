@@ -32,23 +32,12 @@ proxies:
   server: h-k02.loveroise.com
   tfo: false
   type: ss
-- alterId: 64
-  cipher: auto
+- cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 5|🇭🇰 香港5|@ripaojiedian
-  port: 58831
-  server: 183.236.48.163
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 5|🇭🇰 香港6|@ripaojiedian
-  password: 09833a6f-4d46-426e-87fe-7793a5489f84
-  port: 54000
-  server: h-k01.loveroise.com
+  password: 5BPUP4YJFYRRQK13
+  port: 15013
+  server: 113.99.142.152
   tfo: false
   type: ss
 - alterId: 64
@@ -62,6 +51,14 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 5|🇭🇰 香港6|@ripaojiedian
+  password: 09833a6f-4d46-426e-87fe-7793a5489f84
+  port: 54000
+  server: h-k01.loveroise.com
+  tfo: false
+  type: ss
 - client-fingerprint: chrome
   name: 5|🇭🇰 香港8|@ripaojiedian
   network: ws
@@ -75,14 +72,6 @@ proxies:
     headers:
       Host: tr.koiok.us.kg
     path: /?ed=2560
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 5|🇭🇰 香港9|@ripaojiedian
-  password: 5BPUP4YJFYRRQK13
-  port: 15013
-  server: 113.99.142.152
-  tfo: false
-  type: ss
 - alterId: 0
   cipher: auto
   name: 6|香港3|@ripaojiedian
@@ -93,16 +82,6 @@ proxies:
   tls: false
   type: vmess
   uuid: edd1ca31-bdf4-377e-bc3a-76635a33c9cd
-- alterId: 64
-  cipher: auto
-  name: 6|香港5|@ripaojiedian
-  network: tcp
-  port: '58831'
-  server: 183.236.48.163
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 64
   cipher: auto
   name: 6|香港7|@ripaojiedian
