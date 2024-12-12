@@ -94,29 +94,8 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - name: 8|HK_speednode_0003
   password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856
-  port: 40793
-  server: 43.198.108.18
+  port: 48539
+  server: 43.199.143.90
   skip-cert-verify: true
   sni: hk12.bilibili.com
-  type: trojan
-- name: 8|HK_speednode_0007
-  password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856
-  port: 49089
-  server: 16.163.104.216
-  skip-cert-verify: true
-  sni: jp12.bilibili.com
-  type: trojan
-- name: 8|HK_speednode_0008
-  password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856
-  port: 40793
-  server: 18.162.188.231
-  skip-cert-verify: true
-  sni: hk12.bilibili.com
-  type: trojan
-- name: 8|HK_speednode_0009
-  password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856
-  port: 44991
-  server: 18.163.48.140
-  skip-cert-verify: true
-  sni: us1.bilibili.com
   type: trojan
