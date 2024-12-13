@@ -7,7 +7,7 @@ proxies:
   skip-cert-verify: true
   type: trojan
 - client-fingerprint: chrome
-  name: 5|🇭🇰 香港2|@ripaojiedian
+  name: 5,8|CN_speednode_0004
   password: QwwHvrnN
   port: 25241
   server: 36.151.192.203
@@ -91,10 +91,10 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- name: 8|HK_speednode_0003
+- name: 8|HK_speednode_0010
   password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856
-  port: 48539
-  server: 43.199.143.90
+  port: 41288
+  server: 218.190.230.207
   skip-cert-verify: true
   sni: hk12.bilibili.com
   type: trojan
