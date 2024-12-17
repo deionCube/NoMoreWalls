@@ -12,3 +12,11 @@ proxies:
     headers:
       Host: tr.koiok.us.kg
     path: /?ed=2560
+- client-fingerprint: chrome
+  name: 5|🇹🇼 台湾2|@ripaojiedian
+  password: 3bb73c5b-2500-484a-8ee4-68aaca381a6d
+  port: 13035
+  server: naiu-other.05vr9nyqg5.download
+  skip-cert-verify: false
+  sni: cloudflare.node-ssl.cdn-alibaba.com
+  type: trojan
