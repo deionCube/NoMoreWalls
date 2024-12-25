@@ -27,3 +27,10 @@ proxies:
     headers:
       Host: maikeaxiang.me
     path: /?ed=2560
+- name: 8|US_speednode_0034
+  password: ypDt8RkT7J
+  port: 43118
+  server: 89.187.181.172
+  skip-cert-verify: true
+  type: trojan
+  udp: true

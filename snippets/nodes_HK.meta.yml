@@ -1,12 +1,11 @@
 proxies:
 - client-fingerprint: chrome
-  name: 5,8|CN_speednode_0001
-  password: QwwHvrnN
+  name: 5|🇭🇰 香港|@ripaojiedian
+  password: DNUMdmnJ
   port: 42395
   server: 36.151.192.239
   skip-cert-verify: true
   type: trojan
-  udp: true
 - client-fingerprint: chrome
   name: 5|🇭🇰 香港2|@ripaojiedian
   password: QwwHvrnN
@@ -119,7 +118,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- name: 8|HK_speednode_0013
+- name: 8|HK_speednode_0012
   port: 4000
   server: hk9.ftq.ink
   tls: true
