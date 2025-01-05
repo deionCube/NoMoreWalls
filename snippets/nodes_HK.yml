@@ -44,7 +44,7 @@ proxies:
   name: 5|🇭🇰 香港6|@ripaojiedian
   password: asd123456
   port: 8388
-  server: 154.197.26.237
+  server: 202.162.109.169
   tfo: false
   type: ss
 - cipher: chacha20-ietf-poly1305
@@ -59,17 +59,6 @@ proxies:
   server: console.02.aliyun.aq.kunlunaqs.com
   tfo: false
   type: ss
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 5|🇭🇰 香港8|@ripaojiedian
-  port: 54675
-  server: 103.149.183.178
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 3a907956-f668-4e6b-ea03-0949f0c9c0a5
 - client-fingerprint: chrome
   name: 5|🇭🇰 香港9|@ripaojiedian
   password: 5586eb05-1e5c-4b27-a276-86311547b95e
@@ -108,13 +97,3 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
-  name: 6|香港8|@ripaojiedian
-  network: tcp
-  port: '54675'
-  server: 103.149.183.178
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 3a907956-f668-4e6b-ea03-0949f0c9c0a5
