@@ -7,7 +7,7 @@ proxies:
   skip-cert-verify: true
   type: trojan
 - client-fingerprint: chrome
-  name: 5|🇭🇰 香港2|@ripaojiedian
+  name: 5,8|CN_speednode_0002
   password: phXKwfrd
   port: 36442
   server: 223.113.54.145
