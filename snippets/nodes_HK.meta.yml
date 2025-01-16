@@ -1,6 +1,6 @@
 proxies:
 - client-fingerprint: chrome
-  name: 5,8|CN_speednode_0001
+  name: 5,8|CN_speednode_0002
   password: phXKwfrd
   port: 36442
   server: 223.113.54.145
@@ -88,8 +88,3 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- name: 8|HK_speednode_0019
-  port: 4000
-  server: hk9.ftq.ink
-  tls: true
-  type: http
