@@ -1,6 +1,6 @@
 proxies:
 - client-fingerprint: chrome
-  name: 5,8|CN_speednode_0002
+  name: 5,8|CN_speednode_0005
   password: phXKwfrd
   port: 36442
   server: 223.113.54.145
