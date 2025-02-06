@@ -1,13 +1,4 @@
 proxies:
-- name: 0|🇹🇼1 |  4.3MB/s
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 443
-  server: tw4-cdn-route.couldflare-cdn.com
-  skip-cert-verify: false
-  sni: tw4-cdn-route.couldflare-cdn.com
-  tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
 - client-fingerprint: chrome
   name: 5|🇹🇼 台湾|@ripaojiedian
   password: 2b39bbdd-a565-4f8e-b6b6-6b034b2076f4
