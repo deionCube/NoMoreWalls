@@ -1,12 +1,13 @@
 proxies:
 - client-fingerprint: chrome
-  name: 5|🇭🇰 香港|@ripaojiedian
+  name: 5,8|HK_speednode_0014
   password: 1e63e585ab2fef3adcc9ea75a62abc23
   port: 443
   server: 104.251.227.182
   skip-cert-verify: true
   sni: hezijiasuqi.com
   type: trojan
+  udp: true
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 5|🇭🇰 香港2|@ripaojiedian
