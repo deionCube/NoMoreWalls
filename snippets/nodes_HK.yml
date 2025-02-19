@@ -1,6 +1,6 @@
 proxies:
 - client-fingerprint: chrome
-  name: 5,8|HK_speednode_0014
+  name: 5,8|HK_speednode_0007
   password: 1e63e585ab2fef3adcc9ea75a62abc23
   port: 443
   server: 104.251.227.182
