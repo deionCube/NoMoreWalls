@@ -1,6 +1,6 @@
 proxies:
 - cipher: aes-256-cfb
-  name: 0|🇭🇰1 |  2.2MB/s
+  name: 0|🇭🇰2 |  5.2MB/s
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 84.17.53.160
@@ -22,8 +22,8 @@ proxies:
   tfo: false
   type: ss
 - client-fingerprint: chrome
-  name: 5|🇭🇰 香港3|@ripaojiedian
-  password: Vad3.123a)asd1234-asdasd.asdazzS.123
+  name: 5|🇭🇰 香港10|@ripaojiedian
+  password: Vad3.123a%2529asd1234-asdasd.asdazzS.123
   port: 443
   server: 43.154.83.213
   skip-cert-verify: false
@@ -71,22 +71,11 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  client-fingerprint: chrome
-  name: 5|🇭🇰 香港9|@ripaojiedian
-  port: 48889
-  server: gy.youaremygod.top
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: c130cb36-c93f-4be7-9228-a7a97d43885a
-- alterId: 0
-  cipher: auto
   name: 6|香港9|@ripaojiedian
   network: tcp
-  port: '48889'
-  server: gy.youaremygod.top
+  port: '42120'
+  server: 183.236.51.38
   servername: ''
   tls: false
   type: vmess
-  uuid: c130cb36-c93f-4be7-9228-a7a97d43885a
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
