@@ -1,27 +1,10 @@
 proxies:
 - cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 0|🇸🇬1 |  5.9MB/s
-  password: amazonskr05
-  port: 443
-  server: 13.229.213.8
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 0|🇸🇬2 |  10.0MB/s
+  name: 0|🇸🇬1 |  5.0MB/s
   password: amazonskr05
   port: 443
   server: 13.229.63.223
   type: ss
-- name: 0|🇸🇬3 |  1.5MB/s
-  password: a0464e28-a1eb-3615-b9dd-37b9b84bb5ea
-  port: 20130
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: x130.flybar.work
-  tfo: true
-  type: trojan
-  udp: true
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 5|🇸🇬 新加坡|@ripaojiedian
@@ -48,9 +31,17 @@ proxies:
   type: ss
 - cipher: aes-256-cfb
   client-fingerprint: chrome
+  name: 5|🇸🇬 新加坡4|@ripaojiedian
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 103.106.229.219
+  tfo: false
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
   name: 5|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 18.143.187.178
+  server: 54.151.184.124
   tfo: false
   type: ss
