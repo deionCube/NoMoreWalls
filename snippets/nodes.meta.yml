@@ -1,38 +1,152 @@
 proxies:
-- auth: 999fe97a-5cd1-4f9f-9826-85db2b50a6ef
-  name: 0|🌀1- |  1.9MB/s
-  password: 999fe97a-5cd1-4f9f-9826-85db2b50a6ef
-  port: 8899
-  server: yingguo1.su8.lol
-  skip-cert-verify: false
-  sni: yingguo1.su8.lol
+- auth: eW5oOg9YEcNI3wvLqbSrnTEi0J8
+  name: 0|🇺🇸1 |  5.6MB/s
+  password: eW5oOg9YEcNI3wvLqbSrnTEi0J8
+  port: 7286
+  server: 3.67.194.37
+  skip-cert-verify: true
+  sni: bing.com
   type: hysteria2
+  udp: true
+- cipher: aes-256-cfb
+  name: 0|🇯🇵1 |  6.1MB/s
+  password: amazonskr05
+  port: 443
+  server: 43.206.231.214
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: 0|🇰🇷1 |  5.3MB/s
+  password: amazonskr05
+  port: 443
+  server: 13.209.80.72
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  ip-version: dual
+  name: 0|🇺🇸2 |  2.5MB/s
+  password: amazonskr05
+  port: 443
+  server: 35.86.89.247
+  tls: false
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: 0|🇯🇵2 |  1.3MB/s
+  password: amazonskr05
+  port: 443
+  server: 54.250.174.86
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: 0|🇺🇸3 |  1.0MB/s
+  password: kDWvXYZoTBcGkC4
+  port: 8881
+  server: 23.154.136.132
+  type: ss
+- name: 0|🇺🇸4 |  1.1MB/s
+  network: ws
+  port: 80
+  server: join.E-L-i-V-2-R-A-Y.fastly80-3.hosting-ip.com
+  servername: Join--E-L-i-V-2-R-A-Y.net
+  skip-cert-verify: false
+  type: vless
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  ws-opts:
+    headers:
+      Host: Join--E-L-i-V-2-R-A-Y.net
+    path: /channel,ELiV2RAY-channel,ELiV2RAY-channel,ELiV2RAY?ed
+- name: 0|🇺🇸5 |  1.3MB/s
+  network: ws
+  port: 443
+  server: 104.128.89.138
+  servername: usa.xzncr.asia
+  tfo: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 433f4c30-7b28-4d4e-b573-a6624231700a
+  ws-opts:
+    headers:
+      Host: usa.xzncr.asia
+    path: /bing
+- name: 0|🇺🇸6 |  2.2MB/s
+  network: ws
+  port: 443
+  server: 45.130.22.18
+  servername: eub.kobtty.me
+  tfo: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 8820b7dd-b826-4dc1-baab-d941143bb05f
+  ws-opts:
+    headers:
+      Host: eub.kobtty.me
+    path: /bing
+- cipher: chacha20-ietf-poly1305
+  name: 0,5|🇭🇰 香港8|@ripaojiedian
+  password: 2be0c954-4291-45ea-b47d-ca713180550b
+  port: 52612
+  server: hk02.x.quickcht3.club
+  tfo: false
+  type: ss
+- cipher: rc4-md5
+  name: 0|🌀1- |  28.7MB/s
+  obfs: plain
+  obfs-param: cd2b692902.6602b8463464108506.microsoft.com
+  password: ENZ52K
+  port: 40219
+  protocol: auth_aes128_md5
+  protocol-param: 92902:pFWGOQ
+  server: 2.hublink.pro
+  type: ssr
 - cipher: aes-128-gcm
-  name: 0|🌀2- |  5.7MB/s
+  name: 0|🌀2- |  2.2MB/s
   password: 90c0bc87-d7dd-4233-9b1a-cc9e7cf30649
   port: 22008
   server: 120.241.29.110
   type: ss
+- name: 0|🌀3- |  5.8MB/s
+  password: 90c0bc87-d7dd-4233-9b1a-cc9e7cf30649
+  port: 12018
+  server: 120.198.71.235
+  skip-cert-verify: true
+  type: trojan
+- cipher: aes-128-gcm
+  name: 0|🌀4- |  4.5MB/s
+  password: 90c0bc87-d7dd-4233-9b1a-cc9e7cf30649
+  port: 22005
+  server: 120.241.29.110
+  type: ss
+- name: 0,8|NL_speednode_0029
+  network: ws
+  port: 2052
+  server: 45.149.12.183
+  servername: redw.pooriam.ir
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  udp: true
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /TABRIZ.NET@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560
+- name: 0|🇨🇦1 |  2.5MB/s
+  password: 4a48871d49c3f20fd93d365c49e45f78
+  port: 443
+  server: v.ccs.vaala.cat
+  skip-cert-verify: false
+  sni: v.ccs.vaala.cat
+  tfo: false
+  type: hysteria2
 - cipher: aes-256-cfb
-  name: 0|🇯🇵1 |  7.9MB/s
+  name: 0|🇯🇵3 |  8.3MB/s
   password: amazonskr05
   port: 443
-  server: 43.201.0.67
+  server: 18.179.198.70
   type: ss
-  udp: true
-- cipher: chacha20-ietf
-  name: 0|🌏1 |  1.3MB/s
-  password: asd123456
-  port: 8388
-  server: 103.149.182.191
-  type: ss
-- name: 0|🇯🇵2 |  4.8MB/s
-  password: ce4d9355-973f-36a0-96a0-ced7719d20ea
-  port: 20076
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: x76.flybar.work
-  type: trojan
   udp: true
 - name: 0,8|US_speednode_0056
   network: ws
@@ -48,107 +162,37 @@ proxies:
     headers:
       Host: Join--E-L-i-V-2-R-A-Y.net
     path: /channel,ELiV2RAY-channel,ELiV2RAY-channel,ELiV2RAY?ed=2560
-- name: 0|🇹🇼1 |  6.0MB/s
-  password: ce4d9355-973f-36a0-96a0-ced7719d20ea
-  port: 59021
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: x100.flybar.work
-  type: trojan
-  udp: true
-- name: 0|🇨🇦1 |  4.3MB/s
-  password: 4a48871d49c3f20fd93d365c49e45f78
-  port: 443
-  server: v.ccs.vaala.cat
-  skip-cert-verify: false
-  sni: v.ccs.vaala.cat
-  tfo: false
-  type: hysteria2
 - cipher: aes-256-cfb
-  name: 0|🇯🇵3 |  3.3MB/s
+  ip-version: dual
+  name: 0|🇺🇸9 |  1.2MB/s
   password: amazonskr05
   port: 443
-  server: 43.203.244.103
+  server: 52.13.119.156
+  tls: false
   type: ss
   udp: true
-- name: 0|🇭🇰1 |  2.8MB/s
+- name: 0|🇺🇸10 |  1.8MB/s
   password: exaxgqkKkd0TAMrCxeonWg==
   port: 443
-  server: hkre1-cdn-route.couldflare-cdn.com
+  server: ustx004-cdn-route.couldflare-cdn.com
   skip-cert-verify: false
-  sni: hkre1-cdn-route.couldflare-cdn.com
+  sni: ustx004-cdn-route.couldflare-cdn.com
   tls: true
   type: http
   username: mrwdfNTD8M79LCukCieldrqZWqs=
-- alterId: 2
-  cipher: auto
-  name: 0|🌀3- |  3.1MB/s
-  network: ws
-  port: 23612
-  server: 12.mamamajd.site
-  skip-cert-verify: true
-  tls: false
-  type: vmess
+- name: 0|🇺🇸11 |  4.5MB/s
+  password: myszy28811
+  port: 28811
+  server: pipi.myddns.me
+  type: socks5
   udp: true
-  uuid: 2030da55-aae5-3695-8e92-fee9f550d8c0
-  ws-opts:
-    headers:
-      Host: 12.mamamajd.site
-    path: /
-- name: 0|🇬🇧1 |  2.6MB/s
-  password: ce4d9355-973f-36a0-96a0-ced7719d20ea
-  port: 11215
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z268.hongkongnode.top
-  type: trojan
-  udp: true
-- name: 0,8|SC_speednode_0051
-  network: ws
-  port: 8880
-  server: 154.83.2.228
-  servername: redw.pooriam.ir
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  udp: true
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: /@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560
-- name: 0|🇺🇸3 |  6.2MB/s
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 443
-  server: jp104-cdn-route.couldflare-cdn.com
-  skip-cert-verify: false
-  sni: jp104-cdn-route.couldflare-cdn.com
-  tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
-- auth: pPgOLFwmkmYYBZi6q6ZjzK6gJTQ
-  name: 0|🇺🇸4 |  1.6MB/s
-  password: pPgOLFwmkmYYBZi6q6ZjzK6gJTQ
-  port: 8243
-  server: 64.23.178.208
-  skip-cert-verify: true
-  sni: bing.com
-  type: hysteria2
-  udp: true
-- name: 0|🌀4- |  4.8MB/s
-  password: 90c0bc87-d7dd-4233-9b1a-cc9e7cf30649
-  port: 12003
-  server: 36.151.251.12
-  skip-cert-verify: true
-  type: trojan
-- name: 0|🇯🇵4 |  3.0MB/s
-  password: ce4d9355-973f-36a0-96a0-ced7719d20ea
-  port: 20140
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z140.hongkongnode.top
-  type: trojan
-  udp: true
+  username: myszy
+- cipher: chacha20-ietf
+  name: 0|🌀5- |  1.6MB/s
+  password: asd123456
+  port: 8388
+  server: 103.149.183.61
+  type: ss
 - name: 5|tg频道:@ripaojiedian
   port: 4000
   server: ftq.ink
@@ -201,13 +245,6 @@ proxies:
   password: TCEL1H0XD7TWAKI0
   port: 15011
   server: qh62onjn.slashdevslashnetslashtun.net
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 5|🇭🇰 香港8|@ripaojiedian
-  password: 2be0c954-4291-45ea-b47d-ca713180550b
-  port: 52612
-  server: hk02.x.quickcht3.club
   tfo: false
   type: ss
 - alterId: 0
@@ -290,10 +327,11 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: 5|🇯🇵 日本4|@ripaojiedian
+  name: 5,6|日本4|@ripaojiedian
   network: ws
-  port: 80
+  port: '80'
   server: a41da1ab-5ae0-fa3e-eabe-70e680bdf1bf.castlepeakhospital.moe
+  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -366,22 +404,12 @@ proxies:
   cipher: auto
   name: 6|香港9|@ripaojiedian
   network: tcp
-  port: '13264'
-  server: 38.147.189.130
+  port: '30559'
+  server: 38.147.189.108
   servername: ''
   tls: false
   type: vmess
-  uuid: 8145db0b-c4d7-4389-be41-99f991a4b43f
-- cipher: rc4-md5
-  name: 6|6aaZ5rivMTB8QHJpcGFvamllZGlhbg
-  obfs: plain
-  obfs-param: Y2QyYjY5MjkwMi42NjAyYjg0NjM0NjQxMDg1MDYubWljcm9zb2Z0LmNvbQ
-  password: ENZ52K
-  port: '40208'
-  protocol: auth_aes128_md5
-  protocol-param: OTI5MDI6cEZXR09R
-  server: 2.hublink.pro
-  type: ssr
+  uuid: 91a7be1d-e997-46be-9b4f-264dce62584a
 - alterId: 0
   cipher: auto
   name: 6|美国2|@ripaojiedian
@@ -434,20 +462,6 @@ proxies:
     headers:
       Host: pormang.webhost99.workers.dev
     path: /
-- name: 8|NL_speednode_0029
-  network: ws
-  port: 2052
-  server: 45.149.12.183
-  servername: redw.pooriam.ir
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  udp: true
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: /TABRIZ.NET@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560
 - name: 8|NL_speednode_0041
   network: ws
   port: 80
@@ -522,6 +536,20 @@ proxies:
   network: ws
   port: 8880
   server: 154.83.2.230
+  servername: redw.pooriam.ir
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  udp: true
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560
+- name: 8|SC_speednode_0051
+  network: ws
+  port: 8880
+  server: 154.83.2.228
   servername: redw.pooriam.ir
   skip-cert-verify: false
   tls: false
