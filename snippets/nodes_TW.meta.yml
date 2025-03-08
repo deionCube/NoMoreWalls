@@ -1,16 +1,21 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
+- name: 0|🇹🇼1 |  1.4MB/s
+  password: exaxgqkKkd0TAMrCxeonWg==
+  port: 1443
+  server: twmoon1-cdn-route.couldflare-cdn.com
+  skip-cert-verify: false
+  sni: twmoon1-cdn-route.couldflare-cdn.com
+  tls: true
+  type: http
+  username: mrwdfNTD8M79LCukCieldrqZWqs=
+- client-fingerprint: chrome
   name: 5|🇹🇼 台湾|@ripaojiedian
-  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
-  plugin: obfs
-  plugin-opts:
-    host: a1e5cc7:108142
-    mode: tls
-  port: 2377
-  server: 125.227.86.46
-  tfo: false
-  type: ss
+  password: 9d5e41f7-3ae7-41d4-8560-6177f1c36b78
+  port: 10310
+  server: dest01.to.userver01.cc
+  skip-cert-verify: false
+  sni: www.tmall.com
+  type: trojan
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 5|🇹🇼 台湾2|@ripaojiedian
