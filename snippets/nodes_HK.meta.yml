@@ -1,23 +1,4 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 0,5|🇭🇰 香港8|@ripaojiedian
-  port: 49876
-  server: xxxlsopyyds.com
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 2f0a6a99-af56-4119-bd11-04bccd6b74b7
-- cipher: aes-256-cfb
-  ip-version: dual
-  name: 0|🇭🇰2 |  5.6MB/s
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 84.17.53.160
-  type: ss
-  udp: true
 - client-fingerprint: chrome
   name: 5|🇭🇰 香港|@ripaojiedian
   network: ws
@@ -87,6 +68,17 @@ proxies:
   server: ti3hyra4.slashdevslashnetslashtun.net
   tfo: false
   type: ss
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 5|🇭🇰 香港8|@ripaojiedian
+  port: 49876
+  server: xxxlsopyyds.com
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 2f0a6a99-af56-4119-bd11-04bccd6b74b7
 - alterId: 0
   cipher: auto
   name: 6|香港8|@ripaojiedian
