@@ -1,10 +1,4 @@
 proxies:
-- cipher: aes-128-gcm
-  name: 0|🇹🇼9 |  6.1MB/s
-  password: VMhGp5wEIyCDf90T
-  port: 33368
-  server: shenzhou05.mysynology.net
-  type: ss
 - client-fingerprint: chrome
   name: 5|🇹🇼 台湾|@ripaojiedian
   password: 5120e15f-6a00-41f0-be5e-1032f4bba4fc
