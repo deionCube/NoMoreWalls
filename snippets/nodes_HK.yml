@@ -1,6 +1,6 @@
 proxies:
 - cipher: chacha20-ietf
-  name: 0|🇭🇰7 |  2.8MB/s
+  name: 0|🇭🇰2 |  2.6MB/s
   password: asd123456
   port: 8388
   server: 103.149.183.61

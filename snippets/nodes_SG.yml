@@ -1,4 +1,25 @@
 proxies:
+- cipher: aes-256-cfb
+  delay: 615
+  name: 0|🇸🇬2 |  4.5MB/s
+  password: amazonskr05
+  port: 443
+  server: 13.229.73.58
+  type: ss
+- cipher: aes-256-cfb
+  delay: 1576
+  name: 0|🇸🇬4 |  1.7MB/s
+  password: amazonskr05
+  port: 443
+  server: 13.212.199.43
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 0|🇸🇬5 |  2.5MB/s
+  password: amazonskr05
+  port: 443
+  server: 13.250.55.223
+  type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 5|🇸🇬 新加坡|@ripaojiedian
