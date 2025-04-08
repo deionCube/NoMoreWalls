@@ -1,4 +1,12 @@
 proxies:
+- alterId: 0
+  cipher: auto
+  name: 0|🇯🇵2 |  6.0MB/s
+  port: 4151
+  server: 5ba5b6bd-suh6o0-svqrrs-4cwg.c.volczijie.com
+  tls: false
+  type: vmess
+  uuid: 03c1d503-4803-11ef-8f3d-f23c9313b177
 - cipher: rc4-md5
   client-fingerprint: chrome
   name: 5|🇯🇵 日本|@ripaojiedian
