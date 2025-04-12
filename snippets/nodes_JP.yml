@@ -1,37 +1,62 @@
 proxies:
+- cipher: chacha20-ietf
+  name: 0|🇯🇵4 |  6.2MB/s
+  obfs: http_simple
+  obfs-param: 20581-passw0rd.download.microsoft.com
+  password: passwd
+  port: 8409
+  protocol: origin
+  protocol-param: ''
+  server: cn13.closeai.one
+  type: ssr
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 0,5|tg频道:@ripaojiedian
+  password: amazonskr05
+  port: 443
+  server: 52.194.186.247
+  tfo: false
+  type: ss
+- cipher: chacha20-ietf
+  name: 0|🇯🇵6 |  4.4MB/s
+  obfs: http_simple
+  obfs-param: 20581-passw0rd.download.microsoft.com
+  password: passwd
+  port: 8407
+  protocol: origin
+  protocol-param: ''
+  server: cn12.closeai.one
+  type: ssr
+- cipher: chacha20-ietf
+  name: 0|🇯🇵7 |  4.8MB/s
+  obfs: http_simple
+  obfs-param: 20581-passw0rd.download.microsoft.com
+  password: passwd
+  port: 8413
+  protocol: origin
+  protocol-param: ''
+  server: cn14.closeai.one
+  type: ssr
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 0,5|🇸🇬 狮城特殊|@ripaojiedian
+  password: amazonskr05
+  port: 443
+  server: 52.194.243.103
+  tfo: false
+  type: ss
 - alterId: 0
   cipher: auto
-  name: 0|🇯🇵2 |  5.9MB/s
-  port: 17233
-  server: aa715e82-sunz40-t1tfcf-1o3sh.cm5.p5pv.com
-  tls: false
-  type: vmess
-  uuid: 96b3f2ee-5f66-11ee-804b-f23c9164ca5d
-- alterId: 0
-  cipher: auto
-  name: 0|🇯🇵4 |  6.0MB/s
+  name: 0|🇯🇵10 |  1.2MB/s
   network: tcp
-  port: 17233
-  server: a0a40de3-suk9s0-t7mt0p-1sllg.cm5.p5pv.com
+  port: 27750
+  server: 5.253.41.147
   skip-cert-verify: true
   tls: false
   type: vmess
-  uuid: d6e1207c-f41a-11ef-9495-f23c91cfbbc9
+  uuid: 4b1992cc-8e7c-4003-a45f-a28c3e6f6fa8
   ws-headers:
-    Host: a0a40de3-suk9s0-t7mt0p-1sllg.cm5.p5pv.com
-  ws-path: /
-- alterId: 0
-  cipher: auto
-  name: 0|🇯🇵5 |  6.2MB/s
-  network: tcp
-  port: 17233
-  server: fa7c2955-suif40-swjyj4-1mish.cm5.p5pv.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 9eeeea88-f37b-11ed-bd3d-f23c9164ca5d
-  ws-headers:
-    Host: fa7c2955-suif40-swjyj4-1mish.cm5.p5pv.com
+    Host: 5.253.41.147
   ws-path: /
 - alterId: 0
   cipher: auto
