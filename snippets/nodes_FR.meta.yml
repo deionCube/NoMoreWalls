@@ -1,20 +1,6 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 0|🇫🇷1 |  1.4MB/s
-  network: ws
-  port: 443
-  server: 8.219.206.22
-  servername: beyonddsz.cfd
-  tls: true
-  type: vmess
-  uuid: 9b456c2a-f2c1-45e1-87a9-b7628b04bb24
-  ws-opts:
-    headers:
-      Host: beyonddsz.cfd
-    path: /linkws
 - auth: dongtaiwang.com
-  name: 0|🇫🇷2 |  4.7MB/s
+  name: 0|🇫🇷1 |  5.1MB/s
   password: dongtaiwang.com
   port: 61770
   server: 51.159.226.1
@@ -23,17 +9,15 @@ proxies:
   type: hysteria2
 - client-fingerprint: ''
   flow: ''
-  mode: ''
-  name: 0|🇫🇷3 |  4.7MB/s
-  network: ws
-  port: 443
-  server: cloudgetservice.mcloudservice.site
-  servername: maxNEtviPAp-uk1.mAxnEtServicEs.ONLine
-  tls: true
+  grpc-opts:
+    grpc-service-name: 2055vless
+  mode: gun
+  name: 0|🇫🇷3 |  1.1MB/s
+  network: grpc
+  port: 6067
+  server: fr.foodrover.ir
+  servername: ''
+  tls: false
   type: vless
   udp: false
-  uuid: 24de3f3c-372b-4e2e-9e52-e8766a737871
-  ws-opts:
-    headers:
-      Host: maxNEtviPAp-uk1.mAxnEtServicEs.ONLine
-    path: /linkws?ed=2560flow=-udp443
+  uuid: af335b42-7cd9-421f-ab04-a40cf106c680
