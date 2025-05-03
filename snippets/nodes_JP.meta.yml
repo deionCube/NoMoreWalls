@@ -21,7 +21,7 @@ proxies:
     headers:
       host: miku.mikuru.ip-ddns.com
     path: /?ed=2560
-- name: 0,8|KR_speednode_0083
+- name: 0,8|KR_speednode_0037
   network: ws
   port: 14896
   server: 222.117.231.32
@@ -35,20 +35,19 @@ proxies:
     headers:
       Host: miku.mikuru.ip-ddns.com
     path: /?ed=2560
-- client-fingerprint: random
-  name: 0,8|KR_speednode_0086
+- name: 0|🇯🇵4 |  6.2MB/s
   network: ws
   port: 50008
   server: 59.25.160.141
-  servername: mot.luyuju.dpdns.org
-  skip-cert-verify: false
+  servername: miku.mikuru.ip-ddns.com
+  skip-cert-verify: true
   tls: true
   type: vless
   udp: true
-  uuid: f8e0a197-2d5c-441e-a724-525379e4db3a
+  uuid: 5543ae5c-c24f-405a-9266-597cbc43c818
   ws-opts:
     headers:
-      Host: mot.luyuju.dpdns.org
+      host: miku.mikuru.ip-ddns.com
     path: /?ed=2560
 - alterId: 0
   cipher: auto
@@ -67,7 +66,7 @@ proxies:
   server: t9.qifei.app
   skip-cert-verify: true
   type: trojan
-- name: 0,8|JP_speednode_0082
+- name: 0,8|JP_speednode_0036
   password: exaxgqkKkd0TAMrCxeonWg==
   port: 443
   server: jp104-cdn-route.couldflare-cdn.com
@@ -241,7 +240,7 @@ proxies:
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0,8|KR_speednode_0084
+- name: 0,8|KR_speednode_0038
   network: ws
   port: 10943
   server: 14.39.43.121
@@ -506,31 +505,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 07287360-e12f-4f94-9c7a-54386c100d8a
-- name: 8|JP_speednode_0079
-  password: '!!str 74260671232757400'
-  port: 443
-  server: in-honeybee.shiner427.skin
-  skip-cert-verify: false
-  sni: in-honeybee.shiner427.skin
-  type: trojan
-  udp: true
-- name: 8|JP_speednode_0077
-  password: '!!str 74260671232757400'
-  port: 443
-  server: correct-sheepdog.shiner427.skin
-  skip-cert-verify: false
-  sni: correct-sheepdog.shiner427.skin
-  type: trojan
-  udp: true
-- name: 8|JP_speednode_0078
-  password: '!!str 74260671232757400'
-  port: 443
-  server: useful-jennet.shiner427.skin
-  skip-cert-verify: false
-  sni: useful-jennet.shiner427.skin
-  type: trojan
-  udp: true
-- name: 8|JP_speednode_0080
+- name: 8|JP_speednode_0032
   password: '!!str 74260671232757400'
   port: 443
   server: relaxed-airedale.shiner427.skin
@@ -538,17 +513,27 @@ proxies:
   sni: relaxed-airedale.shiner427.skin
   type: trojan
   udp: true
-- name: 8|JP_speednode_0081
-  network: ws
+- name: 8|JP_speednode_0033
+  password: '!!str 74260671232757400'
   port: 443
-  server: 185.184.223.47
-  servername: ed.sosocn.filegear-sg.me
+  server: correct-sheepdog.shiner427.skin
   skip-cert-verify: false
-  tls: true
-  type: vless
+  sni: correct-sheepdog.shiner427.skin
+  type: trojan
   udp: true
-  uuid: 699f6733-5766-42f0-a05b-da23c5ee3817
-  ws-opts:
-    headers:
-      Host: ed.sosocn.filegear-sg.me
-    path: /?ed=2560
+- name: 8|JP_speednode_0034
+  password: '!!str 74260671232757400'
+  port: 443
+  server: useful-jennet.shiner427.skin
+  skip-cert-verify: false
+  sni: useful-jennet.shiner427.skin
+  type: trojan
+  udp: true
+- name: 8|JP_speednode_0035
+  password: '!!str 74260671232757400'
+  port: 443
+  server: in-honeybee.shiner427.skin
+  skip-cert-verify: false
+  sni: in-honeybee.shiner427.skin
+  type: trojan
+  udp: true

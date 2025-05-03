@@ -213,15 +213,15 @@ proxies:
   tls: false
   type: vmess
   uuid: 07287360-e12f-4f94-9c7a-54386c100d8a
-- name: 8|JP_speednode_0079
+- name: 8|JP_speednode_0032
   password: '!!str 74260671232757400'
   port: 443
-  server: in-honeybee.shiner427.skin
+  server: relaxed-airedale.shiner427.skin
   skip-cert-verify: false
-  sni: in-honeybee.shiner427.skin
+  sni: relaxed-airedale.shiner427.skin
   type: trojan
   udp: true
-- name: 8|JP_speednode_0077
+- name: 8|JP_speednode_0033
   password: '!!str 74260671232757400'
   port: 443
   server: correct-sheepdog.shiner427.skin
@@ -229,7 +229,7 @@ proxies:
   sni: correct-sheepdog.shiner427.skin
   type: trojan
   udp: true
-- name: 8|JP_speednode_0078
+- name: 8|JP_speednode_0034
   password: '!!str 74260671232757400'
   port: 443
   server: useful-jennet.shiner427.skin
@@ -237,11 +237,11 @@ proxies:
   sni: useful-jennet.shiner427.skin
   type: trojan
   udp: true
-- name: 8|JP_speednode_0080
+- name: 8|JP_speednode_0035
   password: '!!str 74260671232757400'
   port: 443
-  server: relaxed-airedale.shiner427.skin
+  server: in-honeybee.shiner427.skin
   skip-cert-verify: false
-  sni: relaxed-airedale.shiner427.skin
+  sni: in-honeybee.shiner427.skin
   type: trojan
   udp: true
