@@ -1170,10 +1170,11 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 5|🇺🇸 美国|@ripaojiedian
+  name: 5,6|美国|@ripaojiedian
   network: ws
-  port: 8004
+  port: '8004'
   server: 59.42.247.189
+  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -1212,16 +1213,6 @@ proxies:
     headers:
       Host: ocbc.com
     path: /oooo
-- alterId: 0
-  cipher: auto
-  name: 6|美国|@ripaojiedian
-  network: tcp
-  port: '44015'
-  server: 120.198.71.219
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - name: 8|US_speednode_0037
   network: ws
   port: 80
