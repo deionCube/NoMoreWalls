@@ -107,5 +107,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKw1fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjQ3
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpn6nlm718QHJpcGFvamllZGlhbiIsICJhZGQiOiAiMTIud29nZzEudG9wIiwgInBvcnQiOiAiMTEyMTIiLCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNzIzNGFjMTgtYzYxZC0zZDYwLWE4NjYtMDU3YWYxMDY2MjBjIiwgInNuaSI6ICIifQ==
 trojan://b6200af42ccadea353f5b5856dd20d70@113.99.140.184:39001?allowInsecure=1&sni=113.99.140.184#8%7CCN_speednode_0007
 trojan://Aimer@27.50.49.224:8443?allowInsecure=0&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me&path=/#8%7CSG_speednode_0021
-https://Eum74f.absslk.xyz/fba8d43b8a5a7aee306e17fe68bf2edb
-https://EVZC14.mcsslk.xyz/f8e80cd482a00fd84fed58e103ae3fc6
+https://VukGKI.absslk.xyz/7e034dabc62a4a11feb27b711698c510
+https://FReOT6.mcsslk.xyz/c51f949c6a052af8fbb70cdf5d6955e1
