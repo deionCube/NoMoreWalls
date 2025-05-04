@@ -21,7 +21,7 @@ proxies:
     headers:
       host: miku.mikuru.ip-ddns.com
     path: /?ed=2560
-- name: 0,8|KR_speednode_0037
+- name: 0,8|KR_speednode_0021
   network: ws
   port: 14896
   server: 222.117.231.32
@@ -66,7 +66,7 @@ proxies:
   server: t9.qifei.app
   skip-cert-verify: true
   type: trojan
-- name: 0,8|JP_speednode_0036
+- name: 0,8|JP_speednode_0018
   password: exaxgqkKkd0TAMrCxeonWg==
   port: 443
   server: jp104-cdn-route.couldflare-cdn.com
@@ -240,7 +240,7 @@ proxies:
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0,8|KR_speednode_0038
+- name: 0,8|KR_speednode_0023
   network: ws
   port: 10943
   server: 14.39.43.121
@@ -418,7 +418,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202505021570819-FCRBaKydrI.download.microsoft.com
+    host: 202505031478387-JTJCh1T1ju.download.microsoft.com
     mode: http
   port: 8766
   server: cn01.efan8867801.xyz
@@ -427,17 +427,17 @@ proxies:
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 5|🇯🇵 日本2|@ripaojiedian
-  password: 937f6b6168b6
+  password: 45c5e017fe5d
   plugin: v2ray-plugin
   plugin-opts:
-    host: wt8v1.kvote.cn
+    host: jpxx01v9.yiyi.design
     mode: websocket
     mux: true
-    path: /oqhygtklyhwi
+    path: /aqhncbnk
     skip-cert-verify: false
     tls: true
-  port: 443
-  server: 103.137.62.194
+  port: 30410
+  server: 104.233.168.10
   tfo: false
   type: ss
 - alterId: 0
@@ -487,12 +487,29 @@ proxies:
     headers:
       Host: web.xcjs.info
     path: /home
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 5|🇯🇵 日本7|@ripaojiedian
+  network: ws
+  port: 443
+  server: cg1c10.waimaoglobaldirect.cc
+  servername: cg1c10.waimaoglobaldirect.cc
+  skip-cert-verify: false
+  tfo: false
+  tls: true
+  type: vmess
+  uuid: 3493e94c-1769-43d8-8308-f87b460adc65
+  ws-opts:
+    headers:
+      Host: cg1c10.waimaoglobaldirect.cc
+    path: /api/v1/graphql
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 5|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 13.114.102.184
+  server: 54.149.159.158
   tfo: false
   type: ss
 - alterId: 0
@@ -505,35 +522,11 @@ proxies:
   tls: false
   type: vmess
   uuid: 07287360-e12f-4f94-9c7a-54386c100d8a
-- name: 8|JP_speednode_0032
-  password: '!!str 74260671232757400'
-  port: 443
-  server: relaxed-airedale.shiner427.skin
-  skip-cert-verify: false
-  sni: relaxed-airedale.shiner427.skin
-  type: trojan
-  udp: true
-- name: 8|JP_speednode_0033
+- name: 8|JP_speednode_0019
   password: '!!str 74260671232757400'
   port: 443
   server: correct-sheepdog.shiner427.skin
   skip-cert-verify: false
   sni: correct-sheepdog.shiner427.skin
-  type: trojan
-  udp: true
-- name: 8|JP_speednode_0034
-  password: '!!str 74260671232757400'
-  port: 443
-  server: useful-jennet.shiner427.skin
-  skip-cert-verify: false
-  sni: useful-jennet.shiner427.skin
-  type: trojan
-  udp: true
-- name: 8|JP_speednode_0035
-  password: '!!str 74260671232757400'
-  port: 443
-  server: in-honeybee.shiner427.skin
-  skip-cert-verify: false
-  sni: in-honeybee.shiner427.skin
   type: trojan
   udp: true

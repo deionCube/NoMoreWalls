@@ -212,7 +212,7 @@ proxies:
   uuid: e3217bc2-061f-11f0-90e2-f23c913c8d2b
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 0,8|HK_speednode_0030
+  name: 0,8|HK_speednode_0016
   network: tcp
   port: 20550
   reality-opts:
@@ -362,18 +362,18 @@ proxies:
     path: /utvbnrzejpmt
     skip-cert-verify: false
     tls: true
-  port: 13540
+  port: 35716
   server: hkkh11v1.xpmc.cc
   tfo: false
   type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
+- client-fingerprint: chrome
   name: 5|🇭🇰 香港3|@ripaojiedian
-  password: 92uGfGQsAPq+HoB43r4u5b8lioGZrD/YTrvMUFbjgD8=
-  port: 56999
-  server: 175.178.13.108
-  tfo: false
-  type: ss
+  password: 7d2e5374-809e-4a9e-b7c3-7b24842695e1
+  port: 27101
+  server: 183.2.150.90
+  skip-cert-verify: false
+  sni: q08m.vgraxiw73s.hasyaf.cn
+  type: trojan
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -385,14 +385,17 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- client-fingerprint: chrome
+- alterId: 64
+  cipher: auto
+  client-fingerprint: chrome
   name: 5|🇭🇰 香港6|@ripaojiedian
-  password: 799964a2-2a62-4b62-93a9-1f9ab4e87eb8
-  port: 27101
-  server: 58.254.186.222
+  port: 36609
+  server: 120.232.153.40
   skip-cert-verify: false
-  sni: q08m.vgraxiw73s.hasyaf.cn
-  type: trojan
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - client-fingerprint: chrome
   name: 5|🇭🇰 香港7|@ripaojiedian
   password: VMhGp5wEIyCDf90T
