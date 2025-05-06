@@ -253,7 +253,7 @@ proxies:
     headers:
       host: miku.mikuru.ip-ddns.com
     path: /?ed=2560
-- name: 0,8|KR_speednode_0029
+- name: 0,8|KR_speednode_0019
   network: ws
   port: 12365
   server: 220.120.172.116
@@ -491,10 +491,10 @@ proxies:
   tls: false
   type: vmess
   uuid: 07287360-e12f-4f94-9c7a-54386c100d8a
-- name: 8|JP_speednode_0027
+- name: 8|JP_speednode_0017
   network: ws
   port: 8443
-  server: 154.92.9.2
+  server: 154.92.9.1
   servername: txmt.conetcdata.dpdns.org
   skip-cert-verify: false
   tls: true
@@ -505,10 +505,10 @@ proxies:
     headers:
       Host: txmt.conetcdata.dpdns.org
     path: /
-- name: 8|JP_speednode_0028
+- name: 8|JP_speednode_0018
   network: ws
   port: 8443
-  server: 154.92.9.1
+  server: 154.92.9.2
   servername: txmt.conetcdata.dpdns.org
   skip-cert-verify: false
   tls: true
