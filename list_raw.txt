@@ -28,5 +28,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKw1fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjQ3
 trojan://b6200af42ccadea353f5b5856dd20d70@113.99.140.184:39001?allowInsecure=1&sni=113.99.140.184#8%7CCN_speednode_0006
 trojan://74260667533381300@patient-emu.shiner427.skin:443?allowInsecure=1&sni=patient-emu.shiner427.skin#8%7CRO_speednode_0022
 trojan://redfree8@104.17.147.22:443?allowInsecure=0&sni=ipsychO.SUEx12.Ir&type=ws&host=ipsychO.SUEx12.Ir&path=/trre5IzbZ9IZZMddtw?ed=2560#8%7CUS_speednode_0091
-https://tKzhnV.absslk.xyz/a40fd020b2d7adddf89d8ccf0c0174ff
-https://Mvci7R.mcsslk.xyz/cc3a7955ebe182c98a664606659b64da
+https://lHIaf8.absslk.xyz/dda66924f56729bb58d69ccbf01a9cb9
+https://uOdYzm.mcsslk.xyz/af4e71199582f71308de51097376f72e
