@@ -24,7 +24,7 @@ proxies:
     path: /utvbnrzejpmt
     skip-cert-verify: false
     tls: true
-  port: 11223
+  port: 37512
   server: hkkh11v1.xpmc.cc
   tfo: false
   type: ss
@@ -41,9 +41,9 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - client-fingerprint: chrome
   name: 5|🇭🇰 香港4|@ripaojiedian
-  password: 33fa18c3-93ad-4bb6-9288-2dcf58a04bb3
-  port: 10465
-  server: 183.240.116.235
+  password: d64c2ba8-0ae4-4299-8af7-8c5046e3c1c1
+  port: 27102
+  server: 183.240.116.224
   skip-cert-verify: false
   sni: q08m.vgraxiw73s.hasyaf.cn
   type: trojan
@@ -77,14 +77,14 @@ proxies:
   skip-cert-verify: false
   sni: hk06.run.place
   type: trojan
-- client-fingerprint: chrome
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
   name: 5|🇭🇰 香港8|@ripaojiedian
-  password: c4a7a5e1-b01d-4e5d-bed4-8fc8d5eafe3a
-  port: 27103
-  server: 58.254.186.231
-  skip-cert-verify: false
-  sni: q08m.vgraxiw73s.hasyaf.cn
-  type: trojan
+  password: ed0ca0bd-3aa3-4d3a-81b0-eadcd1083a4d
+  port: 46603
+  server: xg-jd.huidu51.com
+  tfo: false
+  type: ss
 - alterId: 64
   cipher: auto
   name: 6|香港3|@ripaojiedian
