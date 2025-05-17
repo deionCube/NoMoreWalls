@@ -1,6 +1,6 @@
 proxies:
 - client-fingerprint: chrome
-  name: 5|🇹🇼 台湾|@ripaojiedian
+  name: 0,5|🇹🇼 台湾|@ripaojiedian
   password: 9f19a22d-60d0-4cf8-935d-ebcff8546054
   port: 42765
   server: wb.kaiqsz.com
