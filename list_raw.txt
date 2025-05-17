@@ -1,16 +1,7 @@
-trojan://RlzoEILU@36.151.251.59:7815?allowInsecure=1#0%7C%F0%9F%87%BA%F0%9F%87%B85%20%7C%20%203.0MB/s%7COpenai
-trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@5541c006-swexs0-swy6li-tni2.cu.plebai.net:15229?allowInsecure=1&sni=5541c006-swexs0-swy6li-tni2.cu.plebai.net#0%7C%F0%9F%87%BA%F0%9F%87%B88%20%7C%20%202.8MB/s%7C46%25%7COpenai%7CGemi...
-ssr://184.170.241.194:443:origin:aes-128-cfb:plainc2hhZG93c29ja3M=remarks=MHzwn4e68J-HuDExIHwgIDEuNE1CL3N8MzQlfE9wZW5haQ==&obfsparam=&protoparam=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4e68J+HuDE5IHwgIDQuNk1CL3N8NTElfEdlbWluaSIsICJhZGQiOiAiMTcyLjY3LjIxNC4zMyIsICJwb3J0IjogIjIwODIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjJmODIxMTUyLWMzZTktNDA3NC05MTg1LTI3OTBlNzQyNWY0MiIsICJob3N0IjogImNzLmZsaGEucnUiLCAicGF0aCI6ICIvIn0=
-trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.44.214:2053?allowInsecure=0&sni=NOp-55q.pAgEs.dEv&alpn=h2%2Chttp%2F1.1&type=ws&path=/trGPZDfetEwuO25SAs?ed=2560#0%7C%F0%9F%87%B0%F0%9F%87%B71%20%7C%20%203.5MB/s%7C61%25%7CDisney%7COpen...
-trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@5abd5e38-swgsg0-swy6li-tni2.cu.plebai.net:15229?#0%7C%F0%9F%87%BA%F0%9F%87%B846%20%7C%20%205.3MB/s%7C46%25%7COpenai%7CGem...
-trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@1b58d0f3-swgsg0-t1bnjq-1krtb.la3.tcpbbr.net:443?#0%7C%F0%9F%87%BA%F0%9F%87%B861%20%7C%20%201.4MB/s%7C46%25%7COpenai
-trojan://bpb-trojan@sg.madison.eu.org:443?allowInsecure=1&sni=skwygx.top&type=ws&host=skwygx.top&path=/tr?ed=2560#0%7C%F0%9F%87%AB%F0%9F%87%AE1%20%7C%20%204.9MB/s%7C0%25%7CNetflix%7CDisn...
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4e68J+HuDcwIHwgIDIuM01CL3N8MjklfE9wZW5haSIsICJhZGQiOiAidGsuaHpsdC50a2RkbnMueHl6IiwgInBvcnQiOiAyMjY0MSwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiOThlOTZjOWYtNGJiMy0zOWQ0LTlhMmMtZmFjMDQyNTdmN2M3IiwgInNuaSI6ICJ6eGpwLWEudGtvbmcuY2MiLCAiaG9zdCI6ICJ0ay5oemx0LnRrZGRucy54eXoiLCAicGF0aCI6ICIvIn0=
-trojan://9f19a22d-60d0-4cf8-935d-ebcff8546054@wb.kaiqsz.com:42765?allowInsecure=0&sni=mmbiz1.redapricotcloud.com#0%2C5%7C%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
-trojan://70776bb4-d791-4cbd-9c9b-c76e937f9e60@172.67.216.240:443?allowInsecure=1&sni=Xxs345rf.857856.xYZ&type=ws&host=Xxs345rf.857856.xYZ&path=/71M8Ov1I5Gk9247fHC0XGZG6#0%7C%F0%9F%87%BA%F0%9F%87%B871%20%7C%20%201.4MB/s%7C50%25%7COpenai%7CGem...
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#0%7C%F0%9F%8C%805-T1%20%7C%20%202.9MB/s%7C50%25%7COpenai
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4ev8J+HtTIgfCAgMS41TUIvc3w1NCV8WW91dHViZXxPcGUuLi4iLCAiYWRkIjogInNzbHZwbi41MWpvYi5jb20iLCAicG9ydCI6IDE0NDMsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJhNmEwZDkwMS02N2U5LTQ2MGEtOTBiNS02MzRjNWM0Zjk3ODIiLCAiaG9zdCI6ICJjZW50b3M3IiwgInBhdGgiOiAiLzYzNGM1YzRmOTc4MiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4ev8J+HtTEgfCAgMS4zTUIvc3xZb3V0dWJlfE9wZW5haXwuLi4iLCAiYWRkIjogInNzbHZwbi41MWpvYi5jb20iLCAicG9ydCI6IDE0NDMsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJhNmEwZDkwMS02N2U5LTQ2MGEtOTBiNS02MzRjNWM0Zjk3ODIiLCAiaG9zdCI6ICJjZW50b3M3IiwgInBhdGgiOiAiLzYzNGM1YzRmOTc4MiJ9
+trojan://RlzoEILU@36.151.251.59:55860?allowInsecure=1#0%7C%F0%9F%87%BA%F0%9F%87%B894%20%7C%20%204.7MB/s%7C59%25%7COpenai%7CGem...
+trojan://RlzoEILU@36.151.251.61:16641?allowInsecure=1#0%7C%F0%9F%87%B3%F0%9F%87%B11%20%7C%20%201.2MB/s%7C0%25%7CNetflix%7CDisn...
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p222.panda001.net:15098#0%7C%F0%9F%87%B0%F0%9F%87%B71%20%7C%20%203.3MB/s%7C44%25
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@43.207.198.128:443#5%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 ss://YWVzLTI1Ni1nY206RU5ZR09ORFU5NFVXMUc2WA==@8tv68qhq.slashdevslashnetslashtun.net:15010#5%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM=@hkkh11v1.xpmc.cc:55051#5%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
@@ -19,6 +10,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNXzwn4et8J+HsCDpppnmuK80fEByaXBhb2ppZWRpYW4iLCAi
 trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@dozo01.flztjc.top:8313?allowInsecure=0&sni=hk-13-568.flztjc.net#5%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNXzwn4et8J+HsCDpppnmuK82fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjEwMy4zMC43Ni4yMTgiLCAicG9ydCI6IDQ1OTM5LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMjY4ZmU1OTQtY2QzNS00MDM4LThiYzEtMTA4NmFkYTI3ZmU4In0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNXzwn4et8J+HsCDpppnmuK83fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjE4My4yMzYuNTEuMzgiLCAicG9ydCI6IDQxNTU0LCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
+trojan://9f19a22d-60d0-4cf8-935d-ebcff8546054@wb.kaiqsz.com:42765?allowInsecure=0&sni=mmbiz1.redapricotcloud.com#5%7C%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#5%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZjc3YWQyZjkwNmQ=@103.140.136.76:20774#5%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNXzwn4ev8J+HtSDml6XmnKwzfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjE4My4yMzcuODQuNTMiLCAicG9ydCI6IDU1MDAyLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
@@ -92,5 +84,5 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.243:443?allowInsecure=
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.243:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.123.255.243:443&proxyIP=null#8%7CZA_speednode_0131
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.173:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.123.255.173:443&proxyIP=null#8%7CZA_speednode_0132
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.134:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.123.255.134:443&proxyIP=null#8%7CZA_speednode_0133
-https://0Jy1vR.mcsslk.xyz/f5516fd3cc5cf83fdd417a4cd49b50d0
-https://gGqHw9.absslk.xyz/7ccbde3cb668e8460f5ccba86e1d11b3
+https://hu7WUh.mcsslk.xyz/08be8209cd5f2971b94d979e1b75a726
+https://Riy9HY.absslk.xyz/deda228f6081b3a0cb53f958b7fdb3e1
