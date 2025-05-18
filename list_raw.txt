@@ -69,5 +69,5 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.194:443?allowInsecure=1&s
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.184:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=192.0.54.184:443&proxyIP=null#8%7CUS_speednode_0196
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.169:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.79.105.169:443&proxyIP=null#8%7CUS_speednode_0219
 trojan://a07cebde-351d-4ad3-8045-3cd0aa3f586c@mg7.gy6688.xyz:443?allowInsecure=1&sni=mg7.gy6688.xyz#8%7CUS_speednode_0275
-https://bHEoFX.absslk.xyz/cbd8318385709405d4664de30ddbb9fd
-https://VQcYnW.mcsslk.xyz/b78103608f5c5d78c3a98f66b763fce3
+https://HTm18r.absslk.xyz/1ba96a0cda08bf0e026536341dc8e694
+https://bH5RJd.mcsslk.xyz/d1e805a7cec43d2da119aa553cf4ceef
