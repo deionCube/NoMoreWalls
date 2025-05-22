@@ -45,5 +45,5 @@ trojan://RlzoEILU@36.151.251.62:28548?allowInsecure=1&sni=cdn.egvra.cn#8%7CCN_sp
 trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@f8021ada-swo740-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#8%7CCN_speednode_0031
 trojan://9ad05870-d8c5-11ef-9f1c-f23c913c8d2b@a2bbfa2e-swq1s0-sxwsos-g3b3.cu.plebai.net:15229?allowInsecure=0&sni=a2bbfa2e-swq1s0-sxwsos-g3b3.cu.plebai.net#8%7CCN_speednode_0032
 trojan://Ng35283528@gozargah5.cloudflare3-80.hosting-ip.com:443?allowInsecure=1&sni=c2.validbv3528.eu.org&type=ws&host=c2.validbv3528.eu.org&path=/?ed=2560#8%7CUS_speednode_0218
-https://Sa1Fbz.absslk.xyz/f37bcfe0aa8a8bfdfe13806cecba391a
-https://LMn9Jn.mcsslk.xyz/6cf220fa4226e26c086854d3ee2b00cb
+https://2XAT3G.absslk.xyz/4e5f12bbaf8b4722c9de00d6c56f7855
+https://QnCbXD.mcsslk.xyz/2fcdd3ea1ef11ee54d9bbfd1cb484aa0
