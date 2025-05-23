@@ -39,11 +39,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKw1fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjQ3
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzmlrDliqDlnaEyfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjE4My4yMzYuNTEuMzgiLCAicG9ydCI6ICI0OTEyMSIsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgInNuaSI6ICIifQ==
 trojan://RlzoEILU@36.151.251.60:28296?allowInsecure=1&sni=cdn.egvra.cn#8%7CCN_speednode_0019
 trojan://RlzoEILU@36.156.102.124:15624?allowInsecure=1&sni=36.156.102.124#8%7CCN_speednode_0020
-trojan://RlzoEILU@36.156.102.123:50723?allowInsecure=1&sni=36.156.102.123#8%7CCN_speednode_0021
-trojan://RlzoEILU@36.156.102.123:17166?allowInsecure=1&sni=cdn.egvra.cn#8%7CCN_speednode_0023
-trojan://RlzoEILU@36.151.251.62:28548?allowInsecure=1&sni=cdn.egvra.cn#8%7CCN_speednode_0025
-trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@f8021ada-swo740-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#8%7CCN_speednode_0031
-trojan://9ad05870-d8c5-11ef-9f1c-f23c913c8d2b@a2bbfa2e-swq1s0-sxwsos-g3b3.cu.plebai.net:15229?allowInsecure=0&sni=a2bbfa2e-swq1s0-sxwsos-g3b3.cu.plebai.net#8%7CCN_speednode_0032
-trojan://Ng35283528@gozargah5.cloudflare3-80.hosting-ip.com:443?allowInsecure=1&sni=c2.validbv3528.eu.org&type=ws&host=c2.validbv3528.eu.org&path=/?ed=2560#8%7CUS_speednode_0218
-https://eh0wf1.absslk.xyz/2bd10b46772af25d3ae4ec6c049e6cbc
-https://aUcgNT.mcsslk.xyz/dbe80025ad39fcab82f06762d4c074b4
+trojan://RlzoEILU@36.151.251.62:28548?allowInsecure=1&sni=cdn.egvra.cn#8%7CCN_speednode_0021
+trojan://Ng35283528@gozargah5.cloudflare3-80.hosting-ip.com:443?allowInsecure=1&sni=c2.validbv3528.eu.org&type=ws&host=c2.validbv3528.eu.org&path=/?ed=2560#8%7CUS_speednode_0186
+https://6I02n0.absslk.xyz/4e223be6797285e076b8b54a8afdf55f
+https://rq6wJQ.mcsslk.xyz/2f14b6c1825b770d57491075e7eb5a56
