@@ -40,5 +40,5 @@ trojan://RlzoEILU@36.151.251.60:28296?allowInsecure=1&sni=cdn.egvra.cn#8%7CCN_sp
 trojan://RlzoEILU@36.156.102.124:15624?allowInsecure=1&sni=36.156.102.124#8%7CCN_speednode_0020
 trojan://RlzoEILU@36.151.251.62:28548?allowInsecure=1&sni=cdn.egvra.cn#8%7CCN_speednode_0021
 trojan://Ng35283528@gozargah5.cloudflare3-80.hosting-ip.com:443?allowInsecure=1&sni=c2.validbv3528.eu.org&type=ws&host=c2.validbv3528.eu.org&path=/?ed=2560#8%7CUS_speednode_0186
-https://yPyeyt.absslk.xyz/5c5e361b29a7e0e6e1d2791acfd4475a
-https://VyBWCi.mcsslk.xyz/a7710dfb01d0e422c47fd59e791ed069
+https://BZJANf.absslk.xyz/94b953b9a7b8d5db5bc523e1194abb6b
+https://425uDY.mcsslk.xyz/1a2a357bd4e0599824755e478749b6dc
