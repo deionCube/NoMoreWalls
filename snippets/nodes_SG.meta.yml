@@ -83,7 +83,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- name: 8|SG_speednode_0093
+- name: 8|SG_speednode_0232
   network: ws
   port: 8880
   server: 92.243.75.29
@@ -97,7 +97,7 @@ proxies:
     headers:
       Host: hk.laoyoutiao.link
     path: /TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560
-- name: 8|SG_speednode_0094
+- name: 8|SG_speednode_0234
   network: ws
   port: 8880
   server: 92.243.74.29
