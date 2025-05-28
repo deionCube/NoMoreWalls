@@ -42,5 +42,5 @@ trojan://042b75a6-d3e6-11ee-b308-f23c9164ca5d@d855bbcd-sx15s0-t1l0zq-1qof8.cu.pl
 trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21102?allowInsecure=1&sni=120.233.44.201#8%7CCN_speednode_0035
 trojan://RlzoEILU@36.151.251.62:13542?allowInsecure=1&sni=cdn.egvra.cn#8%7CCN_speednode_0038
 trojan://trojan@91.193.58.0:443?allowInsecure=0&sni=wahaha.yingyangkuaixian.dpdns.org&type=ws&host=wahaha.yingyangkuaixian.dpdns.org&path=/?ed=2560#8%7CGB_speednode_0235
-https://twqCTI.mcsslk.xyz/353fcd73f8a93b76e34c8b8e9a821879
-https://Yu4cja.absslk.xyz/a19209bac86c85b66e9daee806bac4fb
+https://B2rRD7.mcsslk.xyz/24d10e8d46473ba634122ed33e65dec9
+https://5kkn4z.absslk.xyz/02be532a6a70ab884fc9477b5c162162
