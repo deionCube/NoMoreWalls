@@ -35,5 +35,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnznvo7lm700fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjEy
 trojan://RlzoEILU@36.151.251.62:13542?allowInsecure=1&sni=cdn.egvra.cn#8%7CCN_speednode_0003
 trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21102?allowInsecure=1&sni=120.233.44.201#8%7CCN_speednode_0004
 trojan://042b75a6-d3e6-11ee-b308-f23c9164ca5d@d855bbcd-sx15s0-t1l0zq-1qof8.cu.plebai.net:15229?allowInsecure=1&sni=d855bbcd-sx15s0-t1l0zq-1qof8.cu.plebai.net#8%7CCN_speednode_0005
-https://Vltm8I.mcsslk.xyz/8138e265a8dcd72b1f1e125eaf427dd0
-https://oq6WLT.absslk.xyz/2c7a57aec177fbe700d1060d08a65b2a
+https://20lCaA.mcsslk.xyz/f2e6701a54fe19ab52e3fb80e8248598
+https://T7ySob.absslk.xyz/f26eca8163d43400eda55ca43119b0e1
