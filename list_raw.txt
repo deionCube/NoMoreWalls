@@ -47,5 +47,5 @@ trojan://fe506496-24eb-11ef-abd3-f23c91cfbbc9@5f9d335d-swexs0-t5juhn-4tue.cu.ple
 trojan://adbd0a82-3336-11ed-bd7c-f23c913c8d2b@f5ada702-swb8g0-t5fh9u-1uni.cu.plebai.net:15229?allowInsecure=1#8%7CCN_speednode_0041
 trojan://94Xn93e3F2uOxCE8De8upAAwnlI8ySRRj70Ol6zgYNBjZFCDK5Yaca3D8aT2qaxyEc0DK@bapus.koreanbbq.link:443?allowInsecure=0#8%7CKR_speednode_0072
 trojan://YaN8FFNe58nga3xAu3yTx0CSllcSeOnDZOj3SXROCz3S34B9D3F7Ka0aYa8yaxpXCDRKZ@diagram.protocolbuffer.com:18334?allowInsecure=0#8%7CSG_speednode_0092
-https://EGzLh2.absslk.xyz/647f25970f5da37918025c6ad1952cd7
-https://ATAUUG.mcsslk.xyz/183b86024cd9c7c0195abf8d3697f212
+https://snAmg0.absslk.xyz/3d9c7d580ccba8e71e3b0c4d77aae3fb
+https://TKmm00.mcsslk.xyz/9a0088ee98e189c7dc7a2f59cd1661d6
