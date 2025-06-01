@@ -36,5 +36,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKwzfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogImY2
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKxWMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI4LjIxMS4xNTQuMTA3IiwgInBvcnQiOiAiNTA5NTEiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJrY3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYTNkMDQ1NDgtNjI1Yy00NjU4LTlmZjAtZjlhNzgzNWQxZjZkIiwgInNuaSI6ICIifQ==
 trojan://Aimer@154.211.8.240:443?allowInsecure=0&sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me&path=/#8%7CHK_speednode_0054
 trojan://Aimer@103.116.7.248:443?allowInsecure=0&sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me&path=/?ed=2560#8%7CJP_speednode_0058
-https://UPpMwP.absslk.xyz/02f476de8df1fb73d3bfedac046185b2
-https://jMghUe.mcsslk.xyz/aa619c068b24ba83da03b560cf8a6184
+https://F73AIX.mcsslk.xyz/5c0dd02bd55e06d823171b1fcd6e3da7
+https://tcwpD2.absslk.xyz/4f2c203c9e41a4f231734d80b331e7b7
