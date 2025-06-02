@@ -57,5 +57,5 @@ trojan://Aimer@112.184.209.63:12088?allowInsecure=0&sni=epme.ambercc.filegear-sg
 trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.38.151:443?allowInsecure=0&sni=copy-wifi-twins.stark-industries.solutions#8%7CNO_speednode_0121
 trojan://Aimer@5.182.84.244:443?allowInsecure=0&sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me&path=/?ed=2560#8%7CRU_speednode_0137
 trojan://Aimer@92.53.190.161:2087?allowInsecure=0&sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me&path=/?ed=2560#8%7CSI_speednode_0149
-https://Z3AxWW.mcsslk.xyz/e6160909d81a9f2cc02b5ab8ef22d297
-https://1scyx3.absslk.xyz/6acbc0d886e64cf486cbbdd9b9b787f3
+https://2Tn0iv.absslk.xyz/558012f42ee620101e3006a9e8651b27
+https://SFXApl.mcsslk.xyz/44f4f3c0aa4adaadaf2ac09b6d29765e
