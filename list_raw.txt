@@ -42,5 +42,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzmlrDliqDlnaE0fEByaXBhb2ppZWRpYW4iLCAiYWRkIjog
 trojan://Aimer@103.116.7.103:2083?allowInsecure=0&sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me&path=/?ed=2560#8%7CJP_speednode_0036
 trojan://Aimer@5.182.84.244:443?allowInsecure=0&sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me&path=/?ed=2560#8%7CRU_speednode_0064
 trojan://Aimer@92.53.190.161:2087?allowInsecure=0&sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me&path=/?ed=2560#8%7CSI_speednode_0067
-https://rHmn4L.absslk.xyz/a4e301db9150e933a5eb2018385a1117
-https://lF0Be9.mcsslk.xyz/93fe12a6b22ada4b8545cdc619b8e7ee
+https://BnOGJj.mcsslk.xyz/3321c266ecb1dc6f5e59f1279d04bf65
+https://oTHcsp.absslk.xyz/35bff3b1470d8f721432ad5241a8ad1b
