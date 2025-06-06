@@ -9,3 +9,11 @@ proxies:
   tls: true
   type: http
   username: mrwdfNTD8M79LCukCieldrqZWqs=
+- client-fingerprint: chrome
+  name: 5|🇹🇼 台湾|@ripaojiedian
+  password: b483bf41-79d4-48df-bec6-30a756a3bd6b
+  port: 42765
+  server: js-12f83a8c.kaiqsz.com
+  skip-cert-verify: false
+  sni: mmbiz1.redapricotcloud.com
+  type: trojan

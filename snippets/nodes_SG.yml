@@ -34,17 +34,6 @@ proxies:
   skip-cert-verify: false
   sni: ddd0977f-sxaf40-t3b4w3-ywms.cm5.cnkuaishou.com
   type: trojan
-- alterId: 64
-  cipher: auto
-  client-fingerprint: chrome
-  name: 5|🇸🇬 新加坡4|@ripaojiedian
-  port: 59652
-  server: 183.236.51.38
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - client-fingerprint: chrome
   name: 5|🇸🇬 新加坡5|@ripaojiedian
   password: 905fcd78-866c-81e1-3cb8-1beb59d661ab
@@ -61,13 +50,3 @@ proxies:
   skip-cert-verify: false
   sni: 204bdce4-sxaf40-t5bgb3-l4nv.cm5.cnkuaishou.com
   type: trojan
-- alterId: 64
-  cipher: auto
-  name: 6|新加坡4|@ripaojiedian
-  network: tcp
-  port: '59652'
-  server: 183.236.51.38
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
