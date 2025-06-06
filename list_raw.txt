@@ -38,5 +38,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKxWMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI4
 trojan://9e1ddc04-073b-11ed-bd7c-f23c913c8d2b@4aaff985-sxfz40-t1jamc-1fvdh.cm5.cnkuaishou.com:27231?allowInsecure=0&sni=4aaff985-sxfz40-t1jamc-1fvdh.cm5.cnkuaishou.com#8%7CCN_speednode_0003
 trojan://d076280a-0d5f-11f0-8a7b-f23c913c8d2b@6a98e275-sx8kg0-tcum62-se45.cm5.cnkuaishou.com:27231?allowInsecure=0&sni=6a98e275-sx8kg0-tcum62-se45.cm5.cnkuaishou.com#8%7CCN_speednode_0005
 trojan://659990ba-650f-11ea-a7af-f23c9164ca5d@7fd1be71-sxc9s0-tcselz-oua4.cm5.cnkuaishou.com:27231?allowInsecure=0&sni=7fd1be71-sxc9s0-tcselz-oua4.cm5.cnkuaishou.com#8%7CCN_speednode_0006
-https://NJPWIr.mcsslk.xyz/87f29292b2846519f251a3f586f74183
-https://aRUW7n.absslk.xyz/fd097b7e08da8e4a0236183687235f75
+https://8yv2yb.absslk.xyz/1a8add4382c891e8a94bf99d4b922695
+https://aW9iEJ.mcsslk.xyz/360b3599a21f7b861b44475c2c9d51e2
