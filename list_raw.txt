@@ -37,7 +37,11 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8zfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjE4
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK81fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjEyMC4yMzIuMTUzLjQwIiwgInBvcnQiOiAiMzEyMDkiLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJzbmkiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK84fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjE4My4yMzYuNTEuMzgiLCAicG9ydCI6ICI1OTY1MiIsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgInNuaSI6ICIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKxWMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI4LjIxMS4xNTQuMTA3IiwgInBvcnQiOiAiNTA5NTEiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJrY3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYTNkMDQ1NDgtNjI1Yy00NjU4LTlmZjAtZjlhNzgzNWQxZjZkIiwgInNuaSI6ICIifQ==
-trojan://85f133142f04dbf6547da33895cfabb3@125.94.40.221:39001?allowInsecure=1&sni=www.yrtok.com#8%7CCN_speednode_0002
-trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21031?allowInsecure=1&sni=k54.tudou211.com#8%7CCN_speednode_0003
-https://nAXvtV.mcsslk.xyz/15c6bd5cdc500fe5fba4ea84ffd1bd77
-https://uUfgUY.absslk.xyz/f01d17e779d8f3f693d363b56a3ba4a0
+trojan://85f133142f04dbf6547da33895cfabb3@203.156.253.11:39001?allowInsecure=1&sni=www.yrtok.com#8%7CCN_speednode_0004
+trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21031?allowInsecure=1&sni=k54.tudou211.com#8%7CCN_speednode_0005
+trojan://85f133142f04dbf6547da33895cfabb3@203.156.253.12:39001?allowInsecure=1&sni=www.yrtok.com#8%7CCN_speednode_0006
+trojan://telegram-id-directvpn@63.178.80.159:22223?allowInsecure=0&sni=trojan.burgerip.co.uk#8%7CDE_speednode_0017
+trojan://telegram-id-privatevpns@63.178.80.159:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#8%7CDE_speednode_0019
+trojan://Ng35283528@gozargah5.cloudflare3-80.hosting-ip.com:443?allowInsecure=1&sni=c2.validbv3528.eu.org&type=ws&host=c2.validbv3528.eu.org&path=/?ed=2560#8%7CUS_speednode_0097
+https://JXnpv7.absslk.xyz/9cfefb9fa8622f48f5e6a2d003494158
+https://lxu2x8.mcsslk.xyz/fb1a40c55cd0225cbe5fbbefb9c0b686
