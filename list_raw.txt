@@ -35,5 +35,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzmlrDliqDlnaEyfEByaXBhb2ppZWRpYW4iLCAiYWRkIjog
 trojan://cf7331fa-bfeb-11ed-a807-f23c913c8d2b@91d19d2d-sxp8g0-tc5odo-1mh85.cm5.cnkuaishou.com:27233?allowInsecure=0&sni=91d19d2d-sxp8g0-tc5odo-1mh85.cm5.cnkuaishou.com#8%7CCN_speednode_0004
 trojan://6e313598-a088-11ea-a22e-f23c91cfbbc9@3cb362d9-sxp8g0-t6g8gl-ch5c.cm5.cnkuaishou.com:27233?allowInsecure=0&sni=3cb362d9-sxp8g0-t6g8gl-ch5c.cm5.cnkuaishou.com#8%7CCN_speednode_0006
 trojan://0bf83a1d-f785-487a-a479-3c3de2566ba6@172.67.204.120:443?allowInsecure=0&sni=VV.890603.xyZ&type=ws&host=VV.890603.xyZ&path=/xJXdWGMbbZovkcaL2SsGTGxE#8%7CUS_speednode_0065
-https://95NAb8.absslk.xyz/6b3c4b363c48d290aa9e32daf842078f
-https://bJKL4x.mcsslk.xyz/81704b3dde4834f5d6ee1e64b8910bb1
+https://CnmV0O.mcsslk.xyz/8f8d430b898a0778dde12c63e93a4210
+https://UxdVAX.absslk.xyz/eea3ce04a9db84f2cf4dc42b785acbf0
