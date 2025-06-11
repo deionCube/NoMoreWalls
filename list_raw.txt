@@ -66,4 +66,4 @@ trojan://1b4c16925f934c57b954a9f0f23dea33@42.240.152.238:8842?allowInsecure=1&sn
 trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21179?allowInsecure=0&sni=k30.tudou211.com#8%7CCN_speednode_0041
 trojan://d84d4cbcd4d29f981ca8b2eff741ec86@notice.2513142.xyz:443?allowInsecure=1&sni=www.cloudflare.com#8%7CLT_speednode_0065
 https://V5PRTa.mcsslk.xyz/8f750c59318c817112de4a13475c4cca
-https://OGid1g.absslk.xyz/87a5a5e53a7053ece2acbd9a489269fa
+https://mBlOMM.absslk.xyz/1e0d36d0c2acf7a583ad188abba2755d
