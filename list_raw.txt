@@ -39,5 +39,5 @@ trojan://HrTsLJvh@36.151.251.62:38632?allowInsecure=1&sni=36.151.251.62#8%7CCN_s
 trojan://FpQhGpIr@36.151.251.62:38632?allowInsecure=1#8%7CCN_speednode_0029
 trojan://HrTsLJvh@223.111.144.12:43196?allowInsecure=1#8%7CCN_speednode_0030
 trojan://FpQhGpIr@36.151.251.56:4448?allowInsecure=1#8%7CCN_speednode_0031
-https://BIkQNJ.mcsslk.xyz/56c85ad5e69a4c7e2668b024a8adb690
-https://DuuDdM.absslk.xyz/9306734a3032f45ee7827d6176160a2e
+https://akLEf0.absslk.xyz/8eb771bb7e18ac4a27ae5924ebf0d61a
+https://AMA2UF.mcsslk.xyz/98f820d434799b8ec722a84d4082ffe6
