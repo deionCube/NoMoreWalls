@@ -25,13 +25,14 @@ proxies:
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - client-fingerprint: chrome
-  name: 5|🇭🇰 香港3|@ripaojiedian
+  name: 5,8|CN_speednode_0043
   password: 85f133142f04dbf6547da33895cfabb3
   port: 39001
   server: 120.233.128.68
   skip-cert-verify: true
   sni: 120.233.128.68
   type: trojan
+  udp: true
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 5|🇭🇰 香港2|@ripaojiedian
@@ -59,9 +60,9 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 5|🇭🇰 香港5|@ripaojiedian
+  name: 5,6|香港5|@ripaojiedian
   network: ws
-  port: 8443
+  port: '8443'
   server: 104.18.42.62
   servername: hk2.huaweiwuu5.xyz
   skip-cert-verify: false
@@ -76,10 +77,11 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: 5|🇭🇰 香港7|@ripaojiedian
+  name: 5,6|香港7|@ripaojiedian
   network: ws
-  port: 30809
+  port: '30809'
   server: v9.heduian.link
+  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -89,32 +91,12 @@ proxies:
     headers:
       Host: baidu.com
     path: /oooo
-- alterId: 64
-  cipher: auto
-  name: 6|新加坡3|@ripaojiedian
-  network: tcp
-  port: '31209'
-  server: 120.232.153.40
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
   name: 6|香港6|@ripaojiedian
   network: tcp
-  port: '20452'
-  server: 20.2.80.240
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 52aba3eb-0a6f-4c2f-29c6-d4b18a1d7c3e
-- alterId: 0
-  cipher: auto
-  name: 6|香港7|@ripaojiedian
-  network: tcp
-  port: '46159'
-  server: 120.198.71.216
+  port: '36519'
+  server: 183.236.51.38
   servername: ''
   tls: false
   type: vmess
