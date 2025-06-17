@@ -80,5 +80,5 @@ trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@172.67.200.11:443?allowInsecure=0&
 trojan://30602b6d-5d5c-4f56-9b65-9ae2fd9348cb@104.21.77.149:443?allowInsecure=0&sni=sssxcvfgty.999834.xyz&type=ws&host=sssxcvfgty.999834.xyz&path=/MwXI8nfdPkSDsYEGVHqPd73hl#8%7CUS_speednode_0551
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443?allowInsecure=0&sni=CVFgTrE4.222560.XyZ&type=ws&host=CVFgTrE4.222560.XyZ&path=/Hq0I4JMuzO0WLijID#8%7CUS_speednode_0553
 trojan://f108e0e2-5f12-42b6-9e67-1b2f073ffb2b@172.67.219.196:443?allowInsecure=0&sni=CCcvfgt6.852224.dpdns.org&type=ws&host=CCcvfgt6.852224.dpdns.org&path=/CA5bMmr2JMum8sDKRwvFCJq#8%7CUS_speednode_0557
-https://BEAK8J.mcsslk.xyz/e75af3d2474f3b2340049f5c376d7052
-https://SDwwsY.absslk.xyz/e1b4fdf7b58cfe7fa296ab49eeefcd90
+https://BInNwz.mcsslk.xyz/253c04f77a917977cadd69103ee592e1
+https://E6z3fY.absslk.xyz/fe3e95c516f5ad8abe3d04097d303a4a
