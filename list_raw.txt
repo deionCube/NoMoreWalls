@@ -35,5 +35,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzmlrDliqDlnaF8QHJpcGFvamllZGlhbiIsICJhZGQiOiAi
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzmlrDliqDlnaEyfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjEyMC4yMzIuMTUzLjQwIiwgInBvcnQiOiAiNTAxNTIiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgInNuaSI6ICIifQ==
 trojan://85f133142f04dbf6547da33895cfabb3@116.31.75.150:39001?allowInsecure=1&sni=www.yrtok.com#8%7CCN_speednode_0003
 trojan://VdWBGFmg@36.151.251.62:23770?allowInsecure=1&sni=TG.WangCai2#8%7CCN_speednode_0004
-https://oOb2Tq.mcsslk.xyz/25b266a95dcda059a0c0a6a36b3b5930
-https://fmits9.absslk.xyz/018f56d5ff5e635017a24f13d76b5e24
+https://A9xx9p.absslk.xyz/be9930b0b03a9a6b63062f365b2efc28
+https://fyCEnA.mcsslk.xyz/17a6f8d762700d31c0703cbf391c52c2
