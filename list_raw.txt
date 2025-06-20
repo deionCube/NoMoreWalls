@@ -36,5 +36,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzmlrDliqDlnaEyfEByaXBhb2ppZWRpYW4iLCAiYWRkIjog
 trojan://HrTsLJvh@36.151.251.62:38632?allowInsecure=1#8%7CCN_speednode_0022
 trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21179?allowInsecure=1&sni=k30.tudou211.com#8%7CCN_speednode_0023
 trojan://VdWBGFmg@36.151.251.62:23770?allowInsecure=1&sni=TG.WangCai2#8%7CCN_speednode_0024
-https://5PfJvf.absslk.xyz/6378765fad25cb9086d75e45e868a95f
-https://v5hZyA.mcsslk.xyz/d51c2ea340cca8639260148912a1e957
+https://HccUpO.mcsslk.xyz/dcac9d62c9f3103bcf37a03ff0c99766
+https://wJJYxA.absslk.xyz/713f1ed99192a62f6968691603eed5fa
