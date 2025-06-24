@@ -41,5 +41,5 @@ trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@xd-js.timiwc.com:21603?allowInsecu
 trojan://VdWBGFmg@36.151.251.62:23770?allowInsecure=1&sni=36.151.251.62#8%7CCN_speednode_0036
 trojan://xHiFGGTy@36.151.251.62:23770?allowInsecure=1&sni=TG.WangCai2#8%7CCN_speednode_0038
 trojan://509ed9b7-8d64-4204-8ec8-6b749020ac3f@104.21.3.189:443?allowInsecure=1&sni=CcCVfGTyU.89060004.Xyz&type=ws&host=CcCVfGTyU.89060004.Xyz&path=/5MkU0nARgHwk3aXBStn7#8%7CUS_speednode_0264
-https://xECYiJ.absslk.xyz/2cc9f437128cc36e39c39021a5f4c5b4
-https://2EQPRP.mcsslk.xyz/66389936a232476fec9dbe2edec93c52
+https://hFgyxm.mcsslk.xyz/1f31b27df4020903de680b4b410dd4df
+https://k0p3lm.absslk.xyz/2676f7d1d67c9b740fefcfaebb87e2b6
