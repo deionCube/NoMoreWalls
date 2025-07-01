@@ -36,5 +36,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzlj7Dmub52MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIx
 trojan://b483bf41-79d4-48df-bec6-30a756a3bd6b@js-12f83a8c.kaiqsz.com:42765?allowInsecure=0&sni=mmbiz1.redapricotcloud.com#8%7CCN_speednode_0022
 trojan://juzi@172.66.45.35:443?allowInsecure=1&sni=juzi8186-sr1.pages.dev&type=ws&host=juzi8186-sr1.pages.dev&path=/#8%7CUS_speednode_0265
 trojan://juzi@172.66.46.221:443?allowInsecure=1&sni=juzi8186-sr1.pages.dev&type=ws&host=juzi8186-sr1.pages.dev&path=/#8%7CUS_speednode_0269
-https://dJskME.absslk.xyz/eb30dabc49a3af17cdcf6ab9407c4f4e
-https://I9ixBd.mcsslk.xyz/080ecf0ee26af435e4d1dceb0aac57ab
+https://1QzaBe.absslk.xyz/21c4210661a480ae179696874c8a1a65
+https://iaThNg.mcsslk.xyz/791ae967f14bf001acc682fbf490637d
