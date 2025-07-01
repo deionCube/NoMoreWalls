@@ -353,42 +353,37 @@ proxies:
   tls: false
   type: vmess
   uuid: 986b3bc8-d0fb-4b60-b01f-28164e44cd48
-- name: 8|ES_speednode_0054
-  network: ws
-  password: trojan
-  port: 8443
-  server: 109.234.211.66
+- name: 8|CN_speednode_0022
+  password: b483bf41-79d4-48df-bec6-30a756a3bd6b
+  port: 42765
+  server: js-12f83a8c.kaiqsz.com
   skip-cert-verify: false
-  sni: store.timimi.dpdns.org
+  sni: mmbiz1.redapricotcloud.com
   type: trojan
   udp: true
-  ws-opts:
-    headers:
-      Host: store.timimi.dpdns.org
-    path: /
-- name: 8|SG_speednode_0155
+- name: 8|US_speednode_0265
   network: ws
-  password: wb6368
-  port: 2087
-  server: 92.243.75.49
-  skip-cert-verify: false
-  sni: hsdgbuys.pages.dev
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: hsdgbuys.pages.dev
-    path: /
-- name: 8|US_speednode_0253
-  network: ws
-  password: c7f423b7-ced8-43da-a9ae-e906cb4a222c
+  password: juzi
   port: 443
-  server: 172.67.191.140
-  skip-cert-verify: false
-  sni: DdDdddDDdF.999824.Xyz
+  server: 172.66.45.35
+  skip-cert-verify: true
+  sni: juzi8186-sr1.pages.dev
   type: trojan
   udp: true
   ws-opts:
     headers:
-      Host: DdDdddDDdF.999824.Xyz
-    path: /dwPcFaK3QxWRQTqot0LE
+      Host: juzi8186-sr1.pages.dev
+    path: /
+- name: 8|US_speednode_0269
+  network: ws
+  password: juzi
+  port: 443
+  server: 172.66.46.221
+  skip-cert-verify: true
+  sni: juzi8186-sr1.pages.dev
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: juzi8186-sr1.pages.dev
+    path: /
