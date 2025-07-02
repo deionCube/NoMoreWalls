@@ -36,5 +36,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK92MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzlj7Dmub52MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMTguMTk0LjI1My4xNSIsICJwb3J0IjogIjU2NjMiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJrY3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiOTg2YjNiYzgtZDBmYi00YjYwLWIwMWYtMjgxNjRlNDRjZDQ4IiwgInNuaSI6ICIifQ==
 trojan://juzi@172.66.46.221:443?allowInsecure=1&sni=juzi8186-sr1.pages.dev&type=ws&host=juzi8186-sr1.pages.dev&path=/#8%7CUS_speednode_0215
 trojan://juzi@172.66.45.35:443?allowInsecure=1&sni=juzi8186-sr1.pages.dev&type=ws&host=juzi8186-sr1.pages.dev&path=/#8%7CUS_speednode_0217
-https://h1NcQc.absslk.xyz/e209d94fe35633384059caf8133d37c7
-https://9qqkWQ.mcsslk.xyz/eeccb74a247cd81d6dc2a7cffc864961
+https://DGDjVc.absslk.xyz/95a1dffaaa48c33e8572d7a0220a82a5
+https://CXuoog.mcsslk.xyz/d120cd6b3c8e8d4b1585dfb55250a361
