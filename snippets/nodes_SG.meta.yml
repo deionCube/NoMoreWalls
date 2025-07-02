@@ -40,7 +40,7 @@ proxies:
 - client-fingerprint: chrome
   name: 5|🇸🇬 新加坡|@ripaojiedian
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 25618
+  port: 7571
   server: 36.151.192.60
   skip-cert-verify: true
   sni: www.baidu.com
@@ -48,13 +48,13 @@ proxies:
 - client-fingerprint: chrome
   name: 5|🇸🇬 新加坡2|@ripaojiedian
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 32765
+  port: 40621
   server: 36.151.192.60
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
 - client-fingerprint: chrome
-  name: 8|SG_speednode_0148
+  name: 8|SG_speednode_0122
   network: ws
   port: 8880
   server: 92.243.75.177
@@ -69,7 +69,7 @@ proxies:
       Host: ip.langmanshanxi.top
     path: /Telegram🇨🇳 @WangCai2 /?ed=2560
 - client-fingerprint: chrome
-  name: 8|SG_speednode_0149
+  name: 8|SG_speednode_0123
   network: ws
   port: 8880
   server: 92.243.74.177
