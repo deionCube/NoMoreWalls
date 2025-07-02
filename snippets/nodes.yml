@@ -354,7 +354,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 986b3bc8-d0fb-4b60-b01f-28164e44cd48
-- name: 8|US_speednode_0228
+- name: 8|US_speednode_0215
   network: ws
   password: juzi
   port: 443
@@ -367,7 +367,7 @@ proxies:
     headers:
       Host: juzi8186-sr1.pages.dev
     path: /
-- name: 8|US_speednode_0230
+- name: 8|US_speednode_0217
   network: ws
   password: juzi
   port: 443
