@@ -38,5 +38,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzlj7Dmub52MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0
 trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#8%7CES_speednode_0002
 trojan://trojan@45.192.222.112:8443?allowInsecure=0&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/?ed=2560#8%7CHK_speednode_0056
 trojan://ttfang@138.2.64.229:443?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#8%7CSG_speednode_0065
-https://uln2So.absslk.xyz/74e9f16136f10d2791870e6baa4a885f
-https://JusaLm.mcsslk.xyz/d1126f1a56910096bf94ffb7adee480b
+https://JTODbp.mcsslk.xyz/fe3d65cdc3f90ef017ef26e576b7d0db
+https://GGggnW.absslk.xyz/8dbd48e69115bee3d3dba22e38f13a2d
