@@ -34,5 +34,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzlj7Dmub52MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0
 trojan://e8a960d8-14f5-11ec-a0fc-f23c913c8d2b@95bcc7f1-syxog0-szt6ky-1bonh.cu2.plebai.net:15229?allowInsecure=0#8%7CCN_speednode_0023
 trojan://e8a960d8-14f5-11ec-a0fc-f23c913c8d2b@95bcc7f1-syxog0-szt6ky-1bonh.cu2.plebai.net:15229?allowInsecure=0&sni=95bcc7f1-syxog0-szt6ky-1bonh.cu2.plebai.net#8%7CCN_speednode_0024
 trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#8%7CES_speednode_0052
-https://75R6Fi.mcsslk.xyz/18f1330f904122be2eea5c51bba317b3
-https://lBg2Oa.absslk.xyz/fcb3b22e7e8ac5188eed5df2adfe2d66
+https://7OGbhF.mcsslk.xyz/0e289a494055b80637bda66879eb927c
+https://idlFOY.absslk.xyz/706c82007a53ed3abae6dfeb0cb6cb0c
