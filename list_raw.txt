@@ -12,7 +12,7 @@ trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.ple
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@52.193.38.93:443#5%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 ss://YWVzLTI1Ni1nY206MjNkMDNhYTcwNGM3@156.251.179.181:636#5%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNXzwn4et8J+HsCDpppnmuK8zfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjQzLjI0Ny4xMzQuMjAxIiwgInBvcnQiOiA1OTE0OSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImVmYmRhYmViLTY4ZGYtNGNkMC05NTlkLTdkNGY0YjUwODYwOSJ9
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.61:444?allowInsecure=1&sni=www.baidu.com#5%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.10:9141?allowInsecure=1&sni=www.baidu.com#5%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.58:51083?allowInsecure=1&sni=www.baidu.com#5%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#5%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.61:4445?allowInsecure=1&sni=www.baidu.com#5%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
@@ -31,8 +31,6 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.56:5975?allowInsecure=1&sni
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8zfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjQzLjI0Ny4xMzQuMjAxIiwgInBvcnQiOiAiNTkxNDkiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZWZiZGFiZWItNjhkZi00Y2QwLTk1OWQtN2Q0ZjRiNTA4NjA5IiwgInNuaSI6ICIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK92MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0Ny43Ni4yOC40MyIsICJwb3J0IjogIjM0ODMzIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAia2NwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImRkMGQzMGFlLWE0ZDEtNGQxZS04NTUzLTQyYmZmZjY2ZmQyNyIsICJzbmkiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzlj7Dmub52MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0NS40My4zNy4yNTMiLCAicG9ydCI6ICIxNzAyMyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImtjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJmZTc5N2QzMi02NjA3LTRiNDYtOGUzOS1jNGZiMWUzYzA4NzIiLCAic25pIjogIiJ9
-trojan://e8a960d8-14f5-11ec-a0fc-f23c913c8d2b@95bcc7f1-syxog0-szt6ky-1bonh.cu2.plebai.net:15229?allowInsecure=0#8%7CCN_speednode_0023
-trojan://e8a960d8-14f5-11ec-a0fc-f23c913c8d2b@95bcc7f1-syxog0-szt6ky-1bonh.cu2.plebai.net:15229?allowInsecure=0&sni=95bcc7f1-syxog0-szt6ky-1bonh.cu2.plebai.net#8%7CCN_speednode_0024
-trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#8%7CES_speednode_0052
-https://7OGbhF.mcsslk.xyz/0e289a494055b80637bda66879eb927c
-https://idlFOY.absslk.xyz/706c82007a53ed3abae6dfeb0cb6cb0c
+trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#8%7CES_speednode_0049
+https://CwOXdt.absslk.xyz/5e9750b3e069db13b58931346b9748f0
+https://XsA3Ji.mcsslk.xyz/cb9ddb92635bcc5c417bfdf077cd5213
