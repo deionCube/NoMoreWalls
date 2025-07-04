@@ -31,6 +31,8 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.56:5975?allowInsecure=1&sni
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8zfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjQzLjI0Ny4xMzQuMjAxIiwgInBvcnQiOiAiNTkxNDkiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZWZiZGFiZWItNjhkZi00Y2QwLTk1OWQtN2Q0ZjRiNTA4NjA5IiwgInNuaSI6ICIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK92MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0Ny43Ni4yOC40MyIsICJwb3J0IjogIjM0ODMzIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAia2NwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImRkMGQzMGFlLWE0ZDEtNGQxZS04NTUzLTQyYmZmZjY2ZmQyNyIsICJzbmkiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzlj7Dmub52MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0NS40My4zNy4yNTMiLCAicG9ydCI6ICIxNzAyMyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImtjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJmZTc5N2QzMi02NjA3LTRiNDYtOGUzOS1jNGZiMWUzYzA4NzIiLCAic25pIjogIiJ9
-trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#8%7CES_speednode_0002
-https://CiD3Kp.absslk.xyz/30d6a1ca4e427c91892549320d53b578
-https://VBHGws.mcsslk.xyz/74182e0a25dea5fc24b92ba51ffa9997
+trojan://e8a960d8-14f5-11ec-a0fc-f23c913c8d2b@95bcc7f1-syxog0-szt6ky-1bonh.cu2.plebai.net:15229?allowInsecure=0#8%7CCN_speednode_0023
+trojan://e8a960d8-14f5-11ec-a0fc-f23c913c8d2b@95bcc7f1-syxog0-szt6ky-1bonh.cu2.plebai.net:15229?allowInsecure=0&sni=95bcc7f1-syxog0-szt6ky-1bonh.cu2.plebai.net#8%7CCN_speednode_0024
+trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#8%7CES_speednode_0052
+https://75R6Fi.mcsslk.xyz/18f1330f904122be2eea5c51bba317b3
+https://lBg2Oa.absslk.xyz/fcb3b22e7e8ac5188eed5df2adfe2d66
