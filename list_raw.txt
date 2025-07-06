@@ -29,11 +29,12 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.61:45203?allowInsecure=1&sn
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.61:38482?allowInsecure=1&sni=www.baidu.com#5%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.61:7041?allowInsecure=1&sni=www.baidu.com#5%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@13.215.50.90:6668?allowInsecure=1&sni=baidu.com#5%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A14%7C%40ripaojiedian
+trojan://a0f7a422-7867-469c-946b-190d8fbc2a5d@103.248.229.29:1531?allowInsecure=0#5%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A15%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.36:30534?allowInsecure=1&sni=www.baidu.com#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.60:30495?allowInsecure=1&sni=www.baidu.com#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.36:30534?allowInsecure=0&sni=www.baidu.com#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.60:30495?allowInsecure=0&sni=www.baidu.com#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#5%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK92MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0Ny43Ni4yOC40MyIsICJwb3J0IjogIjM0ODMzIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAia2NwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImRkMGQzMGFlLWE0ZDEtNGQxZS04NTUzLTQyYmZmZjY2ZmQyNyIsICJzbmkiOiAiIn0=
 trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#8%7CES_speednode_0048
-https://eZT0VK.mcsslk.xyz/c14bd40378417179eaba4486fd484248
-https://0irKbC.absslk.xyz/bd32f320094ce1ffbdd28e862da4636e
+https://KQgm0O.absslk.xyz/ab33cd2feb6f342e9671f0cd636275a9
+https://RFkOAB.mcsslk.xyz/82ab86ee23cd0a9654559cb86d5a209e

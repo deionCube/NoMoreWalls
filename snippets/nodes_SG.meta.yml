@@ -61,6 +61,13 @@ proxies:
   skip-cert-verify: true
   sni: baidu.com
   type: trojan
+- client-fingerprint: chrome
+  name: 5|🇸🇬 新加坡5|@ripaojiedian
+  password: a0f7a422-7867-469c-946b-190d8fbc2a5d
+  port: 1531
+  server: 103.248.229.29
+  skip-cert-verify: false
+  type: trojan
 - name: 8|SG_speednode_0238
   network: ws
   port: 8880
