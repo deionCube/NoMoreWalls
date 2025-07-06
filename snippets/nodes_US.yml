@@ -35,31 +35,3 @@ proxies:
   sni: 4560c642-swin40-tjuq6l-wf62.cu.plebai.net
   type: trojan
   udp: true
-- cipher: rc4-md5
-  client-fingerprint: chrome
-  name: 5|🇺🇸 美国2|@ripaojiedian
-  password: efanccyun
-  plugin: obfs
-  plugin-opts:
-    host: 202507031938065-GRRLQrsxj2.download.microsoft.com
-    mode: http
-  port: 8774
-  server: cn01.efan8867801.xyz
-  tfo: false
-  type: ss
-- client-fingerprint: chrome
-  name: 5|🇺🇸 美国3|@ripaojiedian
-  password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 30534
-  server: 36.151.251.36
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
-- client-fingerprint: chrome
-  name: 5|🇺🇸 美国4|@ripaojiedian
-  password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 30495
-  server: 36.151.251.60
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
