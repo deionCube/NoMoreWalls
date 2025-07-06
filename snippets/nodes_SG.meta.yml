@@ -68,7 +68,7 @@ proxies:
   server: 103.248.229.29
   skip-cert-verify: true
   type: trojan
-- name: 8|SG_speednode_0163
+- name: 8|SG_speednode_0153
   network: ws
   port: 8880
   server: 27.50.48.77
@@ -82,7 +82,7 @@ proxies:
     headers:
       Host: free.cfdns.online
     path: /Telegram🇨🇳 @WangCai2 /?ed=2560
-- name: 8|SG_speednode_0165
+- name: 8|SG_speednode_0154
   network: ws
   port: 8880
   server: 92.243.75.77
