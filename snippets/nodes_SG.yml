@@ -38,5 +38,5 @@ proxies:
   password: a0f7a422-7867-469c-946b-190d8fbc2a5d
   port: 1531
   server: 103.248.229.29
-  skip-cert-verify: false
+  skip-cert-verify: true
   type: trojan
