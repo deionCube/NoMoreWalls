@@ -40,5 +40,5 @@ trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&t
 trojan://Aimer@31.43.179.27:443?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=/#8%7CKZ_speednode_0112
 trojan://Aimer@46.254.93.243:8443?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=/#8%7CRU_speednode_0149
 trojan://Aimer@199.34.228.50:2053?allowInsecure=0&sni=epml.ambercc.filegear-sg.me&type=ws&host=epml.ambercc.filegear-sg.me&path=/#8%7CUS_speednode_0197
-https://SCE4AE.mcsslk.xyz/d58700812aa9fbadff5685d5c78cbbf8
-https://7U1EmJ.absslk.xyz/f93984d929c3de8c1caece7492726d76
+https://gIM9o0.mcsslk.xyz/b7371712bf5801a92c773500a8538102
+https://cd241t.absslk.xyz/6102b33a97c71fc1015a051ac176dadb
