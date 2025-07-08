@@ -34,10 +34,8 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.60:30495?allowInsecure=1#5%
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#5%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK92MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0Ny43Ni4yOC40MyIsICJwb3J0IjogIjM0ODMzIiwgImFpZCI6IDAsICJzY3kiOiAibm9uZSIsICJuZXQiOiAia2NwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImRkMGQzMGFlLWE0ZDEtNGQxZS04NTUzLTQyYmZmZjY2ZmQyNyIsICJzbmkiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKx2MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0Ny45MS4xOS4yMTYiLCAicG9ydCI6ICI3OTY1IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAia2NwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjlhMmU1OWMyLWU4YTEtNDY4NC04ZGY3LTVhNWNhNWFlMTc0YSIsICJzbmkiOiAiIn0=
-trojan://Aimer@188.164.159.214:2083?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=/#8%7CAM_speednode_0001
-trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#8%7CES_speednode_0023
-trojan://Aimer@31.43.179.27:443?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=/#8%7CKZ_speednode_0109
-trojan://Aimer@46.254.93.243:8443?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=/#8%7CRU_speednode_0141
-trojan://Aimer@199.34.228.50:2053?allowInsecure=0&sni=epml.ambercc.filegear-sg.me&type=ws&host=epml.ambercc.filegear-sg.me&path=/#8%7CUS_speednode_0183
-https://2bxl3K.absslk.xyz/8b88e0fb7f1bc84fdbb23e82f174a93e
-https://hn9QTH.mcsslk.xyz/d606c012b36539b07f6c32a5641be490
+trojan://4eedcde6-d16a-11ef-973a-f23c913c8d2b@183.240.179.89:31253?allowInsecure=0#8%7CCN_speednode_0019
+trojan://d6e1207c-f41a-11ef-9495-f23c91cfbbc9@183.240.179.89:32233?allowInsecure=0#8%7CCN_speednode_0027
+trojan://fceba144-0aa0-11ee-bf3c-f23c9164ca5d@183.240.179.89:31263?allowInsecure=0#8%7CCN_speednode_0031
+https://l3YtJH.absslk.xyz/ab0925ab33178691966b2e27be9ffc14
+https://ojOkSC.mcsslk.xyz/7d812a56906d9123f2733d2d390dd6c9
