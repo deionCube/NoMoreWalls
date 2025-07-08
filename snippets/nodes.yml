@@ -176,11 +176,10 @@ proxies:
   sni: www.baidu.com
   type: trojan
 - name: 5|🇭🇰 香港6|@ripaojiedian
-  password: 0b9c9261-7209-4dcc-b268-2fa74f6cd536
-  port: 20220
-  server: q2.46322416.xyz
+  password: 7367d04e-4c59-4dff-a50e-12e730a09891
+  port: 26193
+  server: 155.117.228.70
   skip-cert-verify: true
-  sni: cdn.alibaba.com
   type: trojan
 - name: 5|🇹🇼 台湾|@ripaojiedian
   password: 77c0e69d-f479-4636-bbe5-e79001d5708b
