@@ -31,7 +31,6 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:34719?allowInsecure=1&sn
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8zfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjM4LjE0Ny4xODkuMjMzIiwgInBvcnQiOiAiMzEwNzYiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNWMyMjI4ZjItNzU3Yi00NDQ2LTg2ODItNjhiNjUyYjA1OTkzIiwgInNuaSI6ICIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK92MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0Ny43Ni4yOC40MyIsICJwb3J0IjogIjM0ODMzIiwgImFpZCI6IDAsICJzY3kiOiAibm9uZSIsICJuZXQiOiAia2NwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImRkMGQzMGFlLWE0ZDEtNGQxZS04NTUzLTQyYmZmZjY2ZmQyNyIsICJzbmkiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKx2MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI4LjIxMS4xNDUuMTQ2IiwgInBvcnQiOiAiMjM4OSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImtjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI5ZjlmMzk1Yi1lOWIyLTRjZmQtODViMy0wNDI1ZjBlMTFhZDciLCAic25pIjogIiJ9
-trojan://tg-fq521free@45.67.215.95:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CRU_speednode_0104
-trojan://ttfang@138.2.64.229:443?allowInsecure=0&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#8%7CSG_speednode_0107
-https://4oJsoT.mcsslk.xyz/f4abe4a10196c0ea48bc91b430d72c89
-https://6FyLHV.absslk.xyz/00e7eb48b1cb3826f8e79d2b180754b6
+trojan://ttfang@138.2.95.61:1111?allowInsecure=0&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#8%7CSG_speednode_0072
+https://u6iubJ.mcsslk.xyz/ba99e25a5f075189cf5fd168fbfb9a09
+https://TPuF8g.absslk.xyz/2e7437e8a4937ca85c6378e3e548653a
