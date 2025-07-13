@@ -39,5 +39,5 @@ trojan://tg-fq521free@194.76.18.129:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu
 trojan://tg-fq521free@45.67.215.95:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CRU_speednode_0179
 trojan://tg-fq521free@216.24.57.30:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CUS_speednode_0288
 trojan://tg-fq521free@198.62.62.67:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CUS_speednode_0346
-https://65N6Pq.absslk.xyz/bf35a2f07b07793bdb4fbb2c4c9a3201
-https://olsOEq.mcsslk.xyz/c7d78d5a843947d785921eeb637f7b52
+https://sdQSKk.mcsslk.xyz/e1e6527cf2431928768802febabe222a
+https://yYtK5h.absslk.xyz/9209e21e4b2fe929b3d483272fb1a92f
