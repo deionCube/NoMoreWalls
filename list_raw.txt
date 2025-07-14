@@ -35,10 +35,8 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK83fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjQz
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK92MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0Ny43Ni4xNjAuMTU0IiwgInBvcnQiOiAiNjMxMDEiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJrY3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYmE0N2M1MTYtMGMxOC00OWQ1LTk1NDgtNjM3MGM4MzVlMTYzIiwgInNuaSI6ICIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKx2MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI4LjIxMS4xNDUuMTQ2IiwgInBvcnQiOiAiMjM4OSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImtjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI5ZjlmMzk1Yi1lOWIyLTRjZmQtODViMy0wNDI1ZjBlMTFhZDciLCAic25pIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzmlrDliqDlnaEzfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogImdoaWtrZGcyLm1pMDAwMS54eXoiLCAicG9ydCI6ICIzMTAxNCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI4MDNkZmIzNS0wYWU2LTQ1NDAtOTcxNS03MTgyZmMwNDMxODciLCAic25pIjogIiJ9
-trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#8%7CES_speednode_0047
-trojan://tg-fq521free@194.76.18.129:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CKZ_speednode_0076
-trojan://tg-fq521free@45.67.215.95:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CRU_speednode_0115
-trojan://tg-fq521free@216.24.57.30:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CUS_speednode_0224
-trojan://tg-fq521free@198.62.62.67:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CUS_speednode_0227
-https://igtz9R.mcsslk.xyz/8d158324d3ce1c227f636271bdb1d906
-https://p9l345.absslk.xyz/09f1fc5030470de1baf945332aad88bc
+trojan://tg-fq521free@194.76.18.129:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CKZ_speednode_0063
+trojan://tg-fq521free@198.62.62.67:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CUS_speednode_0184
+trojan://tg-fq521free@216.24.57.30:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CUS_speednode_0186
+https://O9gE7K.mcsslk.xyz/5240c973713f7fc97e5f17d1a1813345
+https://y5VeXU.absslk.xyz/ca586cc4f551d3d4da1f6ba33160aa0d
