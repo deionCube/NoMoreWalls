@@ -63,7 +63,7 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: 8|US_speednode_0288
+- name: 8|US_speednode_0224
   network: ws
   password: tg-fq521free
   port: 443
@@ -76,7 +76,7 @@ proxies:
     headers:
       Host: torjan.xn--xhq44j.eu.org
     path: /
-- name: 8|US_speednode_0346
+- name: 8|US_speednode_0227
   network: ws
   password: tg-fq521free
   port: 443
