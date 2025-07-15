@@ -33,5 +33,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK92MnxAcmlwYW9qaWVkaWFuICMxIiwgImFkZCI6
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKx2MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI4LjIxMS4xMzYuMjQ5IiwgInBvcnQiOiAiNTY0MjgiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJrY3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMmEzN2ViNDUtNGNkZC00YzJlLTkxNGUtZWQyZjk3MmU0MDAzIiwgInNuaSI6ICIifQ==
 trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#8%7CES_speednode_0049
 trojan://tg-fq521free@198.62.62.67:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CUS_speednode_0227
-https://4T7p3x.absslk.xyz/05c0fadf4427155e271413cc210a568d
-https://2LUnqg.mcsslk.xyz/c655709d59348a357eeaa2a17703aabf
+https://eycpYh.mcsslk.xyz/f9ec907a8224cb66b550d9db14c8f9f8
+https://U1ImVl.absslk.xyz/7259047e1af83d25978f1218e2723eb9
