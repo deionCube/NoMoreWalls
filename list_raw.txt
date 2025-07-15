@@ -31,8 +31,7 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8zfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjE4My4yMzYuOTcuMTAxIiwgInBvcnQiOiAiNDQ0MDQiLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJzbmkiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK92MnxAcmlwYW9qaWVkaWFuICMxIiwgImFkZCI6ICI0Ny43Ni4xNjAuMTU0IiwgInBvcnQiOiAiNjMxMDEiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJrY3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYmE0N2M1MTYtMGMxOC00OWQ1LTk1NDgtNjM3MGM4MzVlMTYzIiwgInNuaSI6ICIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKx2MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI4LjIxMS4xMzYuMjQ5IiwgInBvcnQiOiAiNTY0MjgiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJrY3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMmEzN2ViNDUtNGNkZC00YzJlLTkxNGUtZWQyZjk3MmU0MDAzIiwgInNuaSI6ICIifQ==
-trojan://tg-fq521free@194.76.18.129:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CKZ_speednode_0063
-trojan://tg-fq521free@198.62.62.67:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CUS_speednode_0184
-trojan://tg-fq521free@216.24.57.30:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CUS_speednode_0186
-https://QaP6Ok.mcsslk.xyz/eb2817f30477145b1c340d9f641e25d5
-https://KR2BM5.absslk.xyz/695a29cc11842193e671e613e6b5b56a
+trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#8%7CES_speednode_0049
+trojan://tg-fq521free@198.62.62.67:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CUS_speednode_0227
+https://kTXZm5.mcsslk.xyz/857cfc0d22ded02ec434dd1a5108310a
+https://NmsUvt.absslk.xyz/9d7f3e4245be74cd537a27ac3003dc6e
