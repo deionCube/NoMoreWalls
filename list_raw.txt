@@ -37,5 +37,5 @@ trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&t
 trojan://trojan@91.193.58.0:443?allowInsecure=0&sni=wahaha.yingyangkuaixian.dpdns.org&type=ws&host=wahaha.yingyangkuaixian.dpdns.org&path=/#8%7CGB_speednode_0076
 trojan://trojan@91.193.58.0:443?allowInsecure=1&sni=wahaha.yingyangkuaixian.dpdns.org&type=ws&host=wahaha.yingyangkuaixian.dpdns.org&path=/?ed=2560#8%7CGB_speednode_0077
 trojan://tg-fq521free@45.67.215.95:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CRU_speednode_0144
-https://8fm0mi.absslk.xyz/12b6a7135275ff71db9085e742248bad
-https://jjNUhv.mcsslk.xyz/f8cd36dcd1bc16c6ac78c195eaa9eada
+https://j7RRMq.absslk.xyz/0adf2c6699cb9541d7e3721b8077d618
+https://b4N25Z.mcsslk.xyz/9cd7c17882cd7b246fe94eb75b96e118
