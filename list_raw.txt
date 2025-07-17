@@ -31,5 +31,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKx2MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI4
 trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#8%7CES_speednode_0045
 trojan://trojan@91.193.58.0:443?allowInsecure=1&sni=wahaha.yingyangkuaixian.dpdns.org&type=ws&host=wahaha.yingyangkuaixian.dpdns.org&path=/?ed=2560#8%7CGB_speednode_0075
 trojan://trojan@91.193.58.0:443?allowInsecure=0&sni=wahaha.yingyangkuaixian.dpdns.org&type=ws&host=wahaha.yingyangkuaixian.dpdns.org&path=/#8%7CGB_speednode_0076
-https://2W78Qk.mcsslk.xyz/6d250c7a5e36c11969f434b156ae5daa
-https://0kB1OE.absslk.xyz/b1d91e586af5b71b8011bc3e7b88c8cc
+https://XOuwzD.mcsslk.xyz/bbd7f0fb40d5c00419c14fa787fdad3a
+https://IgrROi.absslk.xyz/9a4a73adc143595d2b35f0af55d7a9bb
