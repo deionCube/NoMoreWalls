@@ -156,8 +156,8 @@ proxies:
   type: ss
 - name: 5|🇭🇰 香港4|@ripaojiedian
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 1122
-  server: 36.151.192.13
+  port: 8001
+  server: 36.151.251.7
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
@@ -170,8 +170,8 @@ proxies:
   type: trojan
 - name: 5|🇭🇰 香港5|@ripaojiedian
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 9141
-  server: 36.151.192.13
+  port: 20783
+  server: 36.151.192.62
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
@@ -219,36 +219,36 @@ proxies:
   type: ss
 - name: 5|🇯🇵 日本3|@ripaojiedian
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 53248
-  server: 36.151.251.48
+  port: 41225
+  server: 36.151.192.239
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
 - name: 5|🇯🇵 日本4|@ripaojiedian
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 41225
-  server: 36.151.251.48
+  port: 39701
+  server: 36.151.192.239
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
 - name: 5|🇰🇷 韩国|@ripaojiedian
   password: d0d08cddacc3190ea81b1b792e1b5fde
   port: 16158
-  server: 36.151.251.48
+  server: 36.151.192.239
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
 - name: 5|🇸🇬 新加坡|@ripaojiedian
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 44123
-  server: 36.151.251.48
+  port: 32063
+  server: 36.151.192.239
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
 - name: 5|🇸🇬 新加坡2|@ripaojiedian
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 32765
-  server: 36.151.251.48
+  port: 8117
+  server: 36.151.192.239
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
@@ -265,15 +265,15 @@ proxies:
   type: ss
 - name: 5|🇺🇸 美国3|@ripaojiedian
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 4447
-  server: 36.151.251.48
+  port: 3596
+  server: 36.151.192.239
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
 - name: 5|🇺🇸 美国4|@ripaojiedian
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 13855
-  server: 36.151.251.48
+  port: 32962
+  server: 36.151.192.239
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
