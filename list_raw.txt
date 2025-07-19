@@ -33,5 +33,5 @@ trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?allowInsecure=0#
 trojan://trojan@91.193.58.0:443?allowInsecure=0&sni=wahaha.yingyangkuaixian.dpdns.org&type=ws&host=wahaha.yingyangkuaixian.dpdns.org&path=/#8%7CGB_speednode_0113
 trojan://tg-fq521free@45.67.215.95:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CRU_speednode_0194
 trojan://Aimer@92.243.74.180:8443?allowInsecure=0&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me&path=/#8%7CSG_speednode_0204
-https://ZbFwUg.mcsslk.xyz/13cd6610ccb2a31105557dd255b03af8
 https://kOhv8O.absslk.xyz/22a528db710e777f18d3cc7b2bcc5917
+https://pijkS4.mcsslk.xyz/4c933974cdcb9588aaf7eb681258d320
