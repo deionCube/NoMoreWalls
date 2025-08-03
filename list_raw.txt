@@ -60,5 +60,5 @@ trojan://tg-fq521free@216.24.57.30:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.
 trojan://Aimer@167.68.4.7:2053?allowInsecure=1&sni=epga.aimercc.dpdns.org&type=ws&host=epga.aimercc.dpdns.org&path=/?ed=2560#8%7CUS_speednode_0170
 trojan://Aimer@161.145.150.26:2087?allowInsecure=1&sni=epga.aimercc.dpdns.org&type=ws&host=epga.aimercc.dpdns.org&path=/?ed=2560#8%7CUS_speednode_0171
 trojan://Aimer@135.84.64.77:2096?allowInsecure=1&sni=epga.aimercc.dpdns.org&type=ws&host=epga.aimercc.dpdns.org&path=/?ed=2560#8%7CUS_speednode_0172
-https://TUPOyU.mcsslk.xyz/b4ac6b57f7b68d7bad945486bd63c96c
-https://hQ8AOG.absslk.xyz/fa2b1272a9ee28dc9a343f163f38ea05
+https://k3t7m4.mcsslk.xyz/ecb38747e694c3010e37d00cbc441c48
+https://z7Q6D9.absslk.xyz/6b3d6ead1736d4b07f08f3b9cac4dc5c
