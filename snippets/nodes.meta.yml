@@ -1616,7 +1616,7 @@ proxies:
   name: 5|tg频道:@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 3.110.161.102
+  server: 13.234.32.160
   tfo: false
   type: ss
 - alterId: 2
@@ -1696,6 +1696,13 @@ proxies:
   skip-cert-verify: true
   sni: www.ithome.com
   type: trojan
+- cipher: chacha20-ietf
+  name: 5|🇭🇰 香港7|@ripaojiedian
+  password: asd123456
+  port: 8388
+  server: 103.149.183.154
+  tfo: false
+  type: ss
 - name: 5|🇹🇼 台湾|@ripaojiedian
   password: test.+
   port: 30443
@@ -1705,22 +1712,12 @@ proxies:
   tls: true
   type: http
   username: test
-- alterId: 0
-  cipher: auto
-  name: 5|🇹🇼 台湾2|@ripaojiedian
-  port: 3687
-  server: 615c0f38-t0h8g0-tgxeiy-3kis.77.iwskwai.com
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 117fc3d8-fd04-11ed-b345-f23c93136cb3
 - cipher: rc4-md5
   name: 5|🇯🇵 日本|@ripaojiedian
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202507282137611-Ykh074r9Rq.download.microsoft.com
+    host: 202507282137611-5Up7OUIi18.download.microsoft.com
     mode: http
   port: 8766
   server: cn01.efan8867801.xyz
@@ -1755,23 +1752,16 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: 5|🇰🇷 韩国|@ripaojiedian
-  password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 443
-  server: 34.64.53.92
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
 - name: 5|🇸🇬 新加坡|@ripaojiedian
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 443
-  server: 157.230.32.243
+  port: 1601
+  server: 36.156.102.125
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
 - name: 5|🇸🇬 新加坡2|@ripaojiedian
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 406
+  port: 697
   server: 36.156.102.125
   skip-cert-verify: true
   sni: www.baidu.com
@@ -1800,7 +1790,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202507282137611-Ykh074r9Rq.download.microsoft.com
+    host: 202507282137611-5Up7OUIi18.download.microsoft.com
     mode: http
   port: 8774
   server: cn01.efan8867801.xyz
@@ -1808,15 +1798,15 @@ proxies:
   type: ss
 - name: 5|🇺🇸 美国3|@ripaojiedian
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 472
+  port: 329
   server: 36.156.102.125
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
 - name: 5|🇺🇸 美国4|@ripaojiedian
   password: d0d08cddacc3190ea81b1b792e1b5fde
-  port: 347
-  server: 36.156.102.125
+  port: 443
+  server: 143.110.155.169
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
@@ -1824,22 +1814,12 @@ proxies:
   cipher: auto
   name: 6|香港v2|@ripaojiedian
   network: kcp
-  port: '3423'
-  server: 8.217.129.229
+  port: '32791'
+  server: 47.243.95.92
   servername: ''
   tls: false
   type: vmess
-  uuid: 97a3cf03-66d6-4d65-aa3e-33eb6c709be7
-- alterId: 0
-  cipher: auto
-  name: 6|台湾2|@ripaojiedian
-  network: tcp
-  port: '3687'
-  server: 615c0f38-t0h8g0-tgxeiy-3kis.77.iwskwai.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 117fc3d8-fd04-11ed-b345-f23c93136cb3
+  uuid: 892ed9b7-70b2-48cb-8334-7c59e4e10daa
 - alterId: 0
   cipher: auto
   name: 6|日本v2|@ripaojiedian
