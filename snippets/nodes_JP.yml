@@ -44,15 +44,7 @@ proxies:
   tfo: false
   type: ss
 - client-fingerprint: chrome
-  name: 5|🇯🇵 日本3|@ripaojiedian
-  password: 02491ccf-e969-4200-9ebd-5e0da4eff308
-  port: 23007
-  server: okanc.iepl.cac.cab
-  skip-cert-verify: false
-  sni: www.bilibili.com
-  type: trojan
-- client-fingerprint: chrome
-  name: 5|🇯🇵 日本4|@ripaojiedian
+  name: 5|🇰🇷 韩国|@ripaojiedian
   password: d0d08cddacc3190ea81b1b792e1b5fde
   port: 461
   server: 36.156.102.125
