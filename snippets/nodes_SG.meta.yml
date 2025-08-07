@@ -53,7 +53,7 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: 8|SG_speednode_0109
+- name: 8|SG_speednode_0098
   network: ws
   port: 8880
   server: 92.243.75.186
