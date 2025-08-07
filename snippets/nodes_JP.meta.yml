@@ -53,7 +53,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 5|🇯🇵 日本4|@ripaojiedian
-  password: d0d08cddacc3190ea81b1b792e1b5fde
+  password: 253bc477d4e43c209f2d427272968280
   port: 461
   server: 36.156.102.125
   skip-cert-verify: true

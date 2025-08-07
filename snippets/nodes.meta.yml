@@ -1651,14 +1651,14 @@ proxies:
   tfo: false
   type: ss
 - name: 5|🇭🇰 香港4|@ripaojiedian
-  password: d0d08cddacc3190ea81b1b792e1b5fde
+  password: 253bc477d4e43c209f2d427272968280
   port: 447
   server: 36.156.102.125
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
 - name: 5|🇭🇰 香港6|@ripaojiedian
-  password: d0d08cddacc3190ea81b1b792e1b5fde
+  password: 253bc477d4e43c209f2d427272968280
   port: 444
   server: 36.156.102.125
   skip-cert-verify: true
@@ -1707,7 +1707,7 @@ proxies:
   sni: www.bilibili.com
   type: trojan
 - name: 5|🇯🇵 日本4|@ripaojiedian
-  password: d0d08cddacc3190ea81b1b792e1b5fde
+  password: 253bc477d4e43c209f2d427272968280
   port: 461
   server: 36.156.102.125
   skip-cert-verify: true
@@ -1721,14 +1721,14 @@ proxies:
   sni: www.bilibili.com
   type: trojan
 - name: 5|🇸🇬 新加坡|@ripaojiedian
-  password: d0d08cddacc3190ea81b1b792e1b5fde
+  password: 253bc477d4e43c209f2d427272968280
   port: 1601
   server: 36.156.102.125
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
 - name: 5|🇸🇬 新加坡2|@ripaojiedian
-  password: d0d08cddacc3190ea81b1b792e1b5fde
+  password: 253bc477d4e43c209f2d427272968280
   port: 697
   server: 36.156.102.125
   skip-cert-verify: true
@@ -1758,14 +1758,14 @@ proxies:
   tfo: false
   type: ss
 - name: 5|🇺🇸 美国3|@ripaojiedian
-  password: d0d08cddacc3190ea81b1b792e1b5fde
+  password: 253bc477d4e43c209f2d427272968280
   port: 329
   server: 36.156.102.125
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
 - name: 5|🇺🇸 美国4|@ripaojiedian
-  password: d0d08cddacc3190ea81b1b792e1b5fde
+  password: 253bc477d4e43c209f2d427272968280
   port: 472
   server: 36.156.102.125
   skip-cert-verify: true

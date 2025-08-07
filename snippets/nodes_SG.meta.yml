@@ -39,7 +39,7 @@ proxies:
     path: /?ed=2560
 - client-fingerprint: chrome
   name: 5|🇸🇬 新加坡|@ripaojiedian
-  password: d0d08cddacc3190ea81b1b792e1b5fde
+  password: 253bc477d4e43c209f2d427272968280
   port: 1601
   server: 36.156.102.125
   skip-cert-verify: true
@@ -47,7 +47,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 5|🇸🇬 新加坡2|@ripaojiedian
-  password: d0d08cddacc3190ea81b1b792e1b5fde
+  password: 253bc477d4e43c209f2d427272968280
   port: 697
   server: 36.156.102.125
   skip-cert-verify: true
