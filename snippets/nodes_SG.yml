@@ -12,15 +12,15 @@ proxies:
 - client-fingerprint: chrome
   name: 5|🇸🇬 新加坡|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
-  port: 1601
-  server: 36.156.102.125
+  port: 443
+  server: 165.22.55.206
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
 - client-fingerprint: chrome
   name: 5|🇸🇬 新加坡2|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
-  port: 697
+  port: 406
   server: 36.156.102.125
   skip-cert-verify: true
   sni: www.baidu.com
