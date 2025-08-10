@@ -18,13 +18,14 @@ proxies:
   sni: www.baidu.com
   type: trojan
 - client-fingerprint: chrome
-  name: 5|🇸🇬 新加坡2|@ripaojiedian
+  name: 5,8|CN_speednode_0018
   password: 253bc477d4e43c209f2d427272968280
   port: 406
   server: 36.156.102.125
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
+  udp: true
 - client-fingerprint: chrome
   name: 5|🇸🇬 新加坡3|@ripaojiedian
   password: f60cd513-7b83-4b64-936c-f7e88e95dacd
