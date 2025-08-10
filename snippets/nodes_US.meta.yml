@@ -1332,7 +1332,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202507282137611-G2zNAjxjDH.download.microsoft.com
+    host: 202507282137611-ABbKq8VLBc.download.microsoft.com
     mode: http
   port: 8774
   server: cn01.efan8867801.xyz
@@ -1346,11 +1346,24 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- client-fingerprint: chrome
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
   name: 5|🇺🇸 美国4|@ripaojiedian
-  password: 253bc477d4e43c209f2d427272968280
-  port: 472
-  server: 36.156.102.125
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
+  port: 33720
+  server: 23.236.68.99
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 0409e328-19f9-4305-9962-2f9f3ce9df1a
+- alterId: 0
+  cipher: auto
+  name: 6|美国4|@ripaojiedian
+  network: tcp
+  port: '33720'
+  server: 23.236.68.99
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 0409e328-19f9-4305-9962-2f9f3ce9df1a
