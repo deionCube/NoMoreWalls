@@ -37,16 +37,14 @@ proxies:
     headers:
       Host: reedfree8mahsang2.redorg.ir
     path: /?ed=2560
-- client-fingerprint: chrome
-  name: 5|🇸🇬 新加坡|@ripaojiedian
+- name: 5|🇸🇬 新加坡|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 1256
   server: 36.156.102.125
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- client-fingerprint: chrome
-  name: 5,8|CN_speednode_0018
+- name: 5,8|CN_speednode_0018
   password: 253bc477d4e43c209f2d427272968280
   port: 406
   server: 36.156.102.125
@@ -54,13 +52,12 @@ proxies:
   sni: www.baidu.com
   type: trojan
   udp: true
-- client-fingerprint: chrome
-  name: 5|🇸🇬 新加坡3|@ripaojiedian
+- name: 5|🇸🇬 新加坡3|@ripaojiedian
   password: f60cd513-7b83-4b64-936c-f7e88e95dacd
-  port: 9231
-  server: 120.240.118.215
+  port: 8233
+  server: 120.240.118.187
   skip-cert-verify: false
-  sni: steampipe.akamaized.net
+  sni: steamcdn-a.akamaihd.net
   type: trojan
 - name: 8|SG_speednode_0125
   network: ws
