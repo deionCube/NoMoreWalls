@@ -38,5 +38,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKx2MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpqazmnaXopb/kupp8QHJpcGFvamllZGlhbiIsICJhZGQiOiAibWFuYWdlci5nZ2hiam5qYmZmLnNob3AiLCAicG9ydCI6ICIxMDAwNCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJkNTRlMzc1NS1kYWY1LTRhYTAtYjQyMy1jNjJiZGUxYTY3YWUiLCAic25pIjogIiJ9
 trojan://ttfang@103.106.230.186:81?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#8%7CTW_speednode_0132
 trojan://tg-fq521free@216.24.57.30:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CUS_speednode_0172
-https://tOV04O.mcsslk.xyz/35c95a958981c68293ff6115cc2343aa
-https://u11u51.absslk.xyz/fb889e7842c07f8c62eded1b9b91144f
+https://Cg7wXs.absslk.xyz/23a125f904c625ecd89f14037a2810a0
+https://q2eS2j.mcsslk.xyz/d0dfb2ccd8f0c873161bd1c28d1a43cc
