@@ -120,7 +120,7 @@ proxies:
   name: 5|tg频道:@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 13.38.30.95
+  server: 13.239.17.206
   type: ss
 - alterId: 2
   cipher: auto
@@ -153,41 +153,6 @@ proxies:
   type: ss
 - alterId: 2
   cipher: auto
-  name: 5,6|香港3|@ripaojiedian
-  network: ws
-  port: '80'
-  server: hkt.gotochinatown.net
-  servername: ''
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 31676725-b0fd-fed2-c857-2da8ce5a6e4f
-  ws-opts:
-    headers:
-      Host: hkt.gotochinatown.net
-    path: /
-- name: 5|🇭🇰 香港4|@ripaojiedian
-  password: 253bc477d4e43c209f2d427272968280
-  port: 447
-  server: 36.156.102.125
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
-- name: 5|🇭🇰 香港5|@ripaojiedian
-  password: c7a5a064-ac05-44ea-a449-0c0c7cae19f7
-  port: 36026
-  server: 106.53.211.194
-  skip-cert-verify: true
-  type: trojan
-- name: 5|🇭🇰 香港6|@ripaojiedian
-  password: 253bc477d4e43c209f2d427272968280
-  port: 444
-  server: 36.156.102.125
-  skip-cert-verify: true
-  sni: www.ithome.com
-  type: trojan
-- alterId: 2
-  cipher: auto
   name: 5,6|香港7|@ripaojiedian
   network: ws
   port: '80'
@@ -201,19 +166,26 @@ proxies:
     headers:
       Host: broadcastlv.chat.bilibili.com
     path: /
-- name: 5|🇭🇰 香港8|@ripaojiedian
-  password: f60cd513-7b83-4b64-936c-f7e88e95dacd
-  port: 9231
-  server: 120.240.118.142
-  skip-cert-verify: false
-  sni: origin-a.akamaihd.net
+- name: 5|🇭🇰 香港4|@ripaojiedian
+  password: 253bc477d4e43c209f2d427272968280
+  port: 447
+  server: 36.156.102.125
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
+- name: 5|🇭🇰 香港6|@ripaojiedian
+  password: 253bc477d4e43c209f2d427272968280
+  port: 444
+  server: 36.156.102.125
+  skip-cert-verify: true
+  sni: www.ithome.com
   type: trojan
 - cipher: rc4-md5
   name: 5|🇯🇵 日本|@ripaojiedian
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202507282137611-tUM6KYmbwV.download.microsoft.com
+    host: 202507282137611-8jPSOxErXG.download.microsoft.com
     mode: http
   port: 8766
   server: cn01.efan8867801.xyz
@@ -246,13 +218,6 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: 5|🇯🇵 日本5|@ripaojiedian
-  password: f60cd513-7b83-4b64-936c-f7e88e95dacd
-  port: 8123
-  server: 120.240.118.142
-  skip-cert-verify: false
-  sni: upos-hz-mirrorakam.akamaized.net
-  type: trojan
 - alterId: 2
   cipher: auto
   name: 5,6|日本6|@ripaojiedian
@@ -269,10 +234,22 @@ proxies:
       Host: ocbc.com
     path: /oooo
 - cipher: chacha20-ietf-poly1305
+  name: 5|🇯🇵 日本6|@ripaojiedian
+  password: 1a17b19d-4896-4531-af79-6e91d8ef8228
+  port: 9898
+  server: 52.199.211.144
+  type: ss
+- cipher: chacha20-ietf-poly1305
   name: 5|🇰🇷 韩国|@ripaojiedian
   password: feafc2ef-d5fd-4f6d-803b-fad4a5cc1f0e
   port: 19852
   server: mm.huawei-api.top
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 5|🇰🇷 韩国2|@ripaojiedian
+  password: 1a17b19d-4896-4531-af79-6e91d8ef8228
+  port: 9898
+  server: 43.201.7.128
   type: ss
 - name: 5|🇸🇬 新加坡|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
@@ -289,13 +266,6 @@ proxies:
   sni: www.baidu.com
   type: trojan
   udp: true
-- name: 5|🇸🇬 新加坡3|@ripaojiedian
-  password: f60cd513-7b83-4b64-936c-f7e88e95dacd
-  port: 8233
-  server: 120.240.118.187
-  skip-cert-verify: false
-  sni: steamcdn-a.akamaihd.net
-  type: trojan
 - name: 5|🇺🇸 美国|@ripaojiedian
   network: ws
   password: 7248e825-887c-48b9-83bc-c26bc6392bf8
@@ -313,7 +283,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202507282137611-tUM6KYmbwV.download.microsoft.com
+    host: 202507282137611-8jPSOxErXG.download.microsoft.com
     mode: http
   port: 8774
   server: cn01.efan8867801.xyz
@@ -332,15 +302,20 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- alterId: 0
+- alterId: 2
   cipher: auto
-  name: 5|🇲🇾 马来西亚|@ripaojiedian
-  port: 10004
-  server: manager.gghbjnjbff.shop
-  skip-cert-verify: false
+  name: 6|香港3|@ripaojiedian
+  network: ws
+  port: '80'
+  server: hkt.gotochinatown.net
+  servername: ''
   tls: false
   type: vmess
-  uuid: d54e3755-daf5-4aa0-b423-c62bde1a67ae
+  uuid: 31676725-b0fd-fed2-c857-2da8ce5a6e4f
+  ws-opts:
+    headers:
+      Host: hkt.gotochinatown.net
+    path: /
 - alterId: 0
   cipher: auto
   name: 6|香港v2|@ripaojiedian

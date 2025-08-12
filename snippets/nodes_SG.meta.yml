@@ -52,13 +52,6 @@ proxies:
   sni: www.baidu.com
   type: trojan
   udp: true
-- name: 5|🇸🇬 新加坡3|@ripaojiedian
-  password: f60cd513-7b83-4b64-936c-f7e88e95dacd
-  port: 8233
-  server: 120.240.118.187
-  skip-cert-verify: false
-  sni: steamcdn-a.akamaihd.net
-  type: trojan
 - name: 8|SG_speednode_0125
   network: ws
   port: 8880

@@ -44,41 +44,6 @@ proxies:
   type: ss
 - alterId: 2
   cipher: auto
-  name: 5,6|香港3|@ripaojiedian
-  network: ws
-  port: '80'
-  server: hkt.gotochinatown.net
-  servername: ''
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 31676725-b0fd-fed2-c857-2da8ce5a6e4f
-  ws-opts:
-    headers:
-      Host: hkt.gotochinatown.net
-    path: /
-- name: 5|🇭🇰 香港4|@ripaojiedian
-  password: 253bc477d4e43c209f2d427272968280
-  port: 447
-  server: 36.156.102.125
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
-- name: 5|🇭🇰 香港5|@ripaojiedian
-  password: c7a5a064-ac05-44ea-a449-0c0c7cae19f7
-  port: 36026
-  server: 106.53.211.194
-  skip-cert-verify: true
-  type: trojan
-- name: 5|🇭🇰 香港6|@ripaojiedian
-  password: 253bc477d4e43c209f2d427272968280
-  port: 444
-  server: 36.156.102.125
-  skip-cert-verify: true
-  sni: www.ithome.com
-  type: trojan
-- alterId: 2
-  cipher: auto
   name: 5,6|香港7|@ripaojiedian
   network: ws
   port: '80'
@@ -92,13 +57,34 @@ proxies:
     headers:
       Host: broadcastlv.chat.bilibili.com
     path: /
-- name: 5|🇭🇰 香港8|@ripaojiedian
-  password: f60cd513-7b83-4b64-936c-f7e88e95dacd
-  port: 9231
-  server: 120.240.118.142
-  skip-cert-verify: false
-  sni: origin-a.akamaihd.net
+- name: 5|🇭🇰 香港4|@ripaojiedian
+  password: 253bc477d4e43c209f2d427272968280
+  port: 447
+  server: 36.156.102.125
+  skip-cert-verify: true
+  sni: www.baidu.com
   type: trojan
+- name: 5|🇭🇰 香港6|@ripaojiedian
+  password: 253bc477d4e43c209f2d427272968280
+  port: 444
+  server: 36.156.102.125
+  skip-cert-verify: true
+  sni: www.ithome.com
+  type: trojan
+- alterId: 2
+  cipher: auto
+  name: 6|香港3|@ripaojiedian
+  network: ws
+  port: '80'
+  server: hkt.gotochinatown.net
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 31676725-b0fd-fed2-c857-2da8ce5a6e4f
+  ws-opts:
+    headers:
+      Host: hkt.gotochinatown.net
+    path: /
 - alterId: 0
   cipher: auto
   name: 6|香港v2|@ripaojiedian
