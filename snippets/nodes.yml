@@ -153,7 +153,7 @@ proxies:
   type: ss
 - alterId: 2
   cipher: auto
-  name: 5,6|香港7|@ripaojiedian
+  name: 5,6|香港5|@ripaojiedian
   network: ws
   port: '80'
   server: hkt.gotochinatown.net
@@ -161,7 +161,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: vmess
-  uuid: 1c641c86-5078-11ef-a585-f23c9164ca5d
+  uuid: f5c0eda2-4b97-11ed-bd7c-f23c913c8d2b
   ws-opts:
     headers:
       Host: broadcastlv.chat.bilibili.com
@@ -220,11 +220,10 @@ proxies:
   type: trojan
 - alterId: 2
   cipher: auto
-  name: 5,6|日本6|@ripaojiedian
+  name: 5|🇯🇵 日本5|@ripaojiedian
   network: ws
-  port: '30806'
+  port: 30806
   server: v6.heduian.link
-  servername: ''
   skip-cert-verify: false
   tls: false
   type: vmess
@@ -302,20 +301,6 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- alterId: 2
-  cipher: auto
-  name: 6|香港3|@ripaojiedian
-  network: ws
-  port: '80'
-  server: hkt.gotochinatown.net
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 31676725-b0fd-fed2-c857-2da8ce5a6e4f
-  ws-opts:
-    headers:
-      Host: hkt.gotochinatown.net
-    path: /
 - alterId: 0
   cipher: auto
   name: 6|香港v2|@ripaojiedian
@@ -328,7 +313,7 @@ proxies:
   uuid: e64f666d-4b75-473b-9cc2-aaf6f0bf0e33
 - alterId: 0
   cipher: auto
-  name: 6|日本v2|@ripaojiedian
+  name: '6|日本v2|@ripaojiedian #1'
   network: kcp
   port: '37257'
   server: 47.74.57.10
@@ -336,16 +321,6 @@ proxies:
   tls: false
   type: vmess
   uuid: cb774883-1c2f-4b8a-8637-828f356e0c76
-- alterId: 0
-  cipher: auto
-  name: 6|马来西亚|@ripaojiedian
-  network: tcp
-  port: '10004'
-  server: manager.gghbjnjbff.shop
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: d54e3755-daf5-4aa0-b423-c62bde1a67ae
 - name: 8|TW_speednode_0132
   network: ws
   password: ttfang
