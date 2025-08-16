@@ -88,5 +88,5 @@ trojan://Aimer@108.165.152.175:2096?allowInsecure=1&sni=epgb.aimercc.dpdns.org&t
 trojan://Aimer@167.68.5.248:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#8%7CUS_speednode_0277
 trojan://Aimer@108.165.152.59:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#8%7CUS_speednode_0278
 trojan://Aimer@172.67.77.127:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#8%7CUS_speednode_0279
-https://Xy3Ig3.mcsslk.xyz/e01204afb2d92ff10e25cb6722379c79
-https://wxVVEF.absslk.xyz/184067f3c426659fbd8c65a7edb2473b
+https://rNlHCB.mcsslk.xyz/22191430036ca024d338e992fc8f8a4b
+https://2BrOLf.absslk.xyz/4810cc7950a66879f05b88de1ce640e1
