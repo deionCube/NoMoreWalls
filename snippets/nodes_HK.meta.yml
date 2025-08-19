@@ -51,14 +51,6 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- client-fingerprint: chrome
-  name: 5|🇭🇰 香港6|@ripaojiedian
-  password: 253bc477d4e43c209f2d427272968280
-  port: 444
-  server: 36.156.102.125
-  skip-cert-verify: true
-  sni: www.ithome.com
-  type: trojan
 - cipher: aes-128-gcm
   client-fingerprint: chrome
   name: 5|🇭🇰 香港5|@ripaojiedian
@@ -67,6 +59,14 @@ proxies:
   server: hk1-20250813213806be3c17japantm01.tmdns-sing.top
   tfo: false
   type: ss
+- client-fingerprint: chrome
+  name: 5|🇭🇰 香港6|@ripaojiedian
+  password: 253bc477d4e43c209f2d427272968280
+  port: 444
+  server: 36.156.102.125
+  skip-cert-verify: true
+  sni: www.ithome.com
+  type: trojan
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
