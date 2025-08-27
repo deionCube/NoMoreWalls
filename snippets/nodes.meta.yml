@@ -116,7 +116,7 @@ proxies:
   password: 253bc477d4e43c209f2d427272968280
   port: 13345
   server: 43.199.63.145
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
 - name: 5|🇸🇬 新加坡2|@ripaojiedian
