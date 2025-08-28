@@ -25,5 +25,5 @@ trojan://ttfang@86.38.214.194:2096?allowInsecure=1&sni=ttfang.fange.me&type=ws&h
 trojan://tg-fq521free@45.67.215.95:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CRU_speednode_0065
 trojan://tg-fq521free@216.24.57.30:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CUS_speednode_0090
 trojan://tg-fq521free@198.62.62.67:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#8%7CUS_speednode_0092
-https://tfEdZT.absslk.xyz/3a63bff9a8c3694e870bf6437d0db707
-https://d9znVh.mcsslk.xyz/dff3eff844697d42cd2be73013e94e7e
+https://vaxG1x.absslk.xyz/3f537cc53657aec4b91b44462d5a0527
+https://DomShH.mcsslk.xyz/3c482feb4202d3a1db061068318a9158
