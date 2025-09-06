@@ -55,8 +55,8 @@ proxies:
     path: /
 - name: 5|🇭🇰 香港4|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
-  port: 441
-  server: 18.162.156.99
+  port: 443
+  server: 219.77.97.194
   skip-cert-verify: true
   sni: 23.45.86.28
   type: trojan
@@ -73,7 +73,7 @@ proxies:
 - name: 5|🇭🇰 香港6|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 443
-  server: 18.162.147.157
+  server: 219.73.55.195
   skip-cert-verify: true
   sni: 23.45.86.28
   type: trojan
