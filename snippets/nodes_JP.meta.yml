@@ -5,7 +5,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202509031722041-UO2JxEthna.download.microsoft.com
+    host: 202509031722041-5eflEJAUDw.download.microsoft.com
     mode: http
   port: 8766
   server: cn01.efan8867801.xyz
@@ -28,18 +28,18 @@ proxies:
   tfo: false
   type: ss
 - client-fingerprint: chrome
-  name: 5|🇯🇵 日本3|@ripaojiedian
-  password: 253bc477d4e43c209f2d427272968280
-  port: 316
-  server: xingxing.jiasu123.org
-  skip-cert-verify: true
-  sni: 23.45.86.28
-  type: trojan
-- client-fingerprint: chrome
   name: 5|🇯🇵 日本4|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 1924
   server: 36.156.102.77
+  skip-cert-verify: true
+  sni: 23.45.86.28
+  type: trojan
+- client-fingerprint: chrome
+  name: 5|🇯🇵 日本3|@ripaojiedian
+  password: 253bc477d4e43c209f2d427272968280
+  port: 316
+  server: xingxing.jiasu123.org
   skip-cert-verify: true
   sni: 23.45.86.28
   type: trojan
@@ -48,15 +48,7 @@ proxies:
   name: 5|🇯🇵 日本5|@ripaojiedian
   password: amazongreatvpn
   port: 16888
-  server: 35.73.224.122
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 5|🇯🇵 日本6|@ripaojiedian
-  password: LcmwtQRzICXGQLioSolzi7
-  port: 2055
-  server: 106.15.224.42
+  server: 35.75.5.176
   tfo: false
   type: ss
 - alterId: 0
