@@ -139,5 +139,5 @@ trojan://slch2024@192.200.160.87:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&typ
 trojan://slch2024@199.34.229.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#8%7CUS_speednode_0125
 trojan://slch2024@195.13.45.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#8%7CUS_speednode_0126
 trojan://slch2024@216.24.57.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#8%7CUS_speednode_0127
-https://fcyf3O.mcsslk.xyz/819113285608f2d5df3f60f9c38fc62b
-https://bed8in.absslk.xyz/b4c0e241f0ee0b9a24ce0ef907aad4b6
+https://8R1uTl.mcsslk.xyz/d525be3ef1077f7a6c32a5f026b3ab42
+https://3MaPno.absslk.xyz/5e8922c6f61af2a890a0a7c6327bc60f
