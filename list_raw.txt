@@ -24,5 +24,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK92MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKx2MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI4LjIwOS4yMTEuMjM2IiwgInBvcnQiOiAiMzQ5MzMiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJrY3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiOGE5MTUwYmMtYjljOC00MGFjLWJlODMtYWFlYzQ1MTc2YTgxIiwgInNuaSI6ICIifQ==
 trojan://XWnVX2ASHl@5.255.103.217:37757?allowInsecure=0&sni=moshali.arshiacomplus.dpdns.org&type=ws&host=moshali.arshiacomplus.dpdns.org&path=/moshaliplus#8%7CNL_speednode_0012
 trojan://9e76767d-4bfa-4f04-a800-42e2f63afed2@de.viefast.net:443?allowInsecure=1&sni=csapp.catch.net.tw#8%7CSG_speednode_0022
-https://TXUaf3.absslk.xyz/eb38dbad03fee5aad6d59f8bf1e34b9c
-https://HWvzvz.mcsslk.xyz/8bcb2277a027659f83c62a9e5cd6fd9e
+https://pvaKCY.mcsslk.xyz/698eb79689707be606f771acdebab8eb
+https://zqBsse.absslk.xyz/a1cfe7083890fd704f293e03c9e3d1c7
