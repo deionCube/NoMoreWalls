@@ -22,6 +22,12 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8zfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjE0
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK83fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjE4My4yNDAuMTgwLjQ3IiwgInBvcnQiOiAiNTI1MTIiLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJzbmkiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK92MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0Ny4yMzkuMTgzLjg3IiwgInBvcnQiOiAiMjg1OTAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJrY3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZDc1NDgxYzctYjVjOC00MGE5LTgxMWEtMDJiNzA5ZTc0ODE2IiwgInNuaSI6ICIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKx2MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI4LjIwOS4yMDAuOTEiLCAicG9ydCI6ICI0MDkxNiIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImtjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJhZjA3YmY0Mi1jOTQyLTQwODUtYTdjYi04MGY5YmVkODg3NzYiLCAic25pIjogIiJ9
-trojan://9e76767d-4bfa-4f04-a800-42e2f63afed2@www.tiktok.com.jp2.viefast.net:443?allowInsecure=1&sni=www.linemo.jp#8%7CJP_speednode_0018
-https://0E4FYO.mcsslk.xyz/a9a59f5b3dfb14367682c9fac1a3dd18
-https://Y92L3t.absslk.xyz/7cc3f50c3835c81987a8854cfdfeebb2
+trojan://453121aa-6c1d-33ed-a175-cb46aa8f22f0@suningyunyou.judelvin.com:13028?allowInsecure=0&sni=3t49hrhac.qqtoup81.top#8%7CCN_speednode_0006
+trojan://453121aa-6c1d-33ed-a175-cb46aa8f22f0@suningyunyou.judelvin.com:13033?allowInsecure=0&sni=hg2983hrfx.qqtoup81.top#8%7CCN_speednode_0008
+trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?allowInsecure=1&sni=aliyun.com#8%7CHK_speednode_0014
+trojan://juzi@140.83.57.183:22735?allowInsecure=1&sni=juzi8186-sr1.pages.dev&type=ws&host=juzi8186-sr1.pages.dev&path=/?ed=2560#8%7CJP_speednode_0019
+trojan://9e76767d-4bfa-4f04-a800-42e2f63afed2@160.16.104.143:443?allowInsecure=1&sni=www.linemo.jp#8%7CJP_speednode_0020
+trojan://installshield@38.180.249.177:8443?allowInsecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#8%7CNL_speednode_0022
+trojan://juzi@154.29.155.249:443?allowInsecure=1&sni=juzi8186-sr1.pages.dev&type=ws&host=juzi8186-sr1.pages.dev&path=/?ed=2560#8%7CUS_speednode_0029
+https://3MCMh5.mcsslk.xyz/4cccc0c49c43e9db939d306dd0af6029
+https://tIqnIv.absslk.xyz/2db28b119a4df7bf6a6a3506a03108ea
