@@ -29,5 +29,5 @@ trojan://juzi@140.83.57.183:22735?allowInsecure=1&sni=juzi8186-sr1.pages.dev&typ
 trojan://9e76767d-4bfa-4f04-a800-42e2f63afed2@160.16.104.143:443?allowInsecure=1&sni=www.linemo.jp#8%7CJP_speednode_0020
 trojan://installshield@38.180.249.177:8443?allowInsecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#8%7CNL_speednode_0022
 trojan://juzi@154.29.155.249:443?allowInsecure=1&sni=juzi8186-sr1.pages.dev&type=ws&host=juzi8186-sr1.pages.dev&path=/?ed=2560#8%7CUS_speednode_0029
-https://pJcKvj.mcsslk.xyz/0df7826c04b19668840593e87622f88f
-https://JYiLMP.absslk.xyz/bfc88b5d61a65eb3ad1c8bea5e0866a9
+https://JecvQn.mcsslk.xyz/930045043211c8739bd6f8334d5832ce
+https://BVAnwW.absslk.xyz/3daf09b38e45e75820a31a92019d8cba
