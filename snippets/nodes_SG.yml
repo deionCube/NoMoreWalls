@@ -2,16 +2,16 @@ proxies:
 - client-fingerprint: chrome
   name: 5|🇸🇬 新加坡|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
-  port: 4801
-  server: 36.151.251.6
+  port: 2045
+  server: 160.16.130.66
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - client-fingerprint: chrome
   name: 5|🇸🇬 新加坡2|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
-  port: 9160
-  server: 36.151.251.6
+  port: 4397
+  server: 160.16.117.182
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
