@@ -34,5 +34,5 @@ trojan://D0AASSpCKFjOBSwlwqylnOep8BDlgN3e3RY9S3Op2RaZZ58gID8yY3ej56CSuYacZz3EA@d
 trojan://eYaw9xlNDu4695IF3CyY2leZOTnY8ZSOD3Xa3DClz0xqZy7Z3eaBFaTKOSwCSAOyEap4D@connect.appagent.net:28333?allowInsecure=0#8%7CUS_speednode_0019
 trojan://4xS33pu88RaTF37ZxRjzAZc9zxe8OaYBX9CSO3p5SSxquFOFEySnDlCleCFA2DN3gaeDl@mintaka.appagent.net:443?allowInsecure=0#8%7CUS_speednode_0020
 trojan://Z3aK0aZqwyNcz7S3l3ncNCODYxNFnA8SCOOSOZ3y3AX8xA4a0RZ3gxn39aqYAaBOyzR43acKOCzSX3S@hanger.appagent.net:28331?allowInsecure=0#8%7CUS_speednode_0021
-https://7mjyG8.mcsslk.xyz/3c32a876ea53aa411162ded0bab0814c
-https://MLogWy.absslk.xyz/62f5488b76ba3917f3270d02c4c4e84e
+https://2GtOnX.absslk.xyz/d365fe80d0eb95fff6ea421452a56d3a
+https://xfWsBz.mcsslk.xyz/d7a49abc0bc7fb1abf40eab05cf4048d
