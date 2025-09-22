@@ -43,3 +43,13 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
+- alterId: 0
+  cipher: auto
+  name: 6|日本v2|@ripaojiedian
+  network: kcp
+  port: '40916'
+  server: 8.209.200.91
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: af07bf42-c942-4085-a7cb-80f9bed88776

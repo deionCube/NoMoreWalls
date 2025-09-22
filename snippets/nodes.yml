@@ -8,10 +8,11 @@ proxies:
   type: ss
 - alterId: 2
   cipher: auto
-  name: 5|🇭🇰 香港|@ripaojiedian
+  name: 5,6|香港|@ripaojiedian
   network: ws
-  port: 30809
+  port: '30809'
   server: v9.heduian.link
+  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -140,10 +141,11 @@ proxies:
   type: trojan
 - alterId: 2
   cipher: auto
-  name: 5|🇸🇬 新加坡3|@ripaojiedian
+  name: 5,6|新加坡3|@ripaojiedian
   network: ws
-  port: 30839
+  port: '30839'
   server: v39.heduian.link
+  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -185,3 +187,43 @@ proxies:
   server: 103.186.155.28
   tfo: false
   type: ss
+- alterId: 0
+  cipher: auto
+  name: 6|香港3|@ripaojiedian
+  network: tcp
+  port: '44601'
+  server: 43.247.135.86
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 3bff49e6-b2e2-44ce-801f-06eab407e8bd
+- alterId: 0
+  cipher: auto
+  name: 6|香港v2|@ripaojiedian
+  network: kcp
+  port: '28590'
+  server: 47.239.183.87
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: d75481c7-b5c8-40a9-811a-02b709e74816
+- alterId: 0
+  cipher: auto
+  name: 6|台湾|@ripaojiedian
+  network: tcp
+  port: '49795'
+  server: 103.236.227.7
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a9024f1d-77a1-4c56-87c7-eeee5398667e
+- alterId: 0
+  cipher: auto
+  name: 6|日本v2|@ripaojiedian
+  network: kcp
+  port: '40916'
+  server: 8.209.200.91
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: af07bf42-c942-4085-a7cb-80f9bed88776
