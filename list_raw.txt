@@ -21,5 +21,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKx2MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0
 trojan://installshield@176.97.68.153:8443?allowInsecure=1&sni=176.97.68.153#8%7CAU_speednode_0002
 trojan://2fd0d127-266d-4d0b-b453-f94659a132fc@106.75.134.1:12000?allowInsecure=1&sni=aliyun.com#8%7CCN_speednode_0005
 trojan://installshield@23.162.152.30:8443?allowInsecure=1#8%7CFR_speednode_0010
-https://urF3fW.absslk.xyz/d7873bff6a02c9e6844dae3622bf1b32
-https://hFe43m.mcsslk.xyz/00c72d07b1639226939a38194e30c5cb
+https://bfZw79.mcsslk.xyz/f0638e3ff311f413514c9675b64df3cf
+https://HIrLrz.absslk.xyz/c2f6ce62336278906eb6cee17c27df03
