@@ -32,7 +32,7 @@ proxies:
     headers:
       Host: baidu.com
     path: /oooo
-- name: 8|SG_speednode_0031
+- name: 8|SG_speednode_0020
   network: ws
   port: 2096
   server: 92.243.75.32
@@ -45,4 +45,4 @@ proxies:
   ws-opts:
     headers:
       Host: kejiland.freewarp.eu.org
-    path: /snippets
+    path: /snippetssecurity=tls
