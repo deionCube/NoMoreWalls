@@ -14,5 +14,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK92MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIx
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKx2MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0My4yMDcuODMuNjAiLCAicG9ydCI6ICIyMDkzMiIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImtjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJiYzRlMDI3NS0yYTgzLTQzYmUtYTViNy0zMzJhNjE2MTVmMWQiLCAic25pIjogIiJ9
 trojan://2fd0d127-266d-4d0b-b453-f94659a132fc@106.75.134.1:12000?allowInsecure=1&sni=aliyun.com#8%7CCN_speednode_0006
 trojan://T%40_WvT8Ho%40LW%25w_%2C@nop-55q.pages.dev:2053?allowInsecure=0&sni=NOp-55q.pAgEs.dEv&type=ws&host=NOp-55q.pAgEs.dEv&path=/trGPZDfetEwuO25SAs?ed=2560#8%7CUS_speednode_0032
-https://iwodqv.mcsslk.xyz/72ff32b5c5b93d73be8854cc6bc6bd56
-https://66uaZO.absslk.xyz/22c005ccee8764d7f8765df665b22e03
+https://v5UHW4.absslk.xyz/30447102dca5826542e369e5938894c1
+https://kG6fkv.mcsslk.xyz/3325ffd59ceedaf64474ccfebb582fcc
