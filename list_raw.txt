@@ -12,5 +12,5 @@ trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:3296?allowInsecure=0&sni
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.198:38388#5%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8zfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjEwMy4yMjQuODAuNDkiLCAicG9ydCI6ICIxMjExNCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJhYTkyODU1YS05OTMyLTRlODctYjVjMi00YWVkMTU5YzdjNzgiLCAic25pIjogIiJ9
 trojan://2fd0d127-266d-4d0b-b453-f94659a132fc@106.75.134.1:12000?allowInsecure=1&sni=aliyun.com#8%7CCN_speednode_0006
-https://0erORa.mcsslk.xyz/04bebfca136e04c5839d5bba6b80ef18
-https://utWy11.absslk.xyz/507ff4b02741c60f2c03d84aab418691
+https://xB4g9q.mcsslk.xyz/124a80e4d4827f29427d3fb6e50e08d1
+https://gAWFl1.absslk.xyz/4647a6daa81855bce8094b8f321dee9f
