@@ -1,4 +1,12 @@
 proxies:
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 5|🇯🇵 日本|@ripaojiedian
+  password: be0a39a72e
+  port: 28303
+  server: 670ead.gkzltp.xyz
+  tfo: false
+  type: ss
 - client-fingerprint: chrome
   name: 5|🇯🇵 日本2|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
