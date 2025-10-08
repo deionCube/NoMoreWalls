@@ -1,12 +1,13 @@
 proxies:
 - client-fingerprint: chrome
-  name: 5|🇸🇬 新加坡|@ripaojiedian
+  name: 5,8|NL_speednode_0047
   password: 253bc477d4e43c209f2d427272968280
   port: 443
   server: 38.180.249.152
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
+  udp: true
 - client-fingerprint: chrome
   name: 5|🇸🇬 新加坡2|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
@@ -15,17 +16,7 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- alterId: 0
-  cipher: auto
-  name: 6|新加坡3|@ripaojiedian
-  network: tcp
-  port: '49513'
-  server: laeg.hsymanuscript.top
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 55a374b6-3108-4b65-a987-a0926ddbfba6
-- name: 8|SG_speednode_0023
+- name: 8|SG_speednode_0050
   network: ws
   password: wb6368
   port: 2087
