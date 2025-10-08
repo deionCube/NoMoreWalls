@@ -19,4 +19,4 @@ trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=hsdgbuys.pages.dev&type=ws
 trojan://iwangjie@158.101.11.204:15805?allowInsecure=1&sni=nodes.830901.xyz&type=ws&host=nodes.830901.xyz&path=/?ed=2560#8%7CUS_speednode_0072
 trojan://iwangjie@158.101.11.204:15805?allowInsecure=1&sni=nodes.830901.xyz&type=ws&host=nodes.830901.xyz&path=/#8%7CUS_speednode_0074
 https://r02y4M.mcsslk.xyz/b3deb22c1f6b95891a6e46f7c6e957e9
-https://FXW6RL.absslk.xyz/9f1a4eb93e1ff30a4d576cb9e15d0059
+https://Yb2ukD.absslk.xyz/cf4f949783eaa7cd14310d088c6d9648
