@@ -1,22 +1,20 @@
 proxies:
 - client-fingerprint: chrome
-  name: 5,8|CN_speednode_0018
+  name: 5|🇺🇸 美国|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
-  port: 6752
-  server: 36.156.102.88
+  port: 443
+  server: 23.227.194.234
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-  udp: true
 - client-fingerprint: chrome
-  name: 5,8|CN_speednode_0017
+  name: 5|🇺🇸 美国2|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 1572
-  server: 36.156.102.88
+  server: 36.156.102.84
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-  udp: true
 - name: 8|US_speednode_0072
   network: ws
   password: iwangjie
