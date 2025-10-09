@@ -24,5 +24,5 @@ trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?allowInsecure=1&sni
 trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=hsdgbuys.pages.dev&type=ws&host=hsdgbuys.pages.dev&path=/#8%7CSG_speednode_0050
 trojan://iwangjie@158.101.11.204:15805?allowInsecure=1&sni=nodes.830901.xyz&type=ws&host=nodes.830901.xyz&path=/?ed=2560#8%7CUS_speednode_0072
 trojan://iwangjie@158.101.11.204:15805?allowInsecure=1&sni=nodes.830901.xyz&type=ws&host=nodes.830901.xyz&path=/#8%7CUS_speednode_0074
-https://GsyJTU.mcsslk.xyz/effa426f946dc56ec1131c1d8ca2bba4
-https://q6clgr.absslk.xyz/befa268532aa770e9d4229a89bdcd9a6
+https://34dP81.absslk.xyz/0087c65fe3a77a4da6908fa42a775818
+https://A0zpuZ.mcsslk.xyz/144f578f23852ea76f298a98647e9d0b
