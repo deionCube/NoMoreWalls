@@ -17,5 +17,5 @@ trojan://253bc477d4e43c209f2d427272968280@160.16.196.59:1572?allowInsecure=0&sni
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.217:38388#5%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=hsdgbuys.pages.dev&type=ws&host=hsdgbuys.pages.dev&path=/#8%7CSG_speednode_0018
 trojan://installshield@38.180.106.124:8443?allowInsecure=1#8%7CSG_speednode_0020
-https://BdRSMy.absslk.xyz/e7e8e61ab6b66acc2b1eef283a4181dd
-https://DxwUtS.mcsslk.xyz/5eaf997be52e8b0f0fe0172fe6095975
+https://Q8FVeE.mcsslk.xyz/11ef3b9ca2b0f923dd4ef220da3569cd
+https://hRHzmv.absslk.xyz/12f0d8ba41b3fef4b34a45ea0e43ee6b
