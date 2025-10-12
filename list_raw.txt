@@ -16,5 +16,5 @@ trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=hsdgbuys.pages.dev&type=ws
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.136:38388#5%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8zfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjEwMy4yMjQuODAuNjciLCAicG9ydCI6ICIzMDQ4NSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJhOWJhOTA0ZS0yZDhiLTQwMWUtOTIyNi1iNTExNGMwNDlmMDUiLCAic25pIjogIiJ9
 trojan://installshield@38.180.106.124:8443?allowInsecure=1#8%7CSG_speednode_0020
-https://gsu9fq.absslk.xyz/d450db6ded9bbecdd96c984669d7096c
-https://NMYuwp.mcsslk.xyz/010c918ad0628fc43e8073cb090d824d
+https://DCfM6R.mcsslk.xyz/2b2d7e3cc70fcd492d03ebff8a762808
+https://1JBJmw.absslk.xyz/d0f2e427b503fcaa746ec972a0e17766
