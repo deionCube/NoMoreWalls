@@ -17,5 +17,5 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8zfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjEwMy4yMjQuODAuNjciLCAicG9ydCI6ICIzMDQ4NSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJhOWJhOTA0ZS0yZDhiLTQwMWUtOTIyNi1iNTExNGMwNDlmMDUiLCAic25pIjogIiJ9
 trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=hsdgbuys.pages.dev&type=ws&host=hsdgbuys.pages.dev&path=/#8%7CSG_speednode_0018
 trojan://installshield@38.180.106.124:8443?allowInsecure=1#8%7CSG_speednode_0020
-https://1a3oaB.mcsslk.xyz/404e9e436469c99e47baa8a428e4b242
-https://zWpxC6.absslk.xyz/661bcac9655237ae8ec8afa00fe9c57b
+https://jlJJe6.absslk.xyz/89d0de3f47a82b30a64e73d9811510ab
+https://MDq4i3.mcsslk.xyz/dd6ae984a61893dcbb05cbc5ae029efa
