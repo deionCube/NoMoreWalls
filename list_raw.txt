@@ -18,5 +18,6 @@ trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.106.144:2381?allowInsecure=1&sn
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.106.144:2467?allowInsecure=1&sni=www.baidu.com#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.234:38388#5%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK81fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjEwMy4yMjQuODAuNDIiLCAicG9ydCI6ICIzODkwMSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIyMzA5MzhkOS1hZTlkLTQ5ZTctYjNjYi05ZjQ0MTY4Zjg5ZTgiLCAic25pIjogIiJ9
-https://RhLDO3.absslk.xyz/d2f90351ff135783a197ea7265263cda
-https://KFZ84R.mcsslk.xyz/ab6187240db3044c445da8bd765a30a0
+trojan://d0728e94-82c2-456b-b5d4-eeab540599df@172.67.192.215:443?allowInsecure=0&sni=joss.krikkrik.xyz&type=ws&host=joss.krikkrik.xyz&path=/Free-VPN-CF-Geo-Project/AE5#8%7CUS_speednode_0054
+https://wkbOfs.mcsslk.xyz/5a651a94186cf82817388108da9735b0
+https://CEgFcO.absslk.xyz/a8096ce938827da8624040f72d424767
