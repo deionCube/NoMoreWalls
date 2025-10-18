@@ -41,9 +41,10 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - client-fingerprint: chrome
-  name: 5|🇭🇰 香港5|@ripaojiedian
+  name: 5,8|CN_speednode_0004
   password: BxceQaOe
   port: 4556
   server: 36.151.195.112
   skip-cert-verify: true
   type: trojan
+  udp: true
