@@ -14,5 +14,5 @@ trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:2381?allowInsecure=1&sni
 trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:2467?allowInsecure=1&sni=www.baidu.com#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://890c928b-9ceb-4048-aff2-944461463ee8@cdnfire.xiaomispeed.com:25502?allowInsecure=1&sni=cdnfire.xiaomispeed.com#8%7CTW_speednode_0091
 trojan://trojan@www.visa.com.sg:8443?allowInsecure=0&sni=azadnet-f03.pages.dev&type=ws&host=azadnet-f03.pages.dev&path=/?ed=2560#8%7CUS_speednode_0100
-https://FCn5ZO.absslk.xyz/8313beaa3029fe2c74e2655c42f4e5f0
-https://UPyxJm.mcsslk.xyz/036061d2857b648a0978c78f62ccbd8b
+https://RciUGv.absslk.xyz/041763725cb3483a9cbf2a06981f3b6c
+https://fVsfvh.mcsslk.xyz/1609f8e6a51c5d21d2bf620024035e45
