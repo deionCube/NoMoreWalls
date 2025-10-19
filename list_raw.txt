@@ -15,5 +15,5 @@ trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.132.158:2381?allowInsecure=1&sn
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.132.158:2467?allowInsecure=1&sni=www.baidu.com#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.217:38388#5%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8zfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjEwMy4yMjQuODAuMTE4IiwgInBvcnQiOiAiNDU5MzkiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMGFiNTZjNDYtOGJlZS00MmZlLTllYzEtYTJkYThiMjY0YmI4IiwgInNuaSI6ICIifQ==
-https://owWJy1.absslk.xyz/377ac1005f1bbaca61005f7d4ad8a117
-https://dPOYNO.mcsslk.xyz/9985bcc79f9c88b3f42f31eaf39bd5b4
+https://tsZFOQ.mcsslk.xyz/eb5298a7fcb76bbba50a3abe67c2e22f
+https://VWJnET.absslk.xyz/e7a2464ec3a3b186cf768bac2292905c
