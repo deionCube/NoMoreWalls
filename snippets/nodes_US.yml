@@ -1,9 +1,17 @@
 proxies:
 - client-fingerprint: chrome
-  name: 5|🇺🇸 美国2|@ripaojiedian
-  password: c53647f3153f784b3c695ffbe5fb43c0
+  name: 5|🇺🇸 美国|@ripaojiedian
+  password: ea39fa94f1ee00999337ea1fd3318e69
   port: 2467
-  server: 202.181.103.235
+  server: 160.16.68.250
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- client-fingerprint: chrome
+  name: 5|🇺🇸 美国2|@ripaojiedian
+  password: ea39fa94f1ee00999337ea1fd3318e69
+  port: 2381
+  server: 160.16.68.250
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
@@ -15,3 +23,24 @@ proxies:
   skip-cert-verify: true
   type: trojan
   udp: true
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 5|🇺🇸 美国4|@ripaojiedian
+  port: 47083
+  server: 124.236.46.114
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: fd49381f-9fd8-4403-8698-48331a4d775d
+- alterId: 0
+  cipher: auto
+  name: 6|美国4|@ripaojiedian
+  network: tcp
+  port: '47083'
+  server: 124.236.46.114
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fd49381f-9fd8-4403-8698-48331a4d775d
