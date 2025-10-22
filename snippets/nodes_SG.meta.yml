@@ -22,7 +22,7 @@ proxies:
   server: 36.156.102.115
   skip-cert-verify: true
   type: trojan
-- name: 8|SG_speednode_0026
+- name: 8|SG_speednode_0022
   network: ws
   port: 443
   server: 185.114.78.230
