@@ -17,6 +17,6 @@ trojan://82e0ff78-c281-4806-99ee-24c1d9912b4c@lazy.rsqpq.cn:33001?allowInsecure=
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:2467?allowInsecure=0&sni=www.nintendogames.net#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:2381?allowInsecure=0&sni=www.nintendogames.net#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://BxceQaOe@36.156.102.115:22443?allowInsecure=1#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
-trojan://BxceQaOe@36.150.215.138:4451?allowInsecure=1&sni=36.150.215.138#8%7CCN_speednode_0004
-https://OCccYD.mcsslk.xyz/a0d6e77b4070b212f66ef4000aa99fba
-https://7XXSgt.absslk.xyz/44a984fe295fb681cc5262c247c75790
+trojan://T%40_WvT8Ho%40LW%25w_%2C@nop-55q.pages.dev:2053?allowInsecure=0&sni=NOp-55q.pAgEs.dEv&type=ws&host=NOp-55q.pAgEs.dEv&path=/trGPZDfetEwuO25SAs#8%7CUS_speednode_0031
+https://mWma5N.absslk.xyz/4e2faad1c05fd5fe7d3e6bd4e1beaacf
+https://K8wHp9.mcsslk.xyz/f8308e53e163615df12dd8826db5e04f
