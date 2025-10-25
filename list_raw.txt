@@ -16,5 +16,5 @@ trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.89.176:2381?allowInsecure=0&sni
 trojan://BxceQaOe@36.151.251.23:26876?allowInsecure=1#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8zfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjEwMy4yMjQuODAuMTAwIiwgInBvcnQiOiAiMTQ5OTQiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDA3MzFjOTgtOTUxNC00ZTc1LWI3OGUtNTgzMTFkMjE0MDk1IiwgInNuaSI6ICIifQ==
 trojan://T%40_WvT8Ho%40LW%25w_%2C@nop-55q.pages.dev:2053?allowInsecure=0&sni=NOp-55q.pAgEs.dEv&type=ws&host=NOp-55q.pAgEs.dEv&path=/trGPZDfetEwuO25SAs#8%7CUS_speednode_0042
-https://kefFpS.mcsslk.xyz/45bb1644a5a08cb739c2f16a86bf29b2
-https://p73giu.absslk.xyz/45edd6edd524d5ab135bc9dc367f35e2
+https://Ud4fHb.mcsslk.xyz/e0a07a1b1a38f71f3f92dc94d780f6a8
+https://ZI0OmV.absslk.xyz/56f4c85675a1c293b948111a6fb9832a
