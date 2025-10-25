@@ -47,19 +47,21 @@ proxies:
   tls: false
   type: vmess
   uuid: 40731c98-9514-4e75-b78e-58311d214095
-- name: 5|🇭🇰 香港4|@ripaojiedian
+- name: 5,8|HK_speednode_0012
   password: ea39fa94f1ee00999337ea1fd3318e69
   port: 443
   server: 58.152.110.83
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 5|🇭🇰 香港5|@ripaojiedian
+  udp: true
+- name: 5,8|CN_speednode_0002
   password: BxceQaOe
   port: 4451
   server: 36.151.251.23
   skip-cert-verify: true
   type: trojan
+  udp: true
 - name: 5|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 811
@@ -101,12 +103,13 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 5|🇸🇬 新加坡3|@ripaojiedian
+- name: 5,8|CN_speednode_0001
   password: BxceQaOe
   port: 24392
   server: 36.151.251.35
   skip-cert-verify: true
   type: trojan
+  udp: true
 - name: 5|🇺🇸 美国|@ripaojiedian
   password: ea39fa94f1ee00999337ea1fd3318e69
   port: 2467
@@ -137,7 +140,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 40731c98-9514-4e75-b78e-58311d214095
-- name: 8|US_speednode_0028
+- name: 8|US_speednode_0042
   network: ws
   password: T@_WvT8Ho@LW%w_,
   port: 2053
