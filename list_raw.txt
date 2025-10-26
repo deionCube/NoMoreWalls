@@ -20,5 +20,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8zfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjQz
 trojan://BxceQaOe@36.151.251.23:4451?allowInsecure=1#8%7CCN_speednode_0002
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.83:443?allowInsecure=0&sni=www.nintendogames.net#8%7CHK_speednode_0012
 trojan://T%40_WvT8Ho%40LW%25w_%2C@nop-55q.pages.dev:2053?allowInsecure=0&sni=NOp-55q.pAgEs.dEv&type=ws&host=NOp-55q.pAgEs.dEv&path=/trGPZDfetEwuO25SAs#8%7CUS_speednode_0042
-https://tnWOUA.mcsslk.xyz/de8f421c6ebdcc744f7b9a9c92c0ea81
-https://z0G2Bl.absslk.xyz/ab0fd7d2e92857fad78da0780351ff41
+https://f1VKwR.absslk.xyz/94a84909be29c8d1409fc346b0eb410d
+https://5qSe0s.mcsslk.xyz/c39178a550c98c08dad50527b4927767
