@@ -16,7 +16,7 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - client-fingerprint: chrome
-  name: 5,8|CN_speednode_0001
+  name: 5,8|CN_speednode_0002
   password: BxceQaOe
   port: 24392
   server: 36.151.251.35
