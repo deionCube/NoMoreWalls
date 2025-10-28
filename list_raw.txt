@@ -17,5 +17,5 @@ trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.236.32:2381?allowInsecure=0&sni
 trojan://BxceQaOe@36.150.215.241:27409?allowInsecure=1#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8zfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjQzLjI0Ny4xMzQuMjEzIiwgInBvcnQiOiAiNTk1MTYiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMjkwNmUxOWUtYzk5Zi00NTZlLWJjYjMtYzU0NzJmZDU5NGU1IiwgInNuaSI6ICIifQ==
 trojan://BxceQaOe@36.151.251.23:4451?allowInsecure=1#8%7CCN_speednode_0001
-https://WBC5wy.absslk.xyz/ec31b97d63417cfb3c9d50fa86fbd2aa
-https://1fizcr.mcsslk.xyz/52cc396737f94f22584791ee6ce2953c
+https://coavop.mcsslk.xyz/f3d651de0a4c6ad570c5ec3a6fcc7338
+https://PgikSg.absslk.xyz/0c7dde2abd46d7a03169226eedd4d024
