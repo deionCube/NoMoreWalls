@@ -14,6 +14,7 @@ trojan://BxceQaOe@36.150.215.197:9713?allowInsecure=1#5%7C%F0%9F%87%B8%F0%9F%87%
 trojan://ea39fa94f1ee00999337ea1fd3318e69@117.172.176.24:2467?allowInsecure=0&sni=www.nintendogames.net#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://ea39fa94f1ee00999337ea1fd3318e69@117.172.176.24:2381?allowInsecure=0&sni=www.nintendogames.net#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://BxceQaOe@36.156.102.74:43567?allowInsecure=1#5%2C8%7CCN_speednode_0003
+vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK82fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjM2LjEzMy43My4zNiIsICJwb3J0IjogIjExODE5IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImRlMzI3NTJjLTA2NjEtNDY3ZS04MmQzLTM1YmM3NDBhNzg3ZiIsICJzbmkiOiAiIn0=
 trojan://b00abf05-5768-4ac9-8d20-6b1bd605bcf6@hxfz940e90d9.nfwzdm.com:42765?allowInsecure=1&sni=v1-dy.ixigua.com#8%7CCN_speednode_0002
-https://FA4PfV.mcsslk.xyz/b33d7e8d74e21377e6c3e35882e29803
-https://vSC86y.absslk.xyz/2c153efb4c1463d5cb0c9194fadf2f95
+https://FU7p5D.absslk.xyz/cd412bc5ead9419ab31ce9c87a9ab03a
+https://cdSnMk.mcsslk.xyz/fb5f6c49107f3b3fb8d7c02de2fa79f6
