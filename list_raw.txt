@@ -18,5 +18,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK82fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjM2
 trojan://7197668c-0332-466e-9553-41639c4bc95f@n002.xunxunmimisbs.sbs:23100?allowInsecure=0&sni=uk01.xxxxyyyysbs.sbs#8%7CCN_speednode_0003
 trojan://2c1f575d-08ad-4ad8-b2b2-f147379dd36d@n002.xunxunmimisbs.sbs:28100?allowInsecure=0&sni=db01.xxxxyyyysbs.sbs#8%7CCN_speednode_0004
 trojan://f128c8a8-d184-4f9d-8aa2-503266130126@n001.xunxunmimisbs.sbs:23100?allowInsecure=0&sni=uk01.xxxxyyyysbs.sbs#8%7CCN_speednode_0006
-https://tCqc33.mcsslk.xyz/73c05a275682593610d688badf9771f1
-https://R1tF3P.absslk.xyz/f031bf3830c59103e169c28712d292d8
+https://dOVeqr.absslk.xyz/ce349cba54efc7e3179c358f3f4a7e3a
+https://mZiJLM.mcsslk.xyz/4a656865e500d94960c6f3a497bb2005
