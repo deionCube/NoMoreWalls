@@ -3,7 +3,7 @@ proxies:
   name: 5|🇸🇬 新加坡|@ripaojiedian
   password: bca467b8c15211d189008a93c7519d3b
   port: 5041
-  server: 160.16.229.223
+  server: 117.172.176.24
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
@@ -11,7 +11,7 @@ proxies:
   name: 5|🇸🇬 新加坡2|@ripaojiedian
   password: bca467b8c15211d189008a93c7519d3b
   port: 5321
-  server: 160.16.229.223
+  server: 117.172.176.24
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
