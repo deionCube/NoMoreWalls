@@ -17,5 +17,5 @@ trojan://ea39fa94f1ee00999337ea1fd3318e69@117.172.176.24:2381?allowInsecure=0&sn
 trojan://BxceQaOe@36.151.251.47:53743?allowInsecure=1#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK82fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjM2LjEzMy43My4zNiIsICJwb3J0IjogIjExODE5IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImRlMzI3NTJjLTA2NjEtNDY3ZS04MmQzLTM1YmM3NDBhNzg3ZiIsICJzbmkiOiAiIn0=
 trojan://telegram-id-privatevpns@3.78.19.159:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CDE_speednode_0009
-https://qPIhRN.absslk.xyz/45a35d0f5eef53abf8f988084fbb524e
-https://DqmTNn.mcsslk.xyz/604eb2b14365a44cd21ff97f99983ccc
+https://WEWr0L.absslk.xyz/a266c989d02540606424ff22b196dd74
+https://49jSuM.mcsslk.xyz/3df03b769d8fb086e6f0dea6f1ce9172
