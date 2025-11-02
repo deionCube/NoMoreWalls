@@ -16,11 +16,6 @@ trojan://ea39fa94f1ee00999337ea1fd3318e69@117.172.176.24:2467?allowInsecure=0&sn
 trojan://ea39fa94f1ee00999337ea1fd3318e69@117.172.176.24:2381?allowInsecure=0&sni=www.nintendogames.net#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://BxceQaOe@36.151.251.47:53743?allowInsecure=1#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK82fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjM2LjEzMy43My4zNiIsICJwb3J0IjogIjExODE5IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImRlMzI3NTJjLTA2NjEtNDY3ZS04MmQzLTM1YmM3NDBhNzg3ZiIsICJzbmkiOiAiIn0=
-trojan://BxceQaOe@36.156.102.74:4861?allowInsecure=1#8%7CCN_speednode_0002
-trojan://7197668c-0332-466e-9553-41639c4bc95f@n002.xunxunmimisbs.sbs:23100?allowInsecure=0&sni=uk01.xxxxyyyysbs.sbs#8%7CCN_speednode_0003
-trojan://2c1f575d-08ad-4ad8-b2b2-f147379dd36d@n002.xunxunmimisbs.sbs:28100?allowInsecure=0&sni=db01.xxxxyyyysbs.sbs#8%7CCN_speednode_0004
-trojan://bca467b8c15211d189008a93c7519d3b@117.172.176.24:5041?allowInsecure=0&sni=www.nintendogames.net#8%7CCN_speednode_0005
-trojan://f128c8a8-d184-4f9d-8aa2-503266130126@n001.xunxunmimisbs.sbs:23100?allowInsecure=0&sni=uk01.xxxxyyyysbs.sbs#8%7CCN_speednode_0006
-trojan://bca467b8c15211d189008a93c7519d3b@117.172.176.24:5321?allowInsecure=0&sni=www.nintendogames.net#8%7CCN_speednode_0007
-https://6wk1NH.mcsslk.xyz/0917b06331703ead3ebdd6bfb5aeb454
-https://MEXhoF.absslk.xyz/5f9f765eb95296bcad6d00a1f0589b58
+trojan://telegram-id-privatevpns@3.78.19.159:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CDE_speednode_0009
+https://PV8FjQ.mcsslk.xyz/aa6bbb0e22fb46ec1d9c373f05d05b05
+https://Zz8CYs.absslk.xyz/580486aff76cca02fd4e767ab0b5a974
