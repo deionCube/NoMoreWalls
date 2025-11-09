@@ -15,11 +15,12 @@ trojan://1b57001bd214304027025a740b6cf1ac@117.172.176.22:2173?allowInsecure=0&sn
 trojan://BxceQaOe@36.150.215.248:8041?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://1b57001bd214304027025a740b6cf1ac@153.121.44.99:1328?allowInsecure=0&sni=www.nintendogames.net#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://e4e262d453466988575c397a30562337@117.172.176.22:4173?allowInsecure=0&sni=www.nintendogames.net#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-trojan://BxceQaOe@36.151.251.38:38799?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
+trojan://BxceQaOe@36.151.251.38:38799?allowInsecure=1&sni=t.me%2Fripaojiedian#5%2C8%7CCN_speednode_0012
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.215:38388#5%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK82fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjguMTQ4LjE5NC4yNyIsICJwb3J0IjogIjExMjEwIiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImM3NGYwMzA0LTViNDMtMzc3Mi04NTJhLTJiMTA4YzQyM2QyMyIsICJzbmkiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpn6nlm718QHJpcGFvamllZGlhbiIsICJhZGQiOiAiOC4xNDguMjQ4LjEwNSIsICJwb3J0IjogIjExMjE1IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImM3NGYwMzA0LTViNDMtMzc3Mi04NTJhLTJiMTA4YzQyM2QyMyIsICJzbmkiOiAiIn0=
-trojan://dce3c42b-f259-4b18-b5c1-a42ebef4e732@naiu-hk.05vr9nyqg5.download:13007?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#8%7CCN_speednode_0003
-trojan://BxceQaOe@58.152.46.98:443?allowInsecure=1&sni=58.152.46.98#8%7CHK_speednode_0013
+trojan://BxceQaOe@36.151.251.38:38799?allowInsecure=1&sni=t.me/ripaojiedian#8%7CCN_speednode_0009
+trojan://BxceQaOe@203.198.122.129:443?allowInsecure=1&sni=203.198.122.129#8%7CHK_speednode_0023
+trojan://telegram-id-directvpn@51.45.27.162:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CUS_speednode_0028
+https://ejPe4y.absslk.xyz/7d7b5dd040fce5a68b1f6612582d9e64
 https://V6yman.mcsslk.xyz/62d67fd87a081adf063035d99a80a7f6
-https://gH9LRN.absslk.xyz/2449b9822b3b7a0f8748c2e68e665ffb
