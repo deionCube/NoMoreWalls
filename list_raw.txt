@@ -22,4 +22,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpn6nlm718QHJpcGFvamllZGlhbiIsICJhZGQiOiAiOC4x
 trojan://dce3c42b-f259-4b18-b5c1-a42ebef4e732@naiu-hk.05vr9nyqg5.download:13007?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#8%7CCN_speednode_0003
 trojan://BxceQaOe@58.152.46.98:443?allowInsecure=1&sni=58.152.46.98#8%7CHK_speednode_0013
 https://V6yman.mcsslk.xyz/62d67fd87a081adf063035d99a80a7f6
-https://Z5x7JJ.absslk.xyz/38785bf373a1c56ad3c7936d7f2a41c3
+https://DnBSr3.absslk.xyz/29858be79763456ed7a582c9f27663bb
