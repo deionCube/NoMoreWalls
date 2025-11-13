@@ -21,5 +21,5 @@ trojan://BxceQaOe@116.49.237.130:4569?allowInsecure=1&sni=t.me%2Fripaojiedian#8%
 trojan://c2d6a850-7e35-44f5-ab9f-8299f6f8c72b@194.147.115.149:443?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/194.147.115.149=443#8%7CNL_speednode_0006
 trojan://49d416e1-4cec-41e1-bff6-3748c466f275@45.144.48.158:8443?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.144.48.158=8443#8%7CPL_speednode_0007
 trojan://14d6efcf-b0d3-4054-9d4e-e1347e3ceaa2@213.159.208.88:2053?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/213.159.208.88=2053#8%7CRU_speednode_0009
-https://MAjgKa.mcsslk.xyz/c78c4c99f4c09cfc49da946eaf39a79d
-https://sT9Oje.absslk.xyz/0f1d0a705d9887b58f052bb3c771b1d6
+https://3SWfTB.mcsslk.xyz/95f3b9480045574e5279366667734e46
+https://GZV50V.absslk.xyz/edf194a1d92787cc044b771dfa9ad27e
