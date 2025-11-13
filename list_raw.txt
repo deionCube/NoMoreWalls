@@ -17,9 +17,11 @@ trojan://2274c52572e721086f8bd8f88984643c@160.16.68.250:2890?allowInsecure=0&sni
 trojan://2274c52572e721086f8bd8f88984643c@117.172.176.25:4054?allowInsecure=0&sni=www.nintendogames.net#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://BxceQaOe@36.150.215.243:19220?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKw0fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjE3NS4yOS4yMi4xMDEiLCAicG9ydCI6ICIyODAxNiIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJkMjU0MDMyNS05YWQ2LTMzZDctYmU4Ni0yNTliNWJiYTRlZjgiLCAic25pIjogIiJ9
-trojan://BxceQaOe@116.49.237.130:4569?allowInsecure=1&sni=t.me%2Fripaojiedian#8%7CHK_speednode_0004
-trojan://c2d6a850-7e35-44f5-ab9f-8299f6f8c72b@194.147.115.149:443?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/194.147.115.149=443#8%7CNL_speednode_0006
-trojan://49d416e1-4cec-41e1-bff6-3748c466f275@45.144.48.158:8443?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.144.48.158=8443#8%7CPL_speednode_0007
-trojan://14d6efcf-b0d3-4054-9d4e-e1347e3ceaa2@213.159.208.88:2053?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/213.159.208.88=2053#8%7CRU_speednode_0009
-https://Jt6aSZ.mcsslk.xyz/6124c673ac0b4a529143d3d9d312a476
-https://yRoHvo.absslk.xyz/7742d2234fa6900faf4bf044bae5f080
+trojan://88701884-7690-4b79-ac5d-36d299e05e83@34.22.190.30:443?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/34.22.190.30=443#8%7CBE_speednode_0001
+trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/94.131.114.50=81#8%7CIL_speednode_0008
+trojan://5ad5fe82-6b60-4f59-977b-93910ef7a9ca@86.107.197.239:443?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/86.107.197.239=443#8%7CNL_speednode_0015
+trojan://55d19115-ec40-407b-a674-74e6a948347a@45.144.48.55:2053?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.144.48.55=2053#8%7CPL_speednode_0016
+trojan://14d6efcf-b0d3-4054-9d4e-e1347e3ceaa2@213.159.208.88:2053?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/213.159.208.88=2053#8%7CRU_speednode_0018
+trojan://edeff73d-065d-4b0a-b848-aad9d3380223@77.221.141.207:443?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/77.221.141.207=443#8%7CSE_speednode_0020
+https://tzLdX1.absslk.xyz/a0ba23bceb83ee6306e36b096f5d64ab
+https://KZ2rXG.mcsslk.xyz/ee348703ce384749844a7fb136073166
