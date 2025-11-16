@@ -19,5 +19,5 @@ trojan://BxceQaOe@us.wyau.cn:4569?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F
 trojan://telegram-id-directvpn@13.36.161.224:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CFR_speednode_0007
 trojan://-4146XJHYAzJ4K8Ov6_LBQ@194.35.116.62:11000?allowInsecure=0&sni=f4e23c6c168f0e91.noproblemvpn.ru&type=ws&host=f4e23c6c168f0e91.noproblemvpn.ru&path=/tw#8%7CRU_speednode_0016
 trojan://telegram-id-directvpn@51.45.34.73:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CUS_speednode_0020
-https://n3FV3k.mcsslk.xyz/fe70ba4fd2e908fea233afa55a4d2679
 https://k1Iu60.absslk.xyz/2b8c74401281cd806cebcc37e010a4ee
+https://n3FV3k.mcsslk.xyz/fe70ba4fd2e908fea233afa55a4d2679
