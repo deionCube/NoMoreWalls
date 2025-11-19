@@ -20,5 +20,5 @@ trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@194.87.18.124:443?allowInsecure=1&
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@45.144.172.243:443?allowInsecure=1&sni=www.bilibili.com#8%7CIL_speednode_0006
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@108.165.255.5:443?allowInsecure=1&sni=www.bilibili.com#8%7CUS_speednode_0013
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@96.126.190.132:443?allowInsecure=1&sni=www.bilibili.com#8%7CUS_speednode_0014
-https://g1Gk0g.absslk.xyz/f925095e1fb57d252454f2ea831a1e8d
 https://geqyiH.mcsslk.xyz/c290df6db9efe0b16af5264ad849d77a
+https://g1Gk0g.absslk.xyz/f925095e1fb57d252454f2ea831a1e8d
