@@ -30,5 +30,5 @@ trojan://2302eb2b-9401-4176-a4da-b41d4cd55756@185.247.184.186:8443?allowInsecure
 trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/81.22.132.183=443#8%7CNL_speednode_0097
 trojan://422d402c-58f1-4473-abeb-fe6e69dc97ed@217.30.10.31:8443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/217.30.10.31=8443#8%7CPL_speednode_0098
 trojan://6ead60c4-4321-45d5-81a9-ba4835f7c692@45.159.251.8:81?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/45.159.251.8=81#8%7CPT_speednode_0099
-https://g1Gk0g.absslk.xyz/f925095e1fb57d252454f2ea831a1e8d
 https://geqyiH.mcsslk.xyz/c290df6db9efe0b16af5264ad849d77a
+https://g1Gk0g.absslk.xyz/f925095e1fb57d252454f2ea831a1e8d
