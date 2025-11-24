@@ -28,14 +28,13 @@ proxies:
   port: 443
   server: 103.103.245.158
   type: ss
-- name: 5,8|HK_speednode_0019
-  password: dd2f25b4c70689de8bc0f7fa9d6591cb
+- name: 5|🇭🇰 香港3|@ripaojiedian
+  password: 2cf6d686799e6fa95316394064f26c0a
   port: 443
   server: 58.152.110.92
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-  udp: true
 - name: 5|🇭🇰 香港4|@ripaojiedian
   password: BxceQaOe
   port: 443
