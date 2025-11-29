@@ -25,5 +25,5 @@ trojan://e683d757-b855-44c3-b0b6-22586444914a@86.107.197.239:443?allowInsecure=0
 trojan://Qzy7tgpRhu@37.18.14.33:443?allowInsecure=1&sni=m.vk.com#8%7CRU_speednode_0030
 trojan://telegram-id-privatevpns@51.45.12.251:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CUS_speednode_0043
 trojan://telegram-id-directvpn@51.45.12.251:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CUS_speednode_0044
-https://g1Gk0g.absslk.xyz/f925095e1fb57d252454f2ea831a1e8d
 https://geqyiH.mcsslk.xyz/c290df6db9efe0b16af5264ad849d77a
+https://g1Gk0g.absslk.xyz/f925095e1fb57d252454f2ea831a1e8d
