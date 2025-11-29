@@ -16,14 +16,5 @@ trojan://2cf6d686799e6fa95316394064f26c0a@160.16.89.176:2890?allowInsecure=0&sni
 trojan://BxceQaOe@43.198.99.56:2173?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.140:38388#5%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjkuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4MDkiLCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgInNuaSI6ICIifQ==
-trojan://29ca24a5-e8aa-4cbd-9bcb-f96aba1d6f15@34.22.190.30:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/34.22.190.30=443#8%7CBE_speednode_0001
-trojan://8001fbf7-4b59-4415-a4bd-8bfded02c9c6@69.28.82.253:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/69.28.82.253=443#8%7CCA_speednode_0003
-trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.192.102.92=443#8%7CCH_speednode_0005
-trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/37.252.5.75=443#8%7CEE_speednode_0010
-trojan://9ccc3e1d-3df5-4348-aa05-738310149cc3@45.86.229.28:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/45.86.229.28=443#8%7CES_speednode_0012
-trojan://e683d757-b855-44c3-b0b6-22586444914a@86.107.197.239:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/86.107.197.239=443#8%7CNL_speednode_0025
-trojan://Qzy7tgpRhu@37.18.14.33:443?allowInsecure=1&sni=m.vk.com#8%7CRU_speednode_0030
-trojan://telegram-id-privatevpns@51.45.12.251:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CUS_speednode_0043
-trojan://telegram-id-directvpn@51.45.12.251:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CUS_speednode_0044
-https://geqyiH.mcsslk.xyz/c290df6db9efe0b16af5264ad849d77a
 https://g1Gk0g.absslk.xyz/f925095e1fb57d252454f2ea831a1e8d
+https://geqyiH.mcsslk.xyz/c290df6db9efe0b16af5264ad849d77a
