@@ -18,5 +18,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEw
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKw0fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInY2LmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA2IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
 trojan://b1fec179-3d5a-4ec5-bf3c-e10668543b4b@69.84.182.108:8443?allowInsecure=0&sni=cdn-node-oss-61.anycdn.de&type=ws&host=cdn-node-oss-61.anycdn.de&path=/profile/us1#8%7CUS_speednode_0011
 trojan://b1fec179-3d5a-4ec5-bf3c-e10668543b4b@69.84.182.18:8443?allowInsecure=0&sni=cdn-node-oss-62.anycdn.de&type=ws&host=cdn-node-oss-62.anycdn.de&path=/profile/us2#8%7CUS_speednode_0012
-https://vCeO7t.absslk.xyz/622b8dc5d2aac0e1e81d0530bac78a7a
-https://08GKpd.mcsslk.xyz/ceab01ab2480813353cc4944175554ce
+https://vvy5Hw.mcsslk.xyz/5d5a68e132edd4c2e1bba9627a14ccca
+https://j2cOBF.absslk.xyz/06381caf39f5307fc439ed2e8c9a3769
