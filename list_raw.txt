@@ -21,5 +21,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKw0fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInY2
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnznvo7lm700fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjgyLjE5OC4yNDYuOTciLCAicG9ydCI6ICIxODAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgInNuaSI6ICIifQ==
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@58.152.110.104:443?allowInsecure=0&sni=www.nintendogames.net#8%7CHK_speednode_0016
 trojan://5a2c16f9@freeyx.cloudflare88.eu.org:443?allowInsecure=0&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/#8%7CRU_speednode_0026
-https://CJm1kF.mcsslk.xyz/e2b642cc25356b03e547d69c7cea4067
+https://VhSjVh.mcsslk.xyz/6d33ee398be8164eb48bcb0b50f63957
 https://mBClkx.absslk.xyz/6d3e7e5c2eb16392ff26beb0bc5f642d
