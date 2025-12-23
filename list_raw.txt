@@ -22,4 +22,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnznvo7lm700fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjgy
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@58.152.110.104:443?allowInsecure=0&sni=www.nintendogames.net#8%7CHK_speednode_0016
 trojan://5a2c16f9@freeyx.cloudflare88.eu.org:443?allowInsecure=0&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/#8%7CRU_speednode_0026
 https://mBClkx.absslk.xyz/6d3e7e5c2eb16392ff26beb0bc5f642d
-https://kP9l4M.mcsslk.xyz/fb0c2fb8cdf85d0297996e6fb76e5871
+https://FXB43I.mcsslk.xyz/2bc8250f879297d5172c5b6897d0d831
