@@ -16,6 +16,7 @@ trojan://BxceQaOe@13.115.1.198:2173?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNXzwn4e68J+HuCDnvo7lm700fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjgyLjE5OC4yNDYuOTciLCAicG9ydCI6IDE4MCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnznvo7lm700fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjgyLjE5OC4yNDYuOTciLCAicG9ydCI6ICIxODAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgInNuaSI6ICIifQ==
-trojan://5a2c16f9@freeyx.cloudflare88.eu.org:443?allowInsecure=0&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/#8%7CRU_speednode_0004
-https://Q7OadK.mcsslk.xyz/efe0c5c793b62dab67d96885794a1369
+trojan://5a2c16f9@cf.130519.xyz:443?allowInsecure=0&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/#8%7CRU_speednode_0018
+trojan://5a2c16f9@freeyx.cloudflare88.eu.org:443?allowInsecure=0&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/#8%7CRU_speednode_0020
 https://mBClkx.absslk.xyz/6d3e7e5c2eb16392ff26beb0bc5f642d
+https://u1ltH0.mcsslk.xyz/1bd5ca28586c8327df849a64bb7e447a
