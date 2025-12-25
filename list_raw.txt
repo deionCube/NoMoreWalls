@@ -19,4 +19,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnznvo7lm700fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjgy
 trojan://5a2c16f9@cf.130519.xyz:443?allowInsecure=0&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/#8%7CRU_speednode_0018
 trojan://5a2c16f9@freeyx.cloudflare88.eu.org:443?allowInsecure=0&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/#8%7CRU_speednode_0020
 https://mBClkx.absslk.xyz/6d3e7e5c2eb16392ff26beb0bc5f642d
-https://ZTIqtc.mcsslk.xyz/ed578aa8a753628d46b478431e7eb2d9
+https://W3NHdV.mcsslk.xyz/4dfe4d8584c9bbaf0970e0f2971eda19
