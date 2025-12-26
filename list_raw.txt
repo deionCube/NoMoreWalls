@@ -24,5 +24,5 @@ trojan://c930b945-d54a-4db2-9b39-7bcfd85dafa4@lt-sin.ltdns.top:27041?allowInsecu
 trojan://c930b945-d54a-4db2-9b39-7bcfd85dafa4@lt-sin.ltdns.top:27045?allowInsecure=1&sni=www.ithome.com#8%7CCN_speednode_0006
 trojan://5a2c16f9@freeyx.cloudflare88.eu.org:443?allowInsecure=0&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/#8%7CRU_speednode_0009
 trojan://5a2c16f9@cf.130519.xyz:443?allowInsecure=0&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/#8%7CRU_speednode_0010
-https://1Bt6Ov.mcsslk.xyz/041e9bda4c617b93dcad5fd661030295
 https://mBClkx.absslk.xyz/6d3e7e5c2eb16392ff26beb0bc5f642d
+https://4WKYMt.mcsslk.xyz/3f8297e22d024e6b8adfd324a4a565dd
