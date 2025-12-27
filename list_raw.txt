@@ -28,5 +28,5 @@ trojan://5a2c16f9@172.64.229.169:443?allowInsecure=1&sni=snippets.kkii.eu.org&ty
 trojan://5a2c16f9@162.159.128.253:443?allowInsecure=0&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/#8%7CUS_speednode_0023
 trojan://5a2c16f9@172.64.229.2:443?allowInsecure=1&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/#8%7CUS_speednode_0025
 trojan://5a2c16f9@162.159.24.131:443?allowInsecure=0&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/#8%7CUS_speednode_0026
-https://sZudza.mcsslk.xyz/602f4144ded9b453f3d41460b394c94f
 https://mBClkx.absslk.xyz/6d3e7e5c2eb16392ff26beb0bc5f642d
+https://LZoBnL.mcsslk.xyz/54f232ed820509f2dd3c303322d68ddf
