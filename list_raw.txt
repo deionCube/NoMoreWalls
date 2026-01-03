@@ -16,6 +16,10 @@ trojan://381f2e86233720eacda26d50e9aa26da@153.121.44.99:1281?allowInsecure=0&sni
 trojan://BxceQaOe@18.181.195.198:1112?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.251:38388#5%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
-trojan://iwangjie@158.101.11.204:15805?allowInsecure=0&sni=nodes.830901.xyz&type=ws&host=nodes.830901.xyz&path=/#8%7CUS_speednode_0018
-https://PH31Hn.mcsslk.xyz/4b1a72dd30775d2b1fa810fbbc11ff1e
+trojan://5a2c16f9@94.140.0.238:2096?allowInsecure=1&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/Telegram🇨🇳WangCai2#8%7CAE_speednode_0001
+trojan://R8ufkVqwRZAgtwjyrA@uk-1.fishchipsexpress.com:443?allowInsecure=1&sni=uk-1.fishchipsexpress.com#8%7CGB_speednode_0005
+trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/#8%7CUS_speednode_0019
+trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/?ed=2560#8%7CUS_speednode_0020
+trojan://5a2c16f9@135.84.73.238:2096?allowInsecure=1&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/Telegram🇨🇳WangCai2#8%7CUS_speednode_0021
 https://mBClkx.absslk.xyz/6d3e7e5c2eb16392ff26beb0bc5f642d
+https://mKycGV.mcsslk.xyz/aa36b7b3f0bc7e989813c60d48fdc6f7
