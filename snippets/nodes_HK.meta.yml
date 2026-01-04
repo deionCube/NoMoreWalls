@@ -23,7 +23,7 @@ proxies:
     headers:
       Host: hkt.gotochinatown.net
     path: /
-- name: 5,8|HK_speednode_0008
+- name: 5,8|HK_speednode_0007
   password: 381f2e86233720eacda26d50e9aa26da
   port: 443
   server: 58.152.110.104
