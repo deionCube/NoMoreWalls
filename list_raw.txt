@@ -19,5 +19,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEw
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8yfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogImp5LWhrLmt1bmx1bjA3ZG5zLmNvbSIsICJwb3J0IjogIjE5MjI2IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQ4ZDM2MWE4LWU5YTEtM2MyOC05YjUxLTQ3Nzc1ZDYyMDc3ZSIsICJzbmkiOiAiIn0=
 trojan://telegram-id-privatevpns@3.66.94.128:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CDE_speednode_0002
 trojan://telegram-id-directvpn@3.66.94.128:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CDE_speednode_0003
+https://oDwAGs.mcsslk.xyz/6c89f941830b1bd15f8354d4517ea469
 https://mBClkx.absslk.xyz/6d3e7e5c2eb16392ff26beb0bc5f642d
-https://BaHK78.mcsslk.xyz/154c26d31c94d4c0eb0feb214d770b7b
