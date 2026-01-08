@@ -17,6 +17,7 @@ trojan://BxceQaOe@18.162.123.56:1112?allowInsecure=0&sni=t.me%2Fripaojiedian#5%7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmQ0NmZkOTAyZDQ4NWU4@202.122.145.125:11201#5%7C%F0%9F%87%B2%F0%9F%87%BE%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8yfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogImp5LWhrLmt1bmx1bjA3ZG5zLmNvbSIsICJwb3J0IjogIjE5MjI2IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQ4ZDM2MWE4LWU5YTEtM2MyOC05YjUxLTQ3Nzc1ZDYyMDc3ZSIsICJzbmkiOiAiIn0=
-trojan://f52d0a04-94ad-4f9e-9945-4c3d43374e36@www.shopify.com:2096?allowInsecure=1&sni=ts888.yumige.dpdns.org&type=ws&host=ts888.yumige.dpdns.org&path=/http://45.32.19.198:30005#8%7CUS_speednode_0080
+trojan://telegram-id-privatevpns@3.66.94.128:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CDE_speednode_0002
+trojan://telegram-id-directvpn@3.66.94.128:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CDE_speednode_0003
 https://mBClkx.absslk.xyz/6d3e7e5c2eb16392ff26beb0bc5f642d
-https://ewYRrL.mcsslk.xyz/18efa94b4b12ea3869ee15ace4e86b6b
+https://BaHK78.mcsslk.xyz/154c26d31c94d4c0eb0feb214d770b7b
