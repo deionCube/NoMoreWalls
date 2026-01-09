@@ -18,4 +18,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEw
 trojan://telegram-id-privatevpns@3.66.94.128:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CDE_speednode_0002
 trojan://telegram-id-directvpn@3.66.94.128:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CDE_speednode_0003
 https://mBClkx.absslk.xyz/6d3e7e5c2eb16392ff26beb0bc5f642d
-https://MPY4tx.mcsslk.xyz/6880658858fc0364a9fd98f081177030
+https://qeP25G.mcsslk.xyz/b707a9e900555fd2cba46805d0fd6cc0
