@@ -15,6 +15,7 @@ trojan://61d8077bfb174e171b8283f155a555ad@160.16.85.33:5076?allowInsecure=0&sni=
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.89.176:5076?allowInsecure=0&sni=www.nintendogames.net#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://BxceQaOe@13.113.239.128:1112?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK82fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIm9zcy00LnFxYTY3OC5jb20iLCAicG9ydCI6ICI0NzA4MSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJlNDliODcyMS1mMTI0LTQ5OTktODE0YS1mYzc3N2MwYWUxOTAiLCAic25pIjogIiJ9
 trojan://k52nemqqdx9e@172.64.145.38:8443?allowInsecure=1&sni=8end0fr.zjde5.de5.net&type=ws&host=8end0fr.zjde5.de5.net&path=/?ed=2560#8%7CUS_speednode_0041
-https://ANsAZR.mcsslk.xyz/87c8c5216da8d2718c7a03c2e5b66f57
-https://BMHSzy.absslk.xyz/042058b5933f947872e88daca1a3440b
+https://I21wpU.mcsslk.xyz/38cb7a9a69c81ed8719ba39248054b1f
+https://K6j9cS.absslk.xyz/68a2dbc3af5076dccd832affc8e74e81
