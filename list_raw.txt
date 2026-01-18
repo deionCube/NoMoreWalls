@@ -16,5 +16,5 @@ trojan://4843e94d205f3893f588255a591abe94@160.16.150.76:5076?allowInsecure=0&sni
 trojan://BxceQaOe@13.114.104.131:4569?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
 trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro006.instconn.com:443?allowInsecure=1&sni=torontorm1.686911.xyz#8%7CCA_speednode_0001
-https://wYBkNJ.mcsslk.xyz/28c6e3858f19b7252a7c3bdef86ec617
-https://ZsZ8Ui.absslk.xyz/87d697600211224dbc7b770977c21239
+https://lGTaTR.mcsslk.xyz/4c1494b0c12d2cfb51212d4e1376f5bc
+https://v3VufO.absslk.xyz/3a8b82ab7f13da51f1522a5598b4f945
