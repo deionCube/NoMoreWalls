@@ -17,5 +17,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEw
 trojan://4843e94d205f3893f588255a591abe94@58.152.18.124:443?allowInsecure=1&sni=www.nintendogames.net#8%7CHK_speednode_0013
 trojan://4843e94d205f3893f588255a591abe94@58.152.18.124:443?allowInsecure=1#8%7CHK_speednode_0014
 trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?allowInsecure=1&sni=hyfuuf6.wsone.icu#8%7CIN_speednode_0016
+https://bBZI4B.mcsslk.xyz/5397ffdbe09a6f0902af603c08032534
 https://KZQ16l.absslk.xyz/075e1f177caed291b42a57ceb1d1f5a3
-https://A6O632.mcsslk.xyz/0b28c9008bcda7d00d90bd4af79291f4
