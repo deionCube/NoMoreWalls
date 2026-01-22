@@ -1,4 +1,11 @@
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8yfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjQ3LjI0Mi4xOTIuMjMzIiwgInBvcnQiOiAiMzQ2NTkiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiODQ4MjY3MWUtODQ2Zi00NWM3LWFlYzQtNTMxYzc5Zjc3NWVjIiwgInNuaSI6ICIifQ==
-https://RZQcjY.absslk.xyz/6173db76d0b976812ee5345172c23128
-https://fAgTV7.mcsslk.xyz/43ffd9eb6af15f9a56d16208003e7618
+trojan://telegram-id-privatevpns@18.196.155.223:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CDE_speednode_0002
+trojan://telegram-id-privatevpns@18.196.155.223:22222?allowInsecure=1#8%7CDE_speednode_0004
+trojan://telegram-id-directvpn@51.44.124.96:22223?allowInsecure=1#8%7CFR_speednode_0006
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:1933?allowInsecure=0&sni=www.nintendogames.net#8%7CJP_speednode_0009
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:3076?allowInsecure=0&sni=www.nintendogames.net#8%7CJP_speednode_0010
+trojan://Aimer@167.68.4.199:2053?allowInsecure=1&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/?ed=2560#8%7CUS_speednode_0037
+trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/#8%7CUS_speednode_0039
+https://jC2Sxt.absslk.xyz/14754ed2900c11e9c60d2477fcd4b22e
+https://WRbUP9.mcsslk.xyz/cf72f69df21d7d691d87cd06fa555d92
