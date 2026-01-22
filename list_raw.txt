@@ -21,5 +21,5 @@ trojan://telegram-id-privatevpns@18.196.155.223:22222?allowInsecure=1#8%7CDE_spe
 trojan://telegram-id-directvpn@51.44.124.96:22223?allowInsecure=1#8%7CFR_speednode_0006
 trojan://Aimer@167.68.4.199:2053?allowInsecure=1&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/?ed=2560#8%7CUS_speednode_0037
 trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/#8%7CUS_speednode_0039
-https://PvaBBY.mcsslk.xyz/0d26237f9d5128d4f0178deab059b1ab
-https://8yUEV2.absslk.xyz/6333fa6553d7eee4177b6510988a2bbc
+https://SgJXYK.absslk.xyz/9960ca6e4ef83f2448327b938ea03059
+https://etgHB4.mcsslk.xyz/0f8e9c35bf933d0c97dadc98b4925644
