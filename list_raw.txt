@@ -16,5 +16,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEw
 trojan://fe793ec6-b7a9-4f30-b623-d3c9ca6eb37c@ssr-de-152.rosena.ggff.net:19233?allowInsecure=1&sni=ssr-de-152.rosena.ggff.net#8%7CAT_speednode_0004
 trojan://6087d8e3-ea9e-48eb-8217-6050ff752f56@il.mjt000.com:443?allowInsecure=1&sni=il.mjt000.com#8%7CGB_speednode_0005
 trojan://6087d8e3-ea9e-48eb-8217-6050ff752f56@il.mjt000.com:443?allowInsecure=1#8%7CGB_speednode_0006
-https://2VT4Gi.mcsslk.xyz/c33c3ca8897021a023b19b0c9dd3a62f
+https://Fcb1vN.mcsslk.xyz/710129be0b5bd2351fd104d8b3ce8541
 https://MX4irf.absslk.xyz/f585206af3487c297e124c751af10f6c
