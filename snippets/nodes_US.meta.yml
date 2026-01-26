@@ -15,9 +15,9 @@ proxies:
   type: trojan
 - name: 5|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
-  port: 3159
-  server: 43.198.102.247
-  skip-cert-verify: true
+  port: 1221
+  server: 54.250.244.16
+  skip-cert-verify: false
   sni: t.me%2Fripaojiedian
   type: trojan
 - client-fingerprint: chrome
