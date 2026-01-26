@@ -74,7 +74,7 @@ proxies:
   password: BxceQaOe
   port: 1691
   server: 18.182.8.233
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: 5|🇺🇸 美国|@ripaojiedian
@@ -95,7 +95,7 @@ proxies:
   password: BxceQaOe
   port: 1221
   server: 54.250.244.16
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - alterId: 0
