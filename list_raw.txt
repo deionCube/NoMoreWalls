@@ -27,5 +27,5 @@ trojan://42bbf526-5530-470a-aeec-3b919b21c58d@45.89.52.247:443?allowInsecure=1&s
 trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@208.103.161.231:443?allowInsecure=1&sni=gzjx.dpdns.org&type=ws&host=gzjx.dpdns.org&path=/51.91.253.83=8443#8%7CUS_speednode_0034
 trojan://42bbf526-5530-470a-aeec-3b919b21c58d@176.105.253.102:8443?allowInsecure=1&sni=0000.hkvip.ip-ddns.com&type=ws&host=0000.hkvip.ip-ddns.com&path=/?ed=2560#8%7CUS_speednode_0054
 trojan://42bbf526-5530-470a-aeec-3b919b21c58d@173.249.201.109:54443?allowInsecure=1&sni=0000.hkvip.ip-ddns.com&type=ws&host=0000.hkvip.ip-ddns.com&path=/?ed=2560#8%7CUS_speednode_0057
-https://N3tTVU.mcsslk.xyz/ce2c36c535f005db1de67548c9ed0093
-https://N6EH6c.absslk.xyz/d691c274a94d5c1f2a31175f5a553c88
+https://hVIZtu.absslk.xyz/b9068f335b2ecf9055eabd69772d5818
+https://12xJVP.mcsslk.xyz/355bacef344f3f5eefc6ca5495837801
