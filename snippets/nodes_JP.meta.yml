@@ -3,7 +3,7 @@ proxies:
   password: BxceQaOe
   port: 3760
   server: 13.159.16.204
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: 5|🇯🇵 日本2|@ripaojiedian

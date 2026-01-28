@@ -17,7 +17,7 @@ proxies:
   password: BxceQaOe
   port: 2173
   server: 13.158.129.83
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: 8|US_speednode_0034
