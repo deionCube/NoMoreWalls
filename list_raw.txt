@@ -18,5 +18,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzmlrDliqDlnaE0fEByaXBhb2ppZWRpYW4iLCAiYWRkIjog
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzml6XmnKw0fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInR1bm5lbDEucXFhNjc4LmNvbSIsICJwb3J0IjogIjQ3MDgzIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjlmOGMxMjJkLTViODYtNGMxOS1hZjg3LTY0ZjQ1OGE4ODIyMyIsICJzbmkiOiAiIn0=
 trojan://685343f2-49e1-41f8-a7fc-5d0993afb6c6@faq1.lieerr222.cn:43533?allowInsecure=1#8%7CCN_speednode_0003
 trojan://685343f2-49e1-41f8-a7fc-5d0993afb6c6@faq1.lieerr222.cn:43533?allowInsecure=1&sni=faq1.lieerr222.cn#8%7CCN_speednode_0004
-https://pLOmbX.mcsslk.xyz/20a5c997bea8a435cd13ea65976f1838
-https://ZUHWXF.absslk.xyz/a6e1d94618eb7c9b2494f5082a5f0dbf
+https://EQxupz.absslk.xyz/919ca23fc7632f68950b86814a8b47ea
+https://v8X5Fg.mcsslk.xyz/1c448008ce1f23c62ac3885f0a26e1e4
