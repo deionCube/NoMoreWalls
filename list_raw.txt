@@ -15,5 +15,6 @@ trojan://BxceQaOe@43.199.77.22:1221?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@210.217.18.68:53532#5%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.81:38388#5%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
-https://5xUfuT.absslk.xyz/02a10e4379de92a27c37baff5a847ca0
-https://oGEuwi.mcsslk.xyz/493f22272dea85df38306291768e20e9
+trojan://M7v%25w11Se%2A@amanm.wsone.icu:443?allowInsecure=1&sni=amanm.wsone.icu#8%7CIN_speednode_0022
+https://GKbJJ0.mcsslk.xyz/daca1c77fc1542775d36e732b5b9bf19
+https://Wp56MW.absslk.xyz/ac14a819a40fe99b02e9ada6ed16fc07
