@@ -19,14 +19,14 @@ proxies:
   password: BxceQaOe
   port: 2266
   server: 54.46.5.155
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: 5|🇭🇰 香港5|@ripaojiedian
   password: BxceQaOe
   port: 2266
   server: 57.181.26.149
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - alterId: 2

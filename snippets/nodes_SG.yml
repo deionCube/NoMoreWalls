@@ -17,6 +17,6 @@ proxies:
   password: BxceQaOe
   port: 1196
   server: 57.181.26.149
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
