@@ -14,6 +14,7 @@ trojan://c1d83c0c7d57cead4379ba14a82df69b@38.180.193.194:443?allowInsecure=0&sni
 trojan://BxceQaOe@3.112.197.3:1221?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.50.149.114:16449#5%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8yfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjYwOWE4YzM0LXQ5dzRnMC10aGl3dWwtMWdjcTIuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBvcnQiOiAiODAiLCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI3NTliZjAwNC02MTM3LTExZWMtYmQ3Yy1mMjNjOTEzYzhkMmIiLCAic25pIjogIiIsICJob3N0IjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwgInBhdGgiOiAiLyJ9
 trojan://M7v%25w11Se%2A@amanm.wsone.icu:443?allowInsecure=1&sni=amanm.wsone.icu#8%7CIN_speednode_0022
-https://zau9uO.absslk.xyz/cb27a807e96f7c3f7afe2109ec6800b2
-https://aSrwvL.mcsslk.xyz/28f70a0ee61c27eec31b806dff1a1876
+https://2rCwTE.mcsslk.xyz/b6b22126756e31ba0ea6b8bfc0f1ce67
+https://AeTNjX.absslk.xyz/4375701d5d4779fecdc45a164f859d48
