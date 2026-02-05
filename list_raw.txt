@@ -13,6 +13,5 @@ trojan://5fb072e0ddd631cf66cf752b09210480@38.180.190.13:443?allowInsecure=0&sni=
 trojan://5fb072e0ddd631cf66cf752b09210480@38.180.107.76:443?allowInsecure=0&sni=www.nintendogames.net#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://BxceQaOe@52.194.248.81:4569?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
-trojan://M7v%25w11Se%2A@amanm.wsone.icu:443?allowInsecure=1&sni=amanm.wsone.icu#8%7CIN_speednode_0022
-https://EuNonw.absslk.xyz/3a3cc7b1ae5f1551d4ffcbc3e8d210e1
-https://y0O18Y.mcsslk.xyz/0b2dde6f4798bb176a2ff8cc6d49c6d0
+https://pEiR5a.mcsslk.xyz/4e3fdef2b912d4ae455ed5f787b67104
+https://i7cCtO.absslk.xyz/f089f954192d6ac549aab0927c4d34e1
