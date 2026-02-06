@@ -13,5 +13,5 @@ trojan://5fb072e0ddd631cf66cf752b09210480@38.180.190.13:443?allowInsecure=0&sni=
 trojan://5fb072e0ddd631cf66cf752b09210480@38.180.107.76:443?allowInsecure=0&sni=www.nintendogames.net#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://BxceQaOe@52.194.248.81:4569?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
-https://XJuRCt.absslk.xyz/2682c3008325cf2dd2f6efd3b9e45672
-https://3PYpIq.mcsslk.xyz/953c2490bd597afe03e0261d977a199d
+https://pEVRQi.absslk.xyz/98b6fc2d368c392f412539aa68354a36
+https://II2xkw.mcsslk.xyz/bc9eb1a4c6792acdc251f77c12f85f9a
