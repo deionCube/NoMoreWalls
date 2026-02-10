@@ -13,10 +13,9 @@ trojan://5fb072e0ddd631cf66cf752b09210480@160.16.72.205:276?allowInsecure=0&sni=
 trojan://5fb072e0ddd631cf66cf752b09210480@43.207.149.110:276?allowInsecure=0&sni=www.nintendogames.net#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://BxceQaOe@18.163.2.13:3159?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
-trojan://iwangjie@135.125.232.253:2053?allowInsecure=1&sni=nodes.830901.xyz&type=ws&host=nodes.830901.xyz&path=/?ed=2560#8%7CFR_speednode_0021
-trojan://BxceQaOe@112.120.31.36:443?allowInsecure=1&sni=t.me/ripaojiedian#8%7CHK_speednode_0030
-trojan://BxceQaOe@112.120.31.36:443?allowInsecure=1#8%7CHK_speednode_0031
-trojan://BxceQaOe@112.120.31.36:443?allowInsecure=1&sni=t.me%2Fripaojiedian#8%7CHK_speednode_0034
-trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/#8%7CUS_speednode_0079
+trojan://telegram-id-directvpn@3.77.68.129:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CDE_speednode_0014
+trojan://telegram-id-directvpn@18.195.91.205:22223?allowInsecure=1#8%7CDE_speednode_0016
+trojan://telegram-id-privatevpns@35.180.72.19:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CFR_speednode_0017
+trojan://M7v%25w11Se%2A@qfdfsg.wsone.icu:443?allowInsecure=1&sni=qfdfsg.wsone.icu#8%7CID_speednode_0019
+https://YTaS5q.absslk.xyz/d9f38e92e46d9d3fd4fb79d27e2f6d90
 https://ItQzQW.mcsslk.xyz/c99fa3cf32aafe74cd0a88369116a433
-https://1lJFpj.absslk.xyz/f9a0094f1810098909a6f8f594ff30bc
