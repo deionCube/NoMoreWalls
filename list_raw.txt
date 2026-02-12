@@ -17,5 +17,5 @@ trojan://telegram-id-directvpn@3.77.68.129:22223?allowInsecure=1&sni=trojan.burg
 trojan://telegram-id-directvpn@18.195.91.205:22223?allowInsecure=1#8%7CDE_speednode_0016
 trojan://telegram-id-privatevpns@35.180.72.19:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CFR_speednode_0017
 trojan://M7v%25w11Se%2A@qfdfsg.wsone.icu:443?allowInsecure=1&sni=qfdfsg.wsone.icu#8%7CID_speednode_0019
-https://EeBDHG.absslk.xyz/4abcb3c52b55f2b60fa7bee79ea0eadd
+https://jZES1t.absslk.xyz/91b1c7a2981b66a99fc93fc77ebfa7d3
 https://ItQzQW.mcsslk.xyz/c99fa3cf32aafe74cd0a88369116a433
