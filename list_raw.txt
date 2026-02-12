@@ -18,4 +18,4 @@ trojan://telegram-id-directvpn@18.195.91.205:22223?allowInsecure=1#8%7CDE_speedn
 trojan://telegram-id-privatevpns@35.180.72.19:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#8%7CFR_speednode_0017
 trojan://M7v%25w11Se%2A@qfdfsg.wsone.icu:443?allowInsecure=1&sni=qfdfsg.wsone.icu#8%7CID_speednode_0019
 https://ItQzQW.mcsslk.xyz/c99fa3cf32aafe74cd0a88369116a433
-https://5NAkiU.absslk.xyz/e5b5d5080f41ce01e5dbfe435bf8094c
+https://NFiU35.absslk.xyz/2568701284a63b284ee2a5cf90aec6da
