@@ -17,7 +17,7 @@ proxies:
   password: BxceQaOe
   port: 381
   server: 57.180.245.83
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: 5|🇸🇬 新加坡4|@ripaojiedian

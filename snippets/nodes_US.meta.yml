@@ -17,7 +17,7 @@ proxies:
   password: BxceQaOe
   port: 38780
   server: 54.238.211.1
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - client-fingerprint: ios
