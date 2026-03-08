@@ -13,5 +13,8 @@ trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.72.33:3057?allowInsecure=0&sni=
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.130.21:4019?allowInsecure=0&sni=www.nintendogames.net#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://BxceQaOe@13.115.170.99:28680?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
-https://0wzOZG.mcsslk.xyz/175707e529b21786d24a6fb9df11e6db
-https://gwsB0o.absslk.xyz/145a15117d3b9aa219773c60953bf9d0
+trojan://trojan@114.207.99.233:11434?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#8%7CKR_speednode_0009
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?allowInsecure=1#8%7CSC_speednode_0036
+trojan://trojan@154.17.234.78:7071?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#8%7CUS_speednode_0041
+https://OxVpZ5.mcsslk.xyz/47c92dd6440c5218f1b07ce239dc3173
+https://Rv7YBZ.absslk.xyz/9a32794762a0678f71338a95ad889233
