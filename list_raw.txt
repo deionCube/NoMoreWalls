@@ -15,5 +15,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEw
 trojan://BxceQaOe@58.152.25.253:443?allowInsecure=1&sni=t.me%2Fripaojiedian#8%7CHK_speednode_0015
 trojan://trojan@121.131.136.208:11001?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#8%7CKR_speednode_0031
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?allowInsecure=1&sni=8443.golden-cards.me#8%7CSC_speednode_0052
-https://QriJTv.mcsslk.xyz/fd0782030cc3f7a3b43ae7a7f8445f53
-https://UWx3rA.absslk.xyz/218157ee50fa05f1e8031bdb0c33d827
+https://68V9px.absslk.xyz/17c065b97404c4e933ecf35389db373e
+https://uTbIde.mcsslk.xyz/0844c03b6c5b91f664c9f71cfd4d4f22
