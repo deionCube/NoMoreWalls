@@ -14,5 +14,5 @@ trojan://f389ed926e512e15f382dc3804029474@54.248.177.86:4920?allowInsecure=0&sni
 trojan://BxceQaOe@16.163.105.149:5390?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
 trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@sg03.stimaysmhy8.com:35902?allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#8%7CCN_speednode_0005
-https://Awe9ya.mcsslk.xyz/a752fe833d2a9102d8f5d88dc8d95264
-https://xJ7tVy.absslk.xyz/2b535014979c05ac3a4561c436419652
+https://G7LwuN.mcsslk.xyz/6172270e0db1822bb84bba34389e7f78
+https://PZAxdX.absslk.xyz/7773f0ed2a30cc8b2b607ddaff0163bf
