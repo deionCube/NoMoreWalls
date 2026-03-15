@@ -13,6 +13,10 @@ trojan://f389ed926e512e15f382dc3804029474@153.121.65.107:4019?allowInsecure=0&sn
 trojan://f389ed926e512e15f382dc3804029474@160.16.130.21:4019?allowInsecure=0&sni=www.nintendogames.net#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://BxceQaOe@95.40.46.74:50446?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
-trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@sg03.stimaysmhy8.com:35902?allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#8%7CCN_speednode_0005
-https://2l8Y03.absslk.xyz/90d7409bda52205d24423577e8595a2a
-https://a1PMlf.mcsslk.xyz/2b9fd350d3654f8aaef21440fd19a7fa
+trojan://trojan@152.53.200.167:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#8%7CAT_speednode_0002
+trojan://BxceQaOe@58.152.25.253:443?allowInsecure=1&sni=t.me%2Fripaojiedian#8%7CHK_speednode_0017
+trojan://iwangjie@158.101.11.204:15805?allowInsecure=0&sni=nodes.830901.xyz&type=ws&host=nodes.830901.xyz&path=/#8%7CUS_speednode_0042
+trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/#8%7CUS_speednode_0043
+trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/?ed=2560#8%7CUS_speednode_0044
+https://oual3V.absslk.xyz/9d45c7edd1d0441ece110719e985c423
+https://BS7Oo9.mcsslk.xyz/c517faa39f48c44c7246a610c24c1f78
