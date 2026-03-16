@@ -18,5 +18,5 @@ trojan://BxceQaOe@58.152.25.253:443?allowInsecure=1&sni=t.me%2Fripaojiedian#8%7C
 trojan://iwangjie@158.101.11.204:15805?allowInsecure=0&sni=nodes.830901.xyz&type=ws&host=nodes.830901.xyz&path=/#8%7CUS_speednode_0042
 trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/#8%7CUS_speednode_0043
 trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/?ed=2560#8%7CUS_speednode_0044
-https://h0CZr8.absslk.xyz/1479fd4c1b5c2600a00763e582679b1d
-https://c41Qb1.mcsslk.xyz/5be0161458272121ce2e4e6c654425f4
+https://qZiCi5.absslk.xyz/bf68d5a30cfb1bdf2c4988910d46d537
+https://xPpKTS.mcsslk.xyz/ef6fa142f1d18e33b13976a6556313c0
