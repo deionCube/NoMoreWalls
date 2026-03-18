@@ -17,5 +17,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEw
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8yfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogImNuMDEuMzY1Y2xvdWQ4NzU0LmNvbSIsICJwb3J0IjogIjYwMDEiLCAiYWlkIjogMCwgInNjeSI6ICJhZXMtMTI4LWdjbSIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImRiNzViYzkyLTRlMzItNDhkZC1iNzkyLWQ3YThiNzA3NjI2YyIsICJzbmkiOiAiIn0=
 trojan://trojan@114.207.99.233:11434?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#8%7CKR_speednode_0011
 trojan://trojan@154.17.234.78:7071?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#8%7CUS_speednode_0021
-https://qvKIkW.mcsslk.xyz/09747d3e80c61bf769d2230d28839df7
-https://fF4nbP.absslk.xyz/8f89df315c5a36a79de5fae41fadafcb
+https://xgTHBN.mcsslk.xyz/d1be939e1a7b69ca83b67813c41f2528
+https://EXEAKD.absslk.xyz/0c67661db3df35d30f42f9cd3440ebfd
