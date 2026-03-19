@@ -18,5 +18,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEw
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8yfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogImNuMDEuMzY1Y2xvdWQ4NzU0LmNvbSIsICJwb3J0IjogIjYwMDEiLCAiYWlkIjogMCwgInNjeSI6ICJhZXMtMTI4LWdjbSIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImRiNzViYzkyLTRlMzItNDhkZC1iNzkyLWQ3YThiNzA3NjI2YyIsICJzbmkiOiAiIn0=
 trojan://IL37892054@upright-rhino.rooster465.autos:443?allowInsecure=0&sni=upright-rhino.rooster465.autos#8%7CGB_speednode_0004
 trojan://IL37892054@apt-magpie.rooster465.autos:443?allowInsecure=0&sni=apt-magpie.rooster465.autos#8%7CLU_speednode_0006
-https://t5zdhh.absslk.xyz/fd54113ddef0729ee42025bdbb1b71d1
-https://pPiPDy.mcsslk.xyz/fa998be69a450c433133472d2ddd7a68
+https://vpw7oa.mcsslk.xyz/a8c640fab97e515a05cd416075183f70
+https://FhWuUR.absslk.xyz/94abe604dad3461f5a4690fad54a5596
