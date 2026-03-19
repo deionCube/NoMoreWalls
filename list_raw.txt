@@ -17,5 +17,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEw
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8yfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogImNuMDEuMzY1Y2xvdWQ4NzU0LmNvbSIsICJwb3J0IjogIjYwMDEiLCAiYWlkIjogMCwgInNjeSI6ICJhZXMtMTI4LWdjbSIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImRiNzViYzkyLTRlMzItNDhkZC1iNzkyLWQ3YThiNzA3NjI2YyIsICJzbmkiOiAiIn0=
 trojan://IL37892054@upright-rhino.rooster465.autos:443?allowInsecure=0&sni=upright-rhino.rooster465.autos#8%7CGB_speednode_0004
 trojan://IL37892054@apt-magpie.rooster465.autos:443?allowInsecure=0&sni=apt-magpie.rooster465.autos#8%7CLU_speednode_0006
-https://Io1CDK.mcsslk.xyz/3e003ac630a95c079cbd840468eb176f
-https://sNbHfq.absslk.xyz/b87bea4b06ae85d3d2f1182401f9c434
+https://VFZ3ei.mcsslk.xyz/525d6fc002b6b0fe1a37cbc87b4c66a5
+https://SVhihS.absslk.xyz/039cc8fcd7635503a013d8781bcae091
