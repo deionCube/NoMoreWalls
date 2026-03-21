@@ -67,7 +67,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: random
-  name: 8|HK_speednode_0021
+  name: 8|HK_speednode_0011
   network: ws
   port: 3389
   server: 203.168.131.110
