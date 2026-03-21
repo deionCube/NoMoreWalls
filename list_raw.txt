@@ -20,5 +20,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK8yfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogImNu
 trojan://IL37892054@engaged-ram.rooster465.autos:443?allowInsecure=0#8%7CAU_speednode_0002
 trojan://trojan@220.92.22.170:11000?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#8%7CKR_speednode_0024
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?allowInsecure=0&sni=outgoing-ladybird.rooster465.autos#8%7CPL_speednode_0026
-https://LwTuyB.mcsslk.xyz/c150fff66ed5a1f73d488d083e7f1ae7
-https://fAoTub.absslk.xyz/8e978dcba7ac77e56eaf78f40370a62e
+https://vXLIH2.mcsslk.xyz/a4079d387da1f49d7934885b4586767d
+https://HGaesD.absslk.xyz/ae182a301bccde3f58b2c866a6f2921e
