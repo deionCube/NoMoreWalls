@@ -26,5 +26,5 @@ trojan://3ac6a6ca99f74941b1eaf892818e2ddb@85.237.206.249:443?allowInsecure=1#8%7
 trojan://trojan@54.46.72.234:8025?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#8%7CUS_speednode_0039
 trojan://3ac6a6ca99f74941b1eaf892818e2ddb@77.247.126.137:443?allowInsecure=1#8%7CUS_speednode_0065
 trojan://3ac6a6ca99f74941b1eaf892818e2ddb@194.33.45.157:443?allowInsecure=1#8%7CUS_speednode_0068
-https://hQRpPC.mcsslk.xyz/540c76b9f4b9e9136627b65f6af88921
-https://aNHqEy.absslk.xyz/3275d24acfa78aef15c5d9f3f476bca2
+https://2qKMlR.absslk.xyz/bbc610333a77c03f49d06400a49c70d4
+https://JoOZFZ.mcsslk.xyz/aee066a75e1ac4494b176875228b05b2
