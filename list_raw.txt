@@ -21,5 +21,5 @@ trojan://trojan@136.244.105.89:82?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws
 trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#8%7CNL_speednode_0015
 trojan://trojan@54.46.72.234:8025?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#8%7CUS_speednode_0019
 trojan://trojan@38.83.41.89:28080?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#8%7CUS_speednode_0026
-https://4pVWrx.absslk.xyz/a9e7dbfe8ef5f4025dd0e0d146ea846b
-https://AKkGqK.mcsslk.xyz/18c6ae68f37b33e71904360b4a3c810c
+https://rvfTfv.absslk.xyz/ec8c9dd805efad76bd4a29ea0ec07dbd
+https://NrCpe5.mcsslk.xyz/74e83c17e36c05801dff5c45541e4994
