@@ -14,5 +14,5 @@ trojan://6d29eb2f74293cb01a19b32cf08ad2e9@13.230.185.120:3057?allowInsecure=0&sn
 trojan://BxceQaOe@95.40.107.15:14919?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
 trojan://trojan@154.17.234.78:7071?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#8%7CUS_speednode_0028
-https://gyf1NC.mcsslk.xyz/981d1f5b180e7a8c0acb9e518fc5a1bd
-https://X0rtDo.absslk.xyz/379ebad595db856108fa5afedb4d342e
+https://dYGT8K.mcsslk.xyz/315749d6221dbf8030dcd21de030bb51
+https://ojx8J7.absslk.xyz/f9d81cc63e02fe152a526222d6aa1d10
