@@ -16,5 +16,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEw
 trojan://trojan@152.53.60.198:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#8%7CAT_speednode_0001
 trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#8%7CNL_speednode_0029
 trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1&sni=94.131.105.125#8%7CNL_speednode_0030
-https://J3YUR3.absslk.xyz/e70bf0b09ad9a0c9045c6df775a8c2bc
-https://JGaRV4.mcsslk.xyz/c41348516169fa919292df3b3d0611e6
+https://bXhbgb.absslk.xyz/84d59d5289a5933ac9fcff46fed4c300
+https://OcUgmO.mcsslk.xyz/e592cffe08ca5baa89739dc6d5174cf4
