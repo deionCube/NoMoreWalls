@@ -17,5 +17,5 @@ trojan://trojan@152.53.45.251:8888?allowInsecure=0&sni=jflsjlaf.pages.dev&type=w
 trojan://M7v%25w11Se%2A@tttyder.wsone.icu:443?allowInsecure=1&sni=tttyder.wsone.icu#8%7CIN_speednode_0058
 trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#8%7CNL_speednode_0061
 trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1&sni=94.131.105.125#8%7CNL_speednode_0062
-https://4DsQsH.mcsslk.xyz/1f0b304b9503a6ea8e7e27b9ea47125f
-https://k7lh4d.absslk.xyz/f9f91de497989f9561078f1e7f866f5c
+https://LHIim5.absslk.xyz/e86696e15897e075c1cd91dc00018706
+https://HRCmtZ.mcsslk.xyz/b4c08677088dc29f791c16c7b5d5b514
