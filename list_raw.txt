@@ -13,9 +13,7 @@ trojan://187dda4498be9ac4f28db939d5940185@13.192.235.255:29370?allowInsecure=0&s
 trojan://187dda4498be9ac4f28db939d5940185@13.115.237.4:3057?allowInsecure=0&sni=www.nintendogames.net#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://BxceQaOe@95.40.49.22:38692?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
-trojan://trojan@152.53.45.251:8888?allowInsecure=0&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#8%7CAT_speednode_0001
-trojan://M7v%25w11Se%2A@tttyder.wsone.icu:443?allowInsecure=1&sni=tttyder.wsone.icu#8%7CIN_speednode_0058
-trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#8%7CNL_speednode_0061
-trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1&sni=94.131.105.125#8%7CNL_speednode_0062
-https://KfJhz1.mcsslk.xyz/e523d39f0c8dc9b7a671e1de05ca4626
-https://JRDwac.absslk.xyz/dfd8106cb45c5d46ead70c3243348a27
+trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#8%7CNL_speednode_0009
+trojan://trojan@54.46.72.234:8025?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#8%7CUS_speednode_0011
+https://zuPviW.absslk.xyz/fb429cf5fe0418e483b7375a16c7d8bf
+https://Eigu1S.mcsslk.xyz/30f612fec56aba92b139eee2abc6183f
