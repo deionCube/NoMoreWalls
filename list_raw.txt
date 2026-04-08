@@ -18,4 +18,4 @@ trojan://trojan@152.53.200.98:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&type=w
 trojan://M7v%25w11Se%2A@qfdfsg.wsone.icu:443?allowInsecure=1&sni=qfdfsg.wsone.icu#8%7CID_speednode_0032
 trojan://trojan@217.142.250.195:587?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#8%7CJP_speednode_0035
 trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1&sni=94.131.105.125#8%7CNL_speednode_0040
-https://JZXAWK.absslk.xyz/9fe747a7762fa2862eac9fd3df3e1e90
+https://CGHp2w.absslk.xyz/09f03dc0dfdc09cdf74ca75ebb1527c6
