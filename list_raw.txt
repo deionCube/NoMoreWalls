@@ -68,4 +68,4 @@ trojan://1234567890@144.31.218.10:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type
 trojan://1234567890@144.31.188.6:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#8%7CUS_speednode_0163
 trojan://1234567890@144.31.213.59:8443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#8%7CUS_speednode_0164
 trojan://1234567890@104.128.139.68:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#8%7CUS_speednode_0165
-https://zJTcFu.absslk.xyz/5a61abf19bb74a6a71f3dd6198140478
+https://VHbr1U.absslk.xyz/fda6e7b8996317e00f24a387768b1a41
