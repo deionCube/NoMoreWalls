@@ -3,21 +3,21 @@ proxies:
   password: 7ebc402f3383366fe4f554abd8625439
   port: 6604
   server: 54.248.28.2
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 5|🇺🇸 美国2|@ripaojiedian
   password: 7ebc402f3383366fe4f554abd8625439
   port: 6604
   server: 35.75.5.164
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 5|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 14919
   server: 3.115.10.179
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - alterId: 0

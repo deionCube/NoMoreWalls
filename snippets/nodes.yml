@@ -25,70 +25,70 @@ proxies:
   password: BxceQaOe
   port: 5823
   server: 54.64.143.245
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: 5|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 4633
   server: 54.65.160.192
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: 5|🇯🇵 日本2|@ripaojiedian
   password: 7ebc402f3383366fe4f554abd8625439
   port: 24184
   server: 35.75.5.164
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 5|🇯🇵 日本3|@ripaojiedian
   password: 7ebc402f3383366fe4f554abd8625439
   port: 11541
   server: 95.40.68.153
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 5|🇸🇬 新加坡|@ripaojiedian
   password: 7ebc402f3383366fe4f554abd8625439
   port: 1180
   server: 54.248.28.2
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 5|🇸🇬 新加坡2|@ripaojiedian
   password: 7ebc402f3383366fe4f554abd8625439
   port: 2511
   server: 18.167.12.44
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 5|🇸🇬 新加坡3|@ripaojiedian
   password: BxceQaOe
   port: 33763
   server: 54.46.30.4
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: 5|🇺🇸 美国|@ripaojiedian
   password: 7ebc402f3383366fe4f554abd8625439
   port: 6604
   server: 54.248.28.2
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 5|🇺🇸 美国2|@ripaojiedian
   password: 7ebc402f3383366fe4f554abd8625439
   port: 6604
   server: 35.75.5.164
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 5|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 14919
   server: 3.115.10.179
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - alterId: 0
