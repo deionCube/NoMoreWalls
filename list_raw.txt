@@ -19,4 +19,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnznvo7lm700fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjgy
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnznvo7lm701fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjgyLjE5OC4yNDYuMjMzIiwgInBvcnQiOiAiMTgwIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJzbmkiOiAiIn0=
 trojan://e5c22f63-e473-496a-beff-fdc5655008c1@tvhinet.lajichang.xyz:2096?allowInsecure=1&sni=bing.com#8%7CTW_speednode_0028
 trojan://e5c22f63-e473-496a-beff-fdc5655008c1@tvhinet.lajichang.xyz:2096?allowInsecure=1&sni=tvhinet.lajichang.xyz#8%7CTW_speednode_0029
-https://K0V9e5.absslk.xyz/9e068c8091874b615b83dc7c9419b8bc
+https://qpOm3g.absslk.xyz/91d14dbbeddb075ab0822d69a792b290
