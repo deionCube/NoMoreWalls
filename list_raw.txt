@@ -20,4 +20,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNnznvo7lm701fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjgy
 trojan://%3AU%5D2hAN7Y%5BKa0Eb_@www.speedtest.net:8443?allowInsecure=0&sni=TEst-63W.PaGEs.deV&type=ws&host=TEst-63W.PaGEs.deV&path=/tre6QQRE1ue6YL7k30/NzIuMTMuMTIyLjEzNw==#8%7CUS_speednode_0022
 trojan://%3AU%5D2hAN7Y%5BKa0Eb_@104.17.148.22:8443?allowInsecure=0&sni=TEst-63W.PaGEs.deV&type=ws&host=TEst-63W.PaGEs.deV&path=/tre6QQRE1ue6YL7k30/NzIuMTMuMTIyLjEzNw==#8%7CUS_speednode_0025
 trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?allowInsecure=0&sni=gzjx.dpdns.org&type=ws&host=gzjx.dpdns.org&path=/51.91.253.83=8443#8%7CUS_speednode_0026
-https://7ckQBO.absslk.xyz/9e424e95960dd877a5358526d287791e
+https://xq5Bx4.absslk.xyz/bf58b40b9eda22570dfbf6f48fc5b841
