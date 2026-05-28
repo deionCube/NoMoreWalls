@@ -17,8 +17,10 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiNXzwn4e68J+HuCDnvo7lm701fEByaXBhb2ppZWRpYW4iLCAi
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnznvo7lm700fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjgyLjE5OC4yNDYuMjUwIiwgInBvcnQiOiAiMTgwIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJzbmkiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnznvo7lm701fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjgyLjE5OC4yNDYuMjMzIiwgInBvcnQiOiAiMTgwIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJzbmkiOiAiIn0=
-trojan://433e785b-2077-47f7-a43d-985f63dd18d1@121.191.33.84:30303?allowInsecure=0&sni=vpn.rnmcnm.com&type=ws&host=vpn.rnmcnm.com&path=/trojan#8%7CKR_speednode_0029
-trojan://433e785b-2077-47f7-a43d-985f63dd18d1@59.30.42.194:12345?allowInsecure=0&sni=vpn.rnmcnm.com&type=ws&host=vpn.rnmcnm.com&path=/trojan#8%7CKR_speednode_0030
-trojan://433e785b-2077-47f7-a43d-985f63dd18d1@121.154.96.50:18000?allowInsecure=0&sni=vpn.rnmcnm.com&type=ws&host=vpn.rnmcnm.com&path=/trojan#8%7CKR_speednode_0031
-trojan://433e785b-2077-47f7-a43d-985f63dd18d1@14.53.107.138:29999?allowInsecure=0&sni=vpn.rnmcnm.com&type=ws&host=vpn.rnmcnm.com&path=/trojan#8%7CKR_speednode_0032
-https://m1TjXE.absslk.xyz/f144060fb2ff5795cbf79a97cc0fb410
+trojan://mitivpn@45.130.125.76:443?allowInsecure=1&sni=www.app-cloud.ir&type=ws&host=www.app-cloud.ir&path=/?ed=2048#8%7CSC_speednode_0040
+trojan://mitivpn@45.130.125.76:443?allowInsecure=1&sni=www.app-cloud.ir&type=ws&host=www.app-cloud.ir&path=/#8%7CSC_speednode_0041
+trojan://mitivpn@104.18.20.213:443?allowInsecure=0&sni=www.app-cloud.ir&type=ws&host=www.app-cloud.ir&path=/?ed=2048#8%7CUS_speednode_0045
+trojan://mitivpn@14.102.228.76:443?allowInsecure=1&sni=www.app-cloud.ir&type=ws&host=www.app-cloud.ir&path=/?ed=2048#8%7CUS_speednode_0046
+trojan://mitivpn@14.102.228.76:443?allowInsecure=1&sni=www.app-cloud.ir&type=ws&host=www.app-cloud.ir&path=/#8%7CUS_speednode_0048
+trojan://mitivpn@104.18.20.213:443?allowInsecure=0&sni=www.app-cloud.ir&type=ws&host=www.app-cloud.ir&path=/#8%7CUS_speednode_0049
+https://cbtuWl.absslk.xyz/d8e4d7e8655eb483c6d43bce4b3085d4
