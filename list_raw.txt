@@ -23,4 +23,4 @@ trojan://mitivpn@104.18.20.213:443?allowInsecure=0&sni=www.app-cloud.ir&type=ws&
 trojan://mitivpn@14.102.228.76:443?allowInsecure=1&sni=www.app-cloud.ir&type=ws&host=www.app-cloud.ir&path=/?ed=2048#8%7CUS_speednode_0046
 trojan://mitivpn@14.102.228.76:443?allowInsecure=1&sni=www.app-cloud.ir&type=ws&host=www.app-cloud.ir&path=/#8%7CUS_speednode_0048
 trojan://mitivpn@104.18.20.213:443?allowInsecure=0&sni=www.app-cloud.ir&type=ws&host=www.app-cloud.ir&path=/#8%7CUS_speednode_0049
-https://rgseq1.absslk.xyz/93900ce124193d6d9bd05e89eead4da4
+https://PRWfIK.absslk.xyz/c01dc6e76fa88401f2e0c253e3252bf4
