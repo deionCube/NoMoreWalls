@@ -13,5 +13,7 @@ trojan://e0195c73018d597b1c2f0ea89d8676ae@18.163.33.247:49277?allowInsecure=1&sn
 trojan://e0195c73018d597b1c2f0ea89d8676ae@52.195.19.90:17005?allowInsecure=1&sni=www.nintendogames.net#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://BxceQaOe@54.46.123.9:22057?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?allowInsecure=0&sni=de-1.hysteria.ltd#8%7CDE_speednode_0001
-https://cJ5F4g.absslk.xyz/58560fd37bef8df043dd1516af184b5f
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@129.154.50.159:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&type=ws&host=tjsp.hhxaf.cc.cd&path=/#8%7CKR_speednode_0004
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.28.152:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&type=ws&host=hhcm.hhxaf.cc.cd&path=/#8%7CUS_speednode_0069
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@69.63.223.42:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&type=ws&host=tjsp.hhxaf.cc.cd&path=/#8%7CUS_speednode_0070
+https://Kk8yZf.absslk.xyz/ea7e0ac19592a02189fc6daaca3a1125
