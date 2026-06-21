@@ -14,4 +14,4 @@ trojan://BxceQaOe@18.163.80.94:17801?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
 trojan://SoftNetConnect@83.228.224.161:42549?allowInsecure=1&sni=www.speedtest.net#8%7CCH_speednode_0005
 trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?allowInsecure=1&sni=hyfuuf6.wsone.icu#8%7CIN_speednode_0009
-https://zSKTo8.absslk.xyz/f88457b3b1df5f70608dd34cc689d119
+https://lrXQKS.absslk.xyz/5a276afddbf4620a6df2ff70f703bedf
