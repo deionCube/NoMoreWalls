@@ -24,21 +24,21 @@ proxies:
 - name: 5|🇭🇰 香港4|@ripaojiedian
   password: BxceQaOe
   port: 29449
-  server: 18.162.144.111
+  server: 95.40.26.121
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: 5|🇭🇰 香港5|@ripaojiedian
   password: BxceQaOe
   port: 11035
-  server: 18.166.152.128
+  server: 18.163.124.19
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: 5|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 10624
-  server: 52.195.161.184
+  server: 52.194.214.115
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
@@ -65,8 +65,8 @@ proxies:
   type: trojan
 - name: 5|🇸🇬 新加坡3|@ripaojiedian
   password: BxceQaOe
-  port: 41421
-  server: 18.162.152.114
+  port: 22459
+  server: 43.198.12.202
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
@@ -86,8 +86,8 @@ proxies:
   type: trojan
 - name: 5|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
-  port: 44265
-  server: 18.162.152.114
+  port: 2366
+  server: 16.163.155.249
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
