@@ -13,4 +13,11 @@ trojan://d1960ba9f0f6353353994fa844cf817b@16.162.105.149:17005?allowInsecure=0&s
 trojan://d1960ba9f0f6353353994fa844cf817b@16.162.105.149:49277?allowInsecure=0&sni=www.nintendogames.net#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://BxceQaOe@95.41.27.1:29085?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@rr2.tube-cat.com:9450?allowInsecure=1#8%7CCN_speednode_0002
+trojan://MITIVPN@104.17.147.22:2053?allowInsecure=1&sni=ikk---7-MiTiVPN----o.kingnetwork.ir&type=ws&host=ikk---7-MiTiVPN----o.kingnetwork.ir&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/de#8%7CUS_speednode_0027
+trojan://MiTiVPN@104.18.6.178:2087?allowInsecure=1&sni=g-o-MiTiVPN---MiTiVPNj.kingnetwork.ir&type=ws&host=g-o-MiTiVPN---MiTiVPNj.kingnetwork.ir&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/nl#8%7CUS_speednode_0028
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?allowInsecure=1#8%7CUS_speednode_0029
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?allowInsecure=1&sni=hk.catxstar.com#8%7CUS_speednode_0030
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?allowInsecure=1&sni=hk.catxstar.com#8%7CUS_speednode_0031
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#8%7CUS_speednode_0032
 https://rbbA2s.absslk.xyz/da43e56d02340cdfe1b1d33231b99024
