@@ -13,11 +13,10 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 5,8|HK_speednode_0011
+- name: 5|🇸🇬 新加坡3|@ripaojiedian
   password: BxceQaOe
   port: 32434
   server: 43.198.12.180
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-  udp: true
