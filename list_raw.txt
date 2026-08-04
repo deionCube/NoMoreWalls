@@ -13,12 +13,7 @@ trojan://d1960ba9f0f6353353994fa844cf817b@18.166.178.12:39024?allowInsecure=1&sn
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.100.58:39024?allowInsecure=1&sni=www.nintendogames.net#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://BxceQaOe@18.163.193.0:15775?allowInsecure=1&sni=t.me%2Fripaojiedian#5%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNnzpppnmuK98QHJpcGFvamllZGlhbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIn0=
-trojan://BxceQaOe@16.162.22.218:9149?allowInsecure=1&sni=t.me%2Fripaojiedian#8%7CHK_speednode_0007
-trojan://BxceQaOe@16.162.22.218:9149?allowInsecure=1#8%7CHK_speednode_0008
-trojan://BxceQaOe@16.162.22.218:9149?allowInsecure=1&sni=t.me%252Fripaojiedian#8%7CHK_speednode_0009
-trojan://ND91608427@definite-sturgeon.rooster465.autos:443?allowInsecure=1&sni=definite-sturgeon.rooster465.autos#8%7CJP_speednode_0010
-trojan://ND91608427@upright-impala.rooster465.autos:443?allowInsecure=1&sni=upright-impala.rooster465.autos#8%7CJP_speednode_0011
-trojan://ND91608427@definite-malamute.rooster465.autos:443?allowInsecure=1&sni=definite-malamute.rooster465.autos#8%7CKR_speednode_0012
-trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#8%7CKR_speednode_0013
-trojan://1BARPLkaLl@45.130.22.70:32914?allowInsecure=1&sni=45.130.22.70#8%7CNL_speednode_0017
+trojan://ND91608427@upright-hamster.rooster465.autos:443?allowInsecure=1&sni=upright-hamster.rooster465.autos#8%7CHK_speednode_0008
+trojan://ND91608427@skilled-lioness.rooster465.autos:443?allowInsecure=1&sni=skilled-lioness.rooster465.autos#8%7CIE_speednode_0009
+trojan://ND91608427@eager-louse.rooster465.autos:443?allowInsecure=1&sni=eager-louse.rooster465.autos#8%7CLU_speednode_0012
 https://rbbA2s.absslk.xyz/da43e56d02340cdfe1b1d33231b99024
