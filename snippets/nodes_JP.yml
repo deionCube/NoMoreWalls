@@ -3,14 +3,14 @@ proxies:
   password: BxceQaOe
   port: 4099
   server: 16.162.3.64
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: 5|🇯🇵 日本2|@ripaojiedian
   password: d1960ba9f0f6353353994fa844cf817b
   port: 44229
   server: 95.40.107.76
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 5|🇯🇵 日本3|@ripaojiedian
