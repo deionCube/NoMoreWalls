@@ -15,8 +15,8 @@ proxies:
   type: trojan
 - name: 5|🇸🇬 新加坡3|@ripaojiedian
   password: BxceQaOe
-  port: 26704
-  server: 95.40.205.94
+  port: 41421
+  server: 43.198.209.68
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
