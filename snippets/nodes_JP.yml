@@ -1,8 +1,8 @@
 proxies:
 - name: 5|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
-  port: 49811
-  server: 54.238.251.95
+  port: 9408
+  server: 18.163.11126
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
