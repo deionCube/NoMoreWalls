@@ -1,1 +1,22 @@
-proxies: []
+proxies:
+- name: 5|🇯🇵 日本1|@ripaojiedian
+  password: b17e9b52db9623bd6c16eea3d7adb5b3
+  port: 24914
+  server: ench-snet-app.w-ctrip.cn
+  skip-cert-verify: false
+  sni: cm.g.doubleclick.net
+  type: trojan
+- name: 5|🇯🇵 日本2|@ripaojiedian
+  password: b17e9b52db9623bd6c16eea3d7adb5b3
+  port: 18295
+  server: ench-snet-app.w-ctrip.cn
+  skip-cert-verify: false
+  sni: cm.g.doubleclick.net
+  type: trojan
+- name: 5|🇯🇵 日本3|@ripaojiedian
+  password: b17e9b52db9623bd6c16eea3d7adb5b3
+  port: 43992
+  server: ench-snet-app.w-ctrip.cn
+  skip-cert-verify: false
+  sni: wximg.qq.com
+  type: trojan
